@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-08-07T21:25:20+02:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Zielona Góra JUG]]></title>
+  <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
+  <link href="http://zielona-gora-jug.github.io/"/>
+  <updated>2014-08-09T21:59:02+02:00</updated>
+  <id>http://zielona-gora-jug.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Zielona Góra JUG]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Wpis pierwszy]]></title>
-    <link href="http://yoursite.com/blog/2014/08/07/wpis-testowy/"/>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/08/07/wpis-testowy/"/>
     <updated>2014-08-07T20:08:43+02:00</updated>
-    <id>http://yoursite.com/blog/2014/08/07/wpis-testowy</id>
+    <id>http://zielona-gora-jug.github.io/blog/2014/08/07/wpis-testowy</id>
     <content type="html"><![CDATA[<p>Raz, dwa, trzy, próba mikrofonu. Oto blog grupy Zielona Góra JUG. Tu będzie wszystko, co każdy JUGowicz wiedzieć powinien, a może nawet i więcej.</p>
 ]]></content>
   </entry>
