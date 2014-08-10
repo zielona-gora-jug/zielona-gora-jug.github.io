@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2014-08-09T21:59:02+02:00</updated>
+  <updated>2014-08-10T13:02:47+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -14,11 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Wpis pierwszy]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/08/07/wpis-testowy/"/>
-    <updated>2014-08-07T20:08:43+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/08/07/wpis-testowy</id>
-    <content type="html"><![CDATA[<p>Raz, dwa, trzy, próba mikrofonu. Oto blog grupy Zielona Góra JUG. Tu będzie wszystko, co każdy JUGowicz wiedzieć powinien, a może nawet i więcej.</p>
+    <title type="html"><![CDATA[Nowa strona zielonogorskiego JUGa]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa/"/>
+    <updated>2014-08-10T13:02:43+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa</id>
+    <content type="html"><![CDATA[<p>Raz, dwa, trzy, próba mikrofonu. Witamy na nowej stronie grupy Zielona Góra JUG. Będzie tu wszystko, co w JUGu będzie się działo - informacje o spotkaniach, sponsorach, linki, co robimy, jak się włączyć, itp.</p>
+
+<p>Dla przypomnienia - Zielona Góra JUG to grupa skupiająca zielonogórskich pasjonatów Javy i nie tylko, spotykamy się w każdą ostatnią środę miesiąca, żeby dzielić się wiedzą, posłuchać nowinek i podyskutować. Grupa powstała już w 2011 roku, potem była dłuższa chwila przerwy, a od lipca 2014 działamy znowu.</p>
+
+<p>Najbliższe spotkanie odbędzie się 27. sierpnia, w Pubie Barcelona, w którym będziemy rozmawiać przy piwie dzięki uprzejmości sponsora - firmy <a href="http://www.astec.net/pl/">Astec</a>. Mirek Szajowski opowie o Spring Boot oraz zestawie AngularJS i Bootstrap. Wszelkie informacje o spotkaniu na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/">meetupie</a>.</p>
+
+<p>W międzyczasie zapraszamy do śledzenia aktualności na twitterze <a href="https://twitter.com/ZgJUG">@ZgJUG</a> i włączenie się w rozmowy na <a href="https://groups.google.com/forum/?hl=pl#!forum/zielona-gora-jug">grupie dyskusyjnej</a>.</p>
+
+<p>Do zobaczenia! :)</p>
 ]]></content>
   </entry>
   
