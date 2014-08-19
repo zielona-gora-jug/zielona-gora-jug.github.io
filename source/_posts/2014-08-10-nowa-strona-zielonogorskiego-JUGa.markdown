@@ -4,6 +4,7 @@ title: "Nowa strona zielonogórskiego JUGa"
 date: 2014-08-10 13:02:43 +0200
 comments: true
 categories: 
+author: Magda Stożek
 ---
 Raz, dwa, trzy, próba mikrofonu. Witamy na nowej stronie grupy Zielona Góra JUG. Stopniowo będzie się tu pojawiało wszystko, co w JUGu będzie się działo - informacje o spotkaniach, sponsorach, linki, co robimy, jak się włączyć, itp.
 

@@ -5,13 +5,14 @@ date: 2014-08-17 21:40:41 +0200
 comments: true
 author: Magda Stożek
 categories: 
-published: false
 ---
 W oczekiwaniu na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">spotkanie</a> za połtora tygodnia - podsumowanie lipcowego spotkania. Wpis ten pojawił się już na <a href="http://jug.zgora.pl/forum" target="_blank">grupie dyskusyjnej</a>, ale wrzucam go też tutaj, żeby było dla potomnych.
 
 Spotkanie to było reaktywacją po kilkuletniej przerwie. Odbyło się 23. lipca w pubie Barcelona, a jego sponsorem był <a href="http://pl.rec-global.com/" target="_blank">Rec</a>. Było nas około 30 osób, co myślę, że jest dobrym wynikiem, biorąc pod uwagę porę wakacyjną. Super!
 
 Zaczęliśmy od krótkiego wstępu, po co nam JUG (żeby poszerzać horyzonty i poznać się), co się stało z poprzednią edycją (zabrakło czasu organizatorom, a uczestnicy nie chcieli stać się organizatorami) i dlaczego tym razem się uda (m.in. spotykamy się w bardziej nieformalnej atmosferze - w knajpie, i nie skupiamy się na idealnie dopracowanych prezentacjach).
+
+<!-- more -->
 
 Następnie Daniel Jabłoński z RECa - sponsora spotkania (dziękujemy! napoje bardzo nam smakowały) powiedział kilka słów o firmie i życzył JUGowi powodzenia.
 
@@ -30,6 +31,7 @@ Na koniec zrobiliśmy jeszcze burzę mózgów z różnymi pomysłami co do dzia�
 	- wymiana prelegentów z innymi miastami (Wrocław, Poznań, Warszawa)
 	- wspólne kodowanie - code retreat albo hackaton. UZ mógłby nam udostępnić salkę na 15/20 osób lub wykładową, z wifi
 	- wszelkie tematy pozajavowe ("o wszystkim, co programista Javy może spotkać na swojej drodze") - software craftsmanship, DevOps, bazy danych, wydajność aplikacji, itd, itp.
+	<br>
 
 2. Prezentacje, źródła, linki i tego bloga będziemy trzymać w jednym miejscu - na githubie (mamy tam stworzoną organizację https://github.com/zielona-gora-jug).
 
@@ -41,14 +43,14 @@ Na koniec zrobiliśmy jeszcze burzę mózgów z różnymi pomysłami co do dzia�
 
 6. Wstępne propozycje tematów na następne spotkania:
 
-- JavaFX - Paweł Żalejko
-- Camel - Mirek Szajowski
-- monitorowanie serwerów na produkcji - Mirek
-- BPMN, JBPM (modelowanie biznesowe) - Tomek Gratkowski, jesień
-- testowanie aplikacji na androida, Robolectric - Dawid Maksylewicz, wrzesień
-- code kata - Mateusz Kruszewski, wrzesień
-- Android i GUI webowe (web view) - Dawid
+	- JavaFX - Paweł Żalejko
+	- Camel - Mirek Szajowski
+	- monitorowanie serwerów na produkcji - Mirek Szajowski
+	- BPMN, JBPM (modelowanie biznesowe) - Tomek Gratkowski, jesień
+	- testowanie aplikacji na androida, Robolectric - Dawid Maksylewicz, wrzesień
+	- code kata - Mateusz Kruszewski, wrzesień
+	- Android i GUI webowe (web view) - Dawid Maksylewicz
 
-I tyle ustaleń. Po intensywnym wysiłku umysłowym nastąpiła część ostatnia, czyli piwo, hamburger (brawo Barcelona, bardzo dobre) i pogaduszki.
+I tyle ustaleń. Po intensywnym wysiłku umysłowym nastąpiła część ostatnia, czyli piwo, hamburgery (brawo Barcelona, bardzo dobre) i pogaduszki.
 
-Ogólnie bardzo udane spotkanie, myślę, że możemy odtrąbić sukces reaktywacji, a widzimy się znowu za 10 dni. Dowiemy się, co może nam dać Spring Boot, oraz jak tworzyć front-end, używając zestawu AngularJS + Bootstrap. Zapisy i szczegóły na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">meetupie</a>
+Ogólnie bardzo udane spotkanie, myślę, że możemy odtrąbić sukces reaktywacji, a widzimy się znowu za 10 dni. Dowiemy się, co może nam dać Spring Boot, oraz jak tworzyć front-end, używając zestawu AngularJS + Bootstrap. Zapisy i szczegóły na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">meetupie</a>.
