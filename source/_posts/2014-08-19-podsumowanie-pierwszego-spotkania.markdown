@@ -1,14 +1,16 @@
 ---
 layout: post
 title: "Podsumowanie pierwszego spotkania"
-date: 2014-08-17 21:40:41 +0200
+date: 2014-08-19 22:40:41 +0200
 comments: true
 author: Magda Stożek
 categories: 
 ---
-W oczekiwaniu na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">spotkanie</a> za połtora tygodnia - podsumowanie lipcowego spotkania. Wpis ten pojawił się już na <a href="http://jug.zgora.pl/forum" target="_blank">grupie dyskusyjnej</a>, ale wrzucam go też tutaj, żeby było dla potomnych.
+W oczekiwaniu na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">spotkanie</a> za tydzień - podsumowanie JUGa lipcowego. Wpis ten pojawił się już na <a href="http://jug.zgora.pl/forum" target="_blank">grupie dyskusyjnej</a>, ale wrzucam go też tutaj, żeby było dla potomnych.
 
-Spotkanie to było reaktywacją po kilkuletniej przerwie. Odbyło się 23. lipca w pubie Barcelona, a jego sponsorem był <a href="http://pl.rec-global.com/" target="_blank">Rec</a>. Było nas około 30 osób, co myślę, że jest dobrym wynikiem, biorąc pod uwagę porę wakacyjną. Super!
+Spotkanie to było reaktywacją po kilkuletniej przerwie. Odbyło się 23. lipca w pubie Barcelona, a jego sponsorem był <a href="http://pl.rec-global.com/" target="_blank">REC</a>. Było nas około 30 osób, co myślę, że jest dobrym wynikiem, biorąc pod uwagę porę wakacyjną. Super!
+
+<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14966422405" title="2014-07-23 19-10-26 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5587/14966422405_52d3faf9f4_z.jpg" width="640" height="427" alt="2014-07-23 19-10-26"></a></div>
 
 Zaczęliśmy od krótkiego wstępu, po co nam JUG (żeby poszerzać horyzonty i poznać się), co się stało z poprzednią edycją (zabrakło czasu organizatorom, a uczestnicy nie chcieli stać się organizatorami) i dlaczego tym razem się uda (m.in. spotykamy się w bardziej nieformalnej atmosferze - w knajpie, i nie skupiamy się na idealnie dopracowanych prezentacjach).
 
@@ -18,7 +20,11 @@ Następnie Daniel Jabłoński z RECa - sponsora spotkania (dziękujemy! napoje b
 
 <a href="http://magdzikk.github.io/spock-slides/" target="_blank">Pierwsza prezentacja</a> - moja - była o <a href="http://code.google.com/p/spock/" target="_blank">Spocku</a>, opowiadałam o tym, jak spotkałam Spocka w nowym projekcie i dlaczego była to miłość od pierwszego wejrzenia. Było trochę pytań, na niektóre udało się odpowiedzieć, na inne jeszcze nie (muszę doczytać o tym @Unroll). Lekcja dla mnie - zrobić większą czcionkę w slajdach i nauczyć się mówić GŁOŚNO. Zanotowane.
 
+<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14779815918" title="2014-07-23 19-17-34 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5589/14779815918_6605c29d7f_z.jpg" width="640" height="427" alt="2014-07-23 19-17-34"></a></div>
+
 Po krótkiej przerwie na piwo i tzw. networking (odświeżenie czasem bardzo starych znajomości) Paweł Żalejko z RECa pokazał <a href="../files/Gerrit.pdf" target="_blank">Gerrita w praktyce</a>. Prezentacja była bardzo konkretna, pokazywała, jak wykorzystać go w codziennej pracy (gitflow skonfigurowany tak, że wszystko musi przejść przez Gerrita) i jak dopiąć do niego Sonara i Jenkinsa jako automatycznych reviewerów. Były ciekawe dyskusje, między innymi jak takie narzędzie wymusza definiowanie bardziej granularnych tasków, i jak ogólnie zorganizować sobie pracę tak, żeby wkomponować regularne code review w ciągu dnia.
+
+<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14943434106" title="2014-07-23 20-05-17 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5568/14943434106_0bee6111b0_z.jpg" width="640" height="427" alt="2014-07-23 20-05-17"></a></div>
 
 Na koniec zrobiliśmy jeszcze burzę mózgów z różnymi pomysłami co do działania JUGa. Wnioski:
 
@@ -53,4 +59,8 @@ Na koniec zrobiliśmy jeszcze burzę mózgów z różnymi pomysłami co do dzia�
 
 I tyle ustaleń. Po intensywnym wysiłku umysłowym nastąpiła część ostatnia, czyli piwo, hamburgery (brawo Barcelona, bardzo dobre) i pogaduszki.
 
-Ogólnie bardzo udane spotkanie, myślę, że możemy odtrąbić sukces reaktywacji, a widzimy się znowu za 10 dni. Dowiemy się, co może nam dać Spring Boot, oraz jak tworzyć front-end, używając zestawu AngularJS + Bootstrap. Zapisy i szczegóły na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">meetupie</a>.
+<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14966421195" title="2014-07-23 19-51-09 by jugzgora flickr, on Flickr"><img src="https://farm4.staticflickr.com/3863/14966421195_372cfa590b_z.jpg" width="640" height="427" alt="2014-07-23 19-51-09"></a></div>
+
+Ogólnie bardzo udane spotkanie, myślę, że możemy odtrąbić sukces reaktywacji:)
+
+Tymczasem następne spotkanie już za tydzień - 27. sierpnia. Dowiemy się, co może nam dać Spring Boot, oraz jak tworzyć frontend, używając popularnego zestawu AngularJS + Bootstrap. Zapisy i szczegóły na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">meetupie</a>.
