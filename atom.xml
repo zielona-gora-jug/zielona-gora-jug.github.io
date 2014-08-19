@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2014-08-19T21:56:09+02:00</updated>
+  <updated>2014-08-19T21:59:54+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -46,7 +46,7 @@
 <li>wymiana prelegentów z innymi miastami (Wrocław, Poznań, Warszawa)</li>
 <li>wspólne kodowanie - code retreat albo hackaton. UZ mógłby nam udostępnić salkę na 15/20 osób lub wykładową, z wifi</li>
 <li>wszelkie tematy pozajavowe (&ldquo;o wszystkim, co programista Javy może spotkać na swojej drodze&rdquo;) - software craftsmanship, DevOps, bazy danych, wydajność aplikacji, itd, itp.
-<br></li>
+<br><br></li>
 </ul>
 </li>
 <li><p>Prezentacje, źródła, linki i tego bloga będziemy trzymać w jednym miejscu - na githubie (mamy tam stworzoną organizację <a href="https://github.com/zielona-gora-jug">https://github.com/zielona-gora-jug</a>).</p></li>
