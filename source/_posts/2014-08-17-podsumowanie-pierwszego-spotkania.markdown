@@ -31,7 +31,7 @@ Na koniec zrobiliśmy jeszcze burzę mózgów z różnymi pomysłami co do dzia�
 	- wymiana prelegentów z innymi miastami (Wrocław, Poznań, Warszawa)
 	- wspólne kodowanie - code retreat albo hackaton. UZ mógłby nam udostępnić salkę na 15/20 osób lub wykładową, z wifi
 	- wszelkie tematy pozajavowe ("o wszystkim, co programista Javy może spotkać na swojej drodze") - software craftsmanship, DevOps, bazy danych, wydajność aplikacji, itd, itp.
-	<br>
+	<br><br>
 
 2. Prezentacje, źródła, linki i tego bloga będziemy trzymać w jednym miejscu - na githubie (mamy tam stworzoną organizację https://github.com/zielona-gora-jug).
 
