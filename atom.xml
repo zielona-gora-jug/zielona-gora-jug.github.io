@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2014-08-19T22:51:05+02:00</updated>
+  <updated>2014-08-22T10:43:20+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -32,7 +32,7 @@
 
 <p>Następnie Daniel Jabłoński z RECa - sponsora spotkania (dziękujemy! napoje bardzo nam smakowały) powiedział kilka słów o firmie i życzył JUGowi powodzenia.</p>
 
-<p><a href="http://magdzikk.github.io/spock-slides/" target="_blank">Pierwsza prezentacja</a> - moja - była o <a href="http://code.google.com/p/spock/" target="_blank">Spocku</a>, opowiadałam o tym, jak spotkałam Spocka w nowym projekcie i dlaczego była to miłość od pierwszego wejrzenia. Było trochę pytań, na niektóre udało się odpowiedzieć, na inne jeszcze nie (muszę doczytać o tym @Unroll). Lekcja dla mnie - zrobić większą czcionkę w slajdach i nauczyć się mówić GŁOŚNO. Zanotowane.</p>
+<p><a href="http://magdzikk.github.io/spock-slides/" target="_blank">Pierwsza prezentacja</a> - Magdy Stożek z <a href="http://softwaremill.com" target="_blank">SoftwareMill</a> (czyli moja) - była o <a href="http://code.google.com/p/spock/" target="_blank">Spocku</a> - frameworku do testowania, który pomaga pisać testy czytelne, przejrzyste i łatwe w utrzymaniu. Część jego zalet wynika z tego, że jest oparty na Groovym, który jest dynamicznym, zwięzłym językiem działającym w JVMie, przez co Spock idealnie nadaje się do testowania istniejących aplikacji Javowych. Było trochę pytań i dyskusja, która przerodziła się potem w <a href="https://groups.google.com/forum/?hl=pl#!topic/zielona-gora-jug/e8WeePfvqCQ" target="_blank">dyskusję na forum</a> o tym, jak powinno wyglądać prawdziwe TDD we współczesnych aplikacjach.</p>
 
 <div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14779815918" title="2014-07-23 19-17-34 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5589/14779815918_6605c29d7f_z.jpg" width="640" height="427" alt="2014-07-23 19-17-34"></a></div>
 
