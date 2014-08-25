@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2014-08-22T10:43:20+02:00</updated>
+  <updated>2014-08-25T22:53:18+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie sierpniowe - Spring Boot, Angular JS i Bootstrap]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot/"/>
+    <updated>2014-08-25T21:52:32+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot</id>
+    <content type="html"><![CDATA[<p>Najbliższe spotkanie już w środę! Wszystko jest <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">na meetupie</a> (kto się jeszcze nie zapisał, to ostatni moment), ale dla przypomnienia:</p>
+
+<p>Spotkanie odbędzie się 27. sierpnia 2014, w <a href="http://www.pubbarcelona.pl/" target="_blank">Barcelonie</a>. Głównym sponsorem jest firma <a href="http://www.astec.net/pl/" target="_blank">ASTEC</a>, który finansuje napoje, a dodatkowo będzie można wygrać kupon na dowolnie wybraną książkę branżową w Amazonie od <a href="http://softwaremill.com/" target="_blank">SoftwareMill</a>.</p>
+
+<!-- more -->
+
+
+<p>Plan jest taki:</p>
+
+<ol>
+<li><p>Przedstawienie sponsora - Tomek Łączkowski opowie o firmie ASTEC</p></li>
+<li><p>Spring Boot - Mirek Szajowski opowie i pokaże na żywo jak łatwo i szybko stworzyć aplikację opartą o Spring Framework</p></li>
+<li><p>AngularJS + Bootstrap - Po przerwie zobaczymy jak stworzyć frontend do serwisów restowych stworzonej w pierwszej części</p></li>
+<li><p>Parę słów o SoftwareMill od Magdy Stożek i rozlosowanie kuponu na książkę</p></li>
+<li><p>After party - piwo i dyskusje, hamburgery i pogaduszki</p></li>
+</ol>
+
+
+<p>Do zobaczenia!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie pierwszego spotkania]]></title>
