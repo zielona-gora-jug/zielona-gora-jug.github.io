@@ -12,7 +12,7 @@ Tym razem nie poznamy żadnych nowych narzędzi ani frameworków, za to będzie 
 
 #### Bo programowanie jest od tego, żeby bawić się na całego - TDD i code kata
 
-Czy lubisz, gdy Twój kod działa? Jesteś uzależniony od uczucia jakie towarzyszy uruchomieniu kodu i stwierdzeniu, że kod DZIAŁA DOBRZE? Chciałbyś czuć tą adrenalinę jak najczęściej? Jeśli tak, to mam dla Ciebie rozwiązanie: poznaj Test Driven Development i zacznij bawić się kodowaniem!
+Czy lubisz, gdy Twój kod działa? Jesteś uzależniony od uczucia jakie towarzyszy uruchomieniu kodu i stwierdzeniu, że kod DZIAŁA DOBRZE? Chciałbyś czuć tę adrenalinę jak najczęściej? Jeśli tak, to mam dla Ciebie rozwiązanie: poznaj Test Driven Development i zacznij bawić się kodowaniem!
 
 <!-- more -->
 
