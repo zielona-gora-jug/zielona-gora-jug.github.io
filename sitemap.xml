@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/10/08/wspolpraca-z-oreilly-i-manning-publications/</loc>
+    <lastmod>2014-10-08T16:46:28+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/</loc>
     <lastmod>2014-09-10T20:44:40+02:00</lastmod>
     <priority>0.8</priority>
@@ -35,28 +41,28 @@
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
-    <lastmod>2014-10-05T20:48:51+02:00</lastmod>
+    <lastmod>2014-10-10T21:42:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/</loc>
-    <lastmod>2014-10-05T20:48:51+02:00</lastmod>
+    <lastmod>2014-10-10T21:42:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/meetings/</loc>
-    <lastmod>2014-10-05T20:48:51+02:00</lastmod>
+    <lastmod>2014-10-10T21:42:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
-    <lastmod>2014-10-05T20:48:51+02:00</lastmod>
+    <lastmod>2014-10-10T21:42:14+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
