@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Współpraca z O'Reilly i Manning Publications"
-date: 2014-10-08 16:46:28 +0200
+date: 2014-10-10 22:16:28 +0200
 comments: true
 categories: 
 author: Magda Stożek
