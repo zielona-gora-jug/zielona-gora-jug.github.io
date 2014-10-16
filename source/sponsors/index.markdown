@@ -10,3 +10,4 @@ footer: true
 [{% img left /images/streamsoft.png 350 350 Streamsoft %}](http://streamsoft.pl/)
 [{% img left /images/manning.jpg 129 127 Manning Publications %}](http://manning.com/)
 [{% img left /images/oreilly.gif O'Reilly %}](http://oreilly.com)
+[{% img left /images/jetbrains.png JetBrains %}](http://jetbrains.com)
