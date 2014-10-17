@@ -8,6 +8,7 @@ footer: true
 [{% img left /images/rec.jpg REC Global %}](http://pl.rec-global.com/)
 [{% img left /images/softwaremill.png SoftwareMill %}](http://softwaremill.com/)
 [{% img left /images/streamsoft.png Streamsoft %}](http://streamsoft.pl/)
-[{% img left /images/manning.jpg Manning Publications %}](http://manning.com/)
 [{% img left /images/oreilly.gif O'Reilly %}](http://oreilly.com)
 [{% img left /images/jetbrains.png JetBrains %}](http://jetbrains.com)
+[{% img left /images/cinkciarz.png Cinkciarz %}](http://cinkciarz.pl)
+[{% img left /images/manning.jpg Manning Publications %}](http://manning.com/)
