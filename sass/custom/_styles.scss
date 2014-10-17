@@ -605,10 +605,13 @@ article {
   p {
     @extend .default-line-height;
     @extend .margin-bottom-large;
-    text-align: left;
+    text-align: justify;
 
     a {
       text-decoration: underline;
+    }
+    img {
+      
     }
   }
 
@@ -859,8 +862,8 @@ article {
   }
 }
 
-.logo {
-  content:url("../images/logo.png") no-repeat;
+.logo:after {
+  content:url("../images/logo.png");
 }
 
 #content .blog-index {
