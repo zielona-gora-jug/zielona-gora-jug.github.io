@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications/</loc>
+    
+    <lastmod>2014-10-10T22:16:28+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/</loc>
+    
+    <lastmod>2014-09-10T20:44:40+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/09/05/podsumowanie-spotkania-o-spring-boot-i-angularjs/</loc>
+    
+    <lastmod>2014-09-05T21:08:10+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot/</loc>
+    
+    <lastmod>2014-08-25T21:52:32+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania/</loc>
+    
+    <lastmod>2014-08-19T22:40:41+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa/</loc>
+    
+    <lastmod>2014-08-10T13:02:43+02:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
+    <lastmod>2014-10-19T22:05:33+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/</loc>
+    <lastmod>2014-10-19T22:05:33+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
+    <lastmod>2014-10-19T22:05:33+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  
+</urlset>

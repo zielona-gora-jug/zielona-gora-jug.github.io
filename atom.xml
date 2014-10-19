@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Zielona Góra JUG]]></title>
+  <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
+  <link href="http://zielona-gora-jug.github.io/"/>
+  <updated>2014-10-19T22:05:33+02:00</updated>
+  <id>http://zielona-gora-jug.github.io/</id>
+  <author>
+    <name><![CDATA[Zielona Góra JUG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Współpraca z O'Reilly i Manning Publications]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications/"/>
+    <updated>2014-10-10T22:16:28+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications</id>
+    <content type="html"><![CDATA[<p>Miło nam ogłosić, że do grona naszych partnerów dołączają dwa wydawnictwa: O&#8217;Reilly i Manning Publications! Oto szczegóły współpracy:</p>
+
+<h2>O&#8217;Reilly</h2>
+
+<h2><img class="center" src="http://zielona-gora-jug.github.io/images/oreilly.gif"></h2>
+
+<ul>
+<li>40% zniżki na książki papierowe i 50% na ebooki na <a href="http://www.oreilly.com" target="_blank">oreilly.com</a>. Aby otrzymać zniżkę, należy podać kod &lsquo;DSUG&rsquo;.</li>
+<li>recenzyjne egzemplarze książek O&#8217;Reilly i ebooków w Early Release (co umożliwia dostęp do książek o nowych technologiach, podczas gdy są one jeszcze pisane) w zamian za recenzje. Egzemplarze recenzyjne dostępne są także dla partnerów O&#8217;Reilly: Maker Media, No Starch, Pragmatic Bookshelf, Rocky Nook i SitePoint</li>
+<li>darmowe książki w ramach materiałów promocyjnych</li>
+<li>zniżki na konferencje O&#8217;Reilly</li>
+<li>comiesięczny newsletter, który będzie się pojawiał na <a href="http://jug.zgora.pl/forum" target="_blank">grupie dyskusyjnej</a></li>
+</ul>
+
+
+<!-- more -->
+
+
+<h2>Manning Publications</h2>
+
+<h2><img class="center" src="http://zielona-gora-jug.github.io/images/manning.jpg"></h2>
+
+<ul>
+<li>na każdym spotkaniu losowany będzie ebook tematycznie związany ze spotkaniem (wśród uczestników zarejestrowanych na <a href="http://www.meetup.com/Zielona-Gora-JUG/" target="_blank">meetupie</a> imieniem i nazwiskiem)</li>
+<li>recenzyjne egzemplarze ebooków</li>
+<li>36% zniżki na książki na <a href="http://manning.com" target="_blank">manning.com</a>. Przy zakupie należy podać kod promocyjny &lsquo;ug367&rsquo;</li>
+<li>cotygodniowy newsletter ze specjalnymi ofertami, który będzie się pojawiał na grupie dyskusyjnej oraz oferty dnia, które można śledzić na twitterze <a href="http://twitter.com/ManningDOTD" target="_blank">@ManningDOTD</a></li>
+</ul>
+
+
+<h2>Egzemplarze recenzyjne</h2>
+
+<p>Jak to działa?</p>
+
+<p>Każdy, kto zobowiąże się do napisania recenzji, może otrzymać na własność darmowy egzemplarz wybranej książki w zamian za recenzję. Książkę do recenzji można wybrać dowolną z oferty wydawnictwa (przy czym Manning oferuje w tym przypadku tylko ebooki, a O&#8217;Reilly - zarówno ebooki jak i książki papierowe), następnie zgłosić chęć w odpowiednim <a href="https://groups.google.com/forum/?hl=pl#!topic/zielona-gora-jug/rf8vRNltjdw" target="_blank">wątku</a> na grupie dyskusyjnej. Wybór zgłaszamy do wydawnictwa, które udostępnia recenzentowi ebooka lub wysyła książkę. Po przeczytaniu książki, recenzję można opublikować na <a href="http://jug.zgora.pl">blogu Zielona Góra JUG</a>, Amazonie lub własnym blogu. Dajemy znać wydawnictwu, że recenzja jest gotowa i podsyłamy linka. Recenzja musi być po angielsku.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie wrześniowe - TDD i code kata]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/"/>
+    <updated>2014-09-10T20:44:40+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata</id>
+    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiego JUGa, które odbędzie się 24. września o godz. 19:00. Zapisy na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/203875102/" target="_blank">meetupie</a> (liczba miejsc ograniczona). Miejsce ogłosimy wkrótce - przeniesiemy się z Barcelony do trochę większej sali. Ale bez obaw, piwo też będzie, a to dzięki sponsorowi - firmie <a href="http://www.streamsoft.pl/" target="_blank">Streamsoft</a>.</p>
+
+<p>Tym razem nie poznamy żadnych nowych narzędzi ani frameworków, za to będzie software craftsmanship w praktyce:</p>
+
+<h4>Bo programowanie jest od tego, żeby bawić się na całego - TDD i code kata</h4>
+
+<p>Czy lubisz, gdy Twój kod działa? Jesteś uzależniony od uczucia jakie towarzyszy uruchomieniu kodu i stwierdzeniu, że kod DZIAŁA DOBRZE? Chciałbyś czuć tę adrenalinę jak najczęściej? Jeśli tak, to mam dla Ciebie rozwiązanie: poznaj Test Driven Development i zacznij bawić się kodowaniem!</p>
+
+<!-- more -->
+
+
+<p>Podczas tej prezentacji poznasz:</p>
+
+<ul>
+<li><p>zasady TDD,</p></li>
+<li><p>cykl Red, Green, Refactor,</p></li>
+<li><p>code kata.</p></li>
+</ul>
+
+
+<p>Głównym punktem prezentacji będzie live coding session, prezentujący praktyczny przykład użycia TDD w formie code kata. Dzięki zastosowaniu code kata poznamy także sposób w jaki można ćwiczyć swoją integrację z IDE i przyspieszyć pisanie kodu.</p>
+
+<p>Prezentację poprowadzi Mateusz Kruszewski z <a href="http://www.asinit.com/" target="_blank">Asinit</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania o Spring Boot i AngularJS]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/09/05/podsumowanie-spotkania-o-spring-boot-i-angularjs/"/>
+    <updated>2014-09-05T21:08:10+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/09/05/podsumowanie-spotkania-o-spring-boot-i-angularjs</id>
+    <content type="html"><![CDATA[<p><a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">Sierpniowe spotkanie</a> już za nami - dziękuję wszystkim za liczne przybycie! Tym razem było już 50 osób, a więc jest nas coraz więcej! Czas na krótkie podsumowanie.</p>
+
+<p>Zaczęliśmy od przedstawienia głównego sponsora spotkania, firmy <a href="http://www.astec.net/pl/" target="_blank">ASTEC</a>, o której opowiedział jej przedstawiciel, Tomasz Łączkowski.</p>
+
+<p>Potem przeszliśmy do rzeczy. Mirek Szajowski (Streamsoft) pokazał nam <a href="http://projects.spring.io/spring-boot/" target="_blank">Spring Boota</a> na żywo. W kilku krokach stworzył działającą aplikację z wystawionym serwisem restowym - bez ani jednej linijki XMLa! Założeniem Spring Boota jest obniżenie progu wejścia do Springa i maksymalne usprawnienie początkowego zestawiania aplikacji. Prezentacja Mirka pokazała takie właśnie ludzkie oblicze Springa.</p>
+
+<!-- more -->
+
+
+<p>Po przerwie (z której ciężko było wrócić - czy to networking był tak wciągający, czy transmitowany przy barze mecz, to już osądzi historia) odbyła się druga prezentacja Mirka - tym razem o <a href="https://angularjs.org/" target="_blank">AngularJS</a>. Tu było trochę więcej tłumaczenia, jako że Angular ma specyficzne założenia dotyczące kontrolerów, scope&#8217;u, itd. Ale równie szybko udało się zrobić stronę, która wykorzystywała web serwis stworzony chwilę wcześniej w Springu, zawierała animacje, lajki i różne inne potrzebne rzeczy. Były również elementy bootstrapa, dzięki czemu strona składająca się z raptem kilku linijek kodu wyglądała wizualnie wcale nie najgorzej:)</p>
+
+<p>Kod źródłowy obu prezentacji jest dostępny <a href="https://github.com/zielona-gora-jug/spotkanie-2014-08-27-spring-boot-angular" target="_blank">na githubie</a>, można również obejrzeć <a href="http://zielona-gora-jug.github.io/files/springboot.pdf" target="_blank">slajdy</a>.</p>
+
+<p>Jeśli chodzi o zaangażowanie, publiczność stanęła na wysokości zadania - było dużo pytań i dyskusji, porównania do innych frameworków i krytyczne spojrzenie. I o to chodzi!</p>
+
+<p>Prezentacje zajęły sporo czasu, ale kto wytrwał, miał szansę wziąć udział w losowaniu kuponu na książki do Amazona, zasponsorowanego przez drugiego sponsora, firmę <a href="http://softwaremill.com" target="_blank">SoftwareMill</a>. Gratulujemy Rafałowi Grzesikowi ze Streamsoftu i mamy nadzieję, że wybrane książki zaoowocują jakąś prezentacją na JUGu:)</p>
+
+<p>Po wszystkim nastąpiło jeszcze obowiązkowe after party, a jako że spotkanie wyszło w sumie dość długie, to i hamburger był jak najbardziej na miejscu.</p>
+
+<p>Następne spotkanie tradycyjnie w ostatnią środę miesiąca, czyli 24. września. Zapisy na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/203875102/" target="_blank">meetupie</a> obowiązkowe!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie sierpniowe - Spring Boot, Angular JS i Bootstrap]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot/"/>
+    <updated>2014-08-25T21:52:32+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot</id>
+    <content type="html"><![CDATA[<p>Najbliższe spotkanie już w środę! Wszystko jest <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">na meetupie</a> (kto się jeszcze nie zapisał, to ostatni moment), ale dla przypomnienia:</p>
+
+<p>Spotkanie odbędzie się 27. sierpnia 2014, w <a href="http://www.pubbarcelona.pl/" target="_blank">Barcelonie</a>. Głównym sponsorem jest firma <a href="http://www.astec.net/pl/" target="_blank">ASTEC</a>, który finansuje napoje, a dodatkowo będzie można wygrać kupon na dowolnie wybraną książkę branżową w Amazonie od <a href="http://softwaremill.com/" target="_blank">SoftwareMill</a>.</p>
+
+<!-- more -->
+
+
+<p>Plan jest taki:</p>
+
+<ol>
+<li><p>Przedstawienie sponsora - Tomek Łączkowski opowie o firmie ASTEC</p></li>
+<li><p>Spring Boot - Mirek Szajowski opowie i pokaże na żywo jak łatwo i szybko stworzyć aplikację opartą o Spring Framework</p></li>
+<li><p>AngularJS + Bootstrap - Po przerwie zobaczymy jak stworzyć frontend do serwisów restowych stworzonej w pierwszej części</p></li>
+<li><p>Parę słów o SoftwareMill od Magdy Stożek i rozlosowanie kuponu na książkę</p></li>
+<li><p>After party - piwo i dyskusje, hamburgery i pogaduszki</p></li>
+</ol>
+
+
+<p>Do zobaczenia!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie pierwszego spotkania]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania/"/>
+    <updated>2014-08-19T22:40:41+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania</id>
+    <content type="html"><![CDATA[<p>W oczekiwaniu na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">spotkanie</a> za tydzień - podsumowanie JUGa lipcowego. Wpis ten pojawił się już na <a href="http://jug.zgora.pl/forum" target="_blank">grupie dyskusyjnej</a>, ale wrzucam go też tutaj, żeby było dla potomnych.</p>
+
+<p>Spotkanie to było reaktywacją po kilkuletniej przerwie. Odbyło się 23. lipca w pubie Barcelona, a jego sponsorem był <a href="http://pl.rec-global.com/" target="_blank">REC</a>. Było nas około 30 osób, co myślę, że jest dobrym wynikiem, biorąc pod uwagę porę wakacyjną. Super!</p>
+
+<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14966422405" title="2014-07-23 19-10-26 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5587/14966422405_52d3faf9f4_z.jpg" width="640" height="427" alt="2014-07-23 19-10-26"></a></div>
+
+
+<p>Zaczęliśmy od krótkiego wstępu, po co nam JUG (żeby poszerzać horyzonty i poznać się), co się stało z poprzednią edycją (zabrakło czasu organizatorom, a uczestnicy nie chcieli stać się organizatorami) i dlaczego tym razem się uda (m.in. spotykamy się w bardziej nieformalnej atmosferze - w knajpie, i nie skupiamy się na idealnie dopracowanych prezentacjach).</p>
+
+<!-- more -->
+
+
+<p>Następnie Daniel Jabłoński z RECa - sponsora spotkania (dziękujemy! napoje bardzo nam smakowały) powiedział kilka słów o firmie i życzył JUGowi powodzenia.</p>
+
+<p><a href="http://magdzikk.github.io/spock-slides/" target="_blank">Pierwsza prezentacja</a> - Magdy Stożek z <a href="http://softwaremill.com" target="_blank">SoftwareMill</a> (czyli moja) - była o <a href="http://code.google.com/p/spock/" target="_blank">Spocku</a> - frameworku do testowania, który pomaga pisać testy czytelne, przejrzyste i łatwe w utrzymaniu. Część jego zalet wynika z tego, że jest oparty na Groovym, który jest dynamicznym, zwięzłym językiem działającym w JVMie, przez co Spock idealnie nadaje się do testowania istniejących aplikacji Javowych. Było trochę pytań i dyskusja, która przerodziła się potem w <a href="https://groups.google.com/forum/?hl=pl#!topic/zielona-gora-jug/e8WeePfvqCQ" target="_blank">dyskusję na forum</a> o tym, jak powinno wyglądać prawdziwe TDD we współczesnych aplikacjach.</p>
+
+<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14779815918" title="2014-07-23 19-17-34 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5589/14779815918_6605c29d7f_z.jpg" width="640" height="427" alt="2014-07-23 19-17-34"></a></div>
+
+
+<p>Po krótkiej przerwie na piwo i tzw. networking (odświeżenie czasem bardzo starych znajomości) Paweł Żalejko z RECa pokazał <a href="http://zielona-gora-jug.github.io/files/Gerrit.pdf" target="_blank">Gerrita w praktyce</a>. Prezentacja była bardzo konkretna, pokazywała, jak wykorzystać go w codziennej pracy (gitflow skonfigurowany tak, że wszystko musi przejść przez Gerrita) i jak dopiąć do niego Sonara i Jenkinsa jako automatycznych reviewerów. Były ciekawe dyskusje, między innymi jak takie narzędzie wymusza definiowanie bardziej granularnych tasków, i jak ogólnie zorganizować sobie pracę tak, żeby wkomponować regularne code review w ciągu dnia.</p>
+
+<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14943434106" title="2014-07-23 20-05-17 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5568/14943434106_0bee6111b0_z.jpg" width="640" height="427" alt="2014-07-23 20-05-17"></a></div>
+
+
+<p>Na koniec zrobiliśmy jeszcze burzę mózgów z różnymi pomysłami co do działania JUGa. Wnioski:</p>
+
+<ol>
+<li><p>Forma &ldquo;2 półgodzinne prezentacje + dyskusja&rdquo; wydaje się być optymalna, ale będziemy też próbować następujących rzeczy:</p>
+
+<ul>
+<li>lightning talks / one beer talks - każdy przedstawia jakiś temat bardzo krótko, i na jednym spotkaniu robimy dużo takich tematów</li>
+<li>prezentacja typu live coding, gdzie prelegent pisze kod na żywo i opowiada o nim</li>
+<li>dyskusje na temat artykułów lub prezentacji (każdy czyta/ogląda w domu, a potem wspólnie robimy dyskusję)</li>
+<li>streaming wykładów i konferencji (typu Google IO), wspólne oglądanie prezentacji z konferencji</li>
+<li>wymiana prelegentów z innymi miastami (Wrocław, Poznań, Warszawa)</li>
+<li>wspólne kodowanie - code retreat albo hackaton. UZ mógłby nam udostępnić salkę na 15/20 osób lub wykładową, z wifi</li>
+<li>wszelkie tematy pozajavowe (&ldquo;o wszystkim, co programista Javy może spotkać na swojej drodze&rdquo;) - software craftsmanship, DevOps, bazy danych, wydajność aplikacji, itd, itp.
+<br><br></li>
+</ul>
+</li>
+<li><p>Prezentacje, źródła, linki i tego bloga będziemy trzymać w jednym miejscu - na githubie (mamy tam stworzoną organizację <a href="https://github.com/zielona-gora-jug">https://github.com/zielona-gora-jug</a>).</p></li>
+<li><p>Ogłosiliśmy konkurs na logo Zielona Góra JUG. Mamy już jakieś propozycje z naszego grona, a oprócz tego rozmawialiśmy też z zawodowcami - agencją <a href="http://www.fluidagency.pl/" target="_blank">Fluid</a>, która ma nam przestawić jakąś propozycję pod koniec sierpnia.</p></li>
+<li><p>Rozmawialiśmy o sponsorach na kolejne spotkania. W tej chwili mamy już <a href="http://www.astec.net/pl/" target="_blank">ASTEC</a> na sierpień, a <a href="http://www.streamsoft.pl/" target="_blank">Streamsoft</a> na wrzesień. Następne wolne miejsca dla firm w październiku - zapraszamy do zaistnienia na JUGowej scenie.</p></li>
+<li><p>Spotykamy się w każdą ostatnią środę miesiąca, więc można rezerwować czas z góry (i tak następne spotkanie - 27. sierpnia).</p></li>
+<li><p>Wstępne propozycje tematów na następne spotkania:</p>
+
+<ul>
+<li>JavaFX - Paweł Żalejko</li>
+<li>Camel - Mirek Szajowski</li>
+<li>monitorowanie serwerów na produkcji - Mirek Szajowski</li>
+<li>BPMN, JBPM (modelowanie biznesowe) - Tomek Gratkowski, jesień</li>
+<li>testowanie aplikacji na androida, Robolectric - Dawid Maksylewicz, wrzesień</li>
+<li>code kata - Mateusz Kruszewski, wrzesień</li>
+<li>Android i GUI webowe (web view) - Dawid Maksylewicz</li>
+</ul>
+</li>
+</ol>
+
+
+<p>I tyle ustaleń. Po intensywnym wysiłku umysłowym nastąpiła część ostatnia, czyli piwo, hamburgery (brawo Barcelona, bardzo dobre) i pogaduszki.</p>
+
+<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14966421195" title="2014-07-23 19-51-09 by jugzgora flickr, on Flickr"><img src="https://farm4.staticflickr.com/3863/14966421195_372cfa590b_z.jpg" width="640" height="427" alt="2014-07-23 19-51-09"></a></div>
+
+
+<p>Ogólnie bardzo udane spotkanie, myślę, że możemy odtrąbić sukces reaktywacji:)</p>
+
+<p>Tymczasem następne spotkanie już za tydzień - 27. sierpnia. Dowiemy się, co może nam dać Spring Boot, oraz jak tworzyć frontend, używając popularnego zestawu AngularJS + Bootstrap. Zapisy i szczegóły na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">meetupie</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Nowa strona zielonogórskiego JUGa]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa/"/>
+    <updated>2014-08-10T13:02:43+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa</id>
+    <content type="html"><![CDATA[<p>Raz, dwa, trzy, próba mikrofonu. Witamy na nowej stronie grupy Zielona Góra JUG. Stopniowo będzie się tu pojawiało wszystko, co w JUGu będzie się działo - informacje o spotkaniach, sponsorach, linki, co robimy, jak się włączyć, itp.</p>
+
+<p>Dla przypomnienia - Zielona Góra JUG to grupa skupiająca zielonogórskich pasjonatów Javy i nie tylko, spotykamy się w każdą ostatnią środę miesiąca, żeby dzielić się wiedzą, posłuchać nowinek i podyskutować. Grupa powstała już w 2011 roku, potem była dłuższa chwila przerwy, a od lipca 2014 działamy znowu.</p>
+
+<p>Najbliższe spotkanie odbędzie się 27. sierpnia, w Pubie Barcelona, w którym będziemy rozmawiać przy piwie dzięki uprzejmości sponsora - firmy <a href="http://www.astec.net/pl/">Astec</a>. Mirek Szajowski opowie o Spring Boot oraz zestawie AngularJS i Bootstrap. Wszelkie informacje o spotkaniu na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/">meetupie</a>.</p>
+
+<p>W międzyczasie zapraszamy do śledzenia aktualności na twitterze <a href="https://twitter.com/ZgJUG">@ZgJUG</a> i włączenie się w rozmowy na <a href="https://groups.google.com/forum/?hl=pl#!forum/zielona-gora-jug">grupie dyskusyjnej</a>.</p>
+
+<p>Do zobaczenia! :)</p>
+]]></content>
+  </entry>
+  
+</feed>
