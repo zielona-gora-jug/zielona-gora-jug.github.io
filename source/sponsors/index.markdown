@@ -10,5 +10,5 @@ footer: true
 [{% img left /images/streamsoft.png Streamsoft %}](http://streamsoft.pl/)
 [{% img left /images/oreilly.gif O'Reilly %}](http://oreilly.com)
 [{% img left /images/jetbrains.png JetBrains %}](http://jetbrains.com)
-[{% img left /images/cinkciarz.png Cinkciarz %}](http://cinkciarz.pl)
+[{% img left /images/cinkciarz.png Cinkciarz.pl - Kantor Internetowy %}](http://cinkciarz.pl)
 [{% img left /images/manning.jpg Manning Publications %}](http://manning.com/)
