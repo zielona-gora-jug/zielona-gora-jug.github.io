@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2014-10-22T13:24:00+02:00</updated>
+  <updated>2014-10-27T23:36:01+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie październikowe - Backbone.js i Marionette.js]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js/"/>
+    <updated>2014-10-27T23:02:38+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js</id>
+    <content type="html"><![CDATA[<p>Najbliższe spotkanie Zielona Góra JUG już w środę! Tym razem Dawid Maksylewicz opowie o <a href="http://backbonejs.org/" target="_blank">Backbone.js</a>, co będzie okazją do porównania z niedawną prezentacją o <a href="https://angularjs.org/" target="_blank">AngularJS</a>, a dodatkowo - to wiadomość z ostatniej chwili - Michał Koźmiński wprowadzi nas w <a href="http://marionettejs.com/" target="_blank">Marionette.js</a>, uzupełnienie Backbone.</p>
+
+<p>Na spotkanie w Minibrowarze Haust zaprasza nasz nowy partner - <a href="http://cinkciarz.pl/" target="_blank">Kantor Internetowy Cinkciarz.pl</a>, który będzie sponsorował trzy najbliższe spotkania - w październiku, listopadzie i grudniu. Dziękujemy za długofalowe wsparcie!
+<a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Zaczynaliśmy w lipcu, a tymczasem już październik, wakacje się skończyły i jest nas coraz więcej. I o to chodzi! Jednak aby zachować konwencję spotkań w pubie przy piwie i w trosce o komfort uczestników, niezbędne jest wprowadzenie limitu osób - dlatego na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/209310412/" target="_blank">meetupie</a> pojawiła się lista oczekująca. Serdecznie zapraszamy wszystkich zapisanych, jeśli natomiast ktoś zapisał się dawno temu, a teraz wie, że jednak nie przyjdzie, prosimy o zmianę RSVP, tak aby zwolniło się miejsce dla oczekujących.</p>
+
+<p>Na spotkaniu, oprócz ciekawych prezentacji i dobrego piwa, czekają również niespodzianki od nowych sponsorów. W tym miesiącu nawiązaliśmy współpracę z nowymi partnerami - branżowymi wydawnictwami <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>, a także z <a href="http://jetbrains.com/" target="_blank">JetBrains</a> - twórcą takich narzędzi jak IntelliJ IDEA, RubyMine i WebStorm. W związku z tym, od tej pory na każdym spotkaniu będziemy mieć kilka książek i licencji do rozdania. Będą one losowane wśród uczestników zarejestrowanych na dane spotkanie na meetupie pełnym imieniem i nazwiskiem.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Współpraca z O'Reilly i Manning Publications]]></title>
