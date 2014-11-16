@@ -10,6 +10,8 @@ Pierwszy Global Day of Code Retreat w Zielonej Górze już za nami! Dziękujemy 
 
 Spotkanie poprowadził Mirek Szajowski. Zgodnie z formułą code retreat, mieliśmy kilka różnych 45-minutowych sesji, zakończonych krótkimi retrospektywami, żeby podyskutować o napisanym kodzie i zobaczyć różne podejścia.
 
+<!-- more -->
+
 1.   Zwykła sesja na zapoznanie się z problemem.
 Jak można było się spodziewać, zanim na dobre się rozkręciliśmy, czas się niemiłosiernie skończył.
 
