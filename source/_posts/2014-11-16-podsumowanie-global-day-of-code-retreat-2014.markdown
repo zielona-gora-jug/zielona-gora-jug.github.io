@@ -6,7 +6,7 @@ comments: true
 categories: 
 author: Magda Stożek
 ---
-Pierwszy Global Day of Code Retreat w Zielonej Górze już za nami! Dziękujemy współorganizatorowi, firmie <a href="http://www.astec.net/pl/" target="_blank">Astec</a>, za stworzenie nam dogodnych warunków do całodniowego programowania. Ale szczególne uznanie należy się uczestnikom, którzy wstali wcześnie rano w sobotę, żeby wspólnie pisać kod, pięć razy rozwiązując to samo zadanie i pięć rady całkowicie kasując wyniki swojej pracy.
+Pierwszy Global Day of Code Retreat w Zielonej Górze już za nami! Dziękujemy współorganizatorowi, firmie <a href="http://www.astec.net/pl/" target="_blank">Astec</a>, za stworzenie nam dogodnych warunków do całodniowego programowania. Ale szczególne uznanie należy się uczestnikom, którzy wstali wcześnie rano w sobotę, żeby wspólnie pisać kod, pięć razy rozwiązując to samo zadanie i pięć razy całkowicie kasując wyniki swojej pracy.
 
 Spotkanie poprowadził Mirek Szajowski. Zgodnie z formułą code retreat, mieliśmy kilka różnych 45-minutowych sesji, zakończonych krótkimi retrospektywami, żeby podyskutować o napisanym kodzie i zobaczyć różne podejścia.
 
