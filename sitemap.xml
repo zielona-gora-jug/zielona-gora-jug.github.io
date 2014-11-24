@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/11/24/spotkanie-listopadowe-haskell-i-google-glass/</loc>
+    <lastmod>2014-11-24T21:56:56+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/</loc>
     <lastmod>2014-11-16T20:56:57+01:00</lastmod>
     <priority>0.8</priority>
@@ -59,28 +65,28 @@
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
-    <lastmod>2014-11-17T22:44:11+01:00</lastmod>
+    <lastmod>2014-11-24T22:24:23+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/</loc>
-    <lastmod>2014-11-17T22:44:11+01:00</lastmod>
+    <lastmod>2014-11-24T22:24:23+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/meetings/</loc>
-    <lastmod>2014-11-17T22:44:11+01:00</lastmod>
+    <lastmod>2014-11-24T22:24:23+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
-    <lastmod>2014-11-17T22:44:11+01:00</lastmod>
+    <lastmod>2014-11-24T22:24:23+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
