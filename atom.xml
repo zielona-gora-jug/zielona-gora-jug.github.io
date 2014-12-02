@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2014-12-02T23:06:08+01:00</updated>
+  <updated>2014-12-02T23:09:43+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,107 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe - Haskell i Google Glass]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/11/24/spotkanie-listopadowe-haskell-i-google-glass/"/>
+    <updated>2014-11-24T21:56:56+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/11/24/spotkanie-listopadowe-haskell-i-google-glass</id>
+    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiego JUGa, które odbędzie się w najbliższą środę, 26. listopada. Tak jak poprzednie, to spotkanie będzie zrealizowane przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, która zapewnia nam obecnie długofalowe (trzymiesięczne) wsparcie:)</p>
+
+<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Swoją wiedzą i doświadczeniami podzieli się z nami tym razem Michał Staruch. Tematy będą dwa. Najpierw <a href="https://www.haskell.org/haskellwiki/Haskell" target="_blank">Haskell</a> - język czysto funkcyjny, który cieszy się ostatnio sporym zainteresowaniem. Dowiemy się, jak programować w języku, w którym nie mamy do dyspozycji pętli, a wszystkie zmienne są stałe&hellip; Drugi temat to <a href="https://www.google.com/glass/start/" target="_blank">Google Glass</a>, na które Cinkciarz.pl wydał niedawno aplikację. Michał opowie o swoich doświadczeniach związanych z pisaniem tej aplikacji, w szczególności o tym, czym różni się to od zwykłego Androida, oraz z jakimi problemami można się spotkać przy publikacji.</p>
+
+<p>W tym miesiącu publiczność zapowiada się wyjątkowo duża, spotkanie odbędzie się więc w dużej sali w <a href="http://www.kawon.zgora.pl/index.php?i2=4" target="_blank">Kawonie</a>. Rejestracja jest darmowa, ale obowiązkowa - i odbywa się jak zwykle na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/218613615/" target="_blank">meetupie</a>. Wśród uczestników spotkania rozlosowane zostaną nagrod od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Losowanie odbędzie się wśród uczestników zarejestrowanych pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy - są jeszcze wolne miejsca:)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie Global Day of Code Retreat 2014]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/"/>
+    <updated>2014-11-16T20:56:57+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014</id>
+    <content type="html"><![CDATA[<p>Pierwszy Global Day of Code Retreat w Zielonej Górze już za nami! Dziękujemy współorganizatorowi, firmie <a href="http://www.astec.net/pl/" target="_blank">Astec</a>, za stworzenie nam dogodnych warunków do całodniowego programowania. Ale szczególne uznanie należy się uczestnikom, którzy wstali wcześnie rano w sobotę, żeby wspólnie pisać kod, pięć razy rozwiązując to samo zadanie i pięć razy całkowicie kasując wyniki swojej pracy.</p>
+
+<p>Spotkanie poprowadził Mirek Szajowski. Zgodnie z formułą code retreat, mieliśmy kilka różnych 45-minutowych sesji, zakończonych krótkimi retrospektywami, żeby podyskutować o napisanym kodzie i zobaczyć różne podejścia.</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p> Zwykła sesja na zapoznanie się z problemem.
+Jak można było się spodziewać, zanim na dobre się rozkręciliśmy, czas się niemiłosiernie skończył.</p></li>
+<li><p>Ping-pong (jedna osoba pisze test, a druga implementację).
+Tu już poszło nam trochę sprawniej - udało się zaimplementować choć trochę logiki.</p></li>
+<li><p>Sesja poprzedzona 10-minutowym planowaniem na papierze.
+Czy planowanie zaowocowało lepszym kodem? Nie, bo okazało się, że zaplanowaliśmy kompletny system z fajerwerkami, a potem czasu wystarczyło tylko na może 5% projektu.</p></li>
+<li><p>Programowanie bez myszki.
+Było trochę frustracji, ale każdy przyniósł do domu jakiś nowy skrót klawiszowy.</p></li>
+<li><p>Metody nie dłuższe niż 5 linii.
+W połowie tej sesji pojawiło się niezapowiedziane utrudnienie - zamiana komputerów między parami i praca z cudzym kodem. Tu było zabawnie - czasem kompletnie nie było wiadomo, co autor miał na myśli, ale wszyscy zgodnie przyznali, że obecność testów bardzo ułatwiała zrozumienie.</p></li>
+</ol>
+
+
+<p>Co ciekawe, gdy wytłumaczyliśmy zasady spotkania, spontanicznie zawiązał nam się kolejny zespół - panowie Witold Wendrowski i Andrzej Patecki z Asteca odkurzyli nieużywane od 10 lat środowisko do programowania w Smalltalku i też zabrali się za kodowanie. Brawo:) Ale nawet i bez Smalltalka, środowiska były zróżnicowane - Java, Python i Go, a do tego Eclipse, IntelliJ, Vim i Emacs.</p>
+
+<p>Odwiedziła nas również redaktorka zielonogórskiej Gazety Wyborczej, można więc obejrzeć pierwszy medialny występ zielonogórskiego JUGa: <a href="http://zielonagora.gazeta.pl/zielonagora/1,35182,16973093,Programisci_z_calego_swiata_tworza_wspolnie_programy.html" target="_blank">Programiści z całego świata tworzą wspólnie programy</a> :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Global Day of Code Retreat 2014 w Zielonej Górze]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/11/10/global-day-of-code-retreat-2014-w-zielonej-gorze/"/>
+    <updated>2014-11-10T13:02:50+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/11/10/global-day-of-code-retreat-2014-w-zielonej-gorze</id>
+    <content type="html"><![CDATA[<p>15 listopada 2014 po raz pierwszy w Zielonej Górze odbędzie się Global Day of Code Retreat, organizowany przez Zielona Góra JUG wraz z firmą <a href="http://www.astec.net/pl/" target="_blank">Astec</a>.</p>
+
+<p><a href="http://www.astec.net/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/astec.png" width="242" height="85" title="Astec" ></a></p>
+
+<p>Global Day of Code Retreat to dzień, w którym programiści w różnych miastach na całym świecie spotykają się, by programować razem i wspólnie doskonalić swoje umiejętności.</p>
+
+<!-- more -->
+
+
+<p><a href="http://zielona-gora-jug.github.io/images/gdcr_2014.png"><img class="center" src="http://zielona-gora-jug.github.io/images/gdcr_2014.png" width="600" height="300" title="Global Day of Code Retreat" ></a></p>
+
+<p>Code Retreat składa się z kilku 45-minutowych sesji pisania w parach. Po każdej sesji odbywa się krótka retrospekcja, następnie cały kod jest usuwany, zmienia się skład par i następuje kolejna sesja. Podczas każdej sesji rozwiązywany jest ten sam problem - <a href="http://pl.wikipedia.org/wiki/Gra_w_%C5%BCycie" target="_blank">Gra w życie</a> Conway&#8217;a, ale każda sesja ma trochę inne reguły - np. programowanie bez myszki, bez ifów, z metodami nie dłuższymi niż 6 linii, itd.</p>
+
+<p>Jest to okazja do wyćwiczenia podstawowych technik dobrego programowania - TDD, programowanie w parach, czysty kod. W końcu można napisać kod taki, jaki powinien być - bez presji i przyzwyczajeń z codziennej pracy. Zmiany par powodują poznanie nowych sposobów podejścia do problemu i gwarantują, że będzie ciekawie! Więcej informacji na stronie <a href="http://globalday.coderetreat.org/" target="_blank">globalday.coderetreat.org</a>.</p>
+
+<p>Global Day of Code Retreat to wydarzenie światowe - w tym roku w 139 miastach spotykać się będzie 2500 programistów, w różnych strefach czasowych <a href="http://gdcr.coderetreat.org/timeline.html" target="_blank">od Auckland do Honolulu</a>.</p>
+
+<p>Język programowania jest dowolny - zapraszamy więc programistów spoza świata Javy oraz tych, którzy chcieliby poćwiczyć coś innego niż zwykle.</p>
+
+<p>Wydarzenie jest całodniowe i odbywa się w <a href="http://www.astec.net/pl/ofirmie/centrum-konferencyjne.html" target="_blank">centrum konferencyjnym</a> Astec przy <a href="https://goo.gl/maps/8PXcg" target="_blank">ul. Wyspiańskiego 11</a>. Spotykamy się o 9 rano, zaczynamy od śniadania, herbaty i wprowadzenia w formułę code retreat. Następuje kilka sesji programowania w parach, z przerwą na lunch ok. godz. 13. Kończymy retrospekcją i część oficjalna kończy się o 17, po czym zapraszamy jeszcze na after party, gdzie będzie można na gorąco przedyskutować wrażenia i doświadczenia.</p>
+
+<p>Udział w wydarzeniu jest bezpłatny. Każdy uczestnik przynosi własny komputer. Wstęp jest wolny, a śniadanie, kawa, herbata, lunch i after party sponsorowane są przez <a href="http://www.astec.net/pl/" target="_blank">Astec</a>. Obowiązkowa jest wcześniejsza rejestracja na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/214621692/" target="_blank">meetupie</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie październikowe - Backbone.js i Marionette.js]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js/"/>
+    <updated>2014-10-27T23:02:38+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js</id>
+    <content type="html"><![CDATA[<p>Najbliższe spotkanie Zielona Góra JUG już w środę! Tym razem Dawid Maksylewicz opowie o <a href="http://backbonejs.org/" target="_blank">Backbone.js</a>, co będzie okazją do porównania z niedawną prezentacją o <a href="https://angularjs.org/" target="_blank">AngularJS</a>, a dodatkowo - to wiadomość z ostatniej chwili - Michał Koźmiński wprowadzi nas w <a href="http://marionettejs.com/" target="_blank">Marionette.js</a>, uzupełnienie Backbone.</p>
+
+<p>Na spotkanie w Minibrowarze Haust zaprasza nasz nowy partner - <a href="http://cinkciarz.pl/" target="_blank">Kantor Internetowy Cinkciarz.pl</a>, który będzie sponsorował trzy najbliższe spotkania - w październiku, listopadzie i grudniu. Dziękujemy za długofalowe wsparcie!
+<a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Zaczynaliśmy w lipcu, a tymczasem już październik, wakacje się skończyły i jest nas coraz więcej. I o to chodzi! Jednak aby zachować konwencję spotkań w pubie przy piwie i w trosce o komfort uczestników, niezbędne jest wprowadzenie limitu osób - dlatego na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/209310412/" target="_blank">meetupie</a> pojawiła się lista oczekująca. Serdecznie zapraszamy wszystkich zapisanych, jeśli natomiast ktoś zapisał się dawno temu, a teraz wie, że jednak nie przyjdzie, prosimy o zmianę RSVP, tak aby zwolniło się miejsce dla oczekujących.</p>
+
+<p>Na spotkaniu, oprócz ciekawych prezentacji i dobrego piwa, czekają również niespodzianki od nowych sponsorów. W tym miesiącu nawiązaliśmy współpracę z nowymi partnerami - branżowymi wydawnictwami <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>, a także z <a href="http://jetbrains.com/" target="_blank">JetBrains</a> - twórcą takich narzędzi jak IntelliJ IDEA, RubyMine i WebStorm. W związku z tym, od tej pory na każdym spotkaniu będziemy mieć kilka ebooków i licencji do rozdania. Część z nich rozdamy prelegentom, aby nagrodzić trud przygotowania prezentacji, a resztę rozlosujemy wśród uczestników zarejestrowanych na dane spotkanie na meetupie pełnym imieniem i nazwiskiem.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Współpraca z O'Reilly i Manning Publications]]></title>
