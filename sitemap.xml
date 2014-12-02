@@ -3,93 +3,75 @@
   
   
   <url>
-    <loc>http://zielona-gora-jug.github.io/blog/2014/11/24/spotkanie-listopadowe-haskell-i-google-glass/</loc>
-    <lastmod>2014-11-24T21:56:56+01:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/</loc>
-    <lastmod>2014-11-16T20:56:57+01:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://zielona-gora-jug.github.io/blog/2014/11/10/global-day-of-code-retreat-2014-w-zielonej-gorze/</loc>
-    <lastmod>2014-11-10T13:02:50+01:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js/</loc>
-    <lastmod>2014-10-27T23:02:38+01:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications/</loc>
+    
     <lastmod>2014-10-10T22:16:28+02:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/</loc>
+    
     <lastmod>2014-09-10T20:44:40+02:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/09/05/podsumowanie-spotkania-o-spring-boot-i-angularjs/</loc>
+    
     <lastmod>2014-09-05T21:08:10+02:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot/</loc>
+    
     <lastmod>2014-08-25T21:52:32+02:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania/</loc>
+    
     <lastmod>2014-08-19T22:40:41+02:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa/</loc>
+    
     <lastmod>2014-08-10T13:02:43+02:00</lastmod>
+    
     <priority>0.8</priority>
   </url>
   
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
-    <lastmod>2014-11-24T22:24:23+01:00</lastmod>
+    <lastmod>2014-12-02T22:42:49+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/</loc>
-    <lastmod>2014-11-24T22:24:23+01:00</lastmod>
+    <lastmod>2014-12-02T22:42:49+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://zielona-gora-jug.github.io/meetings/</loc>
-    <lastmod>2014-11-24T22:24:23+01:00</lastmod>
+    <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
+    <lastmod>2014-12-02T22:42:49+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
-  <url>
-    <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
-    <lastmod>2014-11-24T22:24:23+01:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
   
   
 </urlset>
