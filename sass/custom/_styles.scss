@@ -610,8 +610,10 @@ article {
     a {
       text-decoration: underline;
     }
-    img {
-      
+    img.center {
+     display: block;
+	 margin-left: auto;
+	 margin-right: auto;
     }
   }
 
