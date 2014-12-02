@@ -317,7 +317,7 @@ nav {
 
   form {
     float: right;
-    margin-top: -65px;
+    /**margin-top: -65px;**/
 
     input.search {
       @extend .font-size-smallest;
