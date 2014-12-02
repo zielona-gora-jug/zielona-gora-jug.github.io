@@ -30,3 +30,13 @@ W połowie tej sesji pojawiło się niezapowiedziane utrudnienie - zamiana kompu
 Co ciekawe, gdy wytłumaczyliśmy zasady spotkania, spontanicznie zawiązał nam się kolejny zespół - panowie Witold Wendrowski i Andrzej Patecki z Asteca odkurzyli nieużywane od 10 lat środowisko do programowania w Smalltalku i też zabrali się za kodowanie. Brawo:) Ale nawet i bez Smalltalka, środowiska były zróżnicowane - Java, Python i Go, a do tego Eclipse, IntelliJ, Vim i Emacs. 
 
 Odwiedziła nas również redaktorka zielonogórskiej Gazety Wyborczej, można więc obejrzeć pierwszy medialny występ zielonogórskiego JUGa: <a href="http://zielonagora.gazeta.pl/zielonagora/1,35182,16973093,Programisci_z_calego_swiata_tworza_wspolnie_programy.html" target="_blank">Programiści z całego świata tworzą wspólnie programy</a> :)
+
+[{% img center /images/gdcr_2014_1.jpeg 600 300 Global Day of Code Retreat %}](/images/gdcr_2014_1.jpeg)
+
+[{% img center /images/gdcr_2014_2.jpeg 600 300 Global Day of Code Retreat %}](/images/gdcr_2014_2.jpeg)
+
+[{% img center /images/gdcr_2014_3.jpeg 600 300 Global Day of Code Retreat %}](/images/gdcr_2014_3.jpeg)
+
+[{% img center /images/gdcr_2014_4.jpeg 600 300 Global Day of Code Retreat %}](/images/gdcr_2014_4.jpeg)
+
+[{% img center /images/gdcr_2014_5.jpeg 600 300 Global Day of Code Retreat %}](/images/gdcr_2014_5.jpeg)
