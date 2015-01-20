@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-01-11T22:25:41+01:00</updated>
+  <updated>2015-01-20T20:47:29+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -18,18 +18,18 @@
     <link href="http://zielona-gora-jug.github.io/blog/2015/01/11/spotkanie-styczniowe-wstep-do-scali-oraz-hadoopa/"/>
     <updated>2015-01-11T21:54:18+01:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2015/01/11/spotkanie-styczniowe-wstep-do-scali-oraz-hadoopa</id>
-    <content type="html"><![CDATA[<p>W nowym roku na pełnej mocy ruszamy z nowymi tematami. Zapraszamy na kolejne spotkanie JUG&#8217;a już 28 stycznia, w sprawdzonym pubie <a href="http://www.haust.pl/" target="_blank">Haust</a>. Zaczynamy o godzinie 19! Dzięki długofalowej współpracy, ponownie spotkanie zrealizowane będzie przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> :)</p>
+    <content type="html"><![CDATA[<p>W nowym roku na pełnej mocy ruszamy z nowymi tematami. Zapraszamy na kolejne spotkanie JUGa już 28 stycznia, w sprawdzonym pubie <a href="http://www.haust.pl/" target="_blank">Haust</a>. Zaczynamy o godzinie 19! Dzięki długofalowej współpracy, ponownie spotkanie zrealizowane będzie przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> :)</p>
 
 <p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
 
 <!-- more -->
 
 
-<p>Na wstępie Marcin Stożek z firmy IBM zaserwuje nam porcję &ldquo;Big Data&rdquo;. Z czym należy ten temat konsumować, jak to smakuje z Hadoopem, wprowadzi Nas pokrótce w ekosystem oraz popularne dystrybucje, takie jak Cloudera, Hortonworks, BigInsights.</p>
+<p>Na wstępie Marcin Stożek z firmy IBM zaserwuje nam porcję &ldquo;Big Data&rdquo;. Z czym należy ten temat konsumować, jak to smakuje z Hadoopem, wprowadzi nas pokrótce w ekosystem oraz popularne dystrybucje, takie jak Cloudera, Hortonworks, BigInsights.</p>
 
-<p>W drugiej części Marcin Dąbrowa z Cinkciarz.pl, zapozna Nas z podstawami Scali. Przedstawiony zostanie prosty przykład &ldquo;Hello World&rdquo;, który to podczas sesji &ldquo;live coding&rdquo; będziemy mieć okazję wspólnie rozwijać. Liczymy na ciekawą dyskusję jeżeli chodzi o podobieństwa pomiędzy Scalą vs. Javą vs. niedawno poznanym Haskellem. Na koniec wspólnie zastanowimy się, czy dla wiekszości deweloperów Java, Scala może być językiem łatwym i przyjemnym do nauki.</p>
+<p>W drugiej części Marcin Dąbrowa z Cinkciarz.pl, zapozna nas z podstawami Scali. Przedstawiony zostanie prosty przykład &ldquo;Hello World&rdquo;, który to podczas sesji &ldquo;live coding&rdquo; będziemy mieć okazję wspólnie rozwijać. Liczymy na ciekawą dyskusję jeżeli chodzi o podobieństwa pomiędzy Scalą vs. Javą vs. niedawno poznanym Haskellem. Na koniec wspólnie zastanowimy się, czy dla wiekszości deweloperów Java, Scala może być językiem łatwym i przyjemnym do nauki.</p>
 
-<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/219060956/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/219374455/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
 
 <p>Zapraszamy!</p>
 ]]></content>
