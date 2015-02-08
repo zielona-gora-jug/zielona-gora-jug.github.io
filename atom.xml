@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2014-12-14T21:32:05+01:00</updated>
+  <updated>2015-02-07T14:49:37+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,94 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania styczniowego - Hadoop i Scala]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/02/07/podsumowanie-spotkania-styczniowego-hadoop-i-scala/"/>
+    <updated>2015-02-07T14:08:06+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/02/07/podsumowanie-spotkania-styczniowego-hadoop-i-scala</id>
+    <content type="html"><![CDATA[<p>Nowy rok zaczęliśmy od spotkania o Hadoopie i Scali, które odbyło się 28. stycznia 2015. Sponsorem była firma <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, która jest obecnie naszym stałym partnerem aż do marca.</p>
+
+<p>Na spotkaniu było ok. 80 osób. Jako pierwszy wystąpił Marcin Stożek z prezentacją <a href="https://slides.com/perk/hadoop-101" target="_blank">Hadoop 101</a>. Dowiedzieliśmy się, jak duże muszą być dane, żeby rozwiązania do Big Data w ogóle miały sens (odpowiedź: co najmniej 5 TB, inaczej szkoda zachodu, Hadoop nie rozwiąże naszych problemów), oraz poznaliśmy zarys ekosystemu Hadoopa, na który składa się wiele różnych narzędzi i bibliotek. Było również live demo z Hadoopem od Cloudery, które pozwoliło zobaczyć przykładowy plik w HDFSie i wyszukiwanie w nim za pomocą Hive&#8217;a.</p>
+
+<!-- more -->
+
+
+<p>Po przerwie przeszliśmy do Scali, o której Marcin Dąbrowa opowiedział bez slajdów, używając zamiast tego Scala worksheets. Dzięki temu prezentacja była bardzo interaktywna, publiczność brała w niej aktywny udział, a wszystkie pytania otrzymywały odpowiedź natychmiast, wraz z przykładem. Poznaliśmy podstawowe elementy tego języka, case classes, pattern matching i operacje na kolekcjach. Jako że temat Scali i w ogóle programowania funkcyjnego jest dość szeroki, być może będzie trzeba go jeszcze w jakiejś formie rozwinąć.</p>
+
+<p>Na końcu przyszła pora na nagrody od sponsorów. Obecnie na każdym spotkaniu mamy do dyspozycji dwie licencje od <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i jednego ebooka z wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a> (powitalne kupony od O&#8217;Reilly już się skończyły). Zgodnie z naszymi zasadami, każdy prelegent występujący na JUGu otrzymuje jedną wybraną z tego zestawu nagrodę, jako podziękowanie za inicjatywę i poświęcony czas, natomiast reszta jest rozlosowywana wśród uczestników spotkania. Zachęcamy więc do zgłaszania prezentacji! Pamiętajcie też, że z obu wydawnictw mamy dostęp do tzw. egzemplarzy recenzyjnych - można otrzymać dowolnie wybraną przez siebie książkę w zamian za opublikowanie recenzji na blogu ZG JUG. Więcej szczegółów: <a href="http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications/">Współpraca z O&#8217;Reilly i Manning Publications</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie styczniowe - wstęp do Scali oraz Hadoopa]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/01/11/spotkanie-styczniowe-wstep-do-scali-oraz-hadoopa/"/>
+    <updated>2015-01-11T21:54:18+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/01/11/spotkanie-styczniowe-wstep-do-scali-oraz-hadoopa</id>
+    <content type="html"><![CDATA[<p>W nowym roku na pełnej mocy ruszamy z nowymi tematami. Zapraszamy na kolejne spotkanie JUGa już 28 stycznia, w sprawdzonym pubie <a href="http://www.haust.pl/" target="_blank">Haust</a>. Zaczynamy o godzinie 19! Dzięki długofalowej współpracy, ponownie spotkanie zrealizowane będzie przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> :)</p>
+
+<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Na wstępie Marcin Stożek z firmy IBM zaserwuje nam porcję &ldquo;Big Data&rdquo;. Z czym należy ten temat konsumować, jak to smakuje z Hadoopem, wprowadzi nas pokrótce w ekosystem oraz popularne dystrybucje, takie jak Cloudera, Hortonworks, BigInsights.</p>
+
+<p>W drugiej części Marcin Dąbrowa z Cinkciarz.pl, zapozna nas z podstawami Scali. Przedstawiony zostanie prosty przykład &ldquo;Hello World&rdquo;, który to podczas sesji &ldquo;live coding&rdquo; będziemy mieć okazję wspólnie rozwijać. Liczymy na ciekawą dyskusję jeżeli chodzi o podobieństwa pomiędzy Scalą vs. Javą vs. niedawno poznanym Haskellem. Na koniec wspólnie zastanowimy się, czy dla wiekszości deweloperów Java, Scala może być językiem łatwym i przyjemnym do nauki.</p>
+
+<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/219374455/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania grudniowego i roku 2014]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/12/22/podsumowanie-spotkania-grudniowego/"/>
+    <updated>2014-12-22T21:33:54+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/12/22/podsumowanie-spotkania-grudniowego</id>
+    <content type="html"><![CDATA[<p>17 grudnia 2014 odbyło się ostatnie w tym roku spotkanie ZG JUG. Tym razem, z racji grudniowego obłożenia pubów przez firmowe spotkania opłatkowe, miejsce dla nas znalazło się w klubie 4 Róże dla Lucienne. To już czwarte nasze miejsce spotkań (wcześniej były Barcelona, Haust i Kawon). Było sympatycznie, choć dość ciasno, więc następnym razem prawdopodobnie wybierzemy raczej znowu Haust lub Kawon.</p>
+
+<p>Sponsorem spotkania była firma <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, której przedstawiciele - Grzegorz Dribczak i Robert Górny - ogłosili współpracę z JUGiem na kolejne trzy miesiące. Będzie to więc w sumie półroczne wsparcie - bardzo dziękujemy:)</p>
+
+<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Rozpoczęliśmy prezentacją o Eclipse Rich Client Platform. Radek Stachowiak pokazał, jak wygląda programowanie na tej platformie - oparte częściowo na wyklikiwaniu kontrolek (menu, komend i tzw. partów, w których jest główna zawartość aplikacji), częściowo na konfiguracji, i częściowo na zwykłym kodzie Javowym, co w sumie daje nam pełną aplikację desktopową. Radek opowiedział nam o tym, co nowego w wersji e4 - między innymi wsparcie dla dependency injection i model aplikacji.</p>
+
+<p><a href="http://zielona-gora-jug.github.io/images/grudzien_2014_eclipse.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/grudzien_2014_eclipse.jpeg" width="600" height="300" title="Radosław Stachowiak - Eclipse RCP" ></a></p>
+
+<p>Następnie przyszła pora na nieco lżejszy temat - rozszerzona rzeczywistość. Maciej Schmidt z firmy <a href="http://www.maskom.pl/" target="_blank">MASKOM</a> pokazał, jak wygląda jej programowanie. Dowiedzieliśmy się, czym są znaczniki i jakie muszą spełniać wymagania, jak wygląda modelowanie kształtów, które mają pokazywać się na wyświetlaczu kamerki, opisał też kilka dobrych i złych przykładów wykorzystania z rodzimego i zagranicznego podwórka. Zobaczyliśmy też AR w akcji na żywo - na scenie pojawił się płynący żółw, Lara Croft, na bieżąco przygotowywana pizza, no i oczywiście obowiązkowo Święty Mikołaj! Publiczność była bardzo aktywna, a na koniec porozmawialiśmy sobie też o przyszłości - technologie ubieralne, soczewki wszczepiane w źrenice, Samsung Gear, Google Cardboard&hellip;</p>
+
+<p><a href="http://zielona-gora-jug.github.io/images/grudzien_2014_ar.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/grudzien_2014_ar.jpeg" width="600" height="300" title="Maciej Schmidt - Rozszerzona rzeczywistość" ></a></p>
+
+<p>Nie zabrakło też obowiązkowych punktów programu - losowania ebooków i licencji od sponsorów, oraz dokończenia dyskusji już w nieformalnej atmosferze after party.</p>
+
+<p>Było to kolejne bardzo udane spotkanie zielonogórskiego JUGa, którego obecna edycja ma już pół roku! Przez te sześć miesięcy rozmawialiśmy o najróżniejszych rzeczach (zawsze powtarzam, że formuła JUGa jest bardzo pojemna) - był <a href="http://zielona-gora-jug.github.io/blog/2014/09/05/podsumowanie-spotkania-o-spring-boot-i-angularjs/">back end</a> i <a href="http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js/">front end</a>, były <a href="http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/">dobre praktyki</a>, <a href="http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania/">testowanie i code review</a>, było <a href="http://zielona-gora-jug.github.io/blog/2014/12/11/podsumowanie-spotkania-listopadowego/">programowanie funkcyjne</a>, i było pierwsze w historii zielonogórskie <a href="http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/">code retreat</a>. Całkiem niezły zestaw! Dziękuję wszystkim uczestnikom za obecność i zaangażowanie, a współorganizatorom (Dawid, Mirek, Piotr) za poświęcony czas i świetne pomysły. Mam nadzieję, że 2015 również będzie dla nas rokiem sukcesów - licznej frekwencji, ciekawych prezentacji, ożywionych dyskusji, i generalnie pozytywnego fermentu:) Do zobaczenia w styczniu!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie grudniowe - Augmented Reality i Rich Client Platform]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/"/>
+    <updated>2014-12-14T22:41:34+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp</id>
+    <content type="html"><![CDATA[<p>Kolejne spotkanie zielonogórskiego JUG&#8217;a już w najbliższą środę 17 grudnia, w pubie <a href="http://www.4roze.pl/" target="_blank">4 Róże dla Lucienne</a>. Startujemy o godzinie 19! Trzeci raz z rzędu, ponownie spotkanie zrealizowane będzie przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> :)</p>
+
+<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Tym razem Maciej Schmidt z firmy <a href="http://maskom.pl/" target="_blank">MASKOM</a> zaprezentuje nam magiczne Augmented Reality (Rzeczywistość Rozszerzoną). Co skrywa w sobie ta technologia? Jakie są jej możliwości? Praktyczne zastosowanie w biznesie? Jak zintegrować AR z powszechnie używanymi urządzeniami mobilnymi? Jakie są perspektywy rozwoju? Macieju czekamy na obiecane świąteczne demo! Następnie Radosław Stachowiak zgłębi temat pisania aplikacji klienckich w oparciu o najnowszą, czwartą wersję Eclipse Rich Client Platform. Liczymy że dzięki Radkowi, każdy z nas dojdzie do wniosku iż warto porzucić &ldquo;e3&rdquo; i zacząć kodować w &ldquo;e4&rdquo;&hellip; :-)</p>
+
+<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/219060956/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania o Haskellu i Google Glass]]></title>

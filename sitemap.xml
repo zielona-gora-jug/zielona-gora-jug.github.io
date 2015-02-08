@@ -3,6 +3,30 @@
   
   
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2015/02/07/podsumowanie-spotkania-styczniowego-hadoop-i-scala/</loc>
+    <lastmod>2015-02-07T14:08:06+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2015/01/11/spotkanie-styczniowe-wstep-do-scali-oraz-hadoopa/</loc>
+    <lastmod>2015-01-11T21:54:18+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/12/22/podsumowanie-spotkania-grudniowego/</loc>
+    <lastmod>2014-12-22T21:33:54+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/</loc>
+    <lastmod>2014-12-14T22:41:34+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/12/11/podsumowanie-spotkania-listopadowego/</loc>
     <lastmod>2014-12-11T21:36:36+01:00</lastmod>
     <priority>0.8</priority>
@@ -71,28 +95,28 @@
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
-    <lastmod>2014-12-14T21:32:05+01:00</lastmod>
+    <lastmod>2015-02-07T14:49:37+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/</loc>
-    <lastmod>2014-12-14T21:32:05+01:00</lastmod>
+    <lastmod>2015-02-07T14:49:37+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/meetings/</loc>
-    <lastmod>2014-12-14T21:32:05+01:00</lastmod>
+    <lastmod>2015-02-07T14:49:37+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
-    <lastmod>2014-12-14T21:32:05+01:00</lastmod>
+    <lastmod>2015-02-07T14:49:37+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
