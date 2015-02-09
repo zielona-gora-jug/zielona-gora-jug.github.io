@@ -872,12 +872,12 @@ article {
 
 #content .blog-index {
   float: left;
-  width: 70%;
+  max-width: 875px;
 }
 
 aside.sidebar {
   float: right;
-  width: 25%;
+  width: 250px;
 }
 
 // leaders page styles
