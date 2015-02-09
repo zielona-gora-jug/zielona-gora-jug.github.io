@@ -864,6 +864,8 @@ article {
   }
 }
 
+// custom JUG styles
+
 .logo:after {
   content:url("../images/logo.png");
 }
@@ -876,4 +878,56 @@ article {
 aside.sidebar {
   float: right;
   width: 25%;
+}
+
+// leaders page styles
+ 
+div.leader {
+    height: auto;
+    width: 350px;
+    float: left;
+    padding: 15px;
+}
+
+div.img img {
+    display: inline;
+    margin: 20px;
+    border: 1px solid #ffffff;
+}
+
+p.desc {
+    margin: 5px;
+    font-size: 18px;
+}
+
+p.name {
+  text-align: center;
+  font-size: 25px;
+  margin: 5px;
+}
+
+a.twitter {
+ content:url("../images/twitter.png");  
+ width: 32px;
+ height: 32px;
+}
+
+a.linkedin {
+ content:url("../images/linkedin.png");  
+ width: 32px;
+ height: 32px;
+}
+
+a.mail {
+ content:url("../images/email.jpeg"); 
+ width: 32px;
+ height: 32px;
+}
+
+div.leaders {
+  float: left;
+}
+
+div.clear {
+  clear: both;
 }
