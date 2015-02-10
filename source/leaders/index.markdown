@@ -13,7 +13,7 @@ footer: true
 			<a class="mail" href="mailto:magda.stozek@gmail.com"></a>
 		</div>
 		<p class="desc">
-			Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym.
+			Programista bez biura w SoftwareMill, praca zdalna, JVM, Java, Scala, tancerka step, zawsze rowerem do przodu.
 		</p>
 	</div>
 	<div class="leader">
@@ -23,7 +23,7 @@ footer: true
 			<a class="mail" href="mailto:m.szajowski@gmail.com"></a>
 		</div>
 		<p class="desc">
-			Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym.
+			Programista w Streamsoft, JVM, praca w biurze, Java, systemy ERP, Spring, fitness.
 		</p>
 	</div>
 	<div class="leader">
@@ -35,7 +35,7 @@ footer: true
 			<a class="mail" href="mailto:dawid.maksylewicz@gmail.com"></a>
 		</div>
 		<p class="desc">
-			Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym.
+			Programista tu i tam, praca zdalna / praca w biurze, JVM, Java, Android, rowerem do przodu, za 10 lat dalej programista.
 		</p>
 	</div>
 	<div class="clear"></div>
