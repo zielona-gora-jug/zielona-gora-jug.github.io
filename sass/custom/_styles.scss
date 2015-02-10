@@ -312,6 +312,7 @@ nav {
   padding: 0.618rem 0;
   margin-bottom: 137.069px;
   margin-bottom: 1.853rem;
+  clear: both;
 
   // ----- search form -----
 
@@ -868,6 +869,7 @@ article {
 
 .logo:after {
   content:url("../images/logo.png");
+  float: left;
 }
 
 #content .blog-index {
@@ -931,4 +933,8 @@ div.leaders {
 
 div.clear {
   clear: both;
+}
+
+div.title {
+  padding-top: 10%;
 }
