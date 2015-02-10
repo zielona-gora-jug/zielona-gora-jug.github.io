@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-02-10T21:17:53+01:00</updated>
+  <updated>2015-02-10T23:23:20+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe - Java 7&amp;8]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/02/10/spotkanie-lutowe-java-7-and-8/"/>
+    <updated>2015-02-10T22:52:37+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/02/10/spotkanie-lutowe-java-7-and-8</id>
+    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiego JUGa. Tradycyjnie w ostatnią środę miesiąca (25 lutego), spotykamy się w zaprzyjaźnionym pubie Haust. Dzięki długofalowemu wsparciu naszej lokalnej inicjatywy przez firmę <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, również i tym razem możemy liczyć na darmowe napoje oraz przekąski.</p>
+
+<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Nadchodzące spotkanie zapowiada się w 100% Javowe. Na wstępie, dla przypomnienia zaprezentuję klika kluczowych zagadnień, które weszły wraz z siódmym wydaniem Javy. Kolejno Paweł Żalejko przedstawi pełen wachlarz nowości dostarczonych wraz z Javą 8.</p>
+
+<p>Prace nad prezentacjami idą pełną parą. Zapowiada się mega ciekawie !</p>
+
+<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/219374455/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Przybywajcie!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania styczniowego - Hadoop i Scala]]></title>
