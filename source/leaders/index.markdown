@@ -35,7 +35,7 @@ footer: true
 			<a class="mail" href="mailto:dawid.maksylewicz@gmail.com"></a>
 		</div>
 		<p class="desc">
-			Programista, obecnie mieszający w Androidzie, zainteresowany wszystkim tym co związane jest z kodowaniem, nie tylko JVM, zielonogórzanin z wyboru, wierzący w moc pracy zdalnej, czerpiący energię z jazdy na rowerze górskim i zimowych zjazdów na nartach.
+			Programista, zainteresowany wszystkim tym co związane jest z kodowaniem, JVM, Android, wierzący w moc pracy zdalnej, czerpiący energię z jazdy na rowerze górskim i zimowych zjazdów na nartach.
 		</p>
 	</div>
 	<div class="clear"></div>
