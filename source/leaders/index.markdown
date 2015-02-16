@@ -13,7 +13,7 @@ footer: true
 			<a class="mail" href="mailto:magda.stozek@gmail.com"></a>
 		</div>
 		<p class="desc">
-			Programistka w firmie SoftwareMill, praca zdalna, JVM, Java, Scala, tancerka step, zawsze rowerem do przodu.
+			Programistka w SoftwareMill, gdzie pisze w Javie, Scali i Groovym. Zdeklarowana zielonogórzanka, rowerzystka miejska, fanka grubych książek, planszówek i stepowania.
 		</p>
 	</div>
 	<div class="leader">
@@ -23,7 +23,7 @@ footer: true
 			<a class="mail" href="mailto:m.szajowski@gmail.com"></a>
 		</div>
 		<p class="desc">
-			Kluczowy programista w firmie Streamsoft, praca w biurze, JVM, Java, systemy ERP, Spring, fitness.
+		Programista systemów ERP w Streamsoft, zainteresowany / doświadczony w wielu technologiach około-Javowych, w wolnych chwilach dbając o kondycję fizyczną, podnosi ciężary.
 		</p>
 	</div>
 	<div class="leader">
@@ -35,7 +35,7 @@ footer: true
 			<a class="mail" href="mailto:dawid.maksylewicz@gmail.com"></a>
 		</div>
 		<p class="desc">
-			Programista tu i tam, praca zdalna / praca w biurze, JVM, Java, Android, rowerem do przodu, za 10 / 20 lat dalej programista.
+			Programista, zainteresowany wszystkim co związane jest z kodowaniem, nie tylko JVM, zielonogórzanin z wyboru, wierzący w moc pracy zdalnej, czerpiący energię z leśnej jazdy rowerem i zimowego poślizgu na nartach.
 		</p>
 	</div>
 	<div class="clear"></div>
