@@ -6,9 +6,7 @@ comments: true
 categories: 
 author: Magda Stożek
 ---
-Lutowe spotkanie już za nami, czas na krótkie podsumowanie.
-
-Spotkanie odbyło się 25. lutego w Hauście i było sponsorowane przez firmę <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>. Na początku (zaczęliśmy wyjątkowo punktualnie!) Dawid Maksylewicz opowiedział o nowej składni i nowych funkcjach wprowadzonych w Javie 7. Wszystko zilustrowane było za pomocą przykładów, co zachęciło publiczność do aktywnego udziału oraz wnikliwych pytań na bieżąco:) Przeszliśmy od prostych i przydatnych zmian w składni, przez mechanizm fork & join, aż po invokedynamic, gdzie zagłębiliśmy się trochę w bytecode... Zajrzyjcie do <a href="http://dmaksylewicz.github.io/java7-slides/#/step-1" target="_blank">slajdów</a> i do <a href="https://github.com/zielona-gora-jug/java7-code" target="_blank">kodu na githubie</a>, w którym są również porównania, jak dany problem trzeba było rozwiązywać przed siódemką, a jak można zrobić to teraz.
+Lutowe spotkanie zielonogórskiego JUGa - najbardziej javowe z wszystkich dotychczasowych - odbyło się 25. lutego w Hauście i było sponsorowane przez firmę <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>. Na początku (zaczęliśmy wyjątkowo punktualnie!) Dawid Maksylewicz opowiedział o nowej składni i nowych funkcjach wprowadzonych w Javie 7. Wszystko zilustrowane było za pomocą przykładów, co zachęciło publiczność do aktywnego udziału oraz wnikliwych pytań na bieżąco:) Przeszliśmy od prostych i przydatnych zmian w składni, przez mechanizm fork & join, aż po invokedynamic, gdzie zagłębiliśmy się trochę w bytecode... Zajrzyjcie do <a href="http://dmaksylewicz.github.io/java7-slides/#/step-1" target="_blank">slajdów</a> i do <a href="https://github.com/zielona-gora-jug/java7-code" target="_blank">kodu na githubie</a>, w którym są również porównania, jak dany problem trzeba było rozwiązywać przed siódemką, a jak można zrobić to teraz.
 
 <!-- more -->
 
