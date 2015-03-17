@@ -12,11 +12,10 @@ O'Reilly
 ---------
 {% img center /images/oreilly.gif %}
 ---------
-- 40% zniżki na książki papierowe i 50% na ebooki na <a href="http://www.oreilly.com" target="_blank">oreilly.com</a>. Aby otrzymać zniżkę, należy podać kod 'DSUG'.
+- 40% zniżki na książki papierowe i 50% na ebooki na <a href="http://www.oreilly.com" target="_blank">oreilly.com</a>. Aby otrzymać zniżkę, należy podać kod 'PCBW'.
 - recenzyjne egzemplarze książek O'Reilly i ebooków w Early Release (co umożliwia dostęp do książek o nowych technologiach, podczas gdy są one jeszcze pisane) w zamian za recenzje. Egzemplarze recenzyjne dostępne są także dla partnerów O'Reilly: Maker Media, No Starch, Pragmatic Bookshelf, Rocky Nook i SitePoint
 - darmowe książki w ramach materiałów promocyjnych
 - zniżki na konferencje O'Reilly
-- comiesięczny newsletter, który będzie się pojawiał na <a href="http://jug.zgora.pl/forum" target="_blank">grupie dyskusyjnej</a>
 
 <!-- more -->
 
@@ -27,7 +26,7 @@ Manning Publications
 - na każdym spotkaniu losowany będzie ebook tematycznie związany ze spotkaniem (wśród uczestników zarejestrowanych na <a href="http://www.meetup.com/Zielona-Gora-JUG/" target="_blank">meetupie</a> imieniem i nazwiskiem)
 - recenzyjne egzemplarze ebooków
 - 36% zniżki na książki na <a href="http://manning.com" target="_blank">manning.com</a>. Przy zakupie należy podać kod promocyjny 'ug367'
-- cotygodniowy newsletter ze specjalnymi ofertami, który będzie się pojawiał na grupie dyskusyjnej oraz oferty dnia, które można śledzić na twitterze <a href="http://twitter.com/ManningDOTD" target="_blank">@ManningDOTD</a>
+- oferty dnia, które można śledzić na twitterze <a href="http://twitter.com/ManningDOTD" target="_blank">@ManningDOTD</a>
 
 Egzemplarze recenzyjne
 --------
