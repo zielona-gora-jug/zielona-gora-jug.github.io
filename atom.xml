@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-03-17T22:05:35+01:00</updated>
+  <updated>2015-03-25T16:24:04+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie marcowe - Internet of Things]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/03/24/spotkanie-marcowe-internet-of-things/"/>
+    <updated>2015-03-24T19:39:27+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/03/24/spotkanie-marcowe-internet-of-things</id>
+    <content type="html"><![CDATA[<p>To już dzisiaj ! JUG Zielona Góra wzywa wszystkich programistów ! Tradycyjnie w ostatnią środę miesiąca (25 marzec), spotykamy się w zaprzyjaźnionym pubie Haust. <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> po raz kolejny serwuje napoje oraz przekąski, stając się sponsorem spotkania&hellip; :-)</p>
+
+<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Tym razem przednia zabawa zapowiada się dzięki Pawłowi Boreckiemu, który to jako prelegent przedstawi nam zagadniania związane z szeroko rozumianym pojęciem IoT -> Internet of Things. Będziemy mogli posłuchać o możliwościach automatyzacji domu, na bazie przykładowej implementacji układu ESP8266, poznać alternatywne rozwiązania, trochę teorii IoT, trochę elektronicznej praktyki.</p>
+
+<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/221152790/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Przybywajcie!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania lutowego]]></title>
