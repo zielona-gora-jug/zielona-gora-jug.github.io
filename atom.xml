@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-04-15T11:00:58+02:00</updated>
+  <updated>2015-04-16T23:29:14+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Google I/O Extended]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/04/16/google-io-2015/"/>
+    <updated>2015-04-16T12:06:38+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/04/16/google-io-2015</id>
+    <content type="html"><![CDATA[<p>Organizatorzy Java User Group w Zielonej Górze nieustannie starają się uatrakcyjniać kolejne spotkania, poprzez realizację coraz to nowych pomysłów. Tym razem miło nam poinformować, że przy wsparciu firmy <a href="http://adbglobal.com/" target="_blank">ADB</a>, wspólnie będziemy organizować pierwszy w naszym mieście oraz jeden z niewielu w naszym kraju Google I/O Extended.</p>
+
+<p><center>
+<a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g"><img src="http://zielona-gora-jug.github.io/images/google-io-2015.png" title="Google IO Extended" ></a>
+<a href="http://adbglobal.com"><img src="http://zielona-gora-jug.github.io/images/adb.png" title="Advanced Digital Broadcast" ></a>
+<center/></p>
+
+<p><!-- more --></p>
+
+<p>Google I/O Extended jest to transmisja na żywo, z organizowanej raz w roku największej i najważniejszej konferencji Google I/O w San Francisco.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/google-io-3.jpg"></p>
+
+<p>Wszystko to z myślą o programistach i fascynatach nowoczesnych technologii, dla których to przedstawiane będą techniczne oraz bardzo szczegółowe prezentacje. Wyśmienita okazja aby dowiedzieć się nowinek związanych z tworzeniem rozwiązań mobilnych, internetowych, ukierunkowanych biznesowo, przy wykorzystaniu narzędzi firmy Google min. takich jak: Android, Chrome, Maps, Google TV, GWT, Google App Engine.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/google-io-2.jpg"></p>
+
+<p>Myśl przewodnia która nam przyświeca przy realizacji tego przedsięwzięcia w naszym mieście jest taka, aby wyjść z domu, nie oglądać transmisji samemu, poznać innych pasjonatów, nawiązać nowe znajomości, wymienić się doświadczeniem, konkursy, nagrody, prezentacje, gadżety a ponadto dobra zabawa.</p>
+
+<p>Uczestnictwo jest darmowe, lecz wymagamy aby każdy z Was zarejestrował się w utworzonym <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">>>wydarzeniu&lt;&lt;</a> na portalu Google+</p>
+
+<p>Serdecznie zapraszamy!<br/>
+Dawid, Magda, Tomek oraz ADB</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania marcowego]]></title>
@@ -257,7 +288,7 @@
 
 
 <ol>
-<li><p> Zwykła sesja na zapoznanie się z problemem.
+<li><p>Zwykła sesja na zapoznanie się z problemem.
 Jak można było się spodziewać, zanim na dobre się rozkręciliśmy, czas się niemiłosiernie skończył.</p></li>
 <li><p>Ping-pong (jedna osoba pisze test, a druga implementację).
 Tu już poszło nam trochę sprawniej - udało się zaimplementować choć trochę logiki.</p></li>
@@ -535,23 +566,6 @@ W połowie tej sesji pojawiło się niezapowiedziane utrudnienie - zamiana kompu
 <p>Ogólnie bardzo udane spotkanie, myślę, że możemy odtrąbić sukces reaktywacji:)</p>
 
 <p>Tymczasem następne spotkanie już za tydzień - 27. sierpnia. Dowiemy się, co może nam dać Spring Boot, oraz jak tworzyć frontend, używając popularnego zestawu AngularJS + Bootstrap. Zapisy i szczegóły na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">meetupie</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nowa strona zielonogórskiego JUGa]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa/"/>
-    <updated>2014-08-10T13:02:43+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa</id>
-    <content type="html"><![CDATA[<p>Raz, dwa, trzy, próba mikrofonu. Witamy na nowej stronie grupy Zielona Góra JUG. Stopniowo będzie się tu pojawiało wszystko, co w JUGu będzie się działo - informacje o spotkaniach, sponsorach, linki, co robimy, jak się włączyć, itp.</p>
-
-<p>Dla przypomnienia - Zielona Góra JUG to grupa skupiająca zielonogórskich pasjonatów Javy i nie tylko, spotykamy się w każdą ostatnią środę miesiąca, żeby dzielić się wiedzą, posłuchać nowinek i podyskutować. Grupa powstała już w 2011 roku, potem była dłuższa chwila przerwy, a od lipca 2014 działamy znowu.</p>
-
-<p>Najbliższe spotkanie odbędzie się 27. sierpnia, w Pubie Barcelona, w którym będziemy rozmawiać przy piwie dzięki uprzejmości sponsora - firmy <a href="http://www.astec.net/pl/">Astec</a>. Mirek Szajowski opowie o Spring Boot oraz zestawie AngularJS i Bootstrap. Wszelkie informacje o spotkaniu na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/">meetupie</a>.</p>
-
-<p>W międzyczasie zapraszamy do śledzenia aktualności na twitterze <a href="https://twitter.com/ZgJUG">@ZgJUG</a> i włączenie się w rozmowy na <a href="https://groups.google.com/forum/?hl=pl#!forum/zielona-gora-jug">grupie dyskusyjnej</a>.</p>
-
-<p>Do zobaczenia! :)</p>
 ]]></content>
   </entry>
   
