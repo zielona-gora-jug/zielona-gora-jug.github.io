@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-04-16T23:29:14+02:00</updated>
+  <updated>2015-04-17T00:28:44+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie kwietniowe - o znaczeniu słów i o reklamie w aplikacjach mobilnych]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/04/16/spotkanie-kwietniowe-mobile-ads-human-devs/"/>
+    <updated>2015-04-16T23:51:55+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/04/16/spotkanie-kwietniowe-mobile-ads-human-devs</id>
+    <content type="html"><![CDATA[<p>Kolejny miesiąc i ponownie ciekawe tematy&hellip; Tym razem przy wsparciu firmy <a href="http://rec-global.com" target="_blank">REC Global</a> wspólnie 29 kwietnia zapraszamy wszystkich programistów, na comiesięczne spotkanie Java User Group Zielona Góra w zaprzyjaźnionym pubie Haust.</p>
+
+<p><a href="http://rec-global.com"><img class="center" src="http://zielona-gora-jug.github.io/images/rec.jpg" title="REC Global" ></a></p>
+
+<!-- more -->
+
+
+<p>Arlen Coupland poprowadzi pierwszą prezentację, dzięki której będziemy mogli zgłębić temat reklam wyświetlanych na urządzeniach mobilnych, jak wyglądają możliwości od strony procesu wytwórczego oprogramowania i integracji narzędzi, dowiemy się również jakie są opcje zarabiania prawdziwych pieniędzy w odniesieniu do wspomnianych reklam. Drugą część przejmie Tomek Łączkowski, który postara się z niereformowalnego, rasowego &ldquo;software developera&rdquo; zrobić ogarniętego człowieka ;-)</p>
+
+<p>Rejestracja na spotkanie jest jak zawsze darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/221768514/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Google I/O Extended]]></title>
@@ -491,81 +511,6 @@ W połowie tej sesji pojawiło się niezapowiedziane utrudnienie - zamiana kompu
 
 
 <p>Do zobaczenia!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie pierwszego spotkania]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania/"/>
-    <updated>2014-08-19T22:40:41+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania</id>
-    <content type="html"><![CDATA[<p>W oczekiwaniu na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">spotkanie</a> za tydzień - podsumowanie JUGa lipcowego. Wpis ten pojawił się już na <a href="http://jug.zgora.pl/forum" target="_blank">grupie dyskusyjnej</a>, ale wrzucam go też tutaj, żeby było dla potomnych.</p>
-
-<p>Spotkanie to było reaktywacją po kilkuletniej przerwie. Odbyło się 23. lipca w pubie Barcelona, a jego sponsorem był <a href="http://pl.rec-global.com/" target="_blank">REC</a>. Było nas około 30 osób, co myślę, że jest dobrym wynikiem, biorąc pod uwagę porę wakacyjną. Super!</p>
-
-<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14966422405" title="2014-07-23 19-10-26 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5587/14966422405_52d3faf9f4_z.jpg" width="640" height="427" alt="2014-07-23 19-10-26"></a></div>
-
-
-<p>Zaczęliśmy od krótkiego wstępu, po co nam JUG (żeby poszerzać horyzonty i poznać się), co się stało z poprzednią edycją (zabrakło czasu organizatorom, a uczestnicy nie chcieli stać się organizatorami) i dlaczego tym razem się uda (m.in. spotykamy się w bardziej nieformalnej atmosferze - w knajpie, i nie skupiamy się na idealnie dopracowanych prezentacjach).</p>
-
-<!-- more -->
-
-
-<p>Następnie Daniel Jabłoński z RECa - sponsora spotkania (dziękujemy! napoje bardzo nam smakowały) powiedział kilka słów o firmie i życzył JUGowi powodzenia.</p>
-
-<p><a href="http://magdzikk.github.io/spock-slides/" target="_blank">Pierwsza prezentacja</a> - Magdy Stożek z <a href="http://softwaremill.com" target="_blank">SoftwareMill</a> (czyli moja) - była o <a href="http://code.google.com/p/spock/" target="_blank">Spocku</a> - frameworku do testowania, który pomaga pisać testy czytelne, przejrzyste i łatwe w utrzymaniu. Część jego zalet wynika z tego, że jest oparty na Groovym, który jest dynamicznym, zwięzłym językiem działającym w JVMie, przez co Spock idealnie nadaje się do testowania istniejących aplikacji Javowych. Było trochę pytań i dyskusja, która przerodziła się potem w <a href="https://groups.google.com/forum/?hl=pl#!topic/zielona-gora-jug/e8WeePfvqCQ" target="_blank">dyskusję na forum</a> o tym, jak powinno wyglądać prawdziwe TDD we współczesnych aplikacjach.</p>
-
-<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14779815918" title="2014-07-23 19-17-34 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5589/14779815918_6605c29d7f_z.jpg" width="640" height="427" alt="2014-07-23 19-17-34"></a></div>
-
-
-<p>Po krótkiej przerwie na piwo i tzw. networking (odświeżenie czasem bardzo starych znajomości) Paweł Żalejko z RECa pokazał <a href="http://zielona-gora-jug.github.io/files/Gerrit.pdf" target="_blank">Gerrita w praktyce</a>. Prezentacja była bardzo konkretna, pokazywała, jak wykorzystać go w codziennej pracy (gitflow skonfigurowany tak, że wszystko musi przejść przez Gerrita) i jak dopiąć do niego Sonara i Jenkinsa jako automatycznych reviewerów. Były ciekawe dyskusje, między innymi jak takie narzędzie wymusza definiowanie bardziej granularnych tasków, i jak ogólnie zorganizować sobie pracę tak, żeby wkomponować regularne code review w ciągu dnia.</p>
-
-<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14943434106" title="2014-07-23 20-05-17 by jugzgora flickr, on Flickr"><img src="https://farm6.staticflickr.com/5568/14943434106_0bee6111b0_z.jpg" width="640" height="427" alt="2014-07-23 20-05-17"></a></div>
-
-
-<p>Na koniec zrobiliśmy jeszcze burzę mózgów z różnymi pomysłami co do działania JUGa. Wnioski:</p>
-
-<ol>
-<li><p>Forma &ldquo;2 półgodzinne prezentacje + dyskusja&rdquo; wydaje się być optymalna, ale będziemy też próbować następujących rzeczy:</p>
-
-<ul>
-<li>lightning talks / one beer talks - każdy przedstawia jakiś temat bardzo krótko, i na jednym spotkaniu robimy dużo takich tematów</li>
-<li>prezentacja typu live coding, gdzie prelegent pisze kod na żywo i opowiada o nim</li>
-<li>dyskusje na temat artykułów lub prezentacji (każdy czyta/ogląda w domu, a potem wspólnie robimy dyskusję)</li>
-<li>streaming wykładów i konferencji (typu Google IO), wspólne oglądanie prezentacji z konferencji</li>
-<li>wymiana prelegentów z innymi miastami (Wrocław, Poznań, Warszawa)</li>
-<li>wspólne kodowanie - code retreat albo hackaton. UZ mógłby nam udostępnić salkę na 15/20 osób lub wykładową, z wifi</li>
-<li>wszelkie tematy pozajavowe (&ldquo;o wszystkim, co programista Javy może spotkać na swojej drodze&rdquo;) - software craftsmanship, DevOps, bazy danych, wydajność aplikacji, itd, itp.
-<br><br></li>
-</ul>
-</li>
-<li><p>Prezentacje, źródła, linki i tego bloga będziemy trzymać w jednym miejscu - na githubie (mamy tam stworzoną organizację <a href="https://github.com/zielona-gora-jug">https://github.com/zielona-gora-jug</a>).</p></li>
-<li><p>Ogłosiliśmy konkurs na logo Zielona Góra JUG. Mamy już jakieś propozycje z naszego grona, a oprócz tego rozmawialiśmy też z zawodowcami - agencją <a href="http://www.fluidagency.pl/" target="_blank">Fluid</a>, która ma nam przestawić jakąś propozycję pod koniec sierpnia.</p></li>
-<li><p>Rozmawialiśmy o sponsorach na kolejne spotkania. W tej chwili mamy już <a href="http://www.astec.net/pl/" target="_blank">ASTEC</a> na sierpień, a <a href="http://www.streamsoft.pl/" target="_blank">Streamsoft</a> na wrzesień. Następne wolne miejsca dla firm w październiku - zapraszamy do zaistnienia na JUGowej scenie.</p></li>
-<li><p>Spotykamy się w każdą ostatnią środę miesiąca, więc można rezerwować czas z góry (i tak następne spotkanie - 27. sierpnia).</p></li>
-<li><p>Wstępne propozycje tematów na następne spotkania:</p>
-
-<ul>
-<li>JavaFX - Paweł Żalejko</li>
-<li>Camel - Mirek Szajowski</li>
-<li>monitorowanie serwerów na produkcji - Mirek Szajowski</li>
-<li>BPMN, JBPM (modelowanie biznesowe) - Tomek Gratkowski, jesień</li>
-<li>testowanie aplikacji na androida, Robolectric - Dawid Maksylewicz, wrzesień</li>
-<li>code kata - Mateusz Kruszewski, wrzesień</li>
-<li>Android i GUI webowe (web view) - Dawid Maksylewicz</li>
-</ul>
-</li>
-</ol>
-
-
-<p>I tyle ustaleń. Po intensywnym wysiłku umysłowym nastąpiła część ostatnia, czyli piwo, hamburgery (brawo Barcelona, bardzo dobre) i pogaduszki.</p>
-
-<div class="photo"><a href="https://www.flickr.com/photos/126253063@N03/14966421195" title="2014-07-23 19-51-09 by jugzgora flickr, on Flickr"><img src="https://farm4.staticflickr.com/3863/14966421195_372cfa590b_z.jpg" width="640" height="427" alt="2014-07-23 19-51-09"></a></div>
-
-
-<p>Ogólnie bardzo udane spotkanie, myślę, że możemy odtrąbić sukces reaktywacji:)</p>
-
-<p>Tymczasem następne spotkanie już za tydzień - 27. sierpnia. Dowiemy się, co może nam dać Spring Boot, oraz jak tworzyć frontend, używając popularnego zestawu AngularJS + Bootstrap. Zapisy i szczegóły na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">meetupie</a>.</p>
 ]]></content>
   </entry>
   
