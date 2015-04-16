@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Google IO:Extended"
+title: "Google I/O Extended"
 date: 2015-04-16 12:06:38 +0200
 comments: true
 author: Dawid Maksylewicz
 categories: 
 ---
-Organizatorzy Java User Group w Zielonej Górze nieustannie starają się uatrakcyjniać kolejne spotkania, poprzez realizację coraz to nowych pomysłów. Tym razem miło nam poinformować, że przy wsparciu firmy <a href="http://adbglobal.com/" target="_blank">Advanced Digital Broadcast</a>, wspólnie będziemy organizować pierwszy w naszym mieście oraz jeden z niewielu w naszym kraju Google IO:Extended.
+Organizatorzy Java User Group w Zielonej Górze nieustannie starają się uatrakcyjniać kolejne spotkania, poprzez realizację coraz to nowych pomysłów. Tym razem miło nam poinformować, że przy wsparciu firmy <a href="http://adbglobal.com/" target="_blank">ADB</a>, wspólnie będziemy organizować pierwszy w naszym mieście oraz jeden z niewielu w naszym kraju Google I/O Extended.
 
 <center>
 [{% img /images/google-io-2015.png Google IO Extended %}](https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g)
@@ -15,7 +15,7 @@ Organizatorzy Java User Group w Zielonej Górze nieustannie starają się uatrak
 
 <!-- more -->
 
-Google IO:Extended jest to transmisja na żywo, z organizowanej raz w roku największej i najważniejszej konferencji Google IO w San Francisco. 
+Google I/O Extended jest to transmisja na żywo, z organizowanej raz w roku największej i najważniejszej konferencji Google I/O w San Francisco. 
 
 {% img center /images/google-io-3.jpg %}
 
@@ -23,10 +23,10 @@ Wszystko to z myślą o programistach i fascynatach nowoczesnych technologii, dl
 
 {% img center /images/google-io-2.jpg %}
 
-Myśl przewodnia która nam przyświeca przy realizacji tego przedsięwzięcia w naszym mieście jest taka, aby wyjść z domu, nie oglądać transmisji samemu, poznać innych pasjonatów, nawiązać nowe znajomości, wymienić się doświadczeniem, dobra zabawa, konkursy, nagrody, prezentacje, gadżety.
+Myśl przewodnia która nam przyświeca przy realizacji tego przedsięwzięcia w naszym mieście jest taka, aby wyjść z domu, nie oglądać transmisji samemu, poznać innych pasjonatów, nawiązać nowe znajomości, wymienić się doświadczeniem, konkursy, nagrody, prezentacje, gadżety a ponadto dobra zabawa.
 
 Uczestnictwo jest darmowe, lecz wymagamy aby każdy z Was zarejestrował się w utworzonym <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">>>wydarzeniu<<</a> na portalu Google+
 
 
 Serdecznie zapraszamy!<br/>
-Dawid, Magda, Mirek, Tomek oraz Advanced Digital Broadcast
+Dawid, Magda, Tomek oraz ADB
