@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://zielona-gora-jug.github.io/sitemap.xml 
