@@ -5,7 +5,7 @@ footer: true
 ---
 <div class="leaders">
 	<div class="leader">
-		<img src="/images/magdas.jpg" alt="Klematis" width="100" height="250">
+		<img src="/images/magdas.jpg" width="100" height="250">
 		<p class="name">Magda Stożek</p>
 		<div class="social"> 
 			<a class="twitter" href="https://twitter.com/magdastozek" target="_blank"></a>
@@ -17,7 +17,7 @@ footer: true
 		</p>
 	</div>
 	<div class="leader">
-		<img src="/images/mireksz.jpg" alt="Klematis" width="100" height="250">
+		<img src="/images/mireksz.jpg" width="100" height="250">
 		<p class="name">Mirek Szajowski</p>
 		<div class="social"> 
 			<a class="mail" href="mailto:m.szajowski@gmail.com"></a>
@@ -27,7 +27,7 @@ footer: true
 		</p>
 	</div>
 	<div class="leader">
-		<img src="/images/dawidm.jpg" alt="Klematis" width="100" height="250">
+		<img src="/images/dawidm.jpg" width="100" height="250">
 		<p class="name">Dawid Maksylewicz</p>
 		<div class="social"> 
 			<a class="twitter" href="https://twitter.com/dmaksylewicz" target="_blank"></a>
