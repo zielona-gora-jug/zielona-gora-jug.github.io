@@ -938,3 +938,22 @@ div.clear {
 div.title {
   padding-top: 10%;
 }
+
+@media screen and (max-width:1625px){
+  aside.sidebar {
+    width: 100%;
+  }
+  #twitter-widget-0 {
+    width: 100% !important;
+  }
+  div.title {
+    text-align: center;
+    padding-top: 12%;
+  }
+}
+
+@media screen and (max-width:1625px){
+  .logo:after {
+    float: none;
+  }
+}
