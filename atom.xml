@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-05-19T22:29:03+02:00</updated>
+  <updated>2015-05-19T22:33:52+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>Już jutro zapraszamy na kolejne spotkanie ZG JUG. Choć zazwyczaj spotykamy się w ostatnią środę miesiąca, tym razem odstępujemy od tej zasady ze względu na <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">Google I/O Extended</a>. Majowe spotkanie wspiera firma <a href="http://streamsoft.pl/" target="_blank">Streamsoft</a>, która sponsoruje nie tylko poczęstunek, ale też przyjazd gościa ze Szczecina.</p>
 
 <p><a href="http://streamsoft.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/streamsoft.png" title="Streamsoft" ></a></p>
+
+<!-- more -->
+
 
 <h2>Paweł Stawicki &ldquo;<a href="http://akka.io/" target="_blank">Akka</a> - programowanie wielowątkowe bez bólu&rdquo;</h2>
 
