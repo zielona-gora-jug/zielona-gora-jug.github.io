@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-05-12T09:46:36+02:00</updated>
+  <updated>2015-05-19T21:30:26+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania kwietniowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/05/19/podsumowanie-spotkania-kwietniowego/"/>
+    <updated>2015-05-19T21:40:02+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/05/19/podsumowanie-spotkania-kwietniowego</id>
+    <content type="html"><![CDATA[<p>Z lekkim opóźnieniem, nadszedł w końcu czas na podsumowanie spotkania kwietniowego. Odbyło się ono 29. kwietnia i było sponsorowane przez firmę <a href="http://www.rec-global.com/" target="_blank">REC</a>.</p>
+
+<p>Pierwszym tematem była reklama w aplikacjach mobilnych, którą przybliżył nam Arlen Coupland. W skrócie okazało się, że taka reklama to dużo dużo więcej niż tylko denerwujące prostokąciki gdzieś na dole gry, w którą gramy na telefonie. Możliwości jest dużo więcej, a najlepiej wkomponować reklamę w naszą aplikację w taki sposób, żeby była ona dla użytkownika czymś ciekawym i angażującym. Temat jest bardzo szeroki, a domena otwarta na innowacje, jako że rynek reklamy mobilnej wciąż dopiero się kształtuje. Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/mobile_advertising.ppt" target="_blank">Mobile Advertising - Introduction</a>.</p>
+
+<!-- more -->
+
+
+<p>Po przerwie przeszliśmy do lżejszego tematu - Tomek Łączkowski opowiedział nam &ldquo;O znaczeniu słów słów kilka&rdquo;, czyli o trudnej sztuce komunikacji - w zespole, między programistami a użytkownikami, między team leaderami a przedstawicielami biznesu. Zarysował kilka problemów, na które warto zwracać uwagę, m.in. określenie wspólnego słownika, precyzyjne określenie wymagań, 5 x why (czyli pytamy tak długo, aż znajdziemy prawdziwy powód, a nie tylko powierzchowne wytłumaczenie), itp. Slajdy: <a href="http://zielona-gora-jug.github.io/files/slowa_slowa.pptx" target="_blank">O znaczeniu słów słów kilka</a>.</p>
+
+<p>Na koniec jak zwykle losowaliśmy nagrody od naszych sponsorów - <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i <a href="http://manning.com/" target="_blank">Manning</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie kwietniowe - o znaczeniu słów i o reklamie w aplikacjach mobilnych]]></title>
@@ -308,7 +326,7 @@ Dawid, Magda, Tomek oraz ADB</p>
 
 
 <ol>
-<li><p>Zwykła sesja na zapoznanie się z problemem.
+<li><p> Zwykła sesja na zapoznanie się z problemem.
 Jak można było się spodziewać, zanim na dobre się rozkręciliśmy, czas się niemiłosiernie skończył.</p></li>
 <li><p>Ping-pong (jedna osoba pisze test, a druga implementację).
 Tu już poszło nam trochę sprawniej - udało się zaimplementować choć trochę logiki.</p></li>
@@ -484,33 +502,6 @@ W połowie tej sesji pojawiło się niezapowiedziane utrudnienie - zamiana kompu
 <p>Po wszystkim nastąpiło jeszcze obowiązkowe after party, a jako że spotkanie wyszło w sumie dość długie, to i hamburger był jak najbardziej na miejscu.</p>
 
 <p>Następne spotkanie tradycyjnie w ostatnią środę miesiąca, czyli 24. września. Zapisy na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/203875102/" target="_blank">meetupie</a> obowiązkowe!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie sierpniowe - Spring Boot, Angular JS i Bootstrap]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot/"/>
-    <updated>2014-08-25T21:52:32+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot</id>
-    <content type="html"><![CDATA[<p>Najbliższe spotkanie już w środę! Wszystko jest <a href="http://www.meetup.com/Zielona-Gora-JUG/events/198778072/" target="_blank">na meetupie</a> (kto się jeszcze nie zapisał, to ostatni moment), ale dla przypomnienia:</p>
-
-<p>Spotkanie odbędzie się 27. sierpnia 2014, w <a href="http://www.pubbarcelona.pl/" target="_blank">Barcelonie</a>. Głównym sponsorem jest firma <a href="http://www.astec.net/pl/" target="_blank">ASTEC</a>, który finansuje napoje, a dodatkowo będzie można wygrać kupon na dowolnie wybraną książkę branżową w Amazonie od <a href="http://softwaremill.com/" target="_blank">SoftwareMill</a>.</p>
-
-<!-- more -->
-
-
-<p>Plan jest taki:</p>
-
-<ol>
-<li><p>Przedstawienie sponsora - Tomek Łączkowski opowie o firmie ASTEC</p></li>
-<li><p>Spring Boot - Mirek Szajowski opowie i pokaże na żywo jak łatwo i szybko stworzyć aplikację opartą o Spring Framework</p></li>
-<li><p>AngularJS + Bootstrap - Po przerwie zobaczymy jak stworzyć frontend do serwisów restowych stworzonej w pierwszej części</p></li>
-<li><p>Parę słów o SoftwareMill od Magdy Stożek i rozlosowanie kuponu na książkę</p></li>
-<li><p>After party - piwo i dyskusje, hamburgery i pogaduszki</p></li>
-</ol>
-
-
-<p>Do zobaczenia!</p>
 ]]></content>
   </entry>
   
