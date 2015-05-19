@@ -10,6 +10,8 @@ Już jutro zapraszamy na kolejne spotkanie ZG JUG. Choć zazwyczaj spotykamy s
 
 [{% img center /images/streamsoft.png Streamsoft %}](http://streamsoft.pl)
 
+<!-- more -->
+
 ## Paweł Stawicki "<a href="http://akka.io/" target="_blank">Akka</a> - programowanie wielowątkowe bez bólu"
 
 > Dawno dawno temu, komputery nie miały wielu rdzeni. Każdy domowy komputer miał jeden procesor, a w nim jeden rdzeń. Nie było możliwe wykonywanie wielu operacji jednocześnie, toteż mało kto przejmował się programowaniem wielowątkowym. Później, kiedy pojawiła się taka potrzeba, starożytni do synchronizacji wątków używali sekcji krytycznych, semaforów, monitorów, blokad i innych potworów. Potwory te miały tę wadę, że ciężko było je oswoić, ciężko było przewidzieć ich zachowanie i zdarzało się, że ugryzły właściciela w najmniej odpowiednim momencie.
