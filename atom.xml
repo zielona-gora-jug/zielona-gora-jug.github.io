@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-05-19T22:33:52+02:00</updated>
+  <updated>2015-05-27T22:04:51+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania majowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego/"/>
+    <updated>2015-05-27T21:12:02+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego</id>
+    <content type="html"><![CDATA[<p>Spotkanie majowe odbyło się 20.05.2015 i było sponsorowane przez firmę <a href="http://streamsoft.pl/" target="_blank">Streamsoft</a>.</p>
+
+<p><a href="http://streamsoft.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/streamsoft.png" title="Streamsoft" ></a></p>
+
+<p>Było super! Najpierw Mirek Szajowski pokazał narzędzia, które pozwalają oszczędzić nerwów po wdrożeniu aplikacji na produkcję. Pierwszym rozwiązaniem jest <a href="https://www.elastic.co/products/logstash" target="_blank">logstash</a> i <a href="https://www.elastic.co/products/kibana" target="_blank">kibana</a> - logstash agreguje logi, a kibana pozwala je wygodnie przeglądać, filtrować, prezentować na dashboardzie za pomocą wykresów, i analizować na wszelkie możliwe sposoby. Innym ciekawym narzędziem jest <a href="https://www.takipi.com/" target="_blank">takipi</a>, które w momencie wystąpienia wyjątku na produkcji zapisuje cały stan aplikacji - wartości zmiennych, wywoływane funkcje itp, co bardzo ułatwia znalezienie przyczyny błędu. Zajrzyjcie do slajdów: <a href="http://zielona-gora-jug.github.io/files/wdrozenia.pdf" target="_blank">Jak wdrożyć i nie zwariować</a>.</p>
+
+<!-- more -->
+
+
+<p>Potem Paweł Stawicki pokazał <a href="http://akka.io/" target="_blank">Akkę</a> i programowanie wielowątkowe na aktorach. W prezentacji opartej głównie na przykładach zobaczyliśmy różne konfiguracje aktorów, sposoby użycia do różnych rodzajów zadań, oraz jak w tak rozproszonym środowisku podejść do obsługi błędów. Każdy z przykładów dzielił zadanie, jakim było narysowanie fraktala, pomiędzy aktory, i każdy rysował się w trochę inny sposób, w zależności od architektury przykładu! Na koniec była ciekawa dyskusja i wiele pytań z publiczności. Wszystkie przykłady dostępne są w projekcie na githubie: <a href="https://github.com/zielona-gora-jug/akka-pres-src" target="_blank">akka-pres-src</a>, są też slajdy: <a href="amorfis.github.io/akka-pres/" target="_blank">Akka - concurrent programming without the pain</a>.</p>
+
+<p>A już jutro widzimy się na <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">Google I/O Extended</a>!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie majowe - Akka i wdrożenia]]></title>
@@ -474,37 +494,6 @@ W połowie tej sesji pojawiło się niezapowiedziane utrudnienie - zamiana kompu
 <p>Jak to działa?</p>
 
 <p>Każdy, kto zobowiąże się do napisania recenzji, może otrzymać na własność darmowy egzemplarz wybranej książki w zamian za recenzję. Książkę do recenzji można wybrać dowolną z oferty wydawnictwa (przy czym Manning oferuje w tym przypadku tylko ebooki, a O&#8217;Reilly - zarówno ebooki jak i książki papierowe), następnie zgłosić chęć w odpowiednim <a href="https://groups.google.com/forum/?hl=pl#!topic/zielona-gora-jug/rf8vRNltjdw" target="_blank">wątku</a> na grupie dyskusyjnej. Wybór zgłaszamy do wydawnictwa, które udostępnia recenzentowi ebooka lub wysyła książkę. Po przeczytaniu książki, recenzję można opublikować na <a href="http://jug.zgora.pl">blogu Zielona Góra JUG</a>, Amazonie lub własnym blogu. Dajemy znać wydawnictwu, że recenzja jest gotowa i podsyłamy linka. Recenzja musi być po angielsku.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie wrześniowe - TDD i code kata]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/"/>
-    <updated>2014-09-10T20:44:40+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata</id>
-    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiego JUGa, które odbędzie się 24. września o godz. 19:00. Zapisy na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/203875102/" target="_blank">meetupie</a> (liczba miejsc ograniczona). Miejsce ogłosimy wkrótce - przeniesiemy się z Barcelony do trochę większej sali. Ale bez obaw, piwo też będzie, a to dzięki sponsorowi - firmie <a href="http://www.streamsoft.pl/" target="_blank">Streamsoft</a>.</p>
-
-<p>Tym razem nie poznamy żadnych nowych narzędzi ani frameworków, za to będzie software craftsmanship w praktyce:</p>
-
-<h2>Bo programowanie jest od tego, żeby bawić się na całego - TDD i code kata</h2>
-
-<p>Czy lubisz, gdy Twój kod działa? Jesteś uzależniony od uczucia jakie towarzyszy uruchomieniu kodu i stwierdzeniu, że kod DZIAŁA DOBRZE? Chciałbyś czuć tę adrenalinę jak najczęściej? Jeśli tak, to mam dla Ciebie rozwiązanie: poznaj Test Driven Development i zacznij bawić się kodowaniem!</p>
-
-<!-- more -->
-
-
-<p>Podczas tej prezentacji poznasz:</p>
-
-<ul>
-<li><p>zasady TDD,</p></li>
-<li><p>cykl Red, Green, Refactor,</p></li>
-<li><p>code kata.</p></li>
-</ul>
-
-
-<p>Głównym punktem prezentacji będzie live coding session, prezentujący praktyczny przykład użycia TDD w formie code kata. Dzięki zastosowaniu code kata poznamy także sposób w jaki można ćwiczyć swoją integrację z IDE i przyspieszyć pisanie kodu.</p>
-
-<p>Prezentację poprowadzi Mateusz Kruszewski z <a href="http://www.asinit.com/" target="_blank">Asinit</a>.</p>
 ]]></content>
   </entry>
   
