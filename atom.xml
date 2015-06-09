@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-05-27T22:04:51+02:00</updated>
+  <updated>2015-06-09T22:45:55+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenie na konferencję Codepot]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/06/09/codepot/"/>
+    <updated>2015-06-09T22:13:53+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/06/09/codepot</id>
+    <content type="html"><![CDATA[<p>Miło nam ogłosić, że jesteśmy jako ZG JUG partnerami konferencji <a href="https://codepot.pl/" target="_blank">Codepot</a>.</p>
+
+<p><a href="http://codepot.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/codepot-logo-rectangle.png" width="365" height="135" title="Codepot" ></a></p>
+
+<p>Odbywa się ona 28-29 sierpnia w Warszawie, i jest to konferencja wyjątkowa, bo składająca się wyłącznie z warsztatów. Oto informacje od organizatorów:</p>
+
+<blockquote><p>Codepot to konferencja przeznaczona dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i doświadczeniami.</p></blockquote>
+
+<!-- more -->
+
+
+<p></p>
+
+<blockquote><p>Obecnie trwa Call4Papers, gdzie otrzymaliśmy już sporo zgłoszeń z różnych fajnych dziedzin. Spędzamy dużo czasu na dyskusjach kogo zaakceptować, a kogo nie. Nie zwlekajcie i jak najszybciej zgłaszajcie się na <a href="https://codepot.pl/call-for-papers.">https://codepot.pl/call-for-papers.</a> Im szybciej się zgłosicie, tym szybciej zostaniecie pokazani na stronie.</p></blockquote>
+
+<!-- -->
+
+
+<blockquote><p>Konferencja składa się z 72 warsztatów prowadzonych przez ekspertów. Planujemy zaprosić około 350 uczestników. Każdego dnia uczestnik będzie mógł wziąć udział w dwóch dogłębnych warsztatach technicznych. Po przerwie obiadowej przewidujemy warsztaty zwane miękkimi, tak żeby na kolejny warsztat techniczny przyjść zrelaksowanym i wypoczętym.</p></blockquote>
+
+<!-- -->
+
+
+<blockquote><p>Konferencja będzie płatna, ale symbolicznie, w celu motywowania ludzi do przychodzenia na warsztaty. W zasadzie cena pokryje koszt dwóch lunchy, oraz prezentu dla uczestnika. Można traktować tą imprezę jako wydarzenie darmowe. Rejestracja nie jest dostępna, ponieważ ją implementujemy - ale jesteśmy już na finiszu. Można śmiało powiedzieć - by developers for developers.</p></blockquote>
+
+<!-- -->
+
+
+<blockquote><p>Zapraszamy do śledzenia naszego kanału na twitter <a href="https://twitter.com/codepot_pl" target="_blank">@codepot_pl</a> oraz na <a href="https://www.facebook.com/pages/Codepot/397791273715096" target="_blank">Facebooku</a>, gdzie zawsze znajdziecie świeże informacje. Zapraszamy również do <a href="http://www.meetup.com/Warsaw-Codepoters/" target="_blank">grupy na meetupie</a>. Zapisując się do tej grupy, macie możliwość wzięcia udziału w spotkaniach na żywo (najbliższe 10 czerwca) i podyskutowania o najnowszych technologiach oraz do wygrania biletów na inne konferencje, np. Devoxx.pl.</p></blockquote>
+
+<p>I na koniec jeszcze jedna dobra wiadomość - każdy uczestnik ZG JUG będzie mógł otrzymać 20% zniżki przy otwieranej wkrótce rejestracji:)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania majowego]]></title>
@@ -452,48 +491,6 @@ W połowie tej sesji pojawiło się niezapowiedziane utrudnienie - zamiana kompu
 <p>Zaczynaliśmy w lipcu, a tymczasem już październik, wakacje się skończyły i jest nas coraz więcej. I o to chodzi! Jednak aby zachować konwencję spotkań w pubie przy piwie i w trosce o komfort uczestników, niezbędne jest wprowadzenie limitu osób - dlatego na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/209310412/" target="_blank">meetupie</a> pojawiła się lista oczekująca. Serdecznie zapraszamy wszystkich zapisanych, jeśli natomiast ktoś zapisał się dawno temu, a teraz wie, że jednak nie przyjdzie, prosimy o zmianę RSVP, tak aby zwolniło się miejsce dla oczekujących.</p>
 
 <p>Na spotkaniu, oprócz ciekawych prezentacji i dobrego piwa, czekają również niespodzianki od nowych sponsorów. W tym miesiącu nawiązaliśmy współpracę z nowymi partnerami - branżowymi wydawnictwami <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>, a także z <a href="http://jetbrains.com/" target="_blank">JetBrains</a> - twórcą takich narzędzi jak IntelliJ IDEA, RubyMine i WebStorm. W związku z tym, od tej pory na każdym spotkaniu będziemy mieć kilka ebooków i licencji do rozdania. Część z nich rozdamy prelegentom, aby nagrodzić trud przygotowania prezentacji, a resztę rozlosujemy wśród uczestników zarejestrowanych na dane spotkanie na meetupie pełnym imieniem i nazwiskiem.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Współpraca z O'Reilly i Manning Publications]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications/"/>
-    <updated>2014-10-10T22:16:28+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications</id>
-    <content type="html"><![CDATA[<p>Miło nam ogłosić, że do grona naszych partnerów dołączają dwa wydawnictwa: O&#8217;Reilly i Manning Publications! Oto szczegóły współpracy:</p>
-
-<h2>O&#8217;Reilly</h2>
-
-<h2><img class="center" src="http://zielona-gora-jug.github.io/images/oreilly.gif"></h2>
-
-<ul>
-<li>40% zniżki na książki papierowe i 50% na ebooki na <a href="http://www.oreilly.com" target="_blank">oreilly.com</a>. Aby otrzymać zniżkę, należy podać kod &lsquo;PCBW&rsquo;.</li>
-<li>recenzyjne egzemplarze książek O&#8217;Reilly i ebooków w Early Release (co umożliwia dostęp do książek o nowych technologiach, podczas gdy są one jeszcze pisane) w zamian za recenzje. Egzemplarze recenzyjne dostępne są także dla partnerów O&#8217;Reilly: Maker Media, No Starch, Pragmatic Bookshelf, Rocky Nook i SitePoint</li>
-<li>darmowe książki w ramach materiałów promocyjnych</li>
-<li>zniżki na konferencje O&#8217;Reilly</li>
-</ul>
-
-
-<!-- more -->
-
-
-<h2>Manning Publications</h2>
-
-<h2><img class="center" src="http://zielona-gora-jug.github.io/images/manning.jpg"></h2>
-
-<ul>
-<li>na każdym spotkaniu losowany będzie ebook tematycznie związany ze spotkaniem (wśród uczestników zarejestrowanych na <a href="http://www.meetup.com/Zielona-Gora-JUG/" target="_blank">meetupie</a> imieniem i nazwiskiem)</li>
-<li>recenzyjne egzemplarze ebooków</li>
-<li>36% zniżki na książki na <a href="http://manning.com" target="_blank">manning.com</a>. Przy zakupie należy podać kod promocyjny &lsquo;ug367&rsquo;</li>
-<li>oferty dnia, które można śledzić na twitterze <a href="http://twitter.com/ManningDOTD" target="_blank">@ManningDOTD</a></li>
-</ul>
-
-
-<h2>Egzemplarze recenzyjne</h2>
-
-<p>Jak to działa?</p>
-
-<p>Każdy, kto zobowiąże się do napisania recenzji, może otrzymać na własność darmowy egzemplarz wybranej książki w zamian za recenzję. Książkę do recenzji można wybrać dowolną z oferty wydawnictwa (przy czym Manning oferuje w tym przypadku tylko ebooki, a O&#8217;Reilly - zarówno ebooki jak i książki papierowe), następnie zgłosić chęć w odpowiednim <a href="https://groups.google.com/forum/?hl=pl#!topic/zielona-gora-jug/rf8vRNltjdw" target="_blank">wątku</a> na grupie dyskusyjnej. Wybór zgłaszamy do wydawnictwa, które udostępnia recenzentowi ebooka lub wysyła książkę. Po przeczytaniu książki, recenzję można opublikować na <a href="http://jug.zgora.pl">blogu Zielona Góra JUG</a>, Amazonie lub własnym blogu. Dajemy znać wydawnictwu, że recenzja jest gotowa i podsyłamy linka. Recenzja musi być po angielsku.</p>
 ]]></content>
   </entry>
   
