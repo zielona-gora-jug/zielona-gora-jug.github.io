@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Zaproszenie na konferencję Codepot"
+date: 2015-06-09 22:13:53 +0200
+comments: true
+categories: 
+author: Magda Stożek
+---
+Miło nam ogłosić, że jesteśmy jako ZG JUG partnerami konferencji <a href="https://codepot.pl/" target="_blank">Codepot</a>. 
+
+[{% img center /images/codepot-logo-rectangle.png 365 135 Codepot %}](http://codepot.pl)
+
+Odbywa się ona 28-29 sierpnia w Warszawie, i jest to konferencja wyjątkowa, bo składająca się wyłącznie z warsztatów. Oto informacje od organizatorów:
+
+> Codepot to konferencja przeznaczona dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i doświadczeniami.
+
+<!-- more --> 
+
+> Obecnie trwa Call4Papers, gdzie otrzymaliśmy już sporo zgłoszeń z różnych fajnych dziedzin. Spędzamy dużo czasu na dyskusjach kogo zaakceptować, a kogo nie. Nie zwlekajcie i jak najszybciej zgłaszajcie się na https://codepot.pl/call-for-papers. Im szybciej się zgłosicie, tym szybciej zostaniecie pokazani na stronie. 
+ 
+<!-- -->
+
+> Konferencja składa się z 72 warsztatów prowadzonych przez ekspertów. Planujemy zaprosić około 350 uczestników. Każdego dnia uczestnik będzie mógł wziąć udział w dwóch dogłębnych warsztatach technicznych. Po przerwie obiadowej przewidujemy warsztaty zwane miękkimi, tak żeby na kolejny warsztat techniczny przyjść zrelaksowanym i wypoczętym. 
+
+<!-- -->
+
+> Konferencja będzie płatna, ale symbolicznie, w celu motywowania ludzi do przychodzenia na warsztaty. W zasadzie cena pokryje koszt dwóch lunchy, oraz prezentu dla uczestnika. Można traktować tą imprezę jako wydarzenie darmowe. Rejestracja nie jest dostępna, ponieważ ją implementujemy - ale jesteśmy już na finiszu. Można śmiało powiedzieć - by developers for developers. 
+
+<!-- -->
+
+> Zapraszamy do śledzenia naszego kanału na twitter <a href="https://twitter.com/codepot_pl" target="_blank">@codepot_pl</a> oraz na <a href="https://www.facebook.com/pages/Codepot/397791273715096" target="_blank">Facebooku</a>, gdzie zawsze znajdziecie świeże informacje. Zapraszamy również do <a href="http://www.meetup.com/Warsaw-Codepoters/" target="_blank">grupy na meetupie</a>. Zapisując się do tej grupy, macie możliwość wzięcia udziału w spotkaniach na żywo (najbliższe 10 czerwca) i podyskutowania o najnowszych technologiach oraz do wygrania biletów na inne konferencje, np. Devoxx.pl.
+
+I na koniec jeszcze jedna dobra wiadomość - każdy uczestnik ZG JUG będzie mógł otrzymać 20% zniżki przy otwieranej wkrótce rejestracji:)
