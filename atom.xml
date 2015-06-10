@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-06-09T23:20:41+02:00</updated>
+  <updated>2015-06-10T09:35:30+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -58,8 +58,6 @@
     <updated>2015-05-27T21:12:02+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego</id>
     <content type="html"><![CDATA[<p>Spotkanie majowe odbyło się 20.05.2015 i było sponsorowane przez firmę <a href="http://streamsoft.pl/" target="_blank">Streamsoft</a>.</p>
-
-<p><a href="http://streamsoft.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/streamsoft.png" title="Streamsoft" ></a></p>
 
 <p>Było super! Najpierw Mirek Szajowski pokazał narzędzia, które pozwalają oszczędzić nerwów po wdrożeniu aplikacji na produkcję. Pierwszym rozwiązaniem jest <a href="https://www.elastic.co/products/logstash" target="_blank">logstash</a> i <a href="https://www.elastic.co/products/kibana" target="_blank">kibana</a> - logstash agreguje logi, a kibana pozwala je wygodnie przeglądać, filtrować, prezentować na dashboardzie za pomocą wykresów, i analizować na wszelkie możliwe sposoby. Innym ciekawym narzędziem jest <a href="https://www.takipi.com/" target="_blank">takipi</a>, które w momencie wystąpienia wyjątku na produkcji zapisuje cały stan aplikacji - wartości zmiennych, wywoływane funkcje itp, co bardzo ułatwia znalezienie przyczyny błędu. Zajrzyjcie do slajdów: <a href="http://zielona-gora-jug.github.io/files/wdrozenia.pdf" target="_blank">Jak wdrożyć i nie zwariować</a>.</p>
 
