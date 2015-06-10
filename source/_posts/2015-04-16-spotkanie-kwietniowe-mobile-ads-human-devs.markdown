@@ -8,7 +8,7 @@ categories:
 ---
 Kolejny miesiąc i niemniej ciekawe tematy. Tym razem 29 kwietnia przy wsparciu firmy <a href="http://rec-global.com" target="_blank">REC Global</a> zapraszamy wszystkich zainteresowanych na spotkanie w zaprzyjaźnionym pubie Haust.
 
-[{% img center /images/rec.jpg REC Global %}](http://rec-global.com)
+[{% img center /images/rec.png REC Global %}](http://rec-global.com)
 
 <!-- more -->
 
