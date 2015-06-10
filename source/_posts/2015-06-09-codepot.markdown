@@ -16,7 +16,7 @@ Odbywa się ona 28-29 sierpnia w Warszawie, i jest to konferencja wyjątkowa, b
 
 <!-- more --> 
 
-> Obecnie trwa Call4Papers, gdzie otrzymaliśmy już sporo zgłoszeń z różnych fajnych dziedzin. Spędzamy dużo czasu na dyskusjach kogo zaakceptować, a kogo nie. Nie zwlekajcie i jak najszybciej zgłaszajcie się na https://codepot.pl/call-for-papers. Im szybciej się zgłosicie, tym szybciej zostaniecie pokazani na stronie. 
+> Obecnie trwa <a href="https://codepot.pl/call-for-papers" target="_blank">Call4Papers</a>, gdzie otrzymaliśmy już sporo zgłoszeń z różnych fajnych dziedzin. Spędzamy dużo czasu na dyskusjach kogo zaakceptować, a kogo nie. Nie zwlekajcie - im szybciej się zgłosicie, tym szybciej zostaniecie pokazani na stronie. 
  
 <!-- -->
 
