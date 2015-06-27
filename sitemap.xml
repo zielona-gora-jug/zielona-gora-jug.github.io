@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2015/06/27/google-io-2015-podsumowanie/</loc>
+    <lastmod>2015-06-27T22:27:22+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2015/06/09/codepot/</loc>
+    <lastmod>2015-06-09T22:13:53+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego/</loc>
+    <lastmod>2015-05-27T21:12:02+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2015/05/19/spotkanie-majowe-akka-i-wdrozenia/</loc>
+    <lastmod>2015-05-19T21:53:50+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2015/05/19/podsumowanie-spotkania-kwietniowego/</loc>
+    <lastmod>2015-05-19T21:40:02+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/04/16/spotkanie-kwietniowe-mobile-ads-human-devs/</loc>
     <lastmod>2015-04-16T23:51:55+02:00</lastmod>
   </url>
