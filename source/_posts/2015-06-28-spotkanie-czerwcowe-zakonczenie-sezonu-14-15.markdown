@@ -24,6 +24,6 @@ Czy potraficie sobie wyobrazić najbardziej znane na świecie API do baz danych 
 
 Drugim prelegentem będzie Paweł Nowak, który zaprezentuje społeczności ExtJS, rzadziej używanego ale bardzo bogatego frameworka służącego do tworzenia aplikacji JavaScript. W odróżnieniu od wielu konkurentów, twórcy Ext JS przywiązują dużą wagę do wyglądu kontrolek UI i tworzenia aplikacji z przyjaznym interfejsem użytkownika. W trakcie prezentacji przedstawione będą podstawowe cechy Ext JS oraz zastosowania. Porównamy go także z innymi dostępnymi rozwiązaniami.
 
-Więcej zapisy i szczegółowy plan spotkania na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/223022048/" target="_blank">meetupie</a>.
+Zapisy i szczegółowy plan spotkania na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/223022048/" target="_blank">meetupie</a>.
 
 Zapraszamy !
