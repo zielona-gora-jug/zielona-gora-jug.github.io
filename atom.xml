@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-06-28T09:46:01+02:00</updated>
+  <updated>2015-06-30T21:49:08+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -14,11 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Spotkanie czerwcowe - zakończenie sezonu 2014 / 2015]]></title>
+    <title type="html"><![CDATA[Spotkanie czerwcowe - zakończenie sezonu 2014/2015]]></title>
     <link href="http://zielona-gora-jug.github.io/blog/2015/06/28/spotkanie-czerwcowe-zakonczenie-sezonu-14-15/"/>
     <updated>2015-06-28T09:10:29+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2015/06/28/spotkanie-czerwcowe-zakonczenie-sezonu-14-15</id>
-    <content type="html"><![CDATA[<p>Już za kilka dni kolejne spotkanie lokalnej społeczności programistów Java. Tym razem zorganizowane będzie przy wsparciu firmy ADB, standardowo w zaprzyjaźnionym pubie Haust. Ze względu na nadchodzący okres letnio-wakacyjny, będzie to jednocześnie spotkanie podsumowujące sezon 2014 / 2015. Liczymy na konstruktywną dyskusję dotyczącą tego co było fajne ? co było złe ? co można poprawić ? jakieś nowe pomysły ?</p>
+    <content type="html"><![CDATA[<p>Już za kilka dni kolejne spotkanie lokalnej społeczności programistów Java. Tym razem zorganizowane będzie przy wsparciu firmy ADB, standardowo w zaprzyjaźnionym pubie Haust. Ze względu na nadchodzący okres letnio-wakacyjny, będzie to jednocześnie spotkanie podsumowujące sezon 2014/2015. Liczymy na konstruktywną dyskusję: co było fajne? co było złe? co można poprawić? jakieś nowe pomysły?</p>
 
 <p><a href="http://adbglobal.com"><img class="center" src="http://zielona-gora-jug.github.io/images/adb.png" title="ADB" ></a></p>
 
@@ -29,17 +29,18 @@
 
 <p>Kontener heterogeniczny (różnorodny) z silnym typowaniem jest to pojemnik, który potrafi przechowywać różne elementy. Pobieranie elementów z takiego kontenera nie wymaga rzutowania. Czyli jest możliwe takie zawołanie:</p>
 
-<p>String value1 = map.get(key1);
-String value2 = map.get(key2);
-Integer value3 = map.get(key3);</p>
+<pre><code>String value1 = map.get(key1); 
+String value2 = map.get(key2); 
+Integer value3 = map.get(key3); 
+</code></pre>
 
-<p>Czy potraficie sobie wyobrazić najbardziej znane na świecie API do baz danych JDBC ResultSet, które zamiast metod getDate(), getString() itd posiada tylko jedną metodę get() ???</p>
+<p>Czy potraficie sobie wyobrazić najbardziej znane na świecie API do baz danych JDBC ResultSet, które zamiast metod getDate(), getString() itd. posiada tylko jedną metodę get() ?</p>
 
-<p>Drugim prelegentem będzie Paweł Nowak, który zaprezentuje społeczności ExtJS, rzadziej używanego ale bardzo bogatego frameworka służącego do tworzenia aplikacji JavaScript. W odróżnieniu od wielu konkurentów, twórcy Ext JS przywiązują dużą wagę do wyglądu kontrolek UI i tworzenia aplikacji z przyjaznym interfejsem użytkownika. W trakcie prezentacji przedstawione będą podstawowe cechy Ext JS oraz zastosowania. Porównamy go także z innymi dostępnymi rozwiązaniami.</p>
+<p>Drugim prelegentem będzie Paweł Nowak, który zaprezentuje społeczności ExtJS, rzadziej używany, ale bardzo bogaty frameworka służący do tworzenia aplikacji JavaScript. W odróżnieniu od wielu konkurentów, twórcy Ext JS przywiązują dużą wagę do wyglądu kontrolek UI i tworzenia aplikacji z przyjaznym interfejsem użytkownika. W trakcie prezentacji przedstawione będą podstawowe cechy Ext JS oraz zastosowania. Porównamy go także z innymi dostępnymi rozwiązaniami.</p>
 
 <p>Zapisy i szczegółowy plan spotkania na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/223022048/" target="_blank">meetupie</a>.</p>
 
-<p>Zapraszamy !</p>
+<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
@@ -53,12 +54,12 @@ Integer value3 = map.get(key3);</p>
 </center>
 
 
-<p>Czas na krótkie podsumowanie pierwszego w naszym mieście Google I/O Extended. Pomysł przedsięwzięcia zainicjowany został przez Tomka Wartarskiego, który kilkakrotnie uczestniczył w podobnych spotkaniach w Poznaniu&hellip; dlaczegoby nie zorganizować równie fajnej imprezy w Zielonej Górze ? Potencjał jest, możliwości są !</p>
+<p>Czas na krótkie podsumowanie pierwszego w naszym mieście Google I/O Extended. Pomysł przedsięwzięcia zainicjowany został przez Tomka Wartalskiego, który kilkakrotnie uczestniczył w podobnych spotkaniach w Poznaniu&hellip; dlaczego by nie zorganizować równie fajnej imprezy w Zielonej Górze? Potencjał jest, możliwości są!</p>
 
 <!-- more -->
 
 
-<p>Na horyzoncie pojawiła się pomoc ze strony firmy ADB, która zadbała o wyśmienity katering, przekąski, napoje, drobne upominki, Uniewersytetu Zielonogórskiego, gdzie spotkanie miało miejsce oraz Jaceka Wojnarowskiego, który w przerwach między wykładami &ldquo;podrzucał&rdquo; dobry, muzyczny podkład.</p>
+<p>Na horyzoncie pojawiła się pomoc ze strony firmy ADB, która zadbała o wyśmienity catering, przekąski, napoje, drobne upominki, Uniwersytetu Zielonogórskiego, gdzie spotkanie miało miejsce oraz Jacka Wojnarowskiego, który w przerwach między wykładami &ldquo;podrzucał&rdquo; dobry, muzyczny podkład.</p>
 
 <center>
 <img src="http://zielona-gora-jug.github.io/images/IO_2.jpg" title="Google IO Extended hall" >
@@ -72,7 +73,7 @@ Integer value3 = map.get(key3);</p>
 </center>
 
 
-<p>Wszystko w zawrotnym tempie, wszystko gra ! Otwieramy rejestrację i obserwujemy przyrost zainteresowanych osób, których finalna liczba podczas spotkania wyniosła 70. Rozpoczęcie. Tomek na scenie, wprowadza w rozkład jazdy, kolejno Magda informuje że spotkanie organizowane jest pod dowództwem Java User Group Zielona Góra oraz zaprasza Katarzynę Sawkę do zaprezentowania firmy ADB, w formie kolorowej, humorystycznej infografiki&hellip;</p>
+<p>Wszystko w zawrotnym tempie, wszystko gra! Otwieramy rejestrację i obserwujemy przyrost zainteresowanych osób, których finalna liczba podczas spotkania wyniosła 70. Rozpoczęcie. Tomek na scenie, wprowadza w rozkład jazdy, następnie Magda informuje że spotkanie organizowane jest pod dowództwem Zielona Góra Java User Group oraz zaprasza Katarzynę Sawkę do zaprezentowania firmy ADB, w formie kolorowej, humorystycznej infografiki&hellip;</p>
 
 <center>
 <img src="http://zielona-gora-jug.github.io/images/IO_3.jpg" title="Google IO Extended pizza" >
@@ -81,17 +82,18 @@ Integer value3 = map.get(key3);</p>
 
 <p>Wielkie dzięki dla Macieja Zająca z AMB Software, który zechciał przygotować dla nas pierwszą ciekawą przezentację nt. zeszłorocznego wyjazdu do Doliny Krzemowej i kompleksu Google.</p>
 
-<p>Godzina zero, czas uruchomić strumień wideo, Tomek za sterami, gasną światła, konferencję czas zacząć. Ogłaszane są kolejne nowinki Google, szepty coraz głośniejsze, niektórzy skrupulatnie notują poszczególne zagadnienia. Pierwsza przerwa i kolejne, niekończące się dyskusje, śmiechy, integracja, ludzie związani z lokalnym rynkim IT chyba dobrze się bawią ?! &hellip; gry i zabawy, walka o gadżety i kawałki smacznej pizzy, która dojechała po upływie połowy zaplanowanego na spotkanie czasu, w liczbie 26 opakowań, wersja &ldquo;rodzinna&rdquo;! &hellip; i tak do godziny 24, gdy ostatni słuchacze opuszczają salę :-)</p>
+<p>Godzina zero, czas uruchomić strumień wideo, Tomek za sterami, gasną światła, konferencję czas zacząć. Ogłaszane są kolejne nowinki Google, szepty coraz głośniejsze, niektórzy skrupulatnie notują poszczególne zagadnienia. Pierwsza przerwa i kolejne, niekończące się dyskusje, śmiechy, integracja, ludzie związani z lokalnym rynkim IT chyba dobrze się bawią&hellip; gry i zabawy, walka o gadżety i kawałki smacznej pizzy, która dojechała po upływie połowy zaplanowanego na spotkanie czasu, w liczbie 26 opakowań, wersja &ldquo;rodzinna&rdquo;! &hellip; i tak do godziny 24, gdy ostatni słuchacze opuszczają salę :-)</p>
 
 <center>
 <img src="http://zielona-gora-jug.github.io/images/IO_team.jpg" title="Google IO Extended team" >
 </center>
 
 
-<p>Podsumowując pierwsze w Zielonej Górze Google I/O Extended zdecydowanie można zaliczyć do &ldquo;tych&rdquo; udanych. Po cichu planujemy już kolejne, gdzie lokalni pasjonaci IT będą mogli się spotkać w fajnej atmosferze, aby porozmawiać o branżowych tematach.</p>
+<p>Podsumowując, pierwsze w Zielonej Górze Google I/O Extended zdecydowanie można zaliczyć do udanych. Po cichu planujemy już kolejne, gdzie lokalni pasjonaci IT będą mogli się spotkać w fajnej atmosferze, aby porozmawiać o branżowych tematach.</p>
 
-<p>Zdjęcia dostępne na JUGowym profilu <a href="https://www.flickr.com/photos/zgjug/sets/72157653668120125">Flickr</a>. Dziękujemy za przybycie i pomoc w organizacji !
-Dawid, Magda, Tomek oraz ADB</p>
+<p>Zdjęcia dostępne na JUGowym profilu <a href="https://www.flickr.com/photos/zgjug/sets/72157653668120125">Flickr</a>. Dziękujemy za przybycie i pomoc w organizacji!</p>
+
+<p>Dawid, Magda, Tomek oraz ADB</p>
 ]]></content>
   </entry>
   
@@ -496,7 +498,7 @@ Dawid, Magda, Tomek oraz ADB</p>
 
 
 <ol>
-<li><p>Zwykła sesja na zapoznanie się z problemem.
+<li><p> Zwykła sesja na zapoznanie się z problemem.
 Jak można było się spodziewać, zanim na dobre się rozkręciliśmy, czas się niemiłosiernie skończył.</p></li>
 <li><p>Ping-pong (jedna osoba pisze test, a druga implementację).
 Tu już poszło nam trochę sprawniej - udało się zaimplementować choć trochę logiki.</p></li>

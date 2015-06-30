@@ -1,127 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/06/28/spotkanie-czerwcowe-zakonczenie-sezonu-14-15/</loc>
     <lastmod>2015-06-28T09:10:29+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/06/27/google-io-2015-podsumowanie/</loc>
     <lastmod>2015-06-27T22:27:22+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/06/09/codepot/</loc>
     <lastmod>2015-06-09T22:13:53+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego/</loc>
     <lastmod>2015-05-27T21:12:02+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/05/19/spotkanie-majowe-akka-i-wdrozenia/</loc>
     <lastmod>2015-05-19T21:53:50+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/05/19/podsumowanie-spotkania-kwietniowego/</loc>
     <lastmod>2015-05-19T21:40:02+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/04/16/spotkanie-kwietniowe-mobile-ads-human-devs/</loc>
     <lastmod>2015-04-16T23:51:55+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/04/16/google-io-2015/</loc>
     <lastmod>2015-04-16T12:06:38+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/04/13/podsumowanie-spotkania-marcowego/</loc>
     <lastmod>2015-04-13T21:48:05+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/03/24/spotkanie-marcowe-internet-of-things/</loc>
     <lastmod>2015-03-24T19:39:27+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/02/28/podsumowanie-spotkania-lutowego/</loc>
     <lastmod>2015-02-28T20:42:48+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/02/22/jug-w-eterze/</loc>
     <lastmod>2015-02-22T19:44:15+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/02/10/spotkanie-lutowe-java-7-and-8/</loc>
     <lastmod>2015-02-10T22:52:37+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/02/07/podsumowanie-spotkania-styczniowego-hadoop-i-scala/</loc>
     <lastmod>2015-02-07T14:08:06+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2015/01/11/spotkanie-styczniowe-wstep-do-scali-oraz-hadoopa/</loc>
     <lastmod>2015-01-11T21:54:18+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/12/22/podsumowanie-spotkania-grudniowego/</loc>
     <lastmod>2014-12-22T21:33:54+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/</loc>
     <lastmod>2014-12-14T22:41:34+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/12/11/podsumowanie-spotkania-listopadowego/</loc>
     <lastmod>2014-12-11T21:36:36+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/11/24/spotkanie-listopadowe-haskell-i-google-glass/</loc>
     <lastmod>2014-11-24T21:56:56+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/</loc>
     <lastmod>2014-11-16T20:56:57+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/11/10/global-day-of-code-retreat-2014-w-zielonej-gorze/</loc>
     <lastmod>2014-11-10T13:02:50+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js/</loc>
     <lastmod>2014-10-27T23:02:38+01:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications/</loc>
     <lastmod>2014-10-10T22:16:28+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/</loc>
     <lastmod>2014-09-10T20:44:40+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/09/05/podsumowanie-spotkania-o-spring-boot-i-angularjs/</loc>
     <lastmod>2014-09-05T21:08:10+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/08/25/spotkanie-sierpniowe-spring-boot/</loc>
     <lastmod>2014-08-25T21:52:32+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania/</loc>
     <lastmod>2014-08-19T22:40:41+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/2014/08/10/nowa-strona-zielonogorskiego-JUGa/</loc>
     <lastmod>2014-08-10T13:02:43+02:00</lastmod>
+    <priority>0.8</priority>
   </url>
+  
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
+    <lastmod>2015-06-30T21:49:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/</loc>
+    <lastmod>2015-06-30T21:49:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
   </url>
-  <url>
-    <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
-  </url>
+  
   <url>
     <loc>http://zielona-gora-jug.github.io/leaders/</loc>
+    <lastmod>2015-06-30T21:49:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
+  
+  <url>
+    <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
+    <lastmod>2015-06-30T21:49:08+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  
 </urlset>
