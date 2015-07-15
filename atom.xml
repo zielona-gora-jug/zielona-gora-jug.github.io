@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-06-30T21:49:08+02:00</updated>
+  <updated>2015-07-15T16:34:18+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zakończenie sezonu]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/07/15/zakonczenie-sezonu/"/>
+    <updated>2015-07-15T15:55:00+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/07/15/zakonczenie-sezonu</id>
+    <content type="html"><![CDATA[<p>Zielonogórski JUG zamyka sezon! Ostatnie spotkanie odbyło się 1. lipca 2015 i było sponsorowane przez firmę ADB.</p>
+
+<p>Pierwszą prezentację przygotował Tomek Powchowicz - zaprezentował nam ideę kontenerów heterogicznych, czyli silnie typowanych kolekcji, które mogą przechowywać różne typy obiektów jednocześnie, bez konieczności rzutowania. Zobaczyliśmy przykłady implementacji w Javie i C++, wraz z różnicami wynikającymi ze specyfiki języków. Idea brzmi całkiem ciekawie, choć idealnie byłoby zobaczyć jej implementację gdzieś w akcji.</p>
+
+<p>Drugim prelegentem był Paweł Nowak, który opowiedział o Ext JS. Było to szczegółowe zestawienie zarówno głównych cech i założeń frameworku, jak jego zalet i wad. Wśród korzyści otrzymujemy między innymi bogaty zestaw spójnych kontrolek, gwarancję stabilnego wyglądu i zachowania we wszystkich przeglądarkach, minusem jest jednak wysoka cena oraz słabe wsparcie dla urządzeń mobilnych. Slajdy: <a href="http://zielona-gora-jug.github.io/files/Sencha.pdf" target="_blank">Sencha Ext JS</a></p>
+
+<p>Natomiast w przerwie, jak na spotkanie rocznicowe przystało, pojawił się tort! I to nie zwyczajny, lecz z logo jubilata:</p>
+
+<p><a href="http://zielona-gora-jug.github.io/images/tort.jpg"><img class="center" src="http://zielona-gora-jug.github.io/images/tort.jpg" width="480" height="360" title="Tort urodzinowy ZG JUG" ></a></p>
+
+<p>Dzięki za udany sezon! Współorganizatorom za zaangażowanie, energię i pomysły. Uczestnikom za świetną frekwencję, żywe dyskusje, przyjazną atmosferę. Prelegentom za poświęcony czas, ciekawe tematy i solidne przygotowanie. Sponsorom za wsparcie i pomoc w organizacji.</p>
+
+<p>Widzimy się znowu pod koniec września - śledźcie informacje na <a href="http://jug.zgora.pl">blogu</a>, <a href="https://twitter.com/ZgJUG" target="_blank">twitterze</a> i <a href="http://www.meetup.com/Zielona-Gora-JUG/" target="_blank">meetupie</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie czerwcowe - zakończenie sezonu 2014/2015]]></title>
@@ -482,48 +503,6 @@ Dawid, Magda, Tomek oraz ADB</p>
 <p>W tym miesiącu publiczność zapowiada się wyjątkowo duża, spotkanie odbędzie się więc w dużej sali w <a href="http://www.kawon.zgora.pl/index.php?i2=4" target="_blank">Kawonie</a>. Rejestracja jest darmowa, ale obowiązkowa - i odbywa się jak zwykle na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/218613615/" target="_blank">meetupie</a>. Wśród uczestników spotkania rozlosowane zostaną nagrod od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Losowanie odbędzie się wśród uczestników zarejestrowanych pełnym imieniem i nazwiskiem.</p>
 
 <p>Zapraszamy - są jeszcze wolne miejsca:)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie Global Day of Code Retreat 2014]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/"/>
-    <updated>2014-11-16T20:56:57+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014</id>
-    <content type="html"><![CDATA[<p>Pierwszy Global Day of Code Retreat w Zielonej Górze już za nami! Dziękujemy współorganizatorowi, firmie <a href="http://www.astec.net/pl/" target="_blank">Astec</a>, za stworzenie nam dogodnych warunków do całodniowego programowania. Ale szczególne uznanie należy się uczestnikom, którzy wstali wcześnie rano w sobotę, żeby wspólnie pisać kod, pięć razy rozwiązując to samo zadanie i pięć razy całkowicie kasując wyniki swojej pracy.</p>
-
-<p>Spotkanie poprowadził Mirek Szajowski. Zgodnie z formułą code retreat, mieliśmy kilka różnych 45-minutowych sesji, zakończonych krótkimi retrospektywami, żeby podyskutować o napisanym kodzie i zobaczyć różne podejścia.</p>
-
-<!-- more -->
-
-
-<ol>
-<li><p> Zwykła sesja na zapoznanie się z problemem.
-Jak można było się spodziewać, zanim na dobre się rozkręciliśmy, czas się niemiłosiernie skończył.</p></li>
-<li><p>Ping-pong (jedna osoba pisze test, a druga implementację).
-Tu już poszło nam trochę sprawniej - udało się zaimplementować choć trochę logiki.</p></li>
-<li><p>Sesja poprzedzona 10-minutowym planowaniem na papierze.
-Czy planowanie zaowocowało lepszym kodem? Nie, bo okazało się, że zaplanowaliśmy kompletny system z fajerwerkami, a potem czasu wystarczyło tylko na może 5% projektu.</p></li>
-<li><p>Programowanie bez myszki.
-Było trochę frustracji, ale każdy przyniósł do domu jakiś nowy skrót klawiszowy.</p></li>
-<li><p>Metody nie dłuższe niż 5 linii.
-W połowie tej sesji pojawiło się niezapowiedziane utrudnienie - zamiana komputerów między parami i praca z cudzym kodem. Tu było zabawnie - czasem kompletnie nie było wiadomo, co autor miał na myśli, ale wszyscy zgodnie przyznali, że obecność testów bardzo ułatwiała zrozumienie.</p></li>
-</ol>
-
-
-<p>Co ciekawe, gdy wytłumaczyliśmy zasady spotkania, spontanicznie zawiązał nam się kolejny zespół - panowie Witold Wendrowski i Andrzej Patecki z Asteca odkurzyli nieużywane od 10 lat środowisko do programowania w Smalltalku i też zabrali się za kodowanie. Brawo:) Ale nawet i bez Smalltalka, środowiska były zróżnicowane - Java, Python i Go, a do tego Eclipse, IntelliJ, Vim i Emacs.</p>
-
-<p>Odwiedziła nas również redaktorka zielonogórskiej Gazety Wyborczej, można więc obejrzeć pierwszy medialny występ zielonogórskiego JUGa: <a href="http://zielonagora.gazeta.pl/zielonagora/1,35182,16973093,Programisci_z_calego_swiata_tworza_wspolnie_programy.html" target="_blank">Programiści z całego świata tworzą wspólnie programy</a> :)</p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/gdcr_2014_1.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/gdcr_2014_1.jpeg" width="600" height="300" title="Global Day of Code Retreat" ></a></p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/gdcr_2014_2.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/gdcr_2014_2.jpeg" width="600" height="300" title="Global Day of Code Retreat" ></a></p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/gdcr_2014_3.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/gdcr_2014_3.jpeg" width="600" height="300" title="Global Day of Code Retreat" ></a></p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/gdcr_2014_4.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/gdcr_2014_4.jpeg" width="600" height="300" title="Global Day of Code Retreat" ></a></p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/gdcr_2014_5.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/gdcr_2014_5.jpeg" width="600" height="300" title="Global Day of Code Retreat" ></a></p>
 ]]></content>
   </entry>
   
