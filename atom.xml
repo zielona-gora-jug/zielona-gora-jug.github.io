@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-07-15T16:34:18+02:00</updated>
+  <updated>2015-07-15T16:35:14+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -21,6 +21,9 @@
     <content type="html"><![CDATA[<p>Zielonogórski JUG zamyka sezon! Ostatnie spotkanie odbyło się 1. lipca 2015 i było sponsorowane przez firmę ADB.</p>
 
 <p>Pierwszą prezentację przygotował Tomek Powchowicz - zaprezentował nam ideę kontenerów heterogicznych, czyli silnie typowanych kolekcji, które mogą przechowywać różne typy obiektów jednocześnie, bez konieczności rzutowania. Zobaczyliśmy przykłady implementacji w Javie i C++, wraz z różnicami wynikającymi ze specyfiki języków. Idea brzmi całkiem ciekawie, choć idealnie byłoby zobaczyć jej implementację gdzieś w akcji.</p>
+
+<!-- more -->
+
 
 <p>Drugim prelegentem był Paweł Nowak, który opowiedział o Ext JS. Było to szczegółowe zestawienie zarówno głównych cech i założeń frameworku, jak jego zalet i wad. Wśród korzyści otrzymujemy między innymi bogaty zestaw spójnych kontrolek, gwarancję stabilnego wyglądu i zachowania we wszystkich przeglądarkach, minusem jest jednak wysoka cena oraz słabe wsparcie dla urządzeń mobilnych. Slajdy: <a href="http://zielona-gora-jug.github.io/files/Sencha.pdf" target="_blank">Sencha Ext JS</a></p>
 
