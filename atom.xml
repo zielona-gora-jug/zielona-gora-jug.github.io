@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-07-15T16:35:14+02:00</updated>
+  <updated>2015-10-02T13:12:13+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Film promocyjny Zielona Góra JUG]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/02/film-promocyjny-zielona-gora-jug/"/>
+    <updated>2015-10-02T12:07:40+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/02/film-promocyjny-zielona-gora-jug</id>
+    <content type="html"><![CDATA[<p>Zielona Góra JUG w nowej odsłonie ma już rok - z tej okazji z dumą prezentujemy wam nasz film promocyjny, który pokazuje, kim jesteśmy i jak działamy:
+<br/></p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/NF3wUb_no5U" allowfullscreen></iframe></div>
+
+
+<p><br/></p>
+
+<p>Film zrealizował Krzysztof Bogucki z <a href="https://www.facebook.com/BohaStudioVideo" target="_blank">BOHA Film Studio</a>, a sponsorem muzyki z <a href="https://www.facebook.com/songfreedom" target="_blank">SongFreedom</a> jest <a href="http://www.adbglobal.com/" target="_blank">ADB</a>. Ojcem chrzestnym filmu jest Dawid Maksylewicz. Dziękujemy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenie na konferencję JDD]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/01/zaproszenie-na-konferencje-jdd/"/>
+    <updated>2015-10-01T19:40:19+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/01/zaproszenie-na-konferencje-jdd</id>
+    <content type="html"><![CDATA[<p>12-13 września w Krakowie odbędzie się konferencja <a href="http://15.jdd.org.pl/" target="_blank">JDD</a>. Konferencja odbywa się już od 10 lat, a w tym roku została zorganizowana przy bliskiej współpracy z lokalnymi JUGami. Naszym reprezentantem wśród prelegentów będzie Maciej Schmidt z prezentacją <a href="http://15.jdd.org.pl/agenda/lecture/augmented-reality-kolejna-mobilna-rewolucja/" target="_blank">Augmented reality - kolejna mobilna rewolucja?</a>, która będzie nowszą wersją prezentacji przedstawionej na naszym <a href="http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/">grudniowym spotkaniu</a>. Reprezentanci JUGów będą rywalizować o tytuł JUGmajstra - trzymamy kciuki za Maćka! Do poniedziałku rejestracja jest w niższej cenie, a jako Zielona Góra JUG mamy dla was dodatkowe 30% zniżki. Kod promocyjny do wpisania przy <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=6DA370F515629554D9F2E744725CFB1E" target="_blank">rejestracji</a> to <em>jdd_advisorymate</em>. Do zobaczenia w Krakowie!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rozpoczęcie sezonu - nowości w Javie 9]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/01/nowosci-w-javie-9/"/>
+    <updated>2015-10-01T19:07:15+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/01/nowosci-w-javie-9</id>
+    <content type="html"><![CDATA[<ol>
+<li>września 2015 rozpoczęliśmy nowy sezon w zielonogórskim JUGu. Na spotkaniu sponsorowanym przez <a href="http://www.ocadotechnology.com/" target="_blank">Ocado Technology</a> gościliśmy prelegenta z Krakowa - Arka Sokołowskiego. Temat był tak Javowy, jak tylko się da - Nowości w Javie 9.</li>
+</ol>
+
+
+<p>Po krótkim wprowadzeniu w historię Javy, Arek przedstawił nam listę ulepszeń, które czekają nas za rok - ze szczególnym naciskiem na jshell (Javowy REPL) oraz projekt Jigsaw, czyli modularyzację. Zobaczyliśmy na przykładach, jak będzie wyglądało korzystanie z modułów oraz różne możliwości udostępniania i ukrywania poszczególnych części kodu.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zakończenie sezonu]]></title>
@@ -446,66 +486,6 @@ Dawid, Magda, Tomek oraz ADB</p>
 <p>Nie zabrakło też obowiązkowych punktów programu - losowania ebooków i licencji od sponsorów, oraz dokończenia dyskusji już w nieformalnej atmosferze after party.</p>
 
 <p>Było to kolejne bardzo udane spotkanie zielonogórskiego JUGa, którego obecna edycja ma już pół roku! Przez te sześć miesięcy rozmawialiśmy o najróżniejszych rzeczach (zawsze powtarzam, że formuła JUGa jest bardzo pojemna) - był <a href="http://zielona-gora-jug.github.io/blog/2014/09/05/podsumowanie-spotkania-o-spring-boot-i-angularjs/">back end</a> i <a href="http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js/">front end</a>, były <a href="http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/">dobre praktyki</a>, <a href="http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania/">testowanie i code review</a>, było <a href="http://zielona-gora-jug.github.io/blog/2014/12/11/podsumowanie-spotkania-listopadowego/">programowanie funkcyjne</a>, i było pierwsze w historii zielonogórskie <a href="http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/">code retreat</a>. Całkiem niezły zestaw! Dziękuję wszystkim uczestnikom za obecność i zaangażowanie, a współorganizatorom (Dawid, Mirek, Piotr) za poświęcony czas i świetne pomysły. Mam nadzieję, że 2015 również będzie dla nas rokiem sukcesów - licznej frekwencji, ciekawych prezentacji, ożywionych dyskusji, i generalnie pozytywnego fermentu:) Do zobaczenia w styczniu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie grudniowe - Augmented Reality i Rich Client Platform]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/"/>
-    <updated>2014-12-14T22:41:34+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp</id>
-    <content type="html"><![CDATA[<p>Kolejne spotkanie zielonogórskiego JUG&#8217;a już w najbliższą środę 17 grudnia, w pubie <a href="http://www.4roze.pl/" target="_blank">4 Róże dla Lucienne</a>. Startujemy o godzinie 19! Trzeci raz z rzędu, ponownie spotkanie zrealizowane będzie przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> :)</p>
-
-<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
-
-<!-- more -->
-
-
-<p>Tym razem Maciej Schmidt z firmy <a href="http://maskom.pl/" target="_blank">MASKOM</a> zaprezentuje nam magiczne Augmented Reality (Rzeczywistość Rozszerzoną). Co skrywa w sobie ta technologia? Jakie są jej możliwości? Praktyczne zastosowanie w biznesie? Jak zintegrować AR z powszechnie używanymi urządzeniami mobilnymi? Jakie są perspektywy rozwoju? Macieju czekamy na obiecane świąteczne demo! Następnie Radosław Stachowiak zgłębi temat pisania aplikacji klienckich w oparciu o najnowszą, czwartą wersję Eclipse Rich Client Platform. Liczymy że dzięki Radkowi, każdy z nas dojdzie do wniosku iż warto porzucić &ldquo;e3&rdquo; i zacząć kodować w &ldquo;e4&rdquo;&hellip; :-)</p>
-
-<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/219060956/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania o Haskellu i Google Glass]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/12/11/podsumowanie-spotkania-listopadowego/"/>
-    <updated>2014-12-11T21:36:36+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/12/11/podsumowanie-spotkania-listopadowego</id>
-    <content type="html"><![CDATA[<p>Czas na krótkie podsumowanie listopadowego spotkania. Odbyło się ono 26. listopada i było sponsorowane przez firmę <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>. Tematy były dwa - Haskell i Google Glass, oba przedstawiane przez Michała Starucha z Cinckiarz.pl.</p>
-
-<p>Zaczęliśmy od <a href="https://www.haskell.org/haskellwiki/Haskell" target="_blank">Haskella</a>, jako że był to temat wymagający więcej skupienia. Michał zrobił bardzo solidne wprowadzenie do języka - od podstaw składni po bardziej skomplikowane rzeczy. Zobaczyliśmy kilka ciekawych kawałków składni, dowiedzieliśmy się, jak to możliwe, że Haskell operuje na listach nieskończonych, i jak zapisać złożone algorytmy liczbowe w jednej linijce. Nie zabrakło funktorów aplikatywnych ani monad:)</p>
-
-<!-- more -->
-
-
-<p>Potem przyszedł czas na zdecydowanie lżejszy temat - <a href="https://www.google.com/glass/start/" target="_blank">Google Glass</a>. Michał opowiadał z własnego doświadczenia o tym, jak wygląda w praktyce tworzenie tzw. glassware. Okazało się, że cały proces wygląda zupełnie inaczej niż typowe aplikacje na Androida. Google robi bardzo szczegółowy przegląd aplikacji przed wydaniem, ma mnóstwo uwag i wskazówek, i mocno kontroluje zarówno jej wygląd, jak i zachowanie. W tym przypadku aplikację trzeba było właściwie przepisać na nowo, żeby te wymagania spełnić. Po tych wszystkich ciekawostkach przyszedł czas na obejrzenie Google Glass z bliska - każdy mógł je założyć i wypróbować!</p>
-
-<p>Linki do prezentacji: <a href="http://slides.com/michalstaruch/kilka-slow-o-haskellu#/" target="_blank">Kilka słów o Haskellu</a> i <a href="http://slides.com/michalstaruch/google-glass-w-praktyce#/" target="_blank">Google Glass w praktyce</a>.</p>
-
-<p>Spotkanie odbyło się przy nieocenionym wsparciu firmy Cinkciarz.pl, która sponsorowała napoje i przekąski dla wszystkich obecnych (a było nas ok. 90 osób). Mieliśmy również kilka nagród od pozostałych partnerów - <a href="http://www.jetbrains.com/" target="_blank">JetBrains</a>, <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a> i <a href="http://manning.com" target="_blank">Manning</a>. W ramach podziękowania za przygotowanie spotkania, prelegent otrzymał roczną licencję na <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a> od JetBrains, natomiast druga licencja oraz ebooki zostały rozlosowane wśród uczestników.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie listopadowe - Haskell i Google Glass]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/11/24/spotkanie-listopadowe-haskell-i-google-glass/"/>
-    <updated>2014-11-24T21:56:56+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/11/24/spotkanie-listopadowe-haskell-i-google-glass</id>
-    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiego JUGa, które odbędzie się w najbliższą środę, 26. listopada. Tak jak poprzednie, to spotkanie będzie zrealizowane przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, która zapewnia nam obecnie długofalowe (trzymiesięczne) wsparcie:)</p>
-
-<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
-
-<!-- more -->
-
-
-<p>Swoją wiedzą i doświadczeniami podzieli się z nami tym razem Michał Staruch. Tematy będą dwa. Najpierw <a href="https://www.haskell.org/haskellwiki/Haskell" target="_blank">Haskell</a> - język czysto funkcyjny, który cieszy się ostatnio sporym zainteresowaniem. Dowiemy się, jak programować w języku, w którym nie mamy do dyspozycji pętli, a wszystkie zmienne są stałe&hellip; Drugi temat to <a href="https://www.google.com/glass/start/" target="_blank">Google Glass</a>, na które Cinkciarz.pl wydał niedawno aplikację. Michał opowie o swoich doświadczeniach związanych z pisaniem tej aplikacji, w szczególności o tym, czym różni się to od zwykłego Androida, oraz z jakimi problemami można się spotkać przy publikacji.</p>
-
-<p>W tym miesiącu publiczność zapowiada się wyjątkowo duża, spotkanie odbędzie się więc w dużej sali w <a href="http://www.kawon.zgora.pl/index.php?i2=4" target="_blank">Kawonie</a>. Rejestracja jest darmowa, ale obowiązkowa - i odbywa się jak zwykle na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/218613615/" target="_blank">meetupie</a>. Wśród uczestników spotkania rozlosowane zostaną nagrod od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Losowanie odbędzie się wśród uczestników zarejestrowanych pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy - są jeszcze wolne miejsca:)</p>
 ]]></content>
   </entry>
   
