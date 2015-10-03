@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-10-02T13:24:05+02:00</updated>
+  <updated>2015-10-03T20:55:25+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenie na konferencję JDD]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/03/zaproszenie-na-konferencje-jdd/"/>
+    <updated>2015-10-03T20:40:19+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/03/zaproszenie-na-konferencje-jdd</id>
+    <content type="html"><![CDATA[<p>12-13 września w Krakowie odbędzie się konferencja <a href="http://15.jdd.org.pl/" target="_blank">JDD</a>. Konferencja odbywa się już od 10 lat, a w tym roku została zorganizowana przy bliskiej współpracy z lokalnymi JUGami. Naszym reprezentantem wśród prelegentów będzie Maciej Schmidt z prezentacją <a href="http://15.jdd.org.pl/agenda/lecture/augmented-reality-kolejna-mobilna-rewolucja/" target="_blank">Augmented reality - kolejna mobilna rewolucja?</a>, która będzie nowszą wersją prezentacji przedstawionej na naszym <a href="http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/" target="_blank">grudniowym spotkaniu</a>. Reprezentanci JUGów będą rywalizować o tytuł JUGmajstra - trzymamy kciuki za Maćka! Do poniedziałku rejestracja jest w niższej cenie, a jako Zielona Góra JUG mamy dla was dodatkowe 30% zniżki. Kod promocyjny do wpisania przy <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=6DA370F515629554D9F2E744725CFB1E" target="_blank">rejestracji</a> to <em>jdd_advisorymate</em>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Film promocyjny Zielona Góra JUG]]></title>
@@ -476,26 +485,6 @@ Dawid, Magda, Tomek oraz ADB</p>
 <p>Nie zabrakło też obowiązkowych punktów programu - losowania ebooków i licencji od sponsorów, oraz dokończenia dyskusji już w nieformalnej atmosferze after party.</p>
 
 <p>Było to kolejne bardzo udane spotkanie zielonogórskiego JUGa, którego obecna edycja ma już pół roku! Przez te sześć miesięcy rozmawialiśmy o najróżniejszych rzeczach (zawsze powtarzam, że formuła JUGa jest bardzo pojemna) - był <a href="http://zielona-gora-jug.github.io/blog/2014/09/05/podsumowanie-spotkania-o-spring-boot-i-angularjs/">back end</a> i <a href="http://zielona-gora-jug.github.io/blog/2014/10/27/spotkanie-pazdziernikowe-backbone-dot-js-i-marionette-dot-js/">front end</a>, były <a href="http://zielona-gora-jug.github.io/blog/2014/09/10/spotkanie-wrzesniowe-tdd-i-code-kata/">dobre praktyki</a>, <a href="http://zielona-gora-jug.github.io/blog/2014/08/19/podsumowanie-pierwszego-spotkania/">testowanie i code review</a>, było <a href="http://zielona-gora-jug.github.io/blog/2014/12/11/podsumowanie-spotkania-listopadowego/">programowanie funkcyjne</a>, i było pierwsze w historii zielonogórskie <a href="http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/">code retreat</a>. Całkiem niezły zestaw! Dziękuję wszystkim uczestnikom za obecność i zaangażowanie, a współorganizatorom (Dawid, Mirek, Piotr) za poświęcony czas i świetne pomysły. Mam nadzieję, że 2015 również będzie dla nas rokiem sukcesów - licznej frekwencji, ciekawych prezentacji, ożywionych dyskusji, i generalnie pozytywnego fermentu:) Do zobaczenia w styczniu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie grudniowe - Augmented Reality i Rich Client Platform]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/"/>
-    <updated>2014-12-14T22:41:34+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp</id>
-    <content type="html"><![CDATA[<p>Kolejne spotkanie zielonogórskiego JUG&#8217;a już w najbliższą środę 17 grudnia, w pubie <a href="http://www.4roze.pl/" target="_blank">4 Róże dla Lucienne</a>. Startujemy o godzinie 19! Trzeci raz z rzędu, ponownie spotkanie zrealizowane będzie przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> :)</p>
-
-<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
-
-<!-- more -->
-
-
-<p>Tym razem Maciej Schmidt z firmy <a href="http://maskom.pl/" target="_blank">MASKOM</a> zaprezentuje nam magiczne Augmented Reality (Rzeczywistość Rozszerzoną). Co skrywa w sobie ta technologia? Jakie są jej możliwości? Praktyczne zastosowanie w biznesie? Jak zintegrować AR z powszechnie używanymi urządzeniami mobilnymi? Jakie są perspektywy rozwoju? Macieju czekamy na obiecane świąteczne demo! Następnie Radosław Stachowiak zgłębi temat pisania aplikacji klienckich w oparciu o najnowszą, czwartą wersję Eclipse Rich Client Platform. Liczymy że dzięki Radkowi, każdy z nas dojdzie do wniosku iż warto porzucić &ldquo;e3&rdquo; i zacząć kodować w &ldquo;e4&rdquo;&hellip; :-)</p>
-
-<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/219060956/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
