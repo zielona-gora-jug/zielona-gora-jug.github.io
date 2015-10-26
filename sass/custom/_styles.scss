@@ -914,16 +914,28 @@ a.twitter {
  height: 32px;
 }
 
+a.twitter:before {
+ content:url("../images/twitter.png");  
+}
+
 a.linkedin {
  content:url("../images/linkedin.png");  
  width: 32px;
  height: 32px;
 }
 
+a.linkedin:before {
+ content:url("../images/linkedin.png");  
+}
+
 a.mail {
- content:url("../images/email.jpeg"); 
+ content:url("../images/email.jpg"); 
  width: 32px;
  height: 32px;
+}
+
+a.mail:before {
+ content:url("../images/email.jpg"); 
 }
 
 div.leaders {
