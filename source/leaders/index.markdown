@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Liderzy"
+title: "Kontakt"
 footer: true
 ---
 <div class="leaders">
