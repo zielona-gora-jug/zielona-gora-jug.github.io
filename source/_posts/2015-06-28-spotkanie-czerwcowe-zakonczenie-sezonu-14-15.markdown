@@ -8,7 +8,7 @@ author: Dawid Maksylewicz
 ---
 Już za kilka dni kolejne spotkanie lokalnej społeczności programistów Java. Tym razem zorganizowane będzie przy wsparciu firmy ADB, standardowo w zaprzyjaźnionym pubie Haust. Ze względu na nadchodzący okres letnio-wakacyjny, będzie to jednocześnie spotkanie podsumowujące sezon 2014/2015. Liczymy na konstruktywną dyskusję: co było fajne? co było złe? co można poprawić? jakieś nowe pomysły?
 
-[{% img center /images/adb.png ADB %}](http://adbglobal.com)
+[{% img center /images/adb.jpg 300 145 ADB %}](http://adbglobal.com)
 
 <!-- more -->
 
