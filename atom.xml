@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-10-27T07:46:04+01:00</updated>
+  <updated>2015-10-31T20:52:14+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania październikowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/30/podsumowanie-spotkania-pazdziernikowego/"/>
+    <updated>2015-10-30T12:58:57+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/30/podsumowanie-spotkania-pazdziernikowego</id>
+    <content type="html"><![CDATA[<p>W środę 28. października odbyło się drugie w tym sezonie spotkanie ZG JUG. Sponsorowane było przez firmę <a href="http://www.fibaro.com/pl" target="_blank">Fibaro</a>, i cieszyło się wysoką frekwencją - 80 osób przybyło posłuchać o tym co, gdzie (OpenStreetMap) i kiedy (Joda/Noda Time).</p>
+
+<p>O <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> opowiadał Tomek Kędziora. Poznaliśmy kilka aspektów tego ciekawego projektu społecznościowego - jak wygląda edycja mapy, na co pozwala licencja, oraz jak używać OpenStreetMap do nanoszenia swoich elementów, znajdowania i oznaczania miejsc, oraz wyznaczania trasy. Temat otwartej, aktywnie rozwijanej alternatywy dla Google Maps spodobał się, o czym świadczyło mnóstwo pytań do prelegenta po prezentacji. Slajdy tutaj: <a href="http://zielona-gora-jug.github.io/files/Jug-OpenStreetMap.pdf" target="_blank">OpenStreetMap</a>.</p>
+
+<!-- more -->
+
+
+<p>Jako drugi pojawił się reprezentant świata .NET - Andrzej Stencel z barwną i rozrywkową (choć też konkretną) prezentacją o Joda/Noda Time - czyli jak pracować z datą w C#, Noda Time, Java 8 i Joda Time. Na przykładzie stref czasowych i zmian czasu na letni można było zobaczyć, że choć praca z czasem nigdy nie jest łatwa, pewne rozwiązania mogą dać nam większą poprawność albo większą czytelność, podczas gdy inne wypadają zdecydowanie słabiej. Nie mogło oczywiście zabraknąć kilku przekomarzań o wyższości .NETu:) Slajdy dostępne tutaj: <a href="http://jedr.github.io/joda-noda-slides/" target="_blank">Joda Time/Noda Time</a>.</p>
+
+<p>Dziękujemy prelegentom, gratulujemy zwycięzcom licencji <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i książek <a href="http://manning.com/" target="_blank">Manning</a>, i do zobaczenia za miesiąc - 25. listopada.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie październikowe - Open Street Map & Joda Time / Noda Time]]></title>
@@ -115,7 +133,7 @@
     <id>http://zielona-gora-jug.github.io/blog/2015/06/28/spotkanie-czerwcowe-zakonczenie-sezonu-14-15</id>
     <content type="html"><![CDATA[<p>Już za kilka dni kolejne spotkanie lokalnej społeczności programistów Java. Tym razem zorganizowane będzie przy wsparciu firmy ADB, standardowo w zaprzyjaźnionym pubie Haust. Ze względu na nadchodzący okres letnio-wakacyjny, będzie to jednocześnie spotkanie podsumowujące sezon 2014/2015. Liczymy na konstruktywną dyskusję: co było fajne? co było złe? co można poprawić? jakieś nowe pomysły?</p>
 
-<p><a href="http://adbglobal.com"><img class="center" src="http://zielona-gora-jug.github.io/images/adb.png" title="ADB" ></a></p>
+<p><a href="http://adbglobal.com"><img class="center" src="http://zielona-gora-jug.github.io/images/adb.jpg" width="300" height="145" title="ADB" ></a></p>
 
 <!-- more -->
 
@@ -467,28 +485,6 @@ Dawid, Magda, Tomek oraz ADB</p>
 <p>Po przerwie przeszliśmy do Scali, o której Marcin Dąbrowa opowiedział bez slajdów, używając zamiast tego Scala worksheets. Dzięki temu prezentacja była bardzo interaktywna, publiczność brała w niej aktywny udział, a wszystkie pytania otrzymywały odpowiedź natychmiast, wraz z przykładem. Poznaliśmy podstawowe elementy tego języka, case classes, pattern matching i operacje na kolekcjach. Jako że temat Scali i w ogóle programowania funkcyjnego jest dość szeroki, być może będzie trzeba go jeszcze w jakiejś formie rozwinąć.</p>
 
 <p>Na końcu przyszła pora na nagrody od sponsorów. Obecnie na każdym spotkaniu mamy do dyspozycji dwie licencje od <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i jednego ebooka z wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a> (powitalne kupony od O&#8217;Reilly już się skończyły). Zgodnie z naszymi zasadami, każdy prelegent występujący na JUGu otrzymuje jedną wybraną z tego zestawu nagrodę, jako podziękowanie za inicjatywę i poświęcony czas, natomiast reszta jest rozlosowywana wśród uczestników spotkania. Zachęcamy więc do zgłaszania prezentacji! Pamiętajcie też, że z obu wydawnictw mamy dostęp do tzw. egzemplarzy recenzyjnych - można otrzymać dowolnie wybraną przez siebie książkę w zamian za opublikowanie recenzji na blogu ZG JUG. Więcej szczegółów: <a href="http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications/">Współpraca z O&#8217;Reilly i Manning Publications</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie styczniowe - wstęp do Scali oraz Hadoopa]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/01/11/spotkanie-styczniowe-wstep-do-scali-oraz-hadoopa/"/>
-    <updated>2015-01-11T21:54:18+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/01/11/spotkanie-styczniowe-wstep-do-scali-oraz-hadoopa</id>
-    <content type="html"><![CDATA[<p>W nowym roku na pełnej mocy ruszamy z nowymi tematami. Zapraszamy na kolejne spotkanie JUGa już 28 stycznia, w sprawdzonym pubie <a href="http://www.haust.pl/" target="_blank">Haust</a>. Zaczynamy o godzinie 19! Dzięki długofalowej współpracy, ponownie spotkanie zrealizowane będzie przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> :)</p>
-
-<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
-
-<!-- more -->
-
-
-<p>Na wstępie Marcin Stożek z firmy IBM zaserwuje nam porcję &ldquo;Big Data&rdquo;. Z czym należy ten temat konsumować, jak to smakuje z Hadoopem, wprowadzi nas pokrótce w ekosystem oraz popularne dystrybucje, takie jak Cloudera, Hortonworks, BigInsights.</p>
-
-<p>W drugiej części Marcin Dąbrowa z Cinkciarz.pl, zapozna nas z podstawami Scali. Przedstawiony zostanie prosty przykład &ldquo;Hello World&rdquo;, który to podczas sesji &ldquo;live coding&rdquo; będziemy mieć okazję wspólnie rozwijać. Liczymy na ciekawą dyskusję jeżeli chodzi o podobieństwa pomiędzy Scalą vs. Javą vs. niedawno poznanym Haskellem. Na koniec wspólnie zastanowimy się, czy dla wiekszości deweloperów Java, Scala może być językiem łatwym i przyjemnym do nauki.</p>
-
-<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/219374455/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
