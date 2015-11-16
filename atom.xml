@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Zielona Góra JUG]]></title>
+  <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
+  <link href="http://zielona-gora-jug.github.io/"/>
+  <updated>2015-11-16T23:50:22+01:00</updated>
+  <id>http://zielona-gora-jug.github.io/</id>
+  <author>
+    <name><![CDATA[Zielona Góra JUG]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New support from O'Reilly]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/11/16/oreilley-2nd-support/"/>
+    <updated>2015-11-16T21:46:46+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/11/16/oreilley-2nd-support</id>
+    <content type="html"><![CDATA[<p>We are happy to announce that <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a> media publishing has decided to continue their support of the <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> in session 2015/2016. Our small but vibrant community of programmers has just received next batch of paper books. Rules in order to get one copy are the same as it was before. We want to reward speakers for their effort put into preparing presentations. One book is dedicated for one monthly meeting.</p>
+
+<p><a href="http://oreilly.com"><img class="center" src="http://zielona-gora-jug.github.io/images/books_1.jpg" title="O'Reilly" ></a></p>
+
+<!-- more -->
+
+
+<p>Miło nam ogłosić, że wydawnictwo <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a> postanowiło kontynuować swoje wsparcie dla <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> w sezonie 2015/2016. Nasza mała, ale tętniąca życiem społeczność programistów otrzymała właśnie kolejną partię papierowych książek. Zasady odnośnie uzyskania jednej kopii są takie same, jak to było wcześniej. Chcemy nagradzać prelegentów za ich wysiłek włożony w przygotowanie prezentacji. Jedna książka przeznaczona jest na jedne miesięczne spotkanie.</p>
+
+<p><a href="http://oreilly.com"><img class="center" src="http://zielona-gora-jug.github.io/images/books_2.jpg" title="O'Reilly" ></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania październikowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/30/podsumowanie-spotkania-pazdziernikowego/"/>
+    <updated>2015-10-30T12:58:57+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/30/podsumowanie-spotkania-pazdziernikowego</id>
+    <content type="html"><![CDATA[<p>W środę 28. października odbyło się drugie w tym sezonie spotkanie ZG JUG. Sponsorowane było przez firmę <a href="http://www.fibaro.com/pl" target="_blank">Fibaro</a>, i cieszyło się wysoką frekwencją - 80 osób przybyło posłuchać o tym co, gdzie (OpenStreetMap) i kiedy (Joda/Noda Time).</p>
+
+<p>O <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> opowiadał Tomek Kędziora. Poznaliśmy kilka aspektów tego ciekawego projektu społecznościowego - jak wygląda edycja mapy, na co pozwala licencja, oraz jak używać OpenStreetMap do nanoszenia swoich elementów, znajdowania i oznaczania miejsc, oraz wyznaczania trasy. Temat otwartej, aktywnie rozwijanej alternatywy dla Google Maps spodobał się, o czym świadczyło mnóstwo pytań do prelegenta po prezentacji. Slajdy tutaj: <a href="http://zielona-gora-jug.github.io/files/Jug-OpenStreetMap.pdf" target="_blank">OpenStreetMap</a>.</p>
+
+<!-- more -->
+
+
+<p>Jako drugi pojawił się reprezentant świata .NET - Andrzej Stencel z barwną i rozrywkową (choć też konkretną) prezentacją o Joda/Noda Time - czyli jak pracować z datą w C#, Noda Time, Java 8 i Joda Time. Na przykładzie stref czasowych i zmian czasu na letni można było zobaczyć, że choć praca z czasem nigdy nie jest łatwa, pewne rozwiązania mogą dać nam większą poprawność albo większą czytelność, podczas gdy inne wypadają zdecydowanie słabiej. Nie mogło oczywiście zabraknąć kilku przekomarzań o wyższości .NETu:) Slajdy dostępne tutaj: <a href="http://jedr.github.io/joda-noda-slides/" target="_blank">Joda Time/Noda Time</a>.</p>
+
+<p>Dziękujemy prelegentom, gratulujemy zwycięzcom licencji <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i książek <a href="http://manning.com/" target="_blank">Manning</a>, i do zobaczenia za miesiąc - 25. listopada.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie październikowe - Open Street Map & Joda Time / Noda Time]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/26/spotkanie-pazdziernikowe-open-street-map-joda-noda-time/"/>
+    <updated>2015-10-26T21:27:11+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/26/spotkanie-pazdziernikowe-open-street-map-joda-noda-time</id>
+    <content type="html"><![CDATA[<p>Już w najbliższą środę w zaprzyjaźnionym pubie Haust po raz kolejny przeprowadzony zostanie programistyczny desant, przy wsparciu tym razem debiutującej w gronie sponsorów <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> firmy <a href="http://fibaro.com/" target="_blank">Fibaro</a>.</p>
+
+<p><a href="http://fibaro.com"><img class="center" src="http://zielona-gora-jug.github.io/images/fibaro.jpg" width="90" height="90" title="Fibaro" ></a></p>
+
+<!-- more -->
+
+
+<p>Uczestnicy będą mieli możliwość wysłuchania dwóch prezentacji. Tomasz Kędziora przedstawi OpenStreetMap, czyli projekt społecznościowy który rzucił wyzwanie mapom Google. Wykorzystywany nie tylko przez entuzjastów lecz również przez gigantów branży. Prezentacja pokaże czym jest OpenStreetMap, na jakich zasadach działa i jak możemy wykorzystać w własnym projekcie. Z perspektywy kodu zostanie pokazane:</p>
+
+<ul>
+<li>osadzanie mapy na stronie i jej personalizacja</li>
+<li>geocoding</li>
+<li>API dla routingu</li>
+<li>edycja danych w OpenStreetMap</li>
+</ul>
+
+
+<p>Kolejno Andrzej Stencel porozmawia z Nami o Joda Time / Noda Time -> czyli co jest nie tak z wbudowanymi typami do obsługi daty i czasu w Javie i C# i jak to naprawić.</p>
+
+<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/226193695/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Przybywajcie!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenie na konferencję JDD]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/03/zaproszenie-na-konferencje-jdd/"/>
+    <updated>2015-10-03T20:40:19+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/03/zaproszenie-na-konferencje-jdd</id>
+    <content type="html"><![CDATA[<p>12-13 września w Krakowie odbędzie się konferencja <a href="http://15.jdd.org.pl/" target="_blank">JDD</a>. Konferencja odbywa się już od 10 lat, a w tym roku została zorganizowana przy bliskiej współpracy z lokalnymi JUGami. Naszym reprezentantem wśród prelegentów będzie Maciej Schmidt z prezentacją <a href="http://15.jdd.org.pl/agenda/lecture/augmented-reality-kolejna-mobilna-rewolucja/" target="_blank">Augmented reality - kolejna mobilna rewolucja?</a>, która będzie nowszą wersją prezentacji przedstawionej na naszym <a href="http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/" target="_blank">grudniowym spotkaniu</a>. Reprezentanci JUGów będą rywalizować o tytuł JUGmajstra - trzymamy kciuki za Maćka! Do poniedziałku rejestracja jest w niższej cenie, a jako Zielona Góra JUG mamy dla was dodatkowe 30% zniżki. Kod promocyjny do wpisania przy <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=6DA370F515629554D9F2E744725CFB1E" target="_blank">rejestracji</a> to <em>jdd_advisorymate</em>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Film promocyjny Zielona Góra JUG]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/02/film-promocyjny-zielona-gora-jug/"/>
+    <updated>2015-10-02T12:07:40+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/02/film-promocyjny-zielona-gora-jug</id>
+    <content type="html"><![CDATA[<p>Zielona Góra JUG w nowej odsłonie ma już rok - z tej okazji z dumą prezentujemy wam nasz film promocyjny, który pokazuje, kim jesteśmy i jak działamy:
+<br/></p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/NF3wUb_no5U" allowfullscreen></iframe></div>
+
+
+<p><br/></p>
+
+<p>Film zrealizował Krzysztof Bogucki z <a href="https://www.facebook.com/BohaStudioVideo" target="_blank">BOHA Film Studio</a>, a sponsorem muzyki z <a href="https://www.facebook.com/songfreedom" target="_blank">SongFreedom</a> jest <a href="http://www.adbglobal.com/" target="_blank">ADB</a>. Ojcem chrzestnym filmu jest Dawid Maksylewicz. Dziękujemy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rozpoczęcie sezonu - nowości w Javie 9]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/10/02/nowosci-w-javie-9/"/>
+    <updated>2015-10-02T09:07:15+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/10/02/nowosci-w-javie-9</id>
+    <content type="html"><![CDATA[<p>Witamy ponownie! 30. września 2015 rozpoczęliśmy kolejny sezon w zielonogórskim JUGu. Na spotkaniu sponsorowanym przez <a href="http://www.ocadotechnology.com/" target="_blank">Ocado Technology</a> gościliśmy prelegenta z Krakowa - Arka Sokołowskiego. Temat był tak Javowy, jak tylko się da - Nowości w Javie 9.</p>
+
+<p><a href="http://www.ocadotechnology.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/ocado.png" width="200" height="200" title="Ocado Technology" ></a></p>
+
+<p>Po krótkim wprowadzeniu w historię Javy, Arek przedstawił nam listę ulepszeń, które czekają nas za rok - ze szczególnym naciskiem na jshell (Javowy REPL) oraz projekt Jigsaw, czyli modularyzację. Zobaczyliśmy na przykładach, jak będzie wyglądało korzystanie z modułów oraz różne możliwości udostępniania i ukrywania poszczególnych części kodu.</p>
+
+<p>Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/Java_9.pdf" target="_blank">Nowości w Javie 9</a>. Kod źródłowy wkrótce pojawi się na githubie.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zakończenie sezonu]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/07/15/zakonczenie-sezonu/"/>
+    <updated>2015-07-15T15:55:00+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/07/15/zakonczenie-sezonu</id>
+    <content type="html"><![CDATA[<p>Zielonogórski JUG zamyka sezon! Ostatnie spotkanie odbyło się 1. lipca 2015 i było sponsorowane przez firmę ADB.</p>
+
+<p>Pierwszą prezentację przygotował Tomek Powchowicz - zaprezentował nam ideę kontenerów heterogicznych, czyli silnie typowanych kolekcji, które mogą przechowywać różne typy obiektów jednocześnie, bez konieczności rzutowania. Zobaczyliśmy przykłady implementacji w Javie i C++, wraz z różnicami wynikającymi ze specyfiki języków. Idea brzmi całkiem ciekawie, choć idealnie byłoby zobaczyć jej implementację gdzieś w akcji.</p>
+
+<!-- more -->
+
+
+<p>Drugim prelegentem był Paweł Nowak, który opowiedział o Ext JS. Było to szczegółowe zestawienie zarówno głównych cech i założeń frameworku, jak jego zalet i wad. Wśród korzyści otrzymujemy między innymi bogaty zestaw spójnych kontrolek, gwarancję stabilnego wyglądu i zachowania we wszystkich przeglądarkach, minusem jest jednak wysoka cena oraz słabe wsparcie dla urządzeń mobilnych. Slajdy: <a href="http://zielona-gora-jug.github.io/files/Sencha.pdf" target="_blank">Sencha Ext JS</a></p>
+
+<p>Natomiast w przerwie, jak na spotkanie rocznicowe przystało, pojawił się tort! I to nie zwyczajny, lecz z logo jubilata:</p>
+
+<p><a href="http://zielona-gora-jug.github.io/images/tort.jpg"><img class="center" src="http://zielona-gora-jug.github.io/images/tort.jpg" width="480" height="360" title="Tort urodzinowy ZG JUG" ></a></p>
+
+<p>Dzięki za udany sezon! Współorganizatorom za zaangażowanie, energię i pomysły. Uczestnikom za świetną frekwencję, żywe dyskusje, przyjazną atmosferę. Prelegentom za poświęcony czas, ciekawe tematy i solidne przygotowanie. Sponsorom za wsparcie i pomoc w organizacji.</p>
+
+<p>Widzimy się znowu pod koniec września - śledźcie informacje na <a href="http://jug.zgora.pl">blogu</a>, <a href="https://twitter.com/ZgJUG" target="_blank">twitterze</a> i <a href="http://www.meetup.com/Zielona-Gora-JUG/" target="_blank">meetupie</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie czerwcowe - zakończenie sezonu 2014/2015]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/06/28/spotkanie-czerwcowe-zakonczenie-sezonu-14-15/"/>
+    <updated>2015-06-28T09:10:29+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/06/28/spotkanie-czerwcowe-zakonczenie-sezonu-14-15</id>
+    <content type="html"><![CDATA[<p>Już za kilka dni kolejne spotkanie lokalnej społeczności programistów Java. Tym razem zorganizowane będzie przy wsparciu firmy ADB, standardowo w zaprzyjaźnionym pubie Haust. Ze względu na nadchodzący okres letnio-wakacyjny, będzie to jednocześnie spotkanie podsumowujące sezon 2014/2015. Liczymy na konstruktywną dyskusję: co było fajne? co było złe? co można poprawić? jakieś nowe pomysły?</p>
+
+<p><a href="http://adbglobal.com"><img class="center" src="http://zielona-gora-jug.github.io/images/adb.jpg" width="300" height="145" title="ADB" ></a></p>
+
+<!-- more -->
+
+
+<p>Podczas spotkania będziemy mieli możliwość wysłuchania prezentacji Tomka Powchowicza, na temat kontenerów heterogenicznych. Zobaczymy projekt, implementację i zastosowanie kontenerów heterogenicznych w dwóch językach: Java i C++. Kontenery takie, to struktury, które uniemożliwiają błędy związane z typami danych w runtime (type safety), chociaż to nie jest jedyny benefit. Inne to redukcja rozmiaru kodu źródłowego oraz możliwość rozszerzania API.</p>
+
+<p>Kontener heterogeniczny (różnorodny) z silnym typowaniem jest to pojemnik, który potrafi przechowywać różne elementy. Pobieranie elementów z takiego kontenera nie wymaga rzutowania. Czyli jest możliwe takie zawołanie:</p>
+
+<pre><code>String value1 = map.get(key1); 
+String value2 = map.get(key2); 
+Integer value3 = map.get(key3); 
+</code></pre>
+
+<p>Czy potraficie sobie wyobrazić najbardziej znane na świecie API do baz danych JDBC ResultSet, które zamiast metod getDate(), getString() itd. posiada tylko jedną metodę get() ?</p>
+
+<p>Drugim prelegentem będzie Paweł Nowak, który zaprezentuje społeczności ExtJS, rzadziej używany, ale bardzo bogaty frameworka służący do tworzenia aplikacji JavaScript. W odróżnieniu od wielu konkurentów, twórcy Ext JS przywiązują dużą wagę do wyglądu kontrolek UI i tworzenia aplikacji z przyjaznym interfejsem użytkownika. W trakcie prezentacji przedstawione będą podstawowe cechy Ext JS oraz zastosowania. Porównamy go także z innymi dostępnymi rozwiązaniami.</p>
+
+<p>Zapisy i szczegółowy plan spotkania na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/223022048/" target="_blank">meetupie</a>.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie Google I/O Extended]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/06/27/google-io-2015-podsumowanie/"/>
+    <updated>2015-06-27T22:27:22+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/06/27/google-io-2015-podsumowanie</id>
+    <content type="html"><![CDATA[<center>
+<img src="http://zielona-gora-jug.github.io/images/IO_poster.jpg" title="Google IO Extended poster" >
+</center>
+
+
+<p>Czas na krótkie podsumowanie pierwszego w naszym mieście Google I/O Extended. Pomysł przedsięwzięcia zainicjowany został przez Tomka Wartalskiego, który kilkakrotnie uczestniczył w podobnych spotkaniach w Poznaniu&hellip; dlaczego by nie zorganizować równie fajnej imprezy w Zielonej Górze? Potencjał jest, możliwości są!</p>
+
+<!-- more -->
+
+
+<p>Na horyzoncie pojawiła się pomoc ze strony firmy ADB, która zadbała o wyśmienity catering, przekąski, napoje, drobne upominki, Uniwersytetu Zielonogórskiego, gdzie spotkanie miało miejsce oraz Jacka Wojnarowskiego, który w przerwach między wykładami &ldquo;podrzucał&rdquo; dobry, muzyczny podkład.</p>
+
+<center>
+<img src="http://zielona-gora-jug.github.io/images/IO_2.jpg" title="Google IO Extended hall" >
+</center>
+
+
+<p>Po zawiązaniu grupy trzymającej władzę, przystąpiliśmy do oficjalnej rejestracji spotkania na stronach Google. Kolejno z pomocą Tomka Gratkowskiego nastąpiło ustalanie i oględziny miejscówki na UZ, dalej pierwsze spotkanie organizacyjne w siedzibie ADB&hellip;</p>
+
+<center>
+<img src="http://zielona-gora-jug.github.io/images/IO_1.jpg" title="Google IO Extended games" >
+</center>
+
+
+<p>Wszystko w zawrotnym tempie, wszystko gra! Otwieramy rejestrację i obserwujemy przyrost zainteresowanych osób, których finalna liczba podczas spotkania wyniosła 70. Rozpoczęcie. Tomek na scenie, wprowadza w rozkład jazdy, następnie Magda informuje że spotkanie organizowane jest pod dowództwem Zielona Góra Java User Group oraz zaprasza Katarzynę Sawkę do zaprezentowania firmy ADB, w formie kolorowej, humorystycznej infografiki&hellip;</p>
+
+<center>
+<img src="http://zielona-gora-jug.github.io/images/IO_3.jpg" title="Google IO Extended pizza" >
+</center>
+
+
+<p>Wielkie dzięki dla Macieja Zająca z AMB Software, który zechciał przygotować dla nas pierwszą ciekawą przezentację nt. zeszłorocznego wyjazdu do Doliny Krzemowej i kompleksu Google.</p>
+
+<p>Godzina zero, czas uruchomić strumień wideo, Tomek za sterami, gasną światła, konferencję czas zacząć. Ogłaszane są kolejne nowinki Google, szepty coraz głośniejsze, niektórzy skrupulatnie notują poszczególne zagadnienia. Pierwsza przerwa i kolejne, niekończące się dyskusje, śmiechy, integracja, ludzie związani z lokalnym rynkim IT chyba dobrze się bawią&hellip; gry i zabawy, walka o gadżety i kawałki smacznej pizzy, która dojechała po upływie połowy zaplanowanego na spotkanie czasu, w liczbie 26 opakowań, wersja &ldquo;rodzinna&rdquo;! &hellip; i tak do godziny 24, gdy ostatni słuchacze opuszczają salę :-)</p>
+
+<center>
+<img src="http://zielona-gora-jug.github.io/images/IO_team.jpg" title="Google IO Extended team" >
+</center>
+
+
+<p>Podsumowując, pierwsze w Zielonej Górze Google I/O Extended zdecydowanie można zaliczyć do udanych. Po cichu planujemy już kolejne, gdzie lokalni pasjonaci IT będą mogli się spotkać w fajnej atmosferze, aby porozmawiać o branżowych tematach.</p>
+
+<p>Zdjęcia dostępne na JUGowym profilu <a href="https://www.flickr.com/photos/zgjug/sets/72157653668120125">Flickr</a>. Dziękujemy za przybycie i pomoc w organizacji!</p>
+
+<p>Dawid, Magda, Tomek oraz ADB</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenie na konferencję Codepot]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/06/09/codepot/"/>
+    <updated>2015-06-09T22:13:53+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/06/09/codepot</id>
+    <content type="html"><![CDATA[<p>Miło nam ogłosić, że jesteśmy jako ZG JUG partnerami konferencji <a href="https://codepot.pl/" target="_blank">Codepot</a>.</p>
+
+<p><a href="http://codepot.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/codepot-logo-rectangle.png" width="365" height="135" title="Codepot" ></a></p>
+
+<p>Odbywa się ona 28-29 sierpnia w Warszawie, i jest to konferencja wyjątkowa, bo składająca się wyłącznie z warsztatów. Oto informacje od organizatorów:</p>
+
+<blockquote><p>Codepot to konferencja przeznaczona dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i doświadczeniami.</p></blockquote>
+
+<!-- more -->
+
+
+<p></p>
+
+<blockquote><p>Obecnie trwa <a href="https://codepot.pl/call-for-papers" target="_blank">Call4Papers</a>, gdzie otrzymaliśmy już sporo zgłoszeń z różnych fajnych dziedzin. Spędzamy dużo czasu na dyskusjach kogo zaakceptować, a kogo nie. Nie zwlekajcie - im szybciej się zgłosicie, tym szybciej zostaniecie pokazani na stronie.</p></blockquote>
+
+<!-- -->
+
+
+<blockquote><p>Konferencja składa się z 72 warsztatów prowadzonych przez ekspertów. Planujemy zaprosić około 350 uczestników. Każdego dnia uczestnik będzie mógł wziąć udział w dwóch dogłębnych warsztatach technicznych. Po przerwie obiadowej przewidujemy warsztaty zwane miękkimi, tak żeby na kolejny warsztat techniczny przyjść zrelaksowanym i wypoczętym.</p></blockquote>
+
+<!-- -->
+
+
+<blockquote><p>Konferencja będzie płatna, ale symbolicznie, w celu motywowania ludzi do przychodzenia na warsztaty. W zasadzie cena pokryje koszt dwóch lunchy, oraz prezentu dla uczestnika. Można traktować tą imprezę jako wydarzenie darmowe. Rejestracja nie jest dostępna, ponieważ ją implementujemy - ale jesteśmy już na finiszu. Można śmiało powiedzieć - by developers for developers.</p></blockquote>
+
+<!-- -->
+
+
+<blockquote><p>Zapraszamy do śledzenia naszego kanału na twitter <a href="https://twitter.com/codepot_pl" target="_blank">@codepot_pl</a> oraz na <a href="https://www.facebook.com/pages/Codepot/397791273715096" target="_blank">Facebooku</a>, gdzie zawsze znajdziecie świeże informacje. Zapraszamy również do <a href="http://www.meetup.com/Warsaw-Codepoters/" target="_blank">grupy na meetupie</a>. Zapisując się do tej grupy, macie możliwość wzięcia udziału w spotkaniach na żywo (najbliższe 10 czerwca) i podyskutowania o najnowszych technologiach oraz do wygrania biletów na inne konferencje, np. Devoxx.pl.</p></blockquote>
+
+<p>I na koniec jeszcze jedna dobra wiadomość - mamy dla was pięć kuponów na 20% zniżki przy otwieranej wkrótce rejestracji:)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania majowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego/"/>
+    <updated>2015-05-27T21:12:02+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego</id>
+    <content type="html"><![CDATA[<p>Spotkanie majowe odbyło się 20.05.2015 i było sponsorowane przez firmę <a href="http://streamsoft.pl/" target="_blank">Streamsoft</a>.</p>
+
+<p>Było super! Najpierw Mirek Szajowski pokazał narzędzia, które pozwalają oszczędzić nerwów po wdrożeniu aplikacji na produkcję. Pierwszym rozwiązaniem jest <a href="https://www.elastic.co/products/logstash" target="_blank">logstash</a> i <a href="https://www.elastic.co/products/kibana" target="_blank">kibana</a> - logstash agreguje logi, a kibana pozwala je wygodnie przeglądać, filtrować, prezentować na dashboardzie za pomocą wykresów, i analizować na wszelkie możliwe sposoby. Innym ciekawym narzędziem jest <a href="https://www.takipi.com/" target="_blank">takipi</a>, które w momencie wystąpienia wyjątku na produkcji zapisuje cały stan aplikacji - wartości zmiennych, wywoływane funkcje itp, co bardzo ułatwia znalezienie przyczyny błędu. Zajrzyjcie do slajdów: <a href="http://zielona-gora-jug.github.io/files/wdrozenia.pdf" target="_blank">Jak wdrożyć i nie zwariować</a>.</p>
+
+<!-- more -->
+
+
+<p>Potem Paweł Stawicki pokazał <a href="http://akka.io/" target="_blank">Akkę</a> i programowanie wielowątkowe na aktorach. W prezentacji opartej głównie na przykładach zobaczyliśmy różne konfiguracje aktorów, sposoby użycia do różnych rodzajów zadań, oraz jak w tak rozproszonym środowisku podejść do obsługi błędów. Każdy z przykładów dzielił zadanie, jakim było narysowanie fraktala, pomiędzy aktory, i każdy rysował się w trochę inny sposób, w zależności od architektury przykładu! Na koniec była ciekawa dyskusja i wiele pytań z publiczności. Wszystkie przykłady dostępne są w projekcie na githubie: <a href="https://github.com/zielona-gora-jug/akka-pres-src" target="_blank">akka-pres-src</a>, są też slajdy: <a href="amorfis.github.io/akka-pres/" target="_blank">Akka - concurrent programming without the pain</a>.</p>
+
+<p>A już jutro widzimy się na <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">Google I/O Extended</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie majowe - Akka i wdrożenia]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/05/19/spotkanie-majowe-akka-i-wdrozenia/"/>
+    <updated>2015-05-19T21:53:50+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/05/19/spotkanie-majowe-akka-i-wdrozenia</id>
+    <content type="html"><![CDATA[<p>Już jutro zapraszamy na kolejne spotkanie ZG JUG. Choć zazwyczaj spotykamy się w ostatnią środę miesiąca, tym razem odstępujemy od tej zasady ze względu na <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">Google I/O Extended</a>. Majowe spotkanie wspiera firma <a href="http://streamsoft.pl/" target="_blank">Streamsoft</a>, która sponsoruje nie tylko poczęstunek, ale też przyjazd gościa ze Szczecina.</p>
+
+<p><a href="http://streamsoft.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/streamsoft.png" title="Streamsoft" ></a></p>
+
+<!-- more -->
+
+
+<h2>Paweł Stawicki &ldquo;<a href="http://akka.io/" target="_blank">Akka</a> - programowanie wielowątkowe bez bólu&rdquo;</h2>
+
+<blockquote><p>Dawno dawno temu, komputery nie miały wielu rdzeni. Każdy domowy komputer miał jeden procesor, a w nim jeden rdzeń. Nie było możliwe wykonywanie wielu operacji jednocześnie, toteż mało kto przejmował się programowaniem wielowątkowym. Później, kiedy pojawiła się taka potrzeba, starożytni do synchronizacji wątków używali sekcji krytycznych, semaforów, monitorów, blokad i innych potworów. Potwory te miały tę wadę, że ciężko było je oswoić, ciężko było przewidzieć ich zachowanie i zdarzało się, że ugryzły właściciela w najmniej odpowiednim momencie.</p>
+
+<p>Z pomocą przyszedł nowy gatunek zwierzęcia - aktory. W tej prezentacji pokażę jak zaprząc je do pożytecznej pracy, jak przy ich pomocy programować wielowątkowo w sposób łatwiejszy i mniej narażony na błędy niż sposoby &ldquo;starożytnych&rdquo;. Pokażę prostą aplikację napisaną z użyciem aktorów, zarówno lokalnych jak i działających na innej maszynie, pokażę jak obsługiwać w Akce błędy, sytuacje kiedy któryś aktor rzuca wyjątek i przestaje działać. Na koniec zobaczymy jakich narzędzi dostarcza Akka do testowania aktorów.</p></blockquote>
+
+<h2>Mirek Szajowski: &ldquo;Jak wdrożyć i nie zwariować&rdquo;</h2>
+
+<blockquote><p>Czas radosnego developmentu kiedyś się kończy i każdy system musi prędzej czy później wejść na produkcję.</p>
+
+<p>Zaczyna się wtedy nerwowy i stresujący okres, w którym każdy błąd boli podwójnie,  a każde zgłoszenia klienta trzeba traktować priorytetowo.
+Na prezentacji pokażę narzędzia, z których można skorzystać aby pomóc sobie w analizie tego, co robi system na produkcji, gdzie ma największe problemy i jak sobie z nimi szybko radzić.</p>
+
+<p>Prezentacja przeznaczona dla osób którym zdarza się robić (lub naprawiać cudze) błędy w sofcie&hellip; Liczę na ciekawe dyskusje i feedback na temat narzędzi i technik z których wy korzystacie aby ulżyć sobie w cierpieniu&hellip;</p></blockquote>
+
+<p>Więcej informacji, zapisy i szczegółowy plan spotkania na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/222328452/" target="_blank">meetupie</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania kwietniowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/05/19/podsumowanie-spotkania-kwietniowego/"/>
+    <updated>2015-05-19T21:40:02+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/05/19/podsumowanie-spotkania-kwietniowego</id>
+    <content type="html"><![CDATA[<p>Z lekkim opóźnieniem, nadszedł w końcu czas na podsumowanie spotkania kwietniowego. Odbyło się ono 29. kwietnia i było sponsorowane przez firmę <a href="http://www.rec-global.com/" target="_blank">REC</a>.</p>
+
+<p>Pierwszym tematem była reklama w aplikacjach mobilnych, którą przybliżył nam Arlen Coupland. W skrócie okazało się, że taka reklama to dużo dużo więcej niż tylko denerwujące prostokąciki gdzieś na dole gry, w którą gramy na telefonie. Możliwości jest dużo więcej, a najlepiej wkomponować reklamę w naszą aplikację w taki sposób, żeby była ona dla użytkownika czymś ciekawym i angażującym. Temat jest bardzo szeroki, a domena otwarta na innowacje, jako że rynek reklamy mobilnej wciąż dopiero się kształtuje. Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/mobile_advertising.ppt" target="_blank">Mobile Advertising - Introduction</a>.</p>
+
+<!-- more -->
+
+
+<p>Po przerwie przeszliśmy do lżejszego tematu - Tomek Łączkowski opowiedział nam &ldquo;O znaczeniu słów słów kilka&rdquo;, czyli o trudnej sztuce komunikacji - w zespole, między programistami a użytkownikami, między team leaderami a przedstawicielami biznesu. Zarysował kilka problemów, na które warto zwracać uwagę, m.in. określenie wspólnego słownika, precyzyjne określenie wymagań, 5 x why (czyli pytamy tak długo, aż znajdziemy prawdziwy powód, a nie tylko powierzchowne wytłumaczenie), itp. Slajdy: <a href="http://zielona-gora-jug.github.io/files/slowa_slowa.pptx" target="_blank">O znaczeniu słów słów kilka</a>.</p>
+
+<p>Na koniec jak zwykle losowaliśmy nagrody od naszych sponsorów - <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i <a href="http://manning.com/" target="_blank">Manning</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie kwietniowe - o znaczeniu słów i o reklamie w aplikacjach mobilnych]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/04/16/spotkanie-kwietniowe-mobile-ads-human-devs/"/>
+    <updated>2015-04-16T23:51:55+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/04/16/spotkanie-kwietniowe-mobile-ads-human-devs</id>
+    <content type="html"><![CDATA[<p>Kolejny miesiąc i niemniej ciekawe tematy. Tym razem 29 kwietnia przy wsparciu firmy <a href="http://rec-global.com" target="_blank">REC Global</a> zapraszamy wszystkich zainteresowanych na spotkanie w zaprzyjaźnionym pubie Haust.</p>
+
+<p><a href="http://rec-global.com"><img class="center" src="http://zielona-gora-jug.github.io/images/rec.png" width="182" height="72" title="REC Global" ></a></p>
+
+<!-- more -->
+
+
+<p>Pierwszą prezentację przedstawi Arlen Coupland, który wprowadzi nas w tematykę reklam dostępnych na urządzeniach mobilnych. Dowiemy się jak tworzyć i zarządzać takimi reklamami, zarówno od strony kodu jak i zintegrowanych narzędzi, jakie są możliwości zarabiania pięniędzy. Drugą część przejmie Tomek Łączkowski, który postara się z niereformowalnego, rasowego &ldquo;softłer dewelopera&rdquo; zrobić ogarniętego człowieka ;-)</p>
+
+<p>Rejestracja na spotkanie jest jak zawsze darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/221768514/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google I/O Extended]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/04/16/google-io-2015/"/>
+    <updated>2015-04-16T12:06:38+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/04/16/google-io-2015</id>
+    <content type="html"><![CDATA[<p>Organizatorzy Java User Group w Zielonej Górze nieustannie starają się uatrakcyjniać kolejne spotkania, poprzez realizację coraz to nowych pomysłów. Tym razem miło nam poinformować, że przy wsparciu firmy <a href="http://adbglobal.com/" target="_blank">ADB</a>, wspólnie będziemy organizować pierwszy w naszym mieście oraz jeden z niewielu w naszym kraju Google I/O Extended.</p>
+
+<p><center>
+<a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g"><img src="http://zielona-gora-jug.github.io/images/google-io-2015.png" title="Google IO Extended" ></a>
+<a href="http://adbglobal.com"><img src="http://zielona-gora-jug.github.io/images/adb.png" title="Advanced Digital Broadcast" ></a>
+<center/></p>
+
+<p><!-- more --></p>
+
+<p>Google I/O Extended jest to transmisja na żywo, z organizowanej raz w roku największej i najważniejszej konferencji Google I/O w San Francisco.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/google-io-3.jpg"></p>
+
+<p>Wszystko to z myślą o programistach i fascynatach nowoczesnych technologii, dla których to przedstawiane będą techniczne oraz bardzo szczegółowe prezentacje. Wyśmienita okazja aby dowiedzieć się nowinek związanych z tworzeniem rozwiązań mobilnych, internetowych, ukierunkowanych biznesowo, przy wykorzystaniu narzędzi firmy Google min. takich jak: Android, Chrome, Maps, Google TV, GWT, Google App Engine.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/google-io-2.jpg"></p>
+
+<p>Myśl przewodnia która nam przyświeca przy realizacji tego przedsięwzięcia w naszym mieście jest taka, aby wyjść z domu, nie oglądać transmisji samemu, poznać innych pasjonatów, nawiązać nowe znajomości, wymienić się doświadczeniem, konkursy, nagrody, prezentacje, gadżety a ponadto dobra zabawa.</p>
+
+<p>Uczestnictwo jest darmowe, lecz wymagamy aby każdy z Was zarejestrował się w utworzonym <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">>>wydarzeniu&lt;&lt;</a> na portalu Google+</p>
+
+<p>Serdecznie zapraszamy!<br/>
+Dawid, Magda, Tomek oraz ADB</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania marcowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/04/13/podsumowanie-spotkania-marcowego/"/>
+    <updated>2015-04-13T21:48:05+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/04/13/podsumowanie-spotkania-marcowego</id>
+    <content type="html"><![CDATA[<p>Powoli przygotowujemy się do spotkania kwietniowego, a czas jeszcze podsumować, co działo się w marcu.</p>
+
+<p>Sponsorem spotkania był <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, a tematem - Internet of Things, przedstawiony przez Pawła Boreckiego. Albo właściwie, jak mówi Paweł - Internet of Everything.</p>
+
+<p>Zgodnie z nową formułą, zaczęliśmy chwilę wcześniej od luźnych rozmów przy piwie. Jako że sprawdziło się to dobrze, taki też będzie plan przy następnych spotkaniach.</p>
+
+<p>Pierwsza część prezentacji była wprowadzeniem w świat Internet of Things - obecny rynek, kierunki rozwoju i ciekawe przykłady zastosowań (zarówno te bardziej poważne i złożone, jak i te bardziej hobbystyczne, np. zautomatyzowana kuweta dla kota:) ). Opowiedział jakie są dostępne rozwiązania sprzętowe i w co na początek nie warto się pakować.</p>
+
+<!-- more -->
+
+
+<p>Druga część prezentacji była bardziej praktyczna, mogliśmy więc na własnych oczach obejrzeć podpinane kabelki, czujniki, diody oraz wystawioną na żywo stronę, na którą można było wejść i kliknąć, żeby zapaliła się podłączona do płytki dioda.</p>
+
+<p><a href="http://zielona-gora-jug.github.io/images/2015_marzec_publicznosc_duze.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/2015_marzec_publicznosc.jpeg" width="640" title="Publiczność zapala diody zdalnie (fot. Krzysztof Bogucki)" ></a></p>
+
+<p>Zobaczyliśmy, jak wygląda pisanie prostych skryptów Lua, i jak trzymać dane z czujników w chmurze.</p>
+
+<p><a href="http://zielona-gora-jug.github.io/images/2015_marzec_slajdy_duze.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/2015_marzec_slajdy.jpeg" width="640" title="Skrypty Lua (fot. Dawid Maksylewicz)" ></a></p>
+
+<p> Było ciekawie - zarówno dla osób zupełnie nie znających się na temacie, jak i dla tych, którzy próbują swoich sił w automatyzacji. Liczne pytania z publiczności były dowodem, że mamy w Zielonej Górze trochę pasjonatów IoT :)</p>
+
+<p><a href="http://zielona-gora-jug.github.io/images/2015_marzec_sprzet_duze.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/2015_marzec_sprzet.jpeg" width="640" title="Sprzęt (fot. Dawid Maksylewicz)" ></a></p>
+
+<p>Na końcu było jak zwykle losowanie nagród, a także przedstawienie najnowszych propozycji tematów na następne spotkania. Przypominam o głosowaniu na tematy - link do <a href="http://goo.gl/forms/olSZgNJmFE" target="_blank">ankiety</a> znajdziecie od teraz w menu na górze strony.</p>
+
+<p>Prezentacja wraz ze wszystkimi skryptami znajduje się <a href="https://github.com/zielona-gora-jug/jug_zg_iot" target="_blank">githubie</a> ZG JUG.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie marcowe - Internet of Things]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/03/24/spotkanie-marcowe-internet-of-things/"/>
+    <updated>2015-03-24T19:39:27+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/03/24/spotkanie-marcowe-internet-of-things</id>
+    <content type="html"><![CDATA[<p>To już dzisiaj ! JUG Zielona Góra wzywa wszystkich programistów ! Tradycyjnie w ostatnią środę miesiąca (25 marzec), spotykamy się w zaprzyjaźnionym pubie Haust. <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> po raz kolejny serwuje napoje oraz przekąski, stając się sponsorem spotkania&hellip; :-)</p>
+
+<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Tym razem przednia zabawa zapowiada się dzięki Pawłowi Boreckiemu, który to jako prelegent przedstawi nam zagadniania związane z szeroko rozumianym pojęciem IoT -> Internet of Things. Będziemy mogli posłuchać o możliwościach automatyzacji domu, na bazie przykładowej implementacji układu ESP8266, poznać alternatywne rozwiązania, trochę teorii IoT, trochę elektronicznej praktyki.</p>
+
+<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/221152790/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Przybywajcie!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania lutowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/02/28/podsumowanie-spotkania-lutowego/"/>
+    <updated>2015-02-28T20:42:48+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/02/28/podsumowanie-spotkania-lutowego</id>
+    <content type="html"><![CDATA[<p>Lutowe spotkanie zielonogórskiego JUGa - najbardziej javowe z wszystkich dotychczasowych - odbyło się 25. lutego w Hauście i było sponsorowane przez firmę <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>. Na początku (zaczęliśmy wyjątkowo punktualnie!) Dawid Maksylewicz opowiedział o nowej składni i nowych funkcjach wprowadzonych w Javie 7. Wszystko zilustrowane było za pomocą przykładów, co zachęciło publiczność do aktywnego udziału oraz wnikliwych pytań na bieżąco:) Przeszliśmy od prostych i przydatnych zmian w składni, przez mechanizm fork &amp; join, aż po invokedynamic, gdzie zagłębiliśmy się trochę w bytecode&hellip; Zajrzyjcie do <a href="http://dmaksylewicz.github.io/java7-slides/#/step-1" target="_blank">slajdów</a> i do <a href="https://github.com/zielona-gora-jug/java7-code" target="_blank">kodu na githubie</a>, w którym są również porównania, jak dany problem trzeba było rozwiązywać przed siódemką, a jak można zrobić to teraz.</p>
+
+<!-- more -->
+
+
+<p>Po krótkim odpoczynku i kuluarowych pogaduszkach, Paweł Żalejko zaprezentował Javę 8 (<a href="https://github.com/p-zalejko/jug_java8/blob/master/jug.zg.java8/Java%208_prezentacja.pdf?raw=true" target="_blank">slajdy</a> i <a href="https://github.com/zielona-gora-jug/jug_java8" target="_blank">kod</a>). Treści było sporo, między innymi oczywiście lambdy - Paweł pokazał kilka przykładów tego, jak bardzo upraszczają one kod i usuwają boilerplate. Zobaczyliśmy też ulepszenia w adnotacjach, javascriptowy silnik Nashorn, interfejsy funkcyjne i strumienie, również porównane z kodem sprzed ósemki.</p>
+
+<p>Na koniec przyszedł czas na sprawy organizacyjne. Z nowych rzeczy: na następne spotkania zapraszamy od 18:30 - my już wtedy będziemy i będzie można pogadać, natomiast prezentacje zaczniemy punktualnie o 19:00. Poza tym w marcu znów odejdziemy trochę od Javy - będzie o Internet of Things. Szczegóły wkrótce na meetupie. Pojawił się również pomysł zorganizowania w maju Google IO Extended - więcej szczegółów będzie się pojawiać na <a href="jug.zgora.pl/forum" target="_blank">forum</a> w miarę krystalizowania się planów. A propos forum - jeśli kogoś tam jeszcze nie ma, to polecam się zapisać. Jesteśmy w trakcie nawiązywania współpracy z organizatorami kilku tegorocznych konferencji, i być może będziemy mieć jakieś zniżki lub wejściówki - informacja o tym pojawi się właśnie na forum.</p>
+
+<p>Dzięki za kolejne udane spotkanie i do zobaczenia za miesiąc!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JUG w eterze]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/02/22/jug-w-eterze/"/>
+    <updated>2015-02-22T19:44:15+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/02/22/jug-w-eterze</id>
+    <content type="html"><![CDATA[<p>W piątek, 20. lutego, zostaliśmy zaproszeni do <a href="http://www.wzielonej.pl/radio" target="_blank">Akademickiego Radia Index</a>, aby opowiedzieć o JUGu. W audycji &ldquo;Godzina Rektorska&rdquo; rozmawialiśmy o tym, skąd wziął się pomysł na JUGa, po co się spotykamy, i jakie mamy pomysły na przyszłość. Fragmentów nagrania można wysłuchać tutaj: <a href="http://www.wzielonej.pl/informacje/news/20495,programisci-java-z-zielonej-gory-laczcie-sie.html" target="_blank">Programiści Java z Zielonej Góry - łączcie się</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe - Java 7&amp;8]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/02/10/spotkanie-lutowe-java-7-and-8/"/>
+    <updated>2015-02-10T22:52:37+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/02/10/spotkanie-lutowe-java-7-and-8</id>
+    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiego JUGa. Tradycyjnie w ostatnią środę miesiąca (25 lutego), spotykamy się w zaprzyjaźnionym pubie Haust. Dzięki długofalowemu wsparciu naszej lokalnej inicjatywy przez firmę <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, również i tym razem możemy liczyć na darmowe napoje oraz przekąski.</p>
+
+<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
+
+<!-- more -->
+
+
+<p>Nadchodzące spotkanie zapowiada się w 100% Javowe. Na wstępie, dla przypomnienia zaprezentuję klika kluczowych zagadnień, które weszły wraz z siódmym wydaniem Javy. Kolejno Paweł Żalejko przedstawi pełen wachlarz nowości dostarczonych wraz z Javą 8.</p>
+
+<p>Prace nad prezentacjami idą pełną parą. Zapowiada się mega ciekawie !</p>
+
+<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/220443222/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Przybywajcie!</p>
+]]></content>
+  </entry>
+  
+</feed>
