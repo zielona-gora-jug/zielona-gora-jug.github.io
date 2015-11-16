@@ -6,7 +6,7 @@ comments: true
 categories: 
 author: Dawid Maksylewicz
 ---
-We are happy to announce that <a href="http://oreilly.com/" target="_blank">O'Reilly</a> media publishing has decided to continue their support of the <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> in session 2015/2016. Our small but vibrant community of programmers has just received next batch of paper books. Rules in order to get one copy are the same as it was before. We want to reward speakers for their effort put into preparing presentations. One book is dedicated for one monthly meeting.
+We are happy to announce that <a href="http://oreilly.com/" target="_blank">O'Reilly</a> media publishing has decided to continue their support of <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> in season 2015/2016. Our small but vibrant community of programmers has just received next batch of paper books. Rules in order to get one copy, are the same as it was before. We want to reward speakers for their effort put into preparing presentations. One book is dedicated for one monthly meeting.
 
 [{% img center /images/books_1.jpg O'Reilly %}](http://oreilly.com)
 
