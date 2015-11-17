@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-11-17T07:12:04+01:00</updated>
+  <updated>2015-11-17T09:33:40+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,24 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[New books from O'Reilly]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/11/16/oreilley-2nd-support/"/>
-    <updated>2015-11-16T21:46:46+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/11/16/oreilley-2nd-support</id>
-    <content type="html"><![CDATA[<p>We are happy to say that <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a> media publishing has decided to continue their support of <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> in season 2015/2016. Our small but vibrant community of programmers has just received next batch of paper books. Rules in order to get one copy, are the same as it was before. We want to reward speakers for their effort put into preparing presentations. One book is dedicated for one monthly meeting.</p>
-
-<p><a href="http://oreilly.com"><img class="center" src="http://zielona-gora-jug.github.io/images/books_1.jpg" title="O'Reilly" ></a></p>
-
-<!-- more -->
-
-
-<p>Miło nam ogłosić, że wydawnictwo <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a> postanowiło kontynuować swoje wsparcie dla <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> w sezonie 2015/2016. Nasza mała, ale tętniąca życiem społeczność programistów otrzymała właśnie kolejną partię papierowych książek. Zasady odnośnie uzyskania jednej kopii są takie same, jak to było wcześniej. Chcemy nagradzać prelegentów za ich wysiłek włożony w przygotowanie prezentacji. Jedna książka przeznaczona jest na jedne miesięczne spotkanie.</p>
-
-<p><a href="http://oreilly.com"><img class="center" src="http://zielona-gora-jug.github.io/images/books_2.jpg" title="O'Reilly" ></a></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania październikowego]]></title>
@@ -485,6 +467,24 @@ Dawid, Magda, Tomek oraz ADB</p>
 <p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/220443222/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
 
 <p>Przybywajcie!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania styczniowego - Hadoop i Scala]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/02/07/podsumowanie-spotkania-styczniowego-hadoop-i-scala/"/>
+    <updated>2015-02-07T14:08:06+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/02/07/podsumowanie-spotkania-styczniowego-hadoop-i-scala</id>
+    <content type="html"><![CDATA[<p>Nowy rok zaczęliśmy od spotkania o Hadoopie i Scali, które odbyło się 28. stycznia 2015. Sponsorem była firma <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, która jest obecnie naszym stałym partnerem aż do marca.</p>
+
+<p>Na spotkaniu było ok. 80 osób. Jako pierwszy wystąpił Marcin Stożek z prezentacją <a href="https://slides.com/perk/hadoop-101" target="_blank">Hadoop 101</a>. Dowiedzieliśmy się, jak duże muszą być dane, żeby rozwiązania do Big Data w ogóle miały sens (odpowiedź: co najmniej 5 TB, inaczej szkoda zachodu, Hadoop nie rozwiąże naszych problemów), oraz poznaliśmy zarys ekosystemu Hadoopa, na który składa się wiele różnych narzędzi i bibliotek. Było również live demo z Hadoopem od Cloudery, które pozwoliło zobaczyć przykładowy plik w HDFSie i wyszukiwanie w nim za pomocą Hive&#8217;a.</p>
+
+<!-- more -->
+
+
+<p>Po przerwie przeszliśmy do Scali, o której Marcin Dąbrowa opowiedział bez slajdów, używając zamiast tego Scala worksheets. Dzięki temu prezentacja była bardzo interaktywna, publiczność brała w niej aktywny udział, a wszystkie pytania otrzymywały odpowiedź natychmiast, wraz z przykładem. Poznaliśmy podstawowe elementy tego języka, case classes, pattern matching i operacje na kolekcjach. Jako że temat Scali i w ogóle programowania funkcyjnego jest dość szeroki, być może będzie trzeba go jeszcze w jakiejś formie rozwinąć.</p>
+
+<p>Na końcu przyszła pora na nagrody od sponsorów. Obecnie na każdym spotkaniu mamy do dyspozycji dwie licencje od <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i jednego ebooka z wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a> (powitalne kupony od O&#8217;Reilly już się skończyły). Zgodnie z naszymi zasadami, każdy prelegent występujący na JUGu otrzymuje jedną wybraną z tego zestawu nagrodę, jako podziękowanie za inicjatywę i poświęcony czas, natomiast reszta jest rozlosowywana wśród uczestników spotkania. Zachęcamy więc do zgłaszania prezentacji! Pamiętajcie też, że z obu wydawnictw mamy dostęp do tzw. egzemplarzy recenzyjnych - można otrzymać dowolnie wybraną przez siebie książkę w zamian za opublikowanie recenzji na blogu ZG JUG. Więcej szczegółów: <a href="http://zielona-gora-jug.github.io/blog/2014/10/10/wspolpraca-z-oreilly-i-manning-publications/">Współpraca z O&#8217;Reilly i Manning Publications</a>.</p>
 ]]></content>
   </entry>
   
