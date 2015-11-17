@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "New support from O'Reilly"
+title: "New books from O'Reilly"
 date: 2015-11-16 21:46:46 +0100
 comments: true
 categories: 
 author: Dawid Maksylewicz
 ---
-We are happy to announce that <a href="http://oreilly.com/" target="_blank">O'Reilly</a> media publishing has decided to continue their support of <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> in season 2015/2016. Our small but vibrant community of programmers has just received next batch of paper books. Rules in order to get one copy, are the same as it was before. We want to reward speakers for their effort put into preparing presentations. One book is dedicated for one monthly meeting.
+We are happy to say that <a href="http://oreilly.com/" target="_blank">O'Reilly</a> media publishing has decided to continue their support of <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> in season 2015/2016. Our small but vibrant community of programmers has just received next batch of paper books. Rules in order to get one copy, are the same as it was before. We want to reward speakers for their effort put into preparing presentations. One book is dedicated for one monthly meeting.
 
 [{% img center /images/books_1.jpg O'Reilly %}](http://oreilly.com)
 
