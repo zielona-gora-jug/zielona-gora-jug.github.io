@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-11-21T21:42:22+01:00</updated>
+  <updated>2015-11-22T22:59:23+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe - EMF i Xtext]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/11/22/spotkanie-listopadowe-emf-i-xtext/"/>
+    <updated>2015-11-22T21:37:57+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/11/22/spotkanie-listopadowe-emf-i-xtext</id>
+    <content type="html"><![CDATA[<p>Już w najbliższą środę w zaprzyjaźnionym pubie Haust kolejne spotkanie <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> - czyli zielonogórskiej społeczności pasjonatów programowania. Tym razem widzimy się przy mocnym wsparciu firmy <a href="http://rec-global.com" target="_blank">REC</a>, która zapewnia napoje oraz przekąski i której pracownicy poprowadzą dwie ciekawe prezentacje.</p>
+
+<p><a href="http://www.rec-global.com"><img class="center" src="http://zielona-gora-jug.github.io/images/rec.png" width="90" height="90" title="REC" ></a></p>
+
+<!-- more -->
+
+
+<p>Tomasz Kleszczyński: Building your own domain-specific language with Xtext. Podczas prezentacji wykorzysta Xtext aby zbudować DSL w oparciu o istniejący model EMF. Pokażę jak zrobić edytor z kolorowaniem o podpowiadaniem składni, walidacją i mechanizmem quick-fix.</p>
+
+<p>Paweł Żalejko: Eclipse Modeling Framework (EMF). Usłyszymy o tym czym jest EMF i do czego może się przydać. W czasie prezentacji skupi się na podstawach, będzie o samym EMF&#8217;ie jako technologii, tworzeniu modeli, generowaniu kodu oraz o tym co można z tak wygenerowanym kodem następnie zrobić.</p>
+
+<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/226707166/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a>, ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zaproszenie na 33rd Degree 4 Charity]]></title>
@@ -463,15 +485,6 @@ Dawid, Magda, Tomek oraz ADB</p>
 <p>Na koniec przyszedł czas na sprawy organizacyjne. Z nowych rzeczy: na następne spotkania zapraszamy od 18:30 - my już wtedy będziemy i będzie można pogadać, natomiast prezentacje zaczniemy punktualnie o 19:00. Poza tym w marcu znów odejdziemy trochę od Javy - będzie o Internet of Things. Szczegóły wkrótce na meetupie. Pojawił się również pomysł zorganizowania w maju Google IO Extended - więcej szczegółów będzie się pojawiać na <a href="jug.zgora.pl/forum" target="_blank">forum</a> w miarę krystalizowania się planów. A propos forum - jeśli kogoś tam jeszcze nie ma, to polecam się zapisać. Jesteśmy w trakcie nawiązywania współpracy z organizatorami kilku tegorocznych konferencji, i być może będziemy mieć jakieś zniżki lub wejściówki - informacja o tym pojawi się właśnie na forum.</p>
 
 <p>Dzięki za kolejne udane spotkanie i do zobaczenia za miesiąc!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JUG w eterze]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/02/22/jug-w-eterze/"/>
-    <updated>2015-02-22T19:44:15+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/02/22/jug-w-eterze</id>
-    <content type="html"><![CDATA[<p>W piątek, 20. lutego, zostaliśmy zaproszeni do <a href="http://www.wzielonej.pl/radio" target="_blank">Akademickiego Radia Index</a>, aby opowiedzieć o JUGu. W audycji &ldquo;Godzina Rektorska&rdquo; rozmawialiśmy o tym, skąd wziął się pomysł na JUGa, po co się spotykamy, i jakie mamy pomysły na przyszłość. Fragmentów nagrania można wysłuchać tutaj: <a href="http://www.wzielonej.pl/informacje/news/20495,programisci-java-z-zielonej-gory-laczcie-sie.html" target="_blank">Programiści Java z Zielonej Góry - łączcie się</a>.</p>
 ]]></content>
   </entry>
   
