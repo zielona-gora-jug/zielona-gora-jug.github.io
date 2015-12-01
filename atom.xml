@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-11-22T22:59:23+01:00</updated>
+  <updated>2015-12-01T21:16:13+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -14,24 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Spotkanie listopadowe - EMF i Xtext]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/11/22/spotkanie-listopadowe-emf-i-xtext/"/>
-    <updated>2015-11-22T21:37:57+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/11/22/spotkanie-listopadowe-emf-i-xtext</id>
-    <content type="html"><![CDATA[<p>Już w najbliższą środę w zaprzyjaźnionym pubie Haust kolejne spotkanie <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> - czyli zielonogórskiej społeczności pasjonatów programowania. Tym razem widzimy się przy mocnym wsparciu firmy <a href="http://rec-global.com" target="_blank">REC</a>, która zapewnia napoje oraz przekąski i której pracownicy poprowadzą dwie ciekawe prezentacje.</p>
+    <title type="html"><![CDATA[Podsumowanie spotkania listopadowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/11/30/podsumowanie-spotkania-listopadowego/"/>
+    <updated>2015-11-30T21:12:33+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/11/30/podsumowanie-spotkania-listopadowego</id>
+    <content type="html"><![CDATA[<p>W minioną środę spotkaliśmy się po raz kolejny, tym razem przy wsparciu firmy <a href="http://pl.rec-global.com/" target="_blank">REC</a> - czas na krótką relację.</p>
 
-<p><a href="http://www.rec-global.com"><img class="center" src="http://zielona-gora-jug.github.io/images/rec.png" width="90" height="90" title="REC" ></a></p>
+<p>Tym razem na jednym spotkaniu mieliśmy dwa tematy. Najpierw Paweł Żalejko przedstawił <a href="http://www.eclipse.org/modeling/emf/" target="_blank">Eclipse Modeling Framework</a>, pozwalający na generowanie kodu na podstawie zdefiniowanego modelu. Zobaczyliśmy możliwości EMF, m.in. dodatkowe klasy wspomagające, walidacyjne oraz łatwe tworzenie widoków edycji danych. Slajdy z prezentacji: <a href="files/EMF.pdf" target="_blank">EMF</a>.</p>
 
-<!-- more -->
+<p>Następna była prezentacja Tomasza Kleszczyńskiego o frameworku <a href="https://eclipse.org/Xtext/" target="_blank">Xtext</a>. Jest to narzędzie pozwalające tworzyć własny DSL - zobaczyliśmy jego zastosowania na przykładzie własnej gramatyki do tworzenia reguł logowania. Plik konfiguracyjny napisany w takim DSLu (oprócz tego że czyta się go lepiej niż XML) można np. łatwo edytować przy wsparciu IDE, z automatyczną walidacją oraz podpowiadaniem składni. Więcej szczegółów na slajdach: <a href="files/Xtext.pdf" target="_blank">Xtext</a> i na githubie: <a href="https://github.com/zielona-gora-jug/jug-zgora-xtext" target="_blank">zielona-gora-jug/jug-zgora-xtext</a>.</p>
 
-
-<p>Tomasz Kleszczyński: Building your own domain-specific language with Xtext. Podczas prezentacji wykorzysta Xtext aby zbudować DSL w oparciu o istniejący model EMF. Pokażę jak zrobić edytor z kolorowaniem o podpowiadaniem składni, walidacją i mechanizmem quick-fix.</p>
-
-<p>Paweł Żalejko: Eclipse Modeling Framework (EMF). Usłyszymy o tym czym jest EMF i do czego może się przydać. W czasie prezentacji skupi się na podstawach, będzie o samym EMF&#8217;ie jako technologii, tworzeniu modeli, generowaniu kodu oraz o tym co można z tak wygenerowanym kodem następnie zrobić.</p>
-
-<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/226707166/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a>, ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
+<p>W grudniu spotykamy się wcześniej niż zwykle - 16. listopada. Wydarzenie wkrótce na meetupie.</p>
 ]]></content>
   </entry>
   
