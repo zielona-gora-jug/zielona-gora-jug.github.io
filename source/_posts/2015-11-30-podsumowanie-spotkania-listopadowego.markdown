@@ -14,4 +14,4 @@ Następna była prezentacja Tomasza Kleszczyńskiego o frameworku <a href="http
 
 Zdjęcia ze spotkania można znaleźć na <a href="http://www.meetup.com/Zielona-Gora-JUG/photos/26576433/" target="_blank">meetupie</a>.
 
-W grudniu spotykamy się wcześniej niż zwykle - 16. listopada. Wydarzenie wkrótce na meetupie.
+W grudniu spotykamy się wcześniej niż zwykle - 16. grudnia. Wydarzenie wkrótce na meetupie.
