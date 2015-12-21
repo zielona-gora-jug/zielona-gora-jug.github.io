@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2015-12-14T23:14:02+01:00</updated>
+  <updated>2015-12-21T21:34:30+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania grudniowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2015/12/20/podsumowanie-spotkania-grudniowego/"/>
+    <updated>2015-12-20T20:29:24+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2015/12/20/podsumowanie-spotkania-grudniowego</id>
+    <content type="html"><![CDATA[<p>Ostatnie w tym roku spotkanie za nami! 16. grudnia, przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> rozmawialiśmy o jBPM i Dockerze.</p>
+
+<p>Pierwszą prezentację, o jBPM, przedstawił Tomasz Gratkowski. Było o tym, jak zamodelować często bardzo skomplikowane procesy biznesowe istniejące w organizacji oraz jak stworzyć aplikację, która może podejmować decyzje na podstawie danych wprowadzanych na bieżąco przez użytkowników. Slajdy pojawią się na blogu niebawem.</p>
+
+<p>Następnie Marcin Stożek opowiedział o Dockerze. Była historia (konteneryzacja to nic nowego w Linuksie), była zasada działania, były wyzwania (m.in. kwestie bezpieczeństwa), zobaczyliśmy również na żywo jak wygląda odpalanie kontenerów, co tworzy się w systemie plików oraz jak kontener może przekroczyć swoje uprawnienia. Slajdy: <a href="http://slides.com/perk/docker#/" target="_blank">Docker dla odważnych</a>.</p>
+
+<p>Na końcu był czas na sprawy organizacyjne - losowania licencji, ebooków oraz nagród od sponsora, a także plany na następny rok. Co nas czeka? Będzie trochę gości z innych miast, myślimy również o nawiązaniu współpracy z JUG Saxony. Pierwszy gość pojawi się już w styczniu, a ponieważ dostosujemy się do niego z datą, na styczniowego JUGa zapraszamy 18.01.2016.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie grudniowe - jBPM i Docker]]></title>
@@ -450,40 +465,6 @@ Na prezentacji pokażę narzędzia, z których można skorzystać aby pomóc sob
 
 <p>Serdecznie zapraszamy!<br/>
 Dawid, Magda, Tomek oraz ADB</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania marcowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/04/13/podsumowanie-spotkania-marcowego/"/>
-    <updated>2015-04-13T21:48:05+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/04/13/podsumowanie-spotkania-marcowego</id>
-    <content type="html"><![CDATA[<p>Powoli przygotowujemy się do spotkania kwietniowego, a czas jeszcze podsumować, co działo się w marcu.</p>
-
-<p>Sponsorem spotkania był <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>, a tematem - Internet of Things, przedstawiony przez Pawła Boreckiego. Albo właściwie, jak mówi Paweł - Internet of Everything.</p>
-
-<p>Zgodnie z nową formułą, zaczęliśmy chwilę wcześniej od luźnych rozmów przy piwie. Jako że sprawdziło się to dobrze, taki też będzie plan przy następnych spotkaniach.</p>
-
-<p>Pierwsza część prezentacji była wprowadzeniem w świat Internet of Things - obecny rynek, kierunki rozwoju i ciekawe przykłady zastosowań (zarówno te bardziej poważne i złożone, jak i te bardziej hobbystyczne, np. zautomatyzowana kuweta dla kota:) ). Opowiedział jakie są dostępne rozwiązania sprzętowe i w co na początek nie warto się pakować.</p>
-
-<!-- more -->
-
-
-<p>Druga część prezentacji była bardziej praktyczna, mogliśmy więc na własnych oczach obejrzeć podpinane kabelki, czujniki, diody oraz wystawioną na żywo stronę, na którą można było wejść i kliknąć, żeby zapaliła się podłączona do płytki dioda.</p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/2015_marzec_publicznosc_duze.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/2015_marzec_publicznosc.jpeg" width="640" title="Publiczność zapala diody zdalnie (fot. Krzysztof Bogucki)" ></a></p>
-
-<p>Zobaczyliśmy, jak wygląda pisanie prostych skryptów Lua, i jak trzymać dane z czujników w chmurze.</p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/2015_marzec_slajdy_duze.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/2015_marzec_slajdy.jpeg" width="640" title="Skrypty Lua (fot. Dawid Maksylewicz)" ></a></p>
-
-<p> Było ciekawie - zarówno dla osób zupełnie nie znających się na temacie, jak i dla tych, którzy próbują swoich sił w automatyzacji. Liczne pytania z publiczności były dowodem, że mamy w Zielonej Górze trochę pasjonatów IoT :)</p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/2015_marzec_sprzet_duze.jpeg"><img class="center" src="http://zielona-gora-jug.github.io/images/2015_marzec_sprzet.jpeg" width="640" title="Sprzęt (fot. Dawid Maksylewicz)" ></a></p>
-
-<p>Na końcu było jak zwykle losowanie nagród, a także przedstawienie najnowszych propozycji tematów na następne spotkania. Przypominam o głosowaniu na tematy - link do <a href="http://goo.gl/forms/olSZgNJmFE" target="_blank">ankiety</a> znajdziecie od teraz w menu na górze strony.</p>
-
-<p>Prezentacja wraz ze wszystkimi skryptami znajduje się <a href="https://github.com/zielona-gora-jug/jug_zg_iot" target="_blank">githubie</a> ZG JUG.</p>
 ]]></content>
   </entry>
   
