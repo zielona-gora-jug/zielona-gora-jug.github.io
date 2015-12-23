@@ -8,7 +8,7 @@ author: Magda Stożek
 ---
 Ostatnie w tym roku spotkanie za nami! 16. grudnia, przy wsparciu firmy <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> rozmawialiśmy o jBPM i Dockerze.
 
-Pierwszą prezentację, o jBPM, przedstawił Tomasz Gratkowski. Było o tym, jak zamodelować często bardzo skomplikowane procesy biznesowe istniejące w organizacji oraz jak stworzyć aplikację, która może podejmować decyzje na podstawie danych wprowadzanych na bieżąco przez użytkowników. Slajdy pojawią się na blogu niebawem.
+Pierwszą prezentację, o jBPM, przedstawił Tomasz Gratkowski. Było o tym, jak zamodelować często bardzo skomplikowane procesy biznesowe istniejące w organizacji oraz jak stworzyć aplikację, która może podejmować decyzje na podstawie danych wprowadzanych na bieżąco przez użytkowników. Slajdy: <a href="/files/jbpm.pdf" target="_blank">jBPM</a> i <a href="https://github.com/zielona-gora-jug/spotkanie-2015-12-16-jBPM" target="_blank">kod na githubie</a>.
 
 Następnie Marcin Stożek opowiedział o Dockerze. Była historia (konteneryzacja to nic nowego w Linuksie), była zasada działania, były wyzwania (m.in. kwestie bezpieczeństwa), zobaczyliśmy również na żywo jak wygląda odpalanie kontenerów, co tworzy się w systemie plików oraz jak kontener może przekroczyć swoje uprawnienia. Slajdy: <a href="http://slides.com/perk/docker#/" target="_blank">Docker dla odważnych</a>.
 
