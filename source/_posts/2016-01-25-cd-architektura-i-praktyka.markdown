@@ -8,8 +8,8 @@ author: Dawid Maksylewicz
 ---
 Niezmiernie miło nam poinformować, że <a href="https://www.jug.zgora.pl" target="_blank">Zielona Góra JUG</a> wraz z firmą <a href="https://www.cinkciarz.pl" target="_blank">Cinkciarz.pl</a> wspłorganizują wyjątkowe, dodatkowe spotkanie, gośćmi którego bedą dobrze znani wśród pasjonatów wytwarzania oprogramowania Łukasz Szydło oraz Sławomir Sobótka. Spotkanie odbędzie się 1 lutego 2016 roku, dzięki uprzejmości <a href="https://weit.uz.zgora.pl" target="_blank">Wydziału Informatyki, Elektrotechniki i Automatyki UZ</a>, w sali numer 115, budynku A-2 Uniwersytetu Zielonogórskiego. Będzie okazja do wysłuchania dwóch tematów:
 
-->[{% img /images/cinkciarz.png 200 150 Cinkciarz.pl %}](http://cinkciarz.pl)
-[{% img /images/logo.png 200 150 ZgJUG %}](http://jug.zgora.pl)
+->[{% img /images/logo.png 200 150 ZgJUG %}](http://jug.zgora.pl)
+[{% img /images/cinkciarz.png 200 150 Cinkciarz.pl %}](http://cinkciarz.pl)
 [{% img /images/wiea.png 160 110 WIEA %}](http://weit.uz.zgora.pl)<-
 
 <!-- more -->
