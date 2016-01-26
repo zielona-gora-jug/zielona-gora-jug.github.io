@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-01-19T07:46:30+01:00</updated>
+  <updated>2016-01-26T09:05:31+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Art of software: Łukasz Szydło i Sławomir Sobótka]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/01/25/cd-architektura-i-praktyka/"/>
+    <updated>2016-01-25T12:41:16+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/01/25/cd-architektura-i-praktyka</id>
+    <content type="html"><![CDATA[<p>Niezmiernie miło nam poinformować, że <a href="https://www.jug.zgora.pl" target="_blank">Zielona Góra JUG</a> wraz z firmą <a href="https://www.cinkciarz.pl" target="_blank">Cinkciarz.pl</a> wspłorganizują wyjątkowe, dodatkowe spotkanie, gośćmi którego bedą dobrze znani wśród pasjonatów wytwarzania oprogramowania Łukasz Szydło oraz Sławomir Sobótka. Spotkanie odbędzie się 1 lutego 2016 roku, dzięki uprzejmości <a href="https://weit.uz.zgora.pl" target="_blank">Wydziału Informatyki, Elektrotechniki i Automatyki UZ</a>, w sali numer 115, budynku A-2 Uniwersytetu Zielonogórskiego. Będzie okazja do wysłuchania dwóch tematów:</p>
+
+<p style="text-align:center;"><a href="http://cinkciarz.pl"><img src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="200" height="150" title="Cinkciarz.pl" ></a>
+<a href="http://jug.zgora.pl"><img src="http://zielona-gora-jug.github.io/images/logo.png" width="200" height="150" title="ZgJUG" ></a>
+<a href="http://weit.uz.zgora.pl"><img src="http://zielona-gora-jug.github.io/images/wiea.png" width="160" height="110" title="WIEA" ></a></p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>Continuous Delivery (CD) jest coraz częściej stosowaną praktyką w nowoczesnych projektach. Pytanie, jakie korzyści płyną z wdrażania kodu na produkcję kilka razy dziennie i jak zmieni to naszą codzienną pracę. Kiedy już to poznamy, zostaje największa zagwozdka: jak to zrobić, jakich narzędzi użyć i dlaczego wszędzie jest Docker.</p></li>
+<li><p>Nie koduj! Pisz prozę! Techniki DDD wychodzące poza Clean Code. Dlaczego nasz kod na pierwszy rzut oka jest w sumie tak samo czytelny jak karty perforowane wkładane do komputerów Odra? Dlaczego wprowadzenie zmian w 10-letnim kodzie jest tak kosztowne - przecież wszystko powinno być tam już napisane.</p></li>
+</ol>
+
+
+<p>Mając na uwadze to że zaplanowane są dwie, pełnowymiarowe prezentacje, spotkanie rozpoczynamy już o godzinie 18. Rejestracja jak to zwykle bywa, pozostaje darmowa, jednak obowiązkowa na portalu <a href="http://www.meetup.com/Zielona-Gora-JUG/events/227668947/" target="_blank">meetup</a>.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie styczniowe - architektura mikroserwisów]]></title>
@@ -434,26 +460,6 @@ Na prezentacji pokażę narzędzia, z których można skorzystać aby pomóc sob
 <p>Po przerwie przeszliśmy do lżejszego tematu - Tomek Łączkowski opowiedział nam &ldquo;O znaczeniu słów słów kilka&rdquo;, czyli o trudnej sztuce komunikacji - w zespole, między programistami a użytkownikami, między team leaderami a przedstawicielami biznesu. Zarysował kilka problemów, na które warto zwracać uwagę, m.in. określenie wspólnego słownika, precyzyjne określenie wymagań, 5 x why (czyli pytamy tak długo, aż znajdziemy prawdziwy powód, a nie tylko powierzchowne wytłumaczenie), itp. Slajdy: <a href="http://zielona-gora-jug.github.io/files/slowa_slowa.pptx" target="_blank">O znaczeniu słów słów kilka</a>.</p>
 
 <p>Na koniec jak zwykle losowaliśmy nagrody od naszych sponsorów - <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i <a href="http://manning.com/" target="_blank">Manning</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie kwietniowe - o znaczeniu słów i o reklamie w aplikacjach mobilnych]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/04/16/spotkanie-kwietniowe-mobile-ads-human-devs/"/>
-    <updated>2015-04-16T23:51:55+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/04/16/spotkanie-kwietniowe-mobile-ads-human-devs</id>
-    <content type="html"><![CDATA[<p>Kolejny miesiąc i niemniej ciekawe tematy. Tym razem 29 kwietnia przy wsparciu firmy <a href="http://rec-global.com" target="_blank">REC Global</a> zapraszamy wszystkich zainteresowanych na spotkanie w zaprzyjaźnionym pubie Haust.</p>
-
-<p><a href="http://rec-global.com"><img class="center" src="http://zielona-gora-jug.github.io/images/rec.png" width="182" height="72" title="REC Global" ></a></p>
-
-<!-- more -->
-
-
-<p>Pierwszą prezentację przedstawi Arlen Coupland, który wprowadzi nas w tematykę reklam dostępnych na urządzeniach mobilnych. Dowiemy się jak tworzyć i zarządzać takimi reklamami, zarówno od strony kodu jak i zintegrowanych narzędzi, jakie są możliwości zarabiania pięniędzy. Drugą część przejmie Tomek Łączkowski, który postara się z niereformowalnego, rasowego &ldquo;softłer dewelopera&rdquo; zrobić ogarniętego człowieka ;-)</p>
-
-<p>Rejestracja na spotkanie jest jak zawsze darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/221768514/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
