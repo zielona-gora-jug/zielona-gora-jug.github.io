@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-01-26T09:05:31+01:00</updated>
+  <updated>2016-01-26T22:09:30+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania styczniowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/01/26/podsumowanie-spotkania-styczniowego/"/>
+    <updated>2016-01-26T21:50:00+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/01/26/podsumowanie-spotkania-styczniowego</id>
+    <content type="html"><![CDATA[<p>Pierwsze spotkanie w 2016 odbyło się z rekordową frekwencją - prezentacji Roberta Firka o mikroserwisach przyszło posłuchać aż 105 osób! Super:) Po samej prezentacji (<a href="http://robertfirek.github.io/introduction_to_microservices_zg_jug/#/step-1" target="_blank">Architektura Mikroserwisów - Dobry, zły i brzydki</a>), odbyła się jeszcze dyskusja - było bardzo dużo pytań o praktyczne aspekty zastosowania tej architektury, i Robert dzielił się z nami swoim doświadczeniem, podpowiadając, na co uważać, co jest ślepą uliczką, i na których aspektach warto się skupić. Choć w przypadku mikroserwisów, które są bardziej filozofią tworzenia oprogramowania niż ścisłym zbiorem zasad, często jedyną właściwą odpowiedzią jest &ldquo;to zależy&rdquo; :)</p>
+
+<p>Dziękujemy Robertowi za wizytę, sponsorom za wsparcie, i zapraszamy na następne spotkanie, 1. lutego - <a href="http://www.meetup.com/Zielona-Gora-JUG/events/227668947/" target="_blank">Dodatkowe spotkanie lutowe - CD i DDD</a> - liczba uczestników jest tym razem ściśle ograniczona, ale kilka wolnych miejsc jeszcze zostało.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Art of software: Łukasz Szydło i Sławomir Sobótka]]></title>
@@ -442,24 +453,6 @@ Na prezentacji pokażę narzędzia, z których można skorzystać aby pomóc sob
 <p>Prezentacja przeznaczona dla osób którym zdarza się robić (lub naprawiać cudze) błędy w sofcie&hellip; Liczę na ciekawe dyskusje i feedback na temat narzędzi i technik z których wy korzystacie aby ulżyć sobie w cierpieniu&hellip;</p></blockquote>
 
 <p>Więcej informacji, zapisy i szczegółowy plan spotkania na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/222328452/" target="_blank">meetupie</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania kwietniowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/05/19/podsumowanie-spotkania-kwietniowego/"/>
-    <updated>2015-05-19T21:40:02+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/05/19/podsumowanie-spotkania-kwietniowego</id>
-    <content type="html"><![CDATA[<p>Z lekkim opóźnieniem, nadszedł w końcu czas na podsumowanie spotkania kwietniowego. Odbyło się ono 29. kwietnia i było sponsorowane przez firmę <a href="http://www.rec-global.com/" target="_blank">REC</a>.</p>
-
-<p>Pierwszym tematem była reklama w aplikacjach mobilnych, którą przybliżył nam Arlen Coupland. W skrócie okazało się, że taka reklama to dużo dużo więcej niż tylko denerwujące prostokąciki gdzieś na dole gry, w którą gramy na telefonie. Możliwości jest dużo więcej, a najlepiej wkomponować reklamę w naszą aplikację w taki sposób, żeby była ona dla użytkownika czymś ciekawym i angażującym. Temat jest bardzo szeroki, a domena otwarta na innowacje, jako że rynek reklamy mobilnej wciąż dopiero się kształtuje. Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/mobile_advertising.ppt" target="_blank">Mobile Advertising - Introduction</a>.</p>
-
-<!-- more -->
-
-
-<p>Po przerwie przeszliśmy do lżejszego tematu - Tomek Łączkowski opowiedział nam &ldquo;O znaczeniu słów słów kilka&rdquo;, czyli o trudnej sztuce komunikacji - w zespole, między programistami a użytkownikami, między team leaderami a przedstawicielami biznesu. Zarysował kilka problemów, na które warto zwracać uwagę, m.in. określenie wspólnego słownika, precyzyjne określenie wymagań, 5 x why (czyli pytamy tak długo, aż znajdziemy prawdziwy powód, a nie tylko powierzchowne wytłumaczenie), itp. Slajdy: <a href="http://zielona-gora-jug.github.io/files/slowa_slowa.pptx" target="_blank">O znaczeniu słów słów kilka</a>.</p>
-
-<p>Na koniec jak zwykle losowaliśmy nagrody od naszych sponsorów - <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i <a href="http://manning.com/" target="_blank">Manning</a>.</p>
 ]]></content>
   </entry>
   
