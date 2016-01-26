@@ -5,7 +5,7 @@ footer: true
 ---
 [{% img left /images/astec.png 242 85 Astec %}](http://www.astec.net/pl/)
 [{% img left /images/fluid.png Fluid %}](http://fluidagency.pl/)
-[{% img left /images/rec.png 182 72 REC Global %}](http://pl.rec-global.com/)
+[{% img left /images/rec_global_logic.jpg 270 140 REC - a GlobalLogic company%}](http://pl.rec-global.com/)
 [{% img left /images/softwaremill.png SoftwareMill %}](http://softwaremill.com/)
 [{% img left /images/streamsoft.png Streamsoft %}](http://streamsoft.pl/)
 [{% img left /images/oreilly.gif O'Reilly %}](http://oreilly.com)
@@ -16,4 +16,5 @@ footer: true
 [{% img left /images/adb.jpg 350 100 Advanced Digital Broadcast %}](http://adbglobal.com/)
 [{% img left /images/fibaro.jpg 350 100 Fibaro %}](http://fibaro.com/)
 [{% img left /images/ocado.png 350 150 Ocado Technology %}](http://ocadotechnology.com/)
+[{% img left /images/wiea.png 310 110 Wydział Informatyki, Elektrotechniki i Automatyki UZ %}](http://weit.uz.zgora.pl/)
 
