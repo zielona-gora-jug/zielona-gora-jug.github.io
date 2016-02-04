@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-01-26T22:10:41+01:00</updated>
+  <updated>2016-02-04T20:16:45+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania o CD i DDD]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd/"/>
+    <updated>2016-02-02T21:34:25+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd</id>
+    <content type="html"><![CDATA[<p>Kolejny rekord frekwencji w ZG JUG (120 osób) - tym razem za sprawą Łukasza Szydło i Sławomira Sobótki, którzy poprowadzili bardzo ciekawe i dopracowane merytorycznie prezentacje.</p>
+
+<p>Łukasz Szydło w prezentacji <a href="http://www.slideshare.net/ukaszSzydo/enabling-continuous-delivery-57880367" target="_blank">Continuous Delivery - architektura i praktyka</a> wytłumaczył, jak zastosować podejście, w którym każdy commit idzie automatycznie na produkcję, natomiast to, czy sama funkcjonalność będzie widoczna dla użytkowników czy nie, zarządzane jest przez tzw. feature switch. Zarządzaniem tym, co i kiedy włączyć i wyłączyć na różnych środowiskach, może się wtedy zająć product owner. Po prezentacji było bardzo dużo pytań o aspekty praktyczne, do jakich aplikacji podejście to nadaje się bardziej, dla jakich mniej, było również trochę wątpliwości, czy faktycznie da się pracować dużym zespołem na jednym branchu, i jak bardzo trzeba być zdyscyplinowanym, żeby mieć pewność że każdy commit rzeczywiście może od razu iść na produkcję.</p>
+
+<p>Następnie wystąpił Sławomir Sobótka z prezentacją <a href="https://prezi.com/idkvj_glu-aa/2015-nie-koduj-pisz-proze-45min/" target="_blank">Nie koduj, pisz prozę</a>. W pełnym anegdot i żartów wystąpieniu poruszył kilka tematów wokół podstawowej kwestii - jak pisać kod, żeby był czytelny? Jak się okazuje, różni ludzie różnie postrzegają czytelność, ale pewne techniki mogą pomóc. Dowiedzieliśmy się m.in. dlaczego ważne jest by nie mieszać obiektu ze strukturą danych, a funkcji z procedurą, jak grać w gibberish game na spotkaniach z biznesem oraz jak chronić swoją aplikację przez wprowadzanie do niej stref zgniotu i anti-corruption layers.</p>
+
+<p>Dziękujemy partnerom (<a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a> i <a href="http://www.weit.uz.zgora.pl/" target="_blank">WIEA UZ</a>) i zapraszamy na kolejne spotkanie, którego temat jest jeszcze w trakcie ustaleń, ale termin będzie standardowy - ostatnia środa lutego.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania styczniowego]]></title>
@@ -422,37 +437,6 @@ Integer value3 = map.get(key3);
 <p>Potem Paweł Stawicki pokazał <a href="http://akka.io/" target="_blank">Akkę</a> i programowanie wielowątkowe na aktorach. W prezentacji opartej głównie na przykładach zobaczyliśmy różne konfiguracje aktorów, sposoby użycia do różnych rodzajów zadań, oraz jak w tak rozproszonym środowisku podejść do obsługi błędów. Każdy z przykładów dzielił zadanie, jakim było narysowanie fraktala, pomiędzy aktory, i każdy rysował się w trochę inny sposób, w zależności od architektury przykładu! Na koniec była ciekawa dyskusja i wiele pytań z publiczności. Wszystkie przykłady dostępne są w projekcie na githubie: <a href="https://github.com/zielona-gora-jug/akka-pres-src" target="_blank">akka-pres-src</a>, są też slajdy: <a href="amorfis.github.io/akka-pres/" target="_blank">Akka - concurrent programming without the pain</a>.</p>
 
 <p>A już jutro widzimy się na <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">Google I/O Extended</a>!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie majowe - Akka i wdrożenia]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/05/19/spotkanie-majowe-akka-i-wdrozenia/"/>
-    <updated>2015-05-19T21:53:50+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/05/19/spotkanie-majowe-akka-i-wdrozenia</id>
-    <content type="html"><![CDATA[<p>Już jutro zapraszamy na kolejne spotkanie ZG JUG. Choć zazwyczaj spotykamy się w ostatnią środę miesiąca, tym razem odstępujemy od tej zasady ze względu na <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">Google I/O Extended</a>. Majowe spotkanie wspiera firma <a href="http://streamsoft.pl/" target="_blank">Streamsoft</a>, która sponsoruje nie tylko poczęstunek, ale też przyjazd gościa ze Szczecina.</p>
-
-<p><a href="http://streamsoft.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/streamsoft.png" title="Streamsoft" ></a></p>
-
-<!-- more -->
-
-
-<h2>Paweł Stawicki &ldquo;<a href="http://akka.io/" target="_blank">Akka</a> - programowanie wielowątkowe bez bólu&rdquo;</h2>
-
-<blockquote><p>Dawno dawno temu, komputery nie miały wielu rdzeni. Każdy domowy komputer miał jeden procesor, a w nim jeden rdzeń. Nie było możliwe wykonywanie wielu operacji jednocześnie, toteż mało kto przejmował się programowaniem wielowątkowym. Później, kiedy pojawiła się taka potrzeba, starożytni do synchronizacji wątków używali sekcji krytycznych, semaforów, monitorów, blokad i innych potworów. Potwory te miały tę wadę, że ciężko było je oswoić, ciężko było przewidzieć ich zachowanie i zdarzało się, że ugryzły właściciela w najmniej odpowiednim momencie.</p>
-
-<p>Z pomocą przyszedł nowy gatunek zwierzęcia - aktory. W tej prezentacji pokażę jak zaprząc je do pożytecznej pracy, jak przy ich pomocy programować wielowątkowo w sposób łatwiejszy i mniej narażony na błędy niż sposoby &ldquo;starożytnych&rdquo;. Pokażę prostą aplikację napisaną z użyciem aktorów, zarówno lokalnych jak i działających na innej maszynie, pokażę jak obsługiwać w Akce błędy, sytuacje kiedy któryś aktor rzuca wyjątek i przestaje działać. Na koniec zobaczymy jakich narzędzi dostarcza Akka do testowania aktorów.</p></blockquote>
-
-<h2>Mirek Szajowski: &ldquo;Jak wdrożyć i nie zwariować&rdquo;</h2>
-
-<blockquote><p>Czas radosnego developmentu kiedyś się kończy i każdy system musi prędzej czy później wejść na produkcję.</p>
-
-<p>Zaczyna się wtedy nerwowy i stresujący okres, w którym każdy błąd boli podwójnie,  a każde zgłoszenia klienta trzeba traktować priorytetowo.
-Na prezentacji pokażę narzędzia, z których można skorzystać aby pomóc sobie w analizie tego, co robi system na produkcji, gdzie ma największe problemy i jak sobie z nimi szybko radzić.</p>
-
-<p>Prezentacja przeznaczona dla osób którym zdarza się robić (lub naprawiać cudze) błędy w sofcie&hellip; Liczę na ciekawe dyskusje i feedback na temat narzędzi i technik z których wy korzystacie aby ulżyć sobie w cierpieniu&hellip;</p></blockquote>
-
-<p>Więcej informacji, zapisy i szczegółowy plan spotkania na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/222328452/" target="_blank">meetupie</a>.</p>
 ]]></content>
   </entry>
   
