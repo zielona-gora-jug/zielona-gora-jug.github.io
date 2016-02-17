@@ -17,4 +17,4 @@ footer: true
 [{% img left /images/fibaro.jpg 350 100 Fibaro %}](http://fibaro.com/)
 [{% img left /images/ocado.png 350 150 Ocado Technology %}](http://ocadotechnology.com/)
 [{% img left /images/wiea.png 310 110 Wydział Informatyki, Elektrotechniki i Automatyki UZ %}](http://weit.uz.zgora.pl/)
-
+[{% img left /images/metapack.jpg 310 110 MetaPack %}](http://metapack.com/)
