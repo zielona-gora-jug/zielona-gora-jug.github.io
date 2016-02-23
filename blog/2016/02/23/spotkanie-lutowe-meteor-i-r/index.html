@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Podsumowanie spotkania o CD i DDD - Zielona Góra JUG</title>
+  <title>Spotkanie lutowe - Meteor i R - Zielona Góra JUG</title>
   <meta name="author" content="Zielona Góra JUG">
 
   
-  <meta name="description" content="Kolejny rekord frekwencji w ZG JUG (120 osób) - tym razem za sprawą Łukasza Szydło i Sławomira Sobótki, którzy poprowadzili bardzo ciekawe i &hellip;">
+  <meta name="description" content="To już jutro, ponownie oni, ponownie konkretnie, ponownie obecność obowiązkowa, dlaczego ? Ano dlatego, że to kolejne spotkanie zielonogórskiego JUGa &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd">
+  <link rel="canonical" href="http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Zielona Góra JUG" type="application/atom+xml">
@@ -90,7 +90,7 @@
   
   <header>
     
-      <h1 class="entry-title">Podsumowanie spotkania o CD i DDD</h1>
+      <h1 class="entry-title">Spotkanie lutowe - Meteor i R</h1>
     
     
       <p class="meta">
@@ -106,7 +106,7 @@
   
 
 
-<time datetime="2016-02-02T21:34:25+01:00" pubdate data-updated="true">Feb 2<sup>nd</sup>, 2016</time>
+<time datetime="2016-02-23T12:37:46+01:00" pubdate data-updated="true">Feb 23<sup>rd</sup>, 2016</time>
         
            | <a href="#disqus_thread"
              data-disqus-identifier="http://zielona-gora-jug.github.io">Komentarze</a>
@@ -116,13 +116,24 @@
   </header>
 
 
-<div class="entry-content"><p>Kolejny rekord frekwencji w ZG JUG (120 osób) - tym razem za sprawą Łukasza Szydło i Sławomira Sobótki, którzy poprowadzili bardzo ciekawe i dopracowane merytorycznie prezentacje.</p>
+<div class="entry-content"><p>To już jutro, ponownie oni, ponownie konkretnie, ponownie obecność obowiązkowa, dlaczego ? Ano dlatego, że to kolejne spotkanie zielonogórskiego JUGa, kolejne fajne tematy, kolejna dobra okazja do branżowego spotkania i konstruktywnych dyskusji. Miejscówka dobrze znana, zaprzyjaźniony pub Haust. Tym razem będzie okazja do wysłuchania dwóch dobrych prezentacji na temat frameworka Meteor oraz tajemniczego, nieco egzotycznego języka R. Spotykamy się przy wsparciu dobrze znanej, aczkolwiek w nieco nowej odsłonie, firmie <a href="http://www.rec-global.com" target="_blank">REC - a GlobalLogic company</a>.</p>
 
-<p>Łukasz Szydło w prezentacji <a href="http://www.slideshare.net/ukaszSzydo/enabling-continuous-delivery-57880367" target="_blank">Continuous Delivery - architektura i praktyka</a> wytłumaczył, jak zastosować podejście, w którym każdy commit idzie automatycznie na produkcję, natomiast to, czy sama funkcjonalność będzie widoczna dla użytkowników czy nie, zarządzane jest przez tzw. feature switch. Zarządzaniem tym, co i kiedy włączyć i wyłączyć na różnych środowiskach, może się wtedy zająć product owner. Po prezentacji było bardzo dużo pytań o aspekty praktyczne, do jakich aplikacji podejście to nadaje się bardziej, dla jakich mniej, było również trochę wątpliwości, czy faktycznie da się pracować dużym zespołem na jednym branchu, i jak bardzo trzeba być zdyscyplinowanym, żeby mieć pewność że każdy commit rzeczywiście może od razu iść na produkcję.</p>
+<p><a href="http://www.rec-global.com"><img class="center" src="/images/rec_global_logic.jpg" width="400" height="250" title="REC - a GlobalLogic company" ></a></p>
 
-<p>Następnie wystąpił Sławomir Sobótka z prezentacją <a href="https://prezi.com/idkvj_glu-aa/2015-nie-koduj-pisz-proze-45min/" target="_blank">Nie koduj, pisz prozę</a>. W pełnym anegdot i żartów wystąpieniu poruszył kilka tematów wokół podstawowej kwestii - jak pisać kod, żeby był czytelny? Jak się okazuje, różni ludzie różnie postrzegają czytelność, ale pewne techniki mogą pomóc. Dowiedzieliśmy się m.in. dlaczego ważne jest by nie mieszać obiektu ze strukturą danych, a funkcji z procedurą, jak grać w gibberish game na spotkaniach z biznesem oraz jak chronić swoją aplikację przez wprowadzanie do niej stref zgniotu i anti-corruption layers.</p>
+<!-- more -->
 
-<p>Dziękujemy partnerom (<a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a> i <a href="http://www.weit.uz.zgora.pl/" target="_blank">WIEA UZ</a>) i zapraszamy na kolejne spotkanie, którego temat jest jeszcze w trakcie ustaleń, ale termin będzie standardowy - ostatnia środa lutego.</p>
+
+<p>Meteor - wprowadzenie do aplikacji czasu rzeczywistego - Igor Mróz</p>
+
+<p>W dzisiejszych czasach każdy próbuje pokazać się w internecie. Dla firm jest to jedna z podstawowych kwestii. Dodatkowo czasy statycznych stron, gdzie obrazki były maksimum możliwości, się skończył. Teraz trzeba odbiorcę zainteresować czymś więcej. Meteor (<a href="https://www.meteor.com/">https://www.meteor.com/</a>) umożliwia szybkie tworzenie stron, działających w czasie rzeczywistym. Dzisiaj każdy może stworzyć swojego Facebooka.</p>
+
+<p>Parę słów o Rrrrr&hellip; - Andrzej Hirko</p>
+
+<p>R (<a href="https://www.r-project.org/">https://www.r-project.org/</a>) jest to język programowania wykorzystywany w wielu znanych firmach, w tym m.in. Facebook, Google, Mozilla czy Twitter. Podczas prezentacji przedstawię podstawowe informacje na temat R. Następnie napiszemy prosty program typu &ldquo;Hello world&rdquo;, a na końcu pokażę parę pakietów, z których warto skorzystać :)</p>
+
+<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy - 119 &lsquo;going&rsquo; ! Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/228723316/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy!</p>
 </div>
 
 
@@ -131,7 +142,7 @@
       
   
 
-<span class="byline author vcard">Autor: <span class="fn">Magda Stożek</span></span>
+<span class="byline author vcard">Autor: <span class="fn">Dawid Maksylewicz</span></span>
 
       
 
@@ -145,7 +156,7 @@
   
 
 
-<time datetime="2016-02-02T21:34:25+01:00" pubdate data-updated="true">Feb 2<sup>nd</sup>, 2016</time>
+<time datetime="2016-02-23T12:37:46+01:00" pubdate data-updated="true">Feb 23<sup>rd</sup>, 2016</time>
       
 
 
@@ -153,7 +164,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd/" data-via="" data-counturl="http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r/" data-via="" data-counturl="http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r/" >Tweet</a>
   
   
   
@@ -162,10 +173,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2016/01/26/podsumowanie-spotkania-styczniowego/" title="Previous Post: Podsumowanie spotkania styczniowego">&laquo; Podsumowanie spotkania styczniowego</a>
+        <a class="basic-alignment left" href="/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd/" title="Previous Post: Podsumowanie spotkania o CD i DDD">&laquo; Podsumowanie spotkania o CD i DDD</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2016/02/23/spotkanie-lutowe-meteor-i-r/" title="Next Post: Spotkanie lutowe - Meteor i R">Spotkanie lutowe - Meteor i R &raquo;</a>
       
     </p>
   </footer>
@@ -201,8 +210,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd/';
-        var disqus_url = 'http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd/';
+        var disqus_identifier = 'http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r/';
+        var disqus_url = 'http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r/';
         var disqus_script = 'embed.js';
       
     (function () {

@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-02-17T13:15:46+01:00</updated>
+  <updated>2016-02-23T13:08:03+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe - Meteor i R]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r/"/>
+    <updated>2016-02-23T12:37:46+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r</id>
+    <content type="html"><![CDATA[<p>To już jutro, ponownie oni, ponownie konkretnie, ponownie obecność obowiązkowa, dlaczego ? Ano dlatego, że to kolejne spotkanie zielonogórskiego JUGa, kolejne fajne tematy, kolejna dobra okazja do branżowego spotkania i konstruktywnych dyskusji. Miejscówka dobrze znana, zaprzyjaźniony pub Haust. Tym razem będzie okazja do wysłuchania dwóch dobrych prezentacji na temat frameworka Meteor oraz tajemniczego, nieco egzotycznego języka R. Spotykamy się przy wsparciu dobrze znanej, aczkolwiek w nieco nowej odsłonie, firmie <a href="http://www.rec-global.com" target="_blank">REC - a GlobalLogic company</a>.</p>
+
+<p><a href="http://www.rec-global.com"><img class="center" src="http://zielona-gora-jug.github.io/images/rec_global_logic.jpg" width="400" height="250" title="REC - a GlobalLogic company" ></a></p>
+
+<!-- more -->
+
+
+<p>Meteor - wprowadzenie do aplikacji czasu rzeczywistego - Igor Mróz</p>
+
+<p>W dzisiejszych czasach każdy próbuje pokazać się w internecie. Dla firm jest to jedna z podstawowych kwestii. Dodatkowo czasy statycznych stron, gdzie obrazki były maksimum możliwości, się skończył. Teraz trzeba odbiorcę zainteresować czymś więcej. Meteor (<a href="https://www.meteor.com/">https://www.meteor.com/</a>) umożliwia szybkie tworzenie stron, działających w czasie rzeczywistym. Dzisiaj każdy może stworzyć swojego Facebooka.</p>
+
+<p>Parę słów o Rrrrr&hellip; - Andrzej Hirko</p>
+
+<p>R (<a href="https://www.r-project.org/">https://www.r-project.org/</a>) jest to język programowania wykorzystywany w wielu znanych firmach, w tym m.in. Facebook, Google, Mozilla czy Twitter. Podczas prezentacji przedstawię podstawowe informacje na temat R. Następnie napiszemy prosty program typu &ldquo;Hello world&rdquo;, a na końcu pokażę parę pakietów, z których warto skorzystać :)</p>
+
+<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy - 119 &lsquo;going&rsquo; ! Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/228723316/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania o CD i DDD]]></title>
@@ -419,24 +445,6 @@ Integer value3 = map.get(key3);
 <blockquote><p>Zapraszamy do śledzenia naszego kanału na twitter <a href="https://twitter.com/codepot_pl" target="_blank">@codepot_pl</a> oraz na <a href="https://www.facebook.com/pages/Codepot/397791273715096" target="_blank">Facebooku</a>, gdzie zawsze znajdziecie świeże informacje. Zapraszamy również do <a href="http://www.meetup.com/Warsaw-Codepoters/" target="_blank">grupy na meetupie</a>. Zapisując się do tej grupy, macie możliwość wzięcia udziału w spotkaniach na żywo (najbliższe 10 czerwca) i podyskutowania o najnowszych technologiach oraz do wygrania biletów na inne konferencje, np. Devoxx.pl.</p></blockquote>
 
 <p>I na koniec jeszcze jedna dobra wiadomość - mamy dla was pięć kuponów na 20% zniżki przy otwieranej wkrótce rejestracji:)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania majowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego/"/>
-    <updated>2015-05-27T21:12:02+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/05/27/podsumowanie-spotkania-majowego</id>
-    <content type="html"><![CDATA[<p>Spotkanie majowe odbyło się 20.05.2015 i było sponsorowane przez firmę <a href="http://streamsoft.pl/" target="_blank">Streamsoft</a>.</p>
-
-<p>Było super! Najpierw Mirek Szajowski pokazał narzędzia, które pozwalają oszczędzić nerwów po wdrożeniu aplikacji na produkcję. Pierwszym rozwiązaniem jest <a href="https://www.elastic.co/products/logstash" target="_blank">logstash</a> i <a href="https://www.elastic.co/products/kibana" target="_blank">kibana</a> - logstash agreguje logi, a kibana pozwala je wygodnie przeglądać, filtrować, prezentować na dashboardzie za pomocą wykresów, i analizować na wszelkie możliwe sposoby. Innym ciekawym narzędziem jest <a href="https://www.takipi.com/" target="_blank">takipi</a>, które w momencie wystąpienia wyjątku na produkcji zapisuje cały stan aplikacji - wartości zmiennych, wywoływane funkcje itp, co bardzo ułatwia znalezienie przyczyny błędu. Zajrzyjcie do slajdów: <a href="http://zielona-gora-jug.github.io/files/wdrozenia.pdf" target="_blank">Jak wdrożyć i nie zwariować</a>.</p>
-
-<!-- more -->
-
-
-<p>Potem Paweł Stawicki pokazał <a href="http://akka.io/" target="_blank">Akkę</a> i programowanie wielowątkowe na aktorach. W prezentacji opartej głównie na przykładach zobaczyliśmy różne konfiguracje aktorów, sposoby użycia do różnych rodzajów zadań, oraz jak w tak rozproszonym środowisku podejść do obsługi błędów. Każdy z przykładów dzielił zadanie, jakim było narysowanie fraktala, pomiędzy aktory, i każdy rysował się w trochę inny sposób, w zależności od architektury przykładu! Na koniec była ciekawa dyskusja i wiele pytań z publiczności. Wszystkie przykłady dostępne są w projekcie na githubie: <a href="https://github.com/zielona-gora-jug/akka-pres-src" target="_blank">akka-pres-src</a>, są też slajdy: <a href="amorfis.github.io/akka-pres/" target="_blank">Akka - concurrent programming without the pain</a>.</p>
-
-<p>A już jutro widzimy się na <a href="https://plus.google.com/events/c8q71vfv6ntr4llg0hqkl9m3i9g" target="_blank">Google I/O Extended</a>!</p>
 ]]></content>
   </entry>
   
