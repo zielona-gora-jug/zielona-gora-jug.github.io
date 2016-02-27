@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-02-23T13:08:03+01:00</updated>
+  <updated>2016-02-27T11:28:01+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania lutowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/02/27/podsumowanie-spotkania-lutowego/"/>
+    <updated>2016-02-27T10:27:56+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/02/27/podsumowanie-spotkania-lutowego</id>
+    <content type="html"><![CDATA[<p>Spotkanie lutowe już za nami: w środę słuchaliśmy dwóch ciekawych prezentacji - o Meteorze i R, a sponsorem była firma <a href="http://www.rec-global.com/" target="_blank">REC</a>.</p>
+
+<p>Jako pierwszy wystąpił Igor Mróz - opowiedział o frameworku <a href="https://www.meteor.com/" target="_blank">Meteor</a>, pozwalającym na tworzenie aplikacji przystosowanych do działania w czasie rzeczywistym. Meteor zapewnia bezproblemową synchronizację stanu z interfejsem użytkownika, jak również spójny wygląd aplikacji w wersjach przeglądarkowych, desktopowych i mobilnych. Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/meteor.pptx" target="_blank">Meteor - wprowadzenie do aplikacji czasu rzeczywistego</a>.</p>
+
+<p>Następnie Andrzej Hirko przedstawił język <a href="https://www.r-project.org/about.html" target="_blank">R</a>, język oraz środowisko przeznaczone do najróżniejszych działań obliczeniowych i statystycznych. Zabaczyliśmy kilka jego zalet - oprócz tego, że jest open-source (alternatywy są dość kosztowne), zapewnia nam łatwe rysowanie tabelek i wykresów, które za pomocą prostych dyrektyw można umieścić w LaTexowym dokumencie czy na stronie. Slajdy: <a href="http://zielona-gora-jug.github.io/files/R.pdf" target="_blank">Parę słów o Rrrr</a>.</p>
+
+<p>Dziękujemy prelegentom i sponsorom i do zobaczenia w marcu!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie lutowe - Meteor i R]]></title>
@@ -406,45 +421,6 @@ Integer value3 = map.get(key3);
 <p>Zdjęcia dostępne na JUGowym profilu <a href="https://www.flickr.com/photos/zgjug/sets/72157653668120125">Flickr</a>. Dziękujemy za przybycie i pomoc w organizacji!</p>
 
 <p>Dawid, Magda, Tomek oraz ADB</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zaproszenie na konferencję Codepot]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/06/09/codepot/"/>
-    <updated>2015-06-09T22:13:53+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/06/09/codepot</id>
-    <content type="html"><![CDATA[<p>Miło nam ogłosić, że jesteśmy jako ZG JUG partnerami konferencji <a href="https://codepot.pl/" target="_blank">Codepot</a>.</p>
-
-<p><a href="http://codepot.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/codepot-logo-rectangle.png" width="365" height="135" title="Codepot" ></a></p>
-
-<p>Odbywa się ona 28-29 sierpnia w Warszawie, i jest to konferencja wyjątkowa, bo składająca się wyłącznie z warsztatów. Oto informacje od organizatorów:</p>
-
-<blockquote><p>Codepot to konferencja przeznaczona dla programistów JVM, designerów, androidowców, iosowców, webowców, agilersów, devopsów i innych programistów lub osób związanych ze światem IT. Warsztaty są prowadzone przez ekspertów, którzy chcą podzielić się swoją wiedzą i doświadczeniami.</p></blockquote>
-
-<!-- more -->
-
-
-<p></p>
-
-<blockquote><p>Obecnie trwa <a href="https://codepot.pl/call-for-papers" target="_blank">Call4Papers</a>, gdzie otrzymaliśmy już sporo zgłoszeń z różnych fajnych dziedzin. Spędzamy dużo czasu na dyskusjach kogo zaakceptować, a kogo nie. Nie zwlekajcie - im szybciej się zgłosicie, tym szybciej zostaniecie pokazani na stronie.</p></blockquote>
-
-<!-- -->
-
-
-<blockquote><p>Konferencja składa się z 72 warsztatów prowadzonych przez ekspertów. Planujemy zaprosić około 350 uczestników. Każdego dnia uczestnik będzie mógł wziąć udział w dwóch dogłębnych warsztatach technicznych. Po przerwie obiadowej przewidujemy warsztaty zwane miękkimi, tak żeby na kolejny warsztat techniczny przyjść zrelaksowanym i wypoczętym.</p></blockquote>
-
-<!-- -->
-
-
-<blockquote><p>Konferencja będzie płatna, ale symbolicznie, w celu motywowania ludzi do przychodzenia na warsztaty. W zasadzie cena pokryje koszt dwóch lunchy, oraz prezentu dla uczestnika. Można traktować tą imprezę jako wydarzenie darmowe. Rejestracja nie jest dostępna, ponieważ ją implementujemy - ale jesteśmy już na finiszu. Można śmiało powiedzieć - by developers for developers.</p></blockquote>
-
-<!-- -->
-
-
-<blockquote><p>Zapraszamy do śledzenia naszego kanału na twitter <a href="https://twitter.com/codepot_pl" target="_blank">@codepot_pl</a> oraz na <a href="https://www.facebook.com/pages/Codepot/397791273715096" target="_blank">Facebooku</a>, gdzie zawsze znajdziecie świeże informacje. Zapraszamy również do <a href="http://www.meetup.com/Warsaw-Codepoters/" target="_blank">grupy na meetupie</a>. Zapisując się do tej grupy, macie możliwość wzięcia udziału w spotkaniach na żywo (najbliższe 10 czerwca) i podyskutowania o najnowszych technologiach oraz do wygrania biletów na inne konferencje, np. Devoxx.pl.</p></blockquote>
-
-<p>I na koniec jeszcze jedna dobra wiadomość - mamy dla was pięć kuponów na 20% zniżki przy otwieranej wkrótce rejestracji:)</p>
 ]]></content>
   </entry>
   
