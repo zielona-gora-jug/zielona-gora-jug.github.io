@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-03-29T09:25:00+02:00</updated>
+  <updated>2016-03-29T10:27:05+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -18,7 +18,14 @@
     <link href="http://zielona-gora-jug.github.io/blog/2016/03/29/spotkanie-marcowe-rxjava-i-javascript/"/>
     <updated>2016-03-29T08:58:18+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2016/03/29/spotkanie-marcowe-rxjava-i-javascript</id>
-    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiej Java User Group, które to po raz pierwszy zorganizowane zostanie przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>. Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:</p>
+    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiej Java User Group, które to po raz pierwszy zorganizowane zostanie przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>.</p>
+
+<p><a href="http://www.metapack.com/?lang=pl"><img class="center" src="http://zielona-gora-jug.github.io/images/metapack.jpg" width="310" height="110" title="MetaPack" ></a></p>
+
+<!-- more -->
+
+
+<p>Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:</p>
 
 <p>Piotr Kafel - <a href="https://github.com/ReactiveX/RxJava" target="_blank">RxJava</a> to Javowa implementacja Reactive Extensions (RX) - biblioteki do tworzenia aplikacji asynchronicznych i opartych na eventach, poprzez użycie obserwowalnych sekwencji. Czy może być przydatna w architekturze mikroserwisów?</p>
 
