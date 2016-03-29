@@ -6,7 +6,13 @@ comments: true
 categories: 
 author: Dawid Maksylewicz
 ---
-Zapraszamy na kolejne spotkanie zielonogórskiej Java User Group, które to po raz pierwszy zorganizowane zostanie przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>. Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:
+Zapraszamy na kolejne spotkanie zielonogórskiej Java User Group, które to po raz pierwszy zorganizowane zostanie przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>. 
+
+[{% img center /images/metapack.jpg 310 110 MetaPack %}](http://www.metapack.com/?lang=pl)
+
+<!-- more -->
+
+Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:
 
 Piotr Kafel - <a href="https://github.com/ReactiveX/RxJava" target="_blank">RxJava</a> to Javowa implementacja Reactive Extensions (RX) - biblioteki do tworzenia aplikacji asynchronicznych i opartych na eventach, poprzez użycie obserwowalnych sekwencji. Czy może być przydatna w architekturze mikroserwisów?
 
