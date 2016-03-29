@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-02-27T11:29:32+01:00</updated>
+  <updated>2016-03-29T09:25:00+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie marcowe - RxJava i JavaScript]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/03/29/spotkanie-marcowe-rxjava-i-javascript/"/>
+    <updated>2016-03-29T08:58:18+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/03/29/spotkanie-marcowe-rxjava-i-javascript</id>
+    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiej Java User Group, które to po raz pierwszy zorganizowane zostanie przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>. Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:</p>
+
+<p>Piotr Kafel - <a href="https://github.com/ReactiveX/RxJava" target="_blank">RxJava</a> to Javowa implementacja Reactive Extensions (RX) - biblioteki do tworzenia aplikacji asynchronicznych i opartych na eventach, poprzez użycie obserwowalnych sekwencji. Czy może być przydatna w architekturze mikroserwisów?</p>
+
+<p>Mirek Szajowski - JavaScript przeżywa renesans i stał się językiem, którego nie możemy dłużej ignorować. Aktualne szaleństwo i moda na JavaScript sprawia, że powstaje coraz więcej narzędzi i frameworków wokół tego języka&hellip; Jak to ogarnąć? Jak odnaleźć się w tym świecie?</p>
+
+<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/229467681/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje JetBrains i ebooki wydawnictwa Manning. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania lutowego]]></title>
@@ -368,59 +383,6 @@ Integer value3 = map.get(key3);
 <p>Zapisy i szczegółowy plan spotkania na <a href="http://www.meetup.com/Zielona-Gora-JUG/events/223022048/" target="_blank">meetupie</a>.</p>
 
 <p>Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie Google I/O Extended]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/06/27/google-io-2015-podsumowanie/"/>
-    <updated>2015-06-27T22:27:22+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/06/27/google-io-2015-podsumowanie</id>
-    <content type="html"><![CDATA[<center>
-<img src="http://zielona-gora-jug.github.io/images/IO_poster.jpg" title="Google IO Extended poster" >
-</center>
-
-
-<p>Czas na krótkie podsumowanie pierwszego w naszym mieście Google I/O Extended. Pomysł przedsięwzięcia zainicjowany został przez Tomka Wartalskiego, który kilkakrotnie uczestniczył w podobnych spotkaniach w Poznaniu&hellip; dlaczego by nie zorganizować równie fajnej imprezy w Zielonej Górze? Potencjał jest, możliwości są!</p>
-
-<!-- more -->
-
-
-<p>Na horyzoncie pojawiła się pomoc ze strony firmy ADB, która zadbała o wyśmienity catering, przekąski, napoje, drobne upominki, Uniwersytetu Zielonogórskiego, gdzie spotkanie miało miejsce oraz Jacka Wojnarowskiego, który w przerwach między wykładami &ldquo;podrzucał&rdquo; dobry, muzyczny podkład.</p>
-
-<center>
-<img src="http://zielona-gora-jug.github.io/images/IO_2.jpg" title="Google IO Extended hall" >
-</center>
-
-
-<p>Po zawiązaniu grupy trzymającej władzę, przystąpiliśmy do oficjalnej rejestracji spotkania na stronach Google. Kolejno z pomocą Tomka Gratkowskiego nastąpiło ustalanie i oględziny miejscówki na UZ, dalej pierwsze spotkanie organizacyjne w siedzibie ADB&hellip;</p>
-
-<center>
-<img src="http://zielona-gora-jug.github.io/images/IO_1.jpg" title="Google IO Extended games" >
-</center>
-
-
-<p>Wszystko w zawrotnym tempie, wszystko gra! Otwieramy rejestrację i obserwujemy przyrost zainteresowanych osób, których finalna liczba podczas spotkania wyniosła 70. Rozpoczęcie. Tomek na scenie, wprowadza w rozkład jazdy, następnie Magda informuje że spotkanie organizowane jest pod dowództwem Zielona Góra Java User Group oraz zaprasza Katarzynę Sawkę do zaprezentowania firmy ADB, w formie kolorowej, humorystycznej infografiki&hellip;</p>
-
-<center>
-<img src="http://zielona-gora-jug.github.io/images/IO_3.jpg" title="Google IO Extended pizza" >
-</center>
-
-
-<p>Wielkie dzięki dla Macieja Zająca z AMB Software, który zechciał przygotować dla nas pierwszą ciekawą przezentację nt. zeszłorocznego wyjazdu do Doliny Krzemowej i kompleksu Google.</p>
-
-<p>Godzina zero, czas uruchomić strumień wideo, Tomek za sterami, gasną światła, konferencję czas zacząć. Ogłaszane są kolejne nowinki Google, szepty coraz głośniejsze, niektórzy skrupulatnie notują poszczególne zagadnienia. Pierwsza przerwa i kolejne, niekończące się dyskusje, śmiechy, integracja, ludzie związani z lokalnym rynkim IT chyba dobrze się bawią&hellip; gry i zabawy, walka o gadżety i kawałki smacznej pizzy, która dojechała po upływie połowy zaplanowanego na spotkanie czasu, w liczbie 26 opakowań, wersja &ldquo;rodzinna&rdquo;! &hellip; i tak do godziny 24, gdy ostatni słuchacze opuszczają salę :-)</p>
-
-<center>
-<img src="http://zielona-gora-jug.github.io/images/IO_team.jpg" title="Google IO Extended team" >
-</center>
-
-
-<p>Podsumowując, pierwsze w Zielonej Górze Google I/O Extended zdecydowanie można zaliczyć do udanych. Po cichu planujemy już kolejne, gdzie lokalni pasjonaci IT będą mogli się spotkać w fajnej atmosferze, aby porozmawiać o branżowych tematach.</p>
-
-<p>Zdjęcia dostępne na JUGowym profilu <a href="https://www.flickr.com/photos/zgjug/sets/72157653668120125">Flickr</a>. Dziękujemy za przybycie i pomoc w organizacji!</p>
-
-<p>Dawid, Magda, Tomek oraz ADB</p>
 ]]></content>
   </entry>
   

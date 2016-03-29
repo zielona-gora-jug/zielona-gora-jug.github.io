@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2016/03/29/spotkanie-marcowe-rxjava-i-javascript/</loc>
+    <lastmod>2016-03-29T08:58:18+02:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2016/02/27/podsumowanie-spotkania-lutowego/</loc>
     <lastmod>2016-02-27T10:27:56+01:00</lastmod>
     <priority>0.8</priority>
@@ -281,28 +287,28 @@
   
   <url>
     <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
-    <lastmod>2016-02-27T11:29:32+01:00</lastmod>
+    <lastmod>2016-03-29T09:25:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/</loc>
-    <lastmod>2016-02-27T11:29:32+01:00</lastmod>
+    <lastmod>2016-03-29T09:25:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/leaders/</loc>
-    <lastmod>2016-02-27T11:29:32+01:00</lastmod>
+    <lastmod>2016-03-29T09:25:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
-    <lastmod>2016-02-27T11:29:32+01:00</lastmod>
+    <lastmod>2016-03-29T09:25:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
