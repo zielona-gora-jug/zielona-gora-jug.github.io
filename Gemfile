@@ -5,7 +5,7 @@ group :development do
   gem 'jekyll', '~> 2.2.0'
   gem 'jekyll-page-hooks', '~> 1.2'
   gem 'jekyll-date-format', '~> 1.0'
-  gem 'jekyll-sitemap'
+  gem 'jekyll-sitemap', '0.9.0'
   gem 'rdiscount', '~> 2.0'
   gem 'RedCloth', '~> 4.2.9'
   gem 'haml', '~> 4.0'
