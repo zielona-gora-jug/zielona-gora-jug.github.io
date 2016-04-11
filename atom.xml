@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-04-01T21:10:02+02:00</updated>
+  <updated>2016-04-12T00:11:49+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie kwietniowe - Performance Testing RESTful Microservices]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/04/11/spotkanie-kwietniowe-performance-testing-restful-microservices/"/>
+    <updated>2016-04-11T21:59:46+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/04/11/spotkanie-kwietniowe-performance-testing-restful-microservices</id>
+    <content type="html"><![CDATA[<p>Zielona Góra JUG is pleasure to invite all community members for a next monthly tech-talk, which will take place 27th of April, starting at 18:30 as usually in a local pub Haust.  Meeting and special guest from UK branch is organized with the support of <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a> company.</p>
+
+<p><a href="http://www.metapack.com/?lang=pl"><img class="center" src="http://zielona-gora-jug.github.io/images/metapack.jpg" width="330" height="130" title="MetaPack" ></a></p>
+
+<!-- more -->
+
+
+<p>Haitao Dan (MetaPack UK) - Performance Testing RESTful Microservices — A learning journey about performance testing will cover:</p>
+
+<ul>
+<li><p>Why is performance test more important for Microservices architecture? Motivations of performance testing (some considerations on this topic).</p></li>
+<li><p>The typical first journey. Talking about team Dodo’s performance testing and tuning for Newlook. Denial -> Illusion -> Reality -> Dream</p></li>
+<li><p>Automating performance testing. Using Gatling, Jenkins for load testing (measuring response time) and Load Detector for stress testing (capacity).</p></li>
+<li><p>An improved journey. Talking about the performance testing for H&amp;M. Measuring SLA, trending, performance breakdown and testing Google geocoding.</p></li>
+<li><p>Conclusions and future works. Talking about lessons learnt and the ideal scenario.</p></li>
+</ul>
+
+
+<p>As usually at the end there are communities announcements + raffle of Jetbrains licenses and Manning ebooks. Remember to enroll on <a href="http://www.meetup.com/Zielona-Gora-JUG/events/230299419/" target="_blank">meetup</a> with a full name.
+Get ready !</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania marcowego]]></title>
@@ -35,7 +63,7 @@
     <id>http://zielona-gora-jug.github.io/blog/2016/03/29/spotkanie-marcowe-rxjava-i-javascript</id>
     <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiej Java User Group, które to po raz pierwszy zorganizowane zostanie przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>.</p>
 
-<p><a href="http://www.metapack.com/?lang=pl"><img class="center" src="http://zielona-gora-jug.github.io/images/metapack.jpg" width="310" height="110" title="MetaPack" ></a></p>
+<p><a href="http://www.metapack.com/?lang=pl"><img class="center" src="http://zielona-gora-jug.github.io/images/metapack.jpg" width="330" height="130" title="MetaPack" ></a></p>
 
 <!-- more -->
 
@@ -350,30 +378,6 @@
 <p>Po krótkim wprowadzeniu w historię Javy, Arek przedstawił nam listę ulepszeń, które czekają nas za rok - ze szczególnym naciskiem na jshell (Javowy REPL) oraz projekt Jigsaw, czyli modularyzację. Zobaczyliśmy na przykładach, jak będzie wyglądało korzystanie z modułów oraz różne możliwości udostępniania i ukrywania poszczególnych części kodu.</p>
 
 <p>Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/Java_9.pdf" target="_blank">Nowości w Javie 9</a>. Kod źródłowy wkrótce pojawi się na githubie.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zakończenie sezonu]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/07/15/zakonczenie-sezonu/"/>
-    <updated>2015-07-15T15:55:00+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/07/15/zakonczenie-sezonu</id>
-    <content type="html"><![CDATA[<p>Zielonogórski JUG zamyka sezon! Ostatnie spotkanie odbyło się 1. lipca 2015 i było sponsorowane przez firmę ADB.</p>
-
-<p>Pierwszą prezentację przygotował Tomek Powchowicz - zaprezentował nam ideę kontenerów heterogicznych, czyli silnie typowanych kolekcji, które mogą przechowywać różne typy obiektów jednocześnie, bez konieczności rzutowania. Zobaczyliśmy przykłady implementacji w Javie i C++, wraz z różnicami wynikającymi ze specyfiki języków. Idea brzmi całkiem ciekawie, choć idealnie byłoby zobaczyć jej implementację gdzieś w akcji.</p>
-
-<!-- more -->
-
-
-<p>Drugim prelegentem był Paweł Nowak, który opowiedział o Ext JS. Było to szczegółowe zestawienie zarówno głównych cech i założeń frameworku, jak jego zalet i wad. Wśród korzyści otrzymujemy między innymi bogaty zestaw spójnych kontrolek, gwarancję stabilnego wyglądu i zachowania we wszystkich przeglądarkach, minusem jest jednak wysoka cena oraz słabe wsparcie dla urządzeń mobilnych. Slajdy: <a href="http://zielona-gora-jug.github.io/files/Sencha.pdf" target="_blank">Sencha Ext JS</a></p>
-
-<p>Natomiast w przerwie, jak na spotkanie rocznicowe przystało, pojawił się tort! I to nie zwyczajny, lecz z logo jubilata:</p>
-
-<p><a href="http://zielona-gora-jug.github.io/images/tort.jpg"><img class="center" src="http://zielona-gora-jug.github.io/images/tort.jpg" width="480" height="360" title="Tort urodzinowy ZG JUG" ></a></p>
-
-<p>Dzięki za udany sezon! Współorganizatorom za zaangażowanie, energię i pomysły. Uczestnikom za świetną frekwencję, żywe dyskusje, przyjazną atmosferę. Prelegentom za poświęcony czas, ciekawe tematy i solidne przygotowanie. Sponsorom za wsparcie i pomoc w organizacji.</p>
-
-<p>Widzimy się znowu pod koniec września - śledźcie informacje na <a href="http://jug.zgora.pl">blogu</a>, <a href="https://twitter.com/ZgJUG" target="_blank">twitterze</a> i <a href="http://www.meetup.com/Zielona-Gora-JUG/" target="_blank">meetupie</a>.</p>
 ]]></content>
   </entry>
   
