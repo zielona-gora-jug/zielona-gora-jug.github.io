@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-04-12T20:29:36+02:00</updated>
+  <updated>2016-05-16T21:44:05+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie majowe - PITEST, ZTD & Inbox Zero]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/05/16/spotkanie-majowe-pitest/"/>
+    <updated>2016-05-16T21:30:17+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/05/16/spotkanie-majowe-pitest</id>
+    <content type="html"><![CDATA[<p>Dzieje się ostatnio w Zielonej Górze, jeżeli chodzi o wydarzenia związane z branżą IT. Również my, Java User Group, jak co miesiąc, konsekwentnie zapraszamy, tym razem na spotkanie majowe, które organizujemy przy wsparciu i we współpracy z firmą <a href="http://www.cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<!-- more -->
+
+
+<p>Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:</p>
+
+<p>Jedrzej Andrykowski - PITEST, czyli jak wykonywać testy mutacyjne w Javie</p>
+
+<p>Testowanie mutacyjne to technika, która pomimo ponad trzydziestoletniego stażu nie osiągnęła do dziś wielkiej popularności. Wiele lat był to problem z mocą obliczeniową urządzeń, na których te testy miały być uruchamiane. To na szczęście się zmieniło, a narzędzia, które ostatnio powstają, pozwalają użyć tej techniki praktycznie w każdym projekcie. Na prezentacji omówiona będzie idea testów mutacyjnych od strony teoretycznej jak i praktycznej. Zademonstrowane będzie narzędzie PITEST, które w prosty sposób automatyzuje testowanie mutacyjne w Javie i daje bardzo duże możliwości zwiększenia jakości naszych testów jednostkowych.</p>
+
+<p>Marcin Stożek - ZTD &amp; Inbox Zero czyli - człowieku, ogarnij się&hellip;</p>
+
+<p>Co robić w świecie, w którym można zrobić (prawie) wszystko? Gdy mamy na głowie 3 projekty w pracy, przedstawienie dziecka w przedszkolu, grilla ze znajomymi w weekend, świetne książki podrzucone przez przyjaciół, fajne posty na Hacker News i przygotowanie prezentacji na JUGa, to czasem ciężko się ogarnąć. Podczas prezentacji pokażę dwie wypróbowane techniki pomagające w tych wymagających czasach. Będzie to subiektywny przegląd dwóch z wielu dostępnych technik zarządzania swoim czasem.</p>
+
+<p>Jak co miesiąc, liczymy na sporą liczbę słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/231170943/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje JetBrains i ebooki wydawnictwa Manning. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie kwietniowe - Performance Testing RESTful Microservices]]></title>
@@ -363,21 +389,6 @@ Get ready !</p>
 <p><br/></p>
 
 <p>Film zrealizował Krzysztof Bogucki z <a href="https://www.facebook.com/BohaStudioVideo" target="_blank">BOHA Film Studio</a>, a sponsorem muzyki z <a href="https://www.facebook.com/songfreedom" target="_blank">SongFreedom</a> jest <a href="http://www.adbglobal.com/" target="_blank">ADB</a>. Ojcem chrzestnym filmu jest Dawid Maksylewicz. Dziękujemy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rozpoczęcie sezonu - nowości w Javie 9]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/10/02/nowosci-w-javie-9/"/>
-    <updated>2015-10-02T09:07:15+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/10/02/nowosci-w-javie-9</id>
-    <content type="html"><![CDATA[<p>Witamy ponownie! 30. września 2015 rozpoczęliśmy kolejny sezon w zielonogórskim JUGu. Na spotkaniu sponsorowanym przez <a href="http://www.ocadotechnology.com/" target="_blank">Ocado Technology</a> gościliśmy prelegenta z Krakowa - Arka Sokołowskiego. Temat był tak Javowy, jak tylko się da - Nowości w Javie 9.</p>
-
-<p><a href="http://www.ocadotechnology.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/ocado.png" width="200" height="200" title="Ocado Technology" ></a></p>
-
-<p>Po krótkim wprowadzeniu w historię Javy, Arek przedstawił nam listę ulepszeń, które czekają nas za rok - ze szczególnym naciskiem na jshell (Javowy REPL) oraz projekt Jigsaw, czyli modularyzację. Zobaczyliśmy na przykładach, jak będzie wyglądało korzystanie z modułów oraz różne możliwości udostępniania i ukrywania poszczególnych części kodu.</p>
-
-<p>Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/Java_9.pdf" target="_blank">Nowości w Javie 9</a>. Kod źródłowy wkrótce pojawi się na githubie.</p>
 ]]></content>
   </entry>
   
