@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-05-16T21:44:05+02:00</updated>
+  <updated>2016-05-16T23:20:25+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -36,6 +36,19 @@
 <p>Co robić w świecie, w którym można zrobić (prawie) wszystko? Gdy mamy na głowie 3 projekty w pracy, przedstawienie dziecka w przedszkolu, grilla ze znajomymi w weekend, świetne książki podrzucone przez przyjaciół, fajne posty na Hacker News i przygotowanie prezentacji na JUGa, to czasem ciężko się ogarnąć. Podczas prezentacji pokażę dwie wypróbowane techniki pomagające w tych wymagających czasach. Będzie to subiektywny przegląd dwóch z wielu dostępnych technik zarządzania swoim czasem.</p>
 
 <p>Jak co miesiąc, liczymy na sporą liczbę słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/231170943/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje JetBrains i ebooki wydawnictwa Manning. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Google I/O Extended 2016 Zielona Góra]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/05/16/google-io-2016/"/>
+    <updated>2016-05-16T15:13:17+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/05/16/google-io-2016</id>
+    <content type="html"><![CDATA[<p>Przypominamy, że już w najbliższą środę na Uniwersytecie Zielonogórskim odbędzie się Google I/O Extended 2016 organizowany przez zaprzyjaźniony Geek Club Zielona Góra.</p>
+
+<p><a href="http://www.meetup.com/Geek-Club-Zielona-Gora/"><img class="center" src="http://zielona-gora-jug.github.io/images/geek.jpg" width="200" height="200"></a></p>
+
+<p> Na pewno nie zabraknie dobrej zabawy i masy nowinek technologicznych. Zapisy na stronie: <a href="http://goo.gl/1qrlVI">http://goo.gl/1qrlVI</a></p>
 ]]></content>
   </entry>
   
@@ -372,23 +385,6 @@ Get ready !</p>
     <updated>2015-10-03T20:40:19+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2015/10/03/zaproszenie-na-konferencje-jdd</id>
     <content type="html"><![CDATA[<p>12-13 września w Krakowie odbędzie się konferencja <a href="http://15.jdd.org.pl/" target="_blank">JDD</a>. Konferencja odbywa się już od 10 lat, a w tym roku została zorganizowana przy bliskiej współpracy z lokalnymi JUGami. Naszym reprezentantem wśród prelegentów będzie Maciej Schmidt z prezentacją <a href="http://15.jdd.org.pl/agenda/lecture/augmented-reality-kolejna-mobilna-rewolucja/" target="_blank">Augmented reality - kolejna mobilna rewolucja?</a>, która będzie nowszą wersją prezentacji przedstawionej na naszym <a href="http://zielona-gora-jug.github.io/blog/2014/12/14/spotkanie-grudniowe-ar-i-rcp/" target="_blank">grudniowym spotkaniu</a>. Reprezentanci JUGów będą rywalizować o tytuł JUGmajstra - trzymamy kciuki za Maćka! Do poniedziałku rejestracja jest w niższej cenie, a jako Zielona Góra JUG mamy dla was dodatkowe 30% zniżki. Kod promocyjny do wpisania przy <a href="https://rejestracja.proidea.org.pl/registration/form.html?conferenceId=6DA370F515629554D9F2E744725CFB1E" target="_blank">rejestracji</a> to <em>jdd_advisorymate</em>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Film promocyjny Zielona Góra JUG]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/10/02/film-promocyjny-zielona-gora-jug/"/>
-    <updated>2015-10-02T12:07:40+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/10/02/film-promocyjny-zielona-gora-jug</id>
-    <content type="html"><![CDATA[<p>Zielona Góra JUG w nowej odsłonie ma już rok - z tej okazji z dumą prezentujemy wam nasz film promocyjny, który pokazuje, kim jesteśmy i jak działamy:
-<br/></p>
-
-<div class="embed-video-container"><iframe src="//www.youtube.com/embed/NF3wUb_no5U" allowfullscreen></iframe></div>
-
-
-<p><br/></p>
-
-<p>Film zrealizował Krzysztof Bogucki z <a href="https://www.facebook.com/BohaStudioVideo" target="_blank">BOHA Film Studio</a>, a sponsorem muzyki z <a href="https://www.facebook.com/songfreedom" target="_blank">SongFreedom</a> jest <a href="http://www.adbglobal.com/" target="_blank">ADB</a>. Ojcem chrzestnym filmu jest Dawid Maksylewicz. Dziękujemy!</p>
 ]]></content>
   </entry>
   
