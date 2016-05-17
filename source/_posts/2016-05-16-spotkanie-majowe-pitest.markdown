@@ -14,7 +14,7 @@ Dzieje się ostatnio w Zielonej Górze, jeżeli chodzi o wydarzenia związane z 
 
 Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:
 
-Jedrzej Andrykowski - PITEST, czyli jak wykonywać testy mutacyjne w Javie
+Jedrzej Andrykowski - PITEST, czyli jak testować testy w Javie
 
 Testowanie mutacyjne to technika, która pomimo ponad trzydziestoletniego stażu nie osiągnęła do dziś wielkiej popularności. Wiele lat był to problem z mocą obliczeniową urządzeń, na których te testy miały być uruchamiane. To na szczęście się zmieniło, a narzędzia, które ostatnio powstają, pozwalają użyć tej techniki praktycznie w każdym projekcie. Na prezentacji omówiona będzie idea testów mutacyjnych od strony teoretycznej jak i praktycznej. Zademonstrowane będzie narzędzie PITEST, które w prosty sposób automatyzuje testowanie mutacyjne w Javie i daje bardzo duże możliwości zwiększenia jakości naszych testów jednostkowych.
 
