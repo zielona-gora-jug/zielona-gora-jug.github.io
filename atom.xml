@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-05-16T23:20:25+02:00</updated>
+  <updated>2016-05-16T23:21:40+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -27,7 +27,7 @@
 
 <p>Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:</p>
 
-<p>Jedrzej Andrykowski - PITEST, czyli jak wykonywać testy mutacyjne w Javie</p>
+<p>Jedrzej Andrykowski - PITEST, czyli jak testować testy w Javie</p>
 
 <p>Testowanie mutacyjne to technika, która pomimo ponad trzydziestoletniego stażu nie osiągnęła do dziś wielkiej popularności. Wiele lat był to problem z mocą obliczeniową urządzeń, na których te testy miały być uruchamiane. To na szczęście się zmieniło, a narzędzia, które ostatnio powstają, pozwalają użyć tej techniki praktycznie w każdym projekcie. Na prezentacji omówiona będzie idea testów mutacyjnych od strony teoretycznej jak i praktycznej. Zademonstrowane będzie narzędzie PITEST, które w prosty sposób automatyzuje testowanie mutacyjne w Javie i daje bardzo duże możliwości zwiększenia jakości naszych testów jednostkowych.</p>
 
