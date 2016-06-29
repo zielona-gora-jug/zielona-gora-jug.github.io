@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2016/06/29/spotkanie-czerwcowe-agile-is-dead-plus-react-native/</loc>
+    <lastmod>2016-06-29T07:35:41+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2016/05/17/javaday-minsk-2016/</loc>
     <lastmod>2016-05-17T22:27:48+02:00</lastmod>
   </url>
@@ -219,21 +223,6 @@
   </url>
   <url>
     <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
-  </url>
-  <url>
-    <loc>http://zielona-gora-jug.github.io/posts/2/</loc>
-  </url>
-  <url>
-    <loc>http://zielona-gora-jug.github.io/posts/3/</loc>
-  </url>
-  <url>
-    <loc>http://zielona-gora-jug.github.io/posts/4/</loc>
-  </url>
-  <url>
-    <loc>http://zielona-gora-jug.github.io/posts/5/</loc>
-  </url>
-  <url>
-    <loc>http://zielona-gora-jug.github.io/posts/6/</loc>
   </url>
   <url>
     <loc>http://zielona-gora-jug.github.io/ankieta/index.html</loc>

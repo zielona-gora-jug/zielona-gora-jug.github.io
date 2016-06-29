@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-05-17T23:00:02+02:00</updated>
+  <updated>2016-06-29T07:43:16+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie czerwcowe - Agile is dead + React Native]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/06/29/spotkanie-czerwcowe-agile-is-dead-plus-react-native/"/>
+    <updated>2016-06-29T07:35:41+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/06/29/spotkanie-czerwcowe-agile-is-dead-plus-react-native</id>
+    <content type="html"><![CDATA[<p>Kolejne spotkanie zielonogórskiego JUGa już za chwilę… Startujemy jak zawsze o 18:30 w znanym pubie Haust. Na wstępie krótka integracja społeczności aby dalej przejść do konkretów. Spotkanie zrealizowane będzie ponownie przy wsparciu firmy <a href="https://www.adbglobal.com" target="_blank">ADB</a>.</p>
+
+<p><a href="http://adbglobal.com"><img class="center" src="http://zielona-gora-jug.github.io/images/adb.jpg" width="300" height="145" title="ADB" ></a></p>
+
+<!-- more -->
+
+
+<p>Tomasz Łączkowski, Agile is dead! Long live&hellip; what!?</p>
+
+<ul>
+<li>czy zwinne prowadzenie projektów przechodzi poważny kryzys?</li>
+<li>czy nadal warto zostać Scrum Masterem, Product Ownerem, etc.?</li>
+<li>przegląd niepokojących informacji ze świata zarządzania projektami&hellip;</li>
+</ul>
+
+
+<p>Goście z Poznania, Adam Skrzyński, Marcin Boguc, wprowadzą do technologii React Native:</p>
+
+<ul>
+<li>podstaw tego dynamicznie rozwijającego się ostatnio frameworka</li>
+<li>zbudowanie szkieletu projektu</li>
+<li>najważniejszych różnic w porównaniu z aplikacjami natywnymi</li>
+<li>najważniejszych modułów npm</li>
+<li>głównych zalet (szybkość iteracji, reużycie kodu etc.)</li>
+<li>rozszerzalności poprzez moduły natywne</li>
+</ul>
+
+
+<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/232038815/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JavaDay Minsk 2016]]></title>
@@ -378,36 +417,6 @@ Get ready !</p>
 <p>Jako drugi pojawił się reprezentant świata .NET - Andrzej Stencel z barwną i rozrywkową (choć też konkretną) prezentacją o Joda/Noda Time - czyli jak pracować z datą w C#, Noda Time, Java 8 i Joda Time. Na przykładzie stref czasowych i zmian czasu na letni można było zobaczyć, że choć praca z czasem nigdy nie jest łatwa, pewne rozwiązania mogą dać nam większą poprawność albo większą czytelność, podczas gdy inne wypadają zdecydowanie słabiej. Nie mogło oczywiście zabraknąć kilku przekomarzań o wyższości .NETu:) Slajdy dostępne tutaj: <a href="http://jedr.github.io/joda-noda-slides/" target="_blank">Joda Time/Noda Time</a>.</p>
 
 <p>Dziękujemy prelegentom, gratulujemy zwycięzcom licencji <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i książek <a href="http://manning.com/" target="_blank">Manning</a>, i do zobaczenia za miesiąc - 25. listopada.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie październikowe - Open Street Map & Joda Time / Noda Time]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/10/26/spotkanie-pazdziernikowe-open-street-map-joda-noda-time/"/>
-    <updated>2015-10-26T21:27:11+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/10/26/spotkanie-pazdziernikowe-open-street-map-joda-noda-time</id>
-    <content type="html"><![CDATA[<p>Już w najbliższą środę w zaprzyjaźnionym pubie Haust po raz kolejny przeprowadzony zostanie programistyczny desant, przy wsparciu tym razem debiutującej w gronie sponsorów <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> firmy <a href="http://fibaro.com/" target="_blank">Fibaro</a>.</p>
-
-<p><a href="http://fibaro.com"><img class="center" src="http://zielona-gora-jug.github.io/images/fibaro.jpg" width="90" height="90" title="Fibaro" ></a></p>
-
-<!-- more -->
-
-
-<p>Uczestnicy będą mieli możliwość wysłuchania dwóch prezentacji. Tomasz Kędziora przedstawi OpenStreetMap, czyli projekt społecznościowy który rzucił wyzwanie mapom Google. Wykorzystywany nie tylko przez entuzjastów lecz również przez gigantów branży. Prezentacja pokaże czym jest OpenStreetMap, na jakich zasadach działa i jak możemy wykorzystać w własnym projekcie. Z perspektywy kodu zostanie pokazane:</p>
-
-<ul>
-<li>osadzanie mapy na stronie i jej personalizacja</li>
-<li>geocoding</li>
-<li>API dla routingu</li>
-<li>edycja danych w OpenStreetMap</li>
-</ul>
-
-
-<p>Kolejno Andrzej Stencel porozmawia z Nami o Joda Time / Noda Time -> czyli co jest nie tak z wbudowanymi typami do obsługi daty i czasu w Javie i C# i jak to naprawić.</p>
-
-<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/226193695/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Przybywajcie!</p>
 ]]></content>
   </entry>
   
