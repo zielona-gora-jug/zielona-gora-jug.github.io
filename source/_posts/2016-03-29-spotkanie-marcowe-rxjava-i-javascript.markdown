@@ -8,7 +8,7 @@ author: Dawid Maksylewicz
 ---
 Zapraszamy na kolejne spotkanie zielonogórskiej Java User Group, które to po raz pierwszy zorganizowane zostanie przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>. 
 
-[{% img center /images/metapack.jpg 310 110 MetaPack %}](http://www.metapack.com/?lang=pl)
+[{% img center /images/metapack.jpg 330 130 MetaPack %}](http://www.metapack.com/?lang=pl)
 
 <!-- more -->
 

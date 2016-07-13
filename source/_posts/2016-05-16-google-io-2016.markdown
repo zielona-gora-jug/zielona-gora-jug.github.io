@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Google I/O Extended 2016 Zielona Góra"
+date: 2016-05-16 15:13:17 +0200
+comments: true
+categories:
+author: Dawid Maksylewicz
+---
+Przypominamy, że już w najbliższą środę na Uniwersytecie Zielonogórskim odbędzie się Google I/O Extended 2016 organizowany przez zaprzyjaźniony Geek Club Zielona Góra.
+
+[{% img center /images/geek.jpg 200 200 %}](http://www.meetup.com/Geek-Club-Zielona-Gora/)
+ 
+ Na pewno nie zabraknie dobrej zabawy i masy nowinek technologicznych. Zapisy na stronie: http://goo.gl/1qrlVI
