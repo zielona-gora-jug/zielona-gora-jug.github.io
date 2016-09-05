@@ -4,6 +4,7 @@ title: "Spotkanie czerwcowe - Agile is dead + React Native"
 date: 2016-06-29 07:35:41 +0200
 comments: true
 categories: 
+author: Dawid Maksylewicz
 ---
 Kolejne spotkanie zielonogórskiego JUGa już za chwilę… Startujemy jak zawsze o 18:30 w znanym pubie Haust. Na wstępie krótka integracja społeczności aby dalej przejść do konkretów. Spotkanie zrealizowane będzie ponownie przy wsparciu firmy <a href="https://www.adbglobal.com" target="_blank">ADB</a>.
 
