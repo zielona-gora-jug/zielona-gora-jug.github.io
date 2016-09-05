@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-07-13T22:10:35+02:00</updated>
+  <updated>2016-09-05T21:49:34+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Rozpoczęcie sezonu 2016/2017]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/09/05/rozpoczecie-sezonu-2016-slash-2017/"/>
+    <updated>2016-09-05T20:55:42+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/09/05/rozpoczecie-sezonu-2016-slash-2017</id>
+    <content type="html"><![CDATA[<p>Witamy po wakacjach! Sezon 2016/2017 przed nami. Znów mamy w planach spotykać się i poszerzać horyzonty w doborowym towarzystwie lokalnej społeczności:)</p>
+
+<p>Zaczniemy od tematu, który bywa niedoceniany, a jest niezmiernie ważny - Usability. O tym, jak tworzyć przyjazne aplikacje, opowie Tomasz Karwatka, a sponsorem spotkania będzie firma <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>.</p>
+
+<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="260" height="83" title="GlobalLogic" ></a></p>
+
+<!-- more -->
+
+
+<p><em>Tomasz Karwatka - Usability dla programistów</em></p>
+
+<p><em>Jak tworzyć użyteczne i przyjazne aplikacje. Podczas prezentacji poznacie proste i skuteczne metody tworzenia zrozumiałych interfejsów. Tomek opowie o najbardziej kuriozalnych i najciekawszych projektach w jakich brał udział. Podzieli się swoim doświadczeniem i praktycznymi radami.</em></p>
+
+<p><em>Prelekcja skierowana jest do programistów, założycieli startupów oraz business ownerów.</em></p>
+
+<p><em>Tomek Karwatka to założyciel i CEO w Divante, Grupa OEX. Divante to wrocławski software house realizujący wdrożenia eCommerce w Europie, Azji i Afryce. Tomek pisze bloga <a href="http://divante.co/blog" target="_blank"><a href="http://divante.co/blog">http://divante.co/blog</a></a>.</em></p>
+
+<p>Więcej szczegółów oraz rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/233582939/" target="_blank">meetupie</a>. Wśród zarejestrowanych uczestników rozlosujemy nagrody od partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>.</p>
+
+<p>Do zobaczenia!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie czerwcowe - Agile is dead + React Native]]></title>
@@ -399,24 +427,6 @@ Get ready !</p>
 <p>Miło nam ogłosić, że wydawnictwo <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a> postanowiło kontynuować swoje wsparcie dla <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> w sezonie 2015/2016. Nasza mała, ale tętniąca życiem społeczność programistów otrzymała właśnie kolejną partię papierowych książek. Zasady odnośnie uzyskania jednej kopii są takie same, jak to było wcześniej. Chcemy nagradzać prelegentów za ich wysiłek włożony w przygotowanie prezentacji. Jedna książka przeznaczona jest na jedne miesięczne spotkanie.</p>
 
 <p><a href="http://oreilly.com"><img class="center" src="http://zielona-gora-jug.github.io/images/books_2.jpg" title="O'Reilly" ></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania październikowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/10/30/podsumowanie-spotkania-pazdziernikowego/"/>
-    <updated>2015-10-30T12:58:57+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/10/30/podsumowanie-spotkania-pazdziernikowego</id>
-    <content type="html"><![CDATA[<p>W środę 28. października odbyło się drugie w tym sezonie spotkanie ZG JUG. Sponsorowane było przez firmę <a href="http://www.fibaro.com/pl" target="_blank">Fibaro</a>, i cieszyło się wysoką frekwencją - 80 osób przybyło posłuchać o tym co, gdzie (OpenStreetMap) i kiedy (Joda/Noda Time).</p>
-
-<p>O <a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> opowiadał Tomek Kędziora. Poznaliśmy kilka aspektów tego ciekawego projektu społecznościowego - jak wygląda edycja mapy, na co pozwala licencja, oraz jak używać OpenStreetMap do nanoszenia swoich elementów, znajdowania i oznaczania miejsc, oraz wyznaczania trasy. Temat otwartej, aktywnie rozwijanej alternatywy dla Google Maps spodobał się, o czym świadczyło mnóstwo pytań do prelegenta po prezentacji. Slajdy tutaj: <a href="http://zielona-gora-jug.github.io/files/Jug-OpenStreetMap.pdf" target="_blank">OpenStreetMap</a>.</p>
-
-<!-- more -->
-
-
-<p>Jako drugi pojawił się reprezentant świata .NET - Andrzej Stencel z barwną i rozrywkową (choć też konkretną) prezentacją o Joda/Noda Time - czyli jak pracować z datą w C#, Noda Time, Java 8 i Joda Time. Na przykładzie stref czasowych i zmian czasu na letni można było zobaczyć, że choć praca z czasem nigdy nie jest łatwa, pewne rozwiązania mogą dać nam większą poprawność albo większą czytelność, podczas gdy inne wypadają zdecydowanie słabiej. Nie mogło oczywiście zabraknąć kilku przekomarzań o wyższości .NETu:) Slajdy dostępne tutaj: <a href="http://jedr.github.io/joda-noda-slides/" target="_blank">Joda Time/Noda Time</a>.</p>
-
-<p>Dziękujemy prelegentom, gratulujemy zwycięzcom licencji <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i książek <a href="http://manning.com/" target="_blank">Manning</a>, i do zobaczenia za miesiąc - 25. listopada.</p>
 ]]></content>
   </entry>
   
