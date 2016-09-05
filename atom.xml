@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-09-05T21:49:34+02:00</updated>
+  <updated>2016-09-05T22:05:20+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenie na konferencję JDD]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/09/05/zaproszenie-na-konferencje-jdd/"/>
+    <updated>2016-09-05T21:54:18+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/09/05/zaproszenie-na-konferencje-jdd</id>
+    <content type="html"><![CDATA[<p>Jako Zielona Góra JUG, po raz kolejny jesteśmy partnerem krakowskiej konferencji <a href="http://16.jdd.org.pl/" target="_blank">JDD</a>, która odbędzie się 10-11 października.</p>
+
+<p><a href="http://16.jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/JDD_300x300.jpg" width="300" height="300" title="JDD" ></a></p>
+
+<!-- more -->
+
+
+<p>Tak jak w poprzednim roku, jest ona mocno nastawiona na współpracę z lokalnymi społecznościami, co oznacza kilka rzeczy. Po pierwsze, liderzy społeczności zostali zaproszeni do jej współtworzenia, mając wpływ zarówno na ogólne koncepcje, jak i na kwestie szczegółowe, np. wybór prezentacji. Po drugie, reprezentanci społeczności, debiutujący na scenie lokalnej, zostali zaproszeni na konferencję jako prelegenci w ramach konkursu na <a href="http://16.jdd.org.pl/program/jugmajster/join/" target="_blank">JUGmajstra</a>. Z Zielonej Góry będą to Maciej Schmidt i Marcin Stożek, zdobywcy wysokich ocen w pospotkaniowych ankietach.</p>
+
+<p>Po trzecie i najciekawsze, mamy dla was dwie darmowe wejściówki! Aby wziąć udział w losowaniu, należy zapisać się do <a href="https://www.meetup.com/Zielona-Gora-JUG/events/233872253/" target="_blank">wydarzenia na meetupie</a>.</p>
+
+<p>A dla zainteresowanych, którym nie dopisze szczęście, mamy też 25% zniżki z kodem JDD_JUG.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Rozpoczęcie sezonu 2016/2017]]></title>
@@ -409,24 +429,6 @@ Get ready !</p>
     <updated>2015-11-18T22:07:42+01:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2015/11/18/zaproszenie-na-33rd-degree-4-charity</id>
     <content type="html"><![CDATA[<p>W dniach 30.11 - 1.12 odbędzie się we Wrocławiu konferencja 33rd Degree 4 Charity</a>, która po raz kolejny zbiera pieniądze na cele charytatywne. Organizatorzy ściągają programistów z całej Polski, żeby razem uczyć się, dyskutować, wymieniać doświadczeniami i przy okazji pomagać. Każdy decyduje jakiej wysokości cegiełkę dołoży od siebie. Tematyka jest szeroka i dość uniwersalna, chociaż nie zabraknie tematów blisko JVM. Jeśli chcecie dowiedzieć się więcej o programie, zarejestrować się, albo zobaczyć dla kogo zbierane są pieniądze, zapraszamy na <a href="http://2015.33degree.org/" target="_blank"><a href="http://2015.33degree.org/">http://2015.33degree.org/</a></a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[New books from O'Reilly]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/11/16/oreilley-2nd-support/"/>
-    <updated>2015-11-16T21:46:46+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/11/16/oreilley-2nd-support</id>
-    <content type="html"><![CDATA[<p>We are happy to say that <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a> media publishing has decided to continue their support of <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> in season 2015/2016. Our small but vibrant community of programmers has just received next batch of paper books. Rules in order to get one copy, are the same as it was before. We want to reward speakers for their effort put into preparing presentations. One book is dedicated for one monthly meeting.</p>
-
-<p><a href="http://oreilly.com"><img class="center" src="http://zielona-gora-jug.github.io/images/books_1.jpg" title="O'Reilly" ></a></p>
-
-<!-- more -->
-
-
-<p>Miło nam ogłosić, że wydawnictwo <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a> postanowiło kontynuować swoje wsparcie dla <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> w sezonie 2015/2016. Nasza mała, ale tętniąca życiem społeczność programistów otrzymała właśnie kolejną partię papierowych książek. Zasady odnośnie uzyskania jednej kopii są takie same, jak to było wcześniej. Chcemy nagradzać prelegentów za ich wysiłek włożony w przygotowanie prezentacji. Jedna książka przeznaczona jest na jedne miesięczne spotkanie.</p>
-
-<p><a href="http://oreilly.com"><img class="center" src="http://zielona-gora-jug.github.io/images/books_2.jpg" title="O'Reilly" ></a></p>
 ]]></content>
   </entry>
   
