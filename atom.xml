@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-09-25T21:39:53+02:00</updated>
+  <updated>2016-10-05T21:43:39+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/10/04/podsumowanie-spotkania-wrzesniowego/"/>
+    <updated>2016-10-04T20:44:06+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/10/04/podsumowanie-spotkania-wrzesniowego</id>
+    <content type="html"><![CDATA[<p>Wrześniowe spotkanie, zorganizowane przy wsparciu firmy <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, już za nami. Prezentację &#8221;Usability dla programistów&#8221; przygotowali dla nas Andrzej Bogatko i Krzysztof Jagiełka - goście z wrocławskiego Divante, gdzie na co dzień zajmują się tym tematem. Dzieląc się swoim doświadczeniem z pracy z wieloma klientami z różnych branż, obalili dla nas kilka rozpowszechnionych mitów (np. że strona nie musi być koniecznie nowoczesna i minimalistyczna - czasem to co na pozór niezbyt ładne, okazuje się najbardziej praktyczne dla użytkownika i znacznie usprawnia jego pracę), oraz pokazali sporo przykładów dobrych i złych aplikacji, oraz zaskakujących wniosków, do których można było dojść tylko po sprawdzeniu, jak z danego produktu korzystają użytkownicy końcowi (zazwyczaj inaczej niż nam się wydaje&hellip;). Więcej szczegółów - w slajdach: <a href="http://zielona-gora-jug.github.io/files/Usability.pdf" target="_blank">Usability dla programistów</a>.</p>
+
+<p>Dziękujemy prelegentom i sponsorom i do zobaczenia za miesiąc!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zaproszenie na konferencję JDD]]></title>
@@ -420,15 +431,6 @@ Get ready !</p>
 <p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/226707166/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a>, ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
 
 <p>Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zaproszenie na 33rd Degree 4 Charity]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/11/18/zaproszenie-na-33rd-degree-4-charity/"/>
-    <updated>2015-11-18T22:07:42+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/11/18/zaproszenie-na-33rd-degree-4-charity</id>
-    <content type="html"><![CDATA[<p>W dniach 30.11 - 1.12 odbędzie się we Wrocławiu konferencja 33rd Degree 4 Charity</a>, która po raz kolejny zbiera pieniądze na cele charytatywne. Organizatorzy ściągają programistów z całej Polski, żeby razem uczyć się, dyskutować, wymieniać doświadczeniami i przy okazji pomagać. Każdy decyduje jakiej wysokości cegiełkę dołoży od siebie. Tematyka jest szeroka i dość uniwersalna, chociaż nie zabraknie tematów blisko JVM. Jeśli chcecie dowiedzieć się więcej o programie, zarejestrować się, albo zobaczyć dla kogo zbierane są pieniądze, zapraszamy na <a href="http://2015.33degree.org/" target="_blank"><a href="http://2015.33degree.org/">http://2015.33degree.org/</a></a>.</p>
 ]]></content>
   </entry>
   
