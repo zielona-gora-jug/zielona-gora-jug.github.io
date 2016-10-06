@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-10-05T21:43:39+02:00</updated>
+  <updated>2016-10-06T21:21:31+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Global Day of Coderetreat 2016]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/10/06/global-day-of-coderetreat-2016/"/>
+    <updated>2016-10-06T20:48:26+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/10/06/global-day-of-coderetreat-2016</id>
+    <content type="html"><![CDATA[<p>Pamiętacie <a href="http://localhost:4000/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/" target="_blank">Global Day of Coderetreat 2014</a>? W tym roku również będzie okazja wziąć udział w takim wydarzeniu. Tym razem nie organizuje go ZG JUG, ale robi to jeden z naszych partnerów - firma <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>. Wszystkie zasady są takie same: sobota, programowanie w parach, rozwiązywanie kilka razy tego samego problemu, ale w kilku sesjach. Każda sesja ma swoje modyfikacje i przebiega trochę inaczej, w każdej uczestnicy uczą się czegoś nowego. Dla wielu najtrudniejsze jest kasowanie kodu, obowiązkowe między sesjami;) Ogólnie jest to świetny sposób na doszlifowanie programistycznego warsztatu. Impreza trwa cały dzień, jest darmowa, a dla uczestników zapewniony jest lunch i przekąski. Więcej szczegółów o tym międzynarodowym wydarzeniu na oficjalnej stronie <a href="http://globalday.coderetreat.org/" target="_blank">Global Day of Coderetreat</a>, a tutaj <a href="http://www.uczestnicy.pl/event/global-day-of-coderetreat-2016" target="_blank">rejestracja i informacje o zielonogórskiej edycji</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego]]></title>
@@ -409,28 +418,6 @@ Get ready !</p>
 <p>Zdjęcia ze spotkania można znaleźć na <a href="http://www.meetup.com/Zielona-Gora-JUG/photos/26576433/" target="_blank">meetupie</a>.</p>
 
 <p>W grudniu spotykamy się wcześniej niż zwykle - 16. grudnia. Wydarzenie wkrótce na meetupie.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie listopadowe - EMF i Xtext]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/11/22/spotkanie-listopadowe-emf-i-xtext/"/>
-    <updated>2015-11-22T21:37:57+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/11/22/spotkanie-listopadowe-emf-i-xtext</id>
-    <content type="html"><![CDATA[<p>Już w najbliższą środę w zaprzyjaźnionym pubie Haust kolejne spotkanie <a href="http://jug.zgora.pl/" target="_blank">ZgJUG</a> - czyli zielonogórskiej społeczności pasjonatów programowania. Tym razem widzimy się przy mocnym wsparciu firmy <a href="http://rec-global.com" target="_blank">REC</a>, która zapewnia napoje oraz przekąski i której pracownicy poprowadzą dwie ciekawe prezentacje.</p>
-
-<p><a href="http://www.rec-global.com"><img class="center" src="http://zielona-gora-jug.github.io/images/rec.png" width="90" height="90" title="REC" ></a></p>
-
-<!-- more -->
-
-
-<p>Tomasz Kleszczyński: Building your own domain-specific language with Xtext. Podczas prezentacji wykorzysta Xtext aby zbudować DSL w oparciu o istniejący model EMF. Pokażę jak zrobić edytor z kolorowaniem o podpowiadaniem składni, walidacją i mechanizmem quick-fix.</p>
-
-<p>Paweł Żalejko: Eclipse Modeling Framework (EMF). Usłyszymy o tym czym jest EMF i do czego może się przydać. W czasie prezentacji skupi się na podstawach, będzie o samym EMF&#8217;ie jako technologii, tworzeniu modeli, generowaniu kodu oraz o tym co można z tak wygenerowanym kodem następnie zrobić.</p>
-
-<p>Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/226707166/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a>, ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
