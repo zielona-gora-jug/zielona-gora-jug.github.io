@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-10-06T21:33:30+02:00</updated>
+  <updated>2016-11-04T20:31:17+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania październikowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/11/04/podsumowanie-spotkania-pazdziernikowego/"/>
+    <updated>2016-11-04T21:04:22+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/11/04/podsumowanie-spotkania-pazdziernikowego</id>
+    <content type="html"><![CDATA[<p>Kolejne jugowe spotkanie za nami. Tym razem spotkaliśmy się, żeby posłuchać o grafowych bazach danych, a sponsorem była firma <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>.</p>
+
+<p>Prelegentem był Jarek Pałka, który przyjechał do nas z Krakowa, gdzie na co dzień pracuje w Allegro. Jarek współorganizuje także konferencję <a href="http://16.jdd.org.pl/" target="_blank">JDD</a>, na której była nasza jugowa reprezentacja w postaci Macieja Schmidta i Marcina Stożka. Tytuł JUGmajstra jest nasz! A dokładniej Marcina, którego prezentację o Dockerze (sprawdzoną u nas na lokalnym gruncie) publiczność wybrała jako najciekawszą. Gratulujemy:)</p>
+
+<p>Wracając zaś do październikowej prezentacji - Jarek z właściwą sobie werwą i poczuciem humoru przeprowadził nas przez świat grafów - na początku powoli i spokojnie, a potem wpadliśmy już całkiem w wir zapytań w Cypherze, analizując i budując kolejne zależności na wprowadzonej jako graf skrzynce mailowej Jarka - było ciekawie:). Dla przypomnienia, oto slajdy: <a href="http://zielona-gora-jug.github.io/files/neo4j-slides.zip">W gąszczu grafów</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Global Day of Coderetreat 2016]]></title>
@@ -401,23 +414,6 @@ Get ready !</p>
 <p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/227193418/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
 
 <p>Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania listopadowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/11/30/podsumowanie-spotkania-listopadowego/"/>
-    <updated>2015-11-30T21:12:33+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/11/30/podsumowanie-spotkania-listopadowego</id>
-    <content type="html"><![CDATA[<p>W minioną środę spotkaliśmy się po raz kolejny, tym razem przy wsparciu firmy <a href="http://pl.rec-global.com/" target="_blank">REC</a> - czas na krótką relację.</p>
-
-<p>Tym razem na jednym spotkaniu mieliśmy dwa tematy. Najpierw Paweł Żalejko przedstawił <a href="http://www.eclipse.org/modeling/emf/" target="_blank">Eclipse Modeling Framework</a>, pozwalający na generowanie kodu na podstawie zdefiniowanego modelu. Zobaczyliśmy możliwości EMF, m.in. dodatkowe klasy wspomagające, walidacyjne oraz łatwe tworzenie widoków edycji danych. Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/EMF.pdf" target="_blank">EMF</a>.</p>
-
-<p>Następna była prezentacja Tomasza Kleszczyńskiego o frameworku <a href="https://eclipse.org/Xtext/" target="_blank">Xtext</a>. Jest to narzędzie pozwalające tworzyć własny DSL - zobaczyliśmy jego zastosowania na przykładzie własnej gramatyki do tworzenia reguł logowania. Plik konfiguracyjny napisany w takim DSLu (oprócz tego że czyta się go lepiej niż XML) można np. łatwo edytować przy wsparciu IDE, z automatyczną walidacją oraz podpowiadaniem składni. Więcej szczegółów na slajdach: <a href="http://zielona-gora-jug.github.io/files/Xtext.pdf" target="_blank">Xtext</a> i na githubie: <a href="https://github.com/zielona-gora-jug/jug-zgora-xtext" target="_blank">zielona-gora-jug/jug-zgora-xtext</a>.</p>
-
-<p>Zdjęcia ze spotkania można znaleźć na <a href="http://www.meetup.com/Zielona-Gora-JUG/photos/26576433/" target="_blank">meetupie</a>.</p>
-
-<p>W grudniu spotykamy się wcześniej niż zwykle - 16. grudnia. Wydarzenie wkrótce na meetupie.</p>
 ]]></content>
   </entry>
   
