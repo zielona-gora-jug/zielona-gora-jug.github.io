@@ -6,7 +6,7 @@ comments: true
 categories: 
 author: Magda Stożek
 ---
-Kolejne jugowe spotkanie za nami. Tym razem spotkaliśmy się, żeby posłuchać o grafowych bazach danych, a sponsorem była firma <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>.
+Kolejne jugowe <a href="http://www.meetup.com/Zielona-Gora-JUG/events/234700196/" target="_blank">spotkanie</a> za nami. Tym razem spotkaliśmy się, żeby posłuchać o grafowych bazach danych, a sponsorem była firma <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>.
 
 Prelegentem był Jarek Pałka, który przyjechał do nas z Krakowa, gdzie na co dzień pracuje w Allegro. Jarek współorganizuje także konferencję <a href="http://16.jdd.org.pl/" target="_blank">JDD</a>, na której była nasza jugowa reprezentacja w postaci Macieja Schmidta i Marcina Stożka. Tytuł JUGmajstra jest nasz! A dokładniej Marcina, którego prezentację o Dockerze (sprawdzoną u nas na lokalnym gruncie) publiczność wybrała jako najciekawszą. Gratulujemy:)
 
