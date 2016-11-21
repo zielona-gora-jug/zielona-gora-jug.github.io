@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-11-04T20:42:22+01:00</updated>
+  <updated>2016-11-21T22:05:28+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe – Spring Cloud i Netflix]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/11/21/spotkanie-listopadowe-spring-cloud-i-netflix/"/>
+    <updated>2016-11-21T19:48:22+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/11/21/spotkanie-listopadowe-spring-cloud-i-netflix</id>
+    <content type="html"><![CDATA[<p>W Andrzejki, 30 listopada 2016, zapraszamy do pubu Haust na&hellip; spotkanie otwierające serię wykładów związanych z mikroserwisami. Spotkanie poprowadzi Jacek Bukowski pracujący jako architekt oprogramowania w firmie <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a> – sponsorze naszego listopadowego spotkania.</p>
+
+<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="330" height="130" title="GlobalLogic" ></a></p>
+
+<!-- more -->
+
+
+<p>Jacek przedstawi nam sposób tworzenia od podstaw aplikacji opartych na mikroserwisach korzystających z chmury. Nie tracąc czasu użyje gotowych elementów, aby szybko skorzystać z technologii takich jak load balancing, service discovery czy też ze zdalnego zarządzania. To wszystko przy użyciu znanego i lubianego Spring Cloud oraz komponentów ze stajni równie znanego Netflix&#8217;a. A cała ta wiedza od praktyka – osoby korzystającej z tych technologii na co dzień.</p>
+
+<p>Spotkanie rozpocznie się tradycyjnie o 18:30 półgodzinnym wprowadzeniem w Andrzejkowe klimaty. Potem sama prezentacja, równie tradycyjne losowanie nagród oraz kontynuacja w bardziej „luźnej” formie.</p>
+
+<p>Przypominamy o zarejestrowaniu swojego udziału poprzez <a href="https://www.meetup.com/Zielona-Gora-JUG/events/235518525/" target="_blank">Meetup</a> (pełnym imieniem i nazwiskiem, aby wziąć udział w losowaniu).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania październikowego]]></title>
@@ -394,26 +414,6 @@ Get ready !</p>
 <p>Następnie Marcin Stożek opowiedział o Dockerze. Była historia (konteneryzacja to nic nowego w Linuksie), była zasada działania, były wyzwania (m.in. kwestie bezpieczeństwa), zobaczyliśmy również na żywo jak wygląda odpalanie kontenerów, co tworzy się w systemie plików oraz jak kontener może przekroczyć swoje uprawnienia. Slajdy: <a href="http://slides.com/perk/docker#/" target="_blank">Docker dla odważnych</a>.</p>
 
 <p>Na końcu był czas na sprawy organizacyjne - losowania licencji, ebooków oraz nagród od sponsora, a także plany na następny rok. Co nas czeka? Będzie trochę gości z innych miast, myślimy również o nawiązaniu współpracy z JUG Saxony. Pierwszy gość pojawi się już w styczniu, a ponieważ dostosujemy się do niego z datą, na styczniowego JUGa zapraszamy 18.01.2016.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie grudniowe - jBPM i Docker]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2015/12/14/spotkanie-grudniowe-docker-i-jbpm/"/>
-    <updated>2015-12-14T22:22:38+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2015/12/14/spotkanie-grudniowe-docker-i-jbpm</id>
-    <content type="html"><![CDATA[<p>To już pojutrze&hellip; 16 grudzień, start godzina 18:30! Kolejne spotkanie zielonogórskiego JUG&#8217;a&hellip; Gdzie ? Jak zawsze w zaprzyjaźnionym pubie Haust. Tym razem wspiera Nas <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>&hellip;</p>
-
-<p><a href="http://cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a></p>
-
-<!-- more -->
-
-
-<p>W planie dwie prezentacje. Tomasz Gratkowski odpowie nam na pytania: po co stosować procesy biznesowe, co z tego ma szef, a co programista?! Parę słów o BPMN. Jak z diagramu procesów biznesowych uzyskać działającą aplikację w jBPM. Dalej Marcin Stożek i prezentacja tylko dla orłów tj. krótka historia kontenerów, przegląd dostępnych opcji, jak stworzyć swój pierwszy obraz Dockera, a z niego kontener, uruchamianie wielu kontenerów naraz, rzut okiem na wydajność, przegląd ekosystemu i jego bezpieczeństwo. Kodowanie na ekranie załączone w zestawie.</p>
-
-<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/227193418/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
