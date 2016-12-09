@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-12-05T21:38:29+01:00</updated>
+  <updated>2016-12-09T22:16:46+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -24,7 +24,7 @@ Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały 
 <p><p>Materiały:
 <ul>
 <li><a href="files/spring-cloud.pptx">Prezentacja</a></li>
-<li><a href="files/spring-cloud.zip">Kod źródłowy</a></li>
+<li><a href="https://github.com/zielona-gora-jug/spring-cloud-netflix-demo">Kod źródłowy na GitHub</a></li>
 </ul></p>
 
 <p><!-- more --></p>
