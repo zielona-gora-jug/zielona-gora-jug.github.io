@@ -12,7 +12,7 @@ Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały 
 <p>Materiały:
 <ul>
 <li><a href="files/spring-cloud.pptx">Prezentacja</a></li>
-<li><a href="files/spring-cloud.zip">Kod źródłowy</a></li>
+<li><a href="https://github.com/zielona-gora-jug/spring-cloud-netflix-demo">Kod źródłowy na GitHub</a></li>
 </ul>
 
 <!-- more --> 
