@@ -10,7 +10,7 @@ tego dnia przygotowane są we współpracy z firmą <a href="http://www.cinkciar
 
 [{% img center /images/cinkciarz.png 330 130 Cinkciarz.pl %}](http://www.cinkciarz.pl)
 
-Prelegentami będą: Jędrzej Andrykowski (testy CDC) oraz Piotr Joński (pojo tester).
+Prelegentami będą: Jędrzej Andrykowski (testy CDC) oraz Piotr Joński (POJO Tester).
 
 <!-- more -->
 
@@ -19,3 +19,5 @@ interfejs jest jej konsument. Odwraca to całkowicie podejście do tworzenia us�
 na problemy związane z upublicznianiem API z zupełnie nowej perspektywy. W trakcie wykładu Jędrzej zaprezentuje również narzędzie 
 Spring Cloud Contract Verifier, które ułatwia zastosowanie tej filozofii.
 
+Z kolei Piotr przedstawi nam swoje własne narzędzie do testowania POJO, które zdejmuje z nas nieprzyjemny obowiązek żmudnego
+pisania testów do prostych klas Javy. Z Pojo Tester możecie zapoznać się pod <a href="http://www.pojo.pl">tym adresem</a>.
