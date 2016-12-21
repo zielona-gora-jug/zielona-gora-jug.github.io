@@ -17,25 +17,23 @@ footer: true
 		</p>
 	</div>
 	<div class="leader">
-		<img src="/images/mireksz.jpg" width="100" height="250">
-		<p class="name">Mirek Szajowski</p>
+		<img src="/images/logo_as_photo.png" width="100" height="250">
+		<p class="name">Paweł Żalejko</p>
 		<div class="social"> 
-			<a class="mail" href="mailto:m.szajowski@gmail.com"></a>
+			<a class="mail" href="mailto:p.zalejko@gmail.com"></a>
 		</div>
 		<p class="desc">
-		Programista systemów ERP w Streamsoft, zainteresowany / doświadczony w wielu technologiach około-Javowych, w wolnych chwilach dbając o kondycję fizyczną, podnosi ciężary.
+		Programista w GlobalLogic, kodujący głównie w Javie. Zainteresowany wszystkim, co związane jest z JVM. Nie boi się podejmowania wyzwań w pracy w nowych dla siebie technologiach. W wolnych chwilach biega.
 		</p>
 	</div>
 	<div class="leader">
-		<img src="/images/dawidm.jpg" width="100" height="250">
-		<p class="name">Dawid Maksylewicz</p>
+		<img src="/images/logo_as_photo.png" width="100" height="250">
+		<p class="name">Paweł Nowak</p>
 		<div class="social"> 
-			<a class="twitter" href="https://twitter.com/dmaksylewicz" target="_blank"></a>
-			<a class="linkedin" href="https://pl.linkedin.com/in/dawidmaksylewicz" target="_blank"></a>
-			<a class="mail" href="mailto:dawid.maksylewicz@gmail.com"></a>
+			<a class="mail" href="mailto:nowak.p@gmail.com"></a>
 		</div>
 		<p class="desc">
-			Programista, zainteresowany wszystkim tym co związane jest z kodowaniem, JVM, Android, wierzący w moc pracy zdalnej, czerpiący energię z jazdy na rowerze górskim oraz zimowych zjazdów na nartach.
+		Pracuje w ADB, obecnie jako programista Javy, choć w przez wiele lat programował również w C# i PHP, a także kierował niewielkimi zespołami programistów. Okazjonalny dzieli się wiedzą w ramach różnych wykładów, np. w ramach Akademii ADB.
 		</p>
 	</div>
 	<div class="clear"></div>
