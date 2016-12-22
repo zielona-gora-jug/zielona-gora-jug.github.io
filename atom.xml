@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-12-21T13:21:17+01:00</updated>
+  <updated>2016-12-22T09:31:03+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Po spotkaniu grudniowym]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2016/12/22/po-spotkaniu-grudniowym/"/>
+    <updated>2016-12-22T09:05:58+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2016/12/22/po-spotkaniu-grudniowym</id>
+    <content type="html"><![CDATA[<p>Za nami ostatnie spotkanie w 2016 roku. Wysłuchaliśmy podczas niego dwóch prezentacji prowadzonych przez pracowników naszego sponsora:
+<a href="http://www.cinkciarz.pl/" traget="_blank">Cinkciarz.pl</a>. Rozpoczął Jędrzej Andrykowski, który krótko przedstawił ideę i korzyści
+<i>Customer-Driven Contracts</i> - podejścia do tworzenia interfejsów między serwisami według pomysłu Martina Fowlera. Następnie pokazał
+implementację tej metody przy użyciu <i>Spring Cloud Contract Verifier</i>. Po prezentacji wywiązała się krótka dyskusja, podczas której
+Jędrzej udowodnił, że CDC jest użyteczne także praktycznie i ma zastosowania również poza światem Javy.</p>
+
+<p>Druga część spotkania to prezetacja autorskiego rozwiązania Piotra Jońskiego, czyli POJO Tester: narzędzie, które prawie automatycznie
+stworzy testy ze stuprocentowym pokryciem dla obiektów typu POJO. Piotr przedstawił przykładu użycia oraz pokazał za pomocą metryk, że
+jego biblioteka przewyższa inne dostępne rozwiązania tego typu. Zwrócił nam także uwagę na to, że pomijanie testowania getterów, setterów,
+<code>hashCode</code>, <code>toString</code> i <code>equals</code> może mieć zgubne skutki dla stabilności naszego kodu.</p>
+
+<!-- more --> 
+
+
+<p>Spotkanie zakończono losowaniem prezentów świątecznych w postaci licencji JetBrains, książek wydawnictwa Manning oraz prezentów od sponsora:
+wejściówek na mecze Stelmet BC z albumami reprezentacji Polski w piłce nożnej.</p>
+
+<p><p>Materiały:
+<ul>
+<li><a href="http://pojo.pl">POJO Tester</a></li>
+<!--<li><a href="https://github.com/zielona-gora-jug/spring-cloud-netflix-demo">Kod źródłowy na GitHub</a></li>&ndash;>
+</ul></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zapowiedź spotkania grudniowego]]></title>
@@ -398,32 +428,6 @@ Get ready !</p>
     <content type="html"><![CDATA[<p>Pierwsze spotkanie w 2016 odbyło się z rekordową frekwencją - prezentacji Roberta Firka o mikroserwisach przyszło posłuchać aż 105 osób! Super:) Po samej prezentacji (<a href="http://robertfirek.github.io/introduction_to_microservices_zg_jug/#/step-1" target="_blank">Architektura Mikroserwisów - Dobry, zły i brzydki</a>), odbyła się jeszcze dyskusja - było bardzo dużo pytań o praktyczne aspekty zastosowania tej architektury, i Robert dzielił się z nami swoim doświadczeniem, podpowiadając, na co uważać, co jest ślepą uliczką, i na których aspektach warto się skupić. Choć w przypadku mikroserwisów, które są bardziej filozofią tworzenia oprogramowania niż ścisłym zbiorem zasad, często jedyną właściwą odpowiedzią jest &ldquo;to zależy&rdquo; :)</p>
 
 <p>Dziękujemy Robertowi za wizytę, sponsorom za wsparcie, i zapraszamy na następne spotkanie, 1. lutego - <a href="http://www.meetup.com/Zielona-Gora-JUG/events/227668947/" target="_blank">Dodatkowe spotkanie lutowe - CD i DDD</a> - liczba uczestników jest tym razem ściśle ograniczona, ale kilka wolnych miejsc jeszcze zostało.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Art of software: Łukasz Szydło i Sławomir Sobótka]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/01/25/cd-architektura-i-praktyka/"/>
-    <updated>2016-01-25T12:41:16+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/01/25/cd-architektura-i-praktyka</id>
-    <content type="html"><![CDATA[<p>Niezmiernie miło nam poinformować, że <a href="https://www.jug.zgora.pl" target="_blank">Zielona Góra JUG</a> wraz z firmą <a href="https://www.cinkciarz.pl" target="_blank">Cinkciarz.pl</a> wspłorganizują wyjątkowe, dodatkowe spotkanie, gośćmi którego bedą dobrze znani wśród pasjonatów wytwarzania oprogramowania Łukasz Szydło oraz Sławomir Sobótka. Spotkanie odbędzie się 1 lutego 2016 roku, dzięki uprzejmości <a href="https://weit.uz.zgora.pl" target="_blank">Wydziału Informatyki, Elektrotechniki i Automatyki UZ</a>, w sali numer 115, budynku A-2 Uniwersytetu Zielonogórskiego. Będzie okazja do wysłuchania dwóch tematów:</p>
-
-<p style="text-align:center;"><a href="http://jug.zgora.pl"><img src="http://zielona-gora-jug.github.io/images/logo.png" width="200" height="150" title="ZgJUG" ></a>
-<a href="http://cinkciarz.pl"><img src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="200" height="150" title="Cinkciarz.pl" ></a>
-<a href="http://weit.uz.zgora.pl"><img src="http://zielona-gora-jug.github.io/images/wiea.png" width="160" height="110" title="WIEA" ></a></p>
-
-<!-- more -->
-
-
-<ol>
-<li><p>Continuous Delivery (CD) jest coraz częściej stosowaną praktyką w nowoczesnych projektach. Pytanie, jakie korzyści płyną z wdrażania kodu na produkcję kilka razy dziennie i jak zmieni to naszą codzienną pracę. Kiedy już to poznamy, zostaje największa zagwozdka: jak to zrobić, jakich narzędzi użyć i dlaczego wszędzie jest Docker.</p></li>
-<li><p>Nie koduj! Pisz prozę! Techniki DDD wychodzące poza Clean Code. Dlaczego nasz kod na pierwszy rzut oka jest w sumie tak samo czytelny jak karty perforowane wkładane do komputerów Odra? Dlaczego wprowadzenie zmian w 10-letnim kodzie jest tak kosztowne - przecież wszystko powinno być tam już napisane.</p></li>
-</ol>
-
-
-<p>Mając na uwadze to że zaplanowane są dwie, pełnowymiarowe prezentacje, spotkanie rozpoczynamy już o godzinie 18. Rejestracja jak to zwykle bywa, pozostaje darmowa, jednak obowiązkowa na portalu <a href="http://www.meetup.com/Zielona-Gora-JUG/events/227668947/" target="_blank">meetup</a>.</p>
-
-<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
