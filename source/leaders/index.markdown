@@ -17,9 +17,11 @@ footer: true
 		</p>
 	</div>
 	<div class="leader">
-		<img src="/images/logo_as_photo.png" width="100" height="250">
+		<img src="/images/pawel_zalejko.jpeg" width="100" height="250">
 		<p class="name">Paweł Żalejko</p>
 		<div class="social"> 
+			<a class="twitter" href="https://twitter.com/pzalejko" target="_blank"></a>
+			<a class="linkedin" href="http://pl.linkedin.com/in/pzalejko" target="_blank"></a>
 			<a class="mail" href="mailto:p.zalejko@gmail.com"></a>
 		</div>
 		<p class="desc">
@@ -30,6 +32,7 @@ footer: true
 		<img src="/images/logo_as_photo.png" width="100" height="250">
 		<p class="name">Paweł Nowak</p>
 		<div class="social"> 
+			<a class="linkedin" href="https://pl.linkedin.com/in/pawel-nowak-7077b98" target="_blank"></a>
 			<a class="mail" href="mailto:nowak.p@gmail.com"></a>
 		</div>
 		<p class="desc">
