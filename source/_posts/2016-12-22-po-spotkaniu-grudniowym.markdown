@@ -24,7 +24,7 @@ wejściówek na mecze Stelmet BC z albumami reprezentacji Polski w piłce nożne
 
 <p>Materiały:
 <ul>
-<li><a href="files/cdc2.html">Prezentacja <i>Customer-Driven Contracts</i></a></li>
+<li><a href="http://jug.zgora.pl/files/cdc2.html">Prezentacja <i>Customer-Driven Contracts</i></a></li>
 <li><a href="https://github.com/zielona-gora-jug/consumer-driven-contracts">CDC: projekt przedstawiony podczas prezentacji</a>
 <li><a href="http://pojo.pl">POJO Tester</a></li>
 <li><a href="https://github.com/zielona-gora-jug/pojo-tester-jug">POJO Tester: przykładowy projekt</a></li>
