@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-12-23T09:55:52+01:00</updated>
+  <updated>2016-12-23T10:08:30+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -37,7 +37,7 @@ wejściówek na mecze Stelmet BC z albumami reprezentacji Polski w piłce nożne
 
 <p><p>Materiały:
 <ul>
-<li><a href="http://jug.zgora.pl/files/cdc2.html">Prezentacja <i>Customer-Driven Contracts</i></a></li>
+<li><a href="http://jug.zgora.pl/files/cdc2.html" target="_blank">Prezentacja <i>Customer-Driven Contracts</i></a></li>
 <li><a href="https://github.com/zielona-gora-jug/consumer-driven-contracts">CDC: projekt przedstawiony podczas prezentacji</a>
 <li><a href="http://pojo.pl">POJO Tester</a></li>
 <li><a href="https://github.com/zielona-gora-jug/pojo-tester-jug">POJO Tester: przykładowy projekt</a></li>
