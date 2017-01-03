@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2016-12-23T10:08:30+01:00</updated>
+  <updated>2017-01-03T20:58:15+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie styczniowe - zapowiedź]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/01/03/spotkanie-styczniowe-zapowiedz/"/>
+    <updated>2017-01-03T20:50:20+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/01/03/spotkanie-styczniowe-zapowiedz</id>
+    <content type="html"><![CDATA[<p>Rok 2017-ty rozpoczynamy wraz z firmą <a href="http://www.cinkciarz.pl" target="_blank">Cinkciarz.pl</a>. Nasze spotkanie rozpocznie się
+tradycyjnie o 18:30, tym razem 25 stycznia.</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<p>W tym miesiącu ograniczymy się do jednej, za to dłuższej, prezentacji Marcina Grzejszczaka dotyczącej &ldquo;śledzenia&rdquo; mikroserwisów przy użyciu Spring Cloud Sleuth i Zipkin.</p>
+
+<!-- more -->
+
+
+<p>W wielu miejscach - również na naszych spotkaniach - mogliście dowiedzieć się jak zbudować i utrzymywać mikroserwisy. Teraz pora przejść na następny
+poziom wtajemniczenia: porozmawiamy o metodach debugowania i wykrywania problemów (np. opóźnieniach i przetwarzaniu logów). Serdecznie zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Po spotkaniu grudniowym]]></title>
@@ -419,17 +439,6 @@ Get ready !</p>
 <p>Następnie wystąpił Sławomir Sobótka z prezentacją <a href="https://prezi.com/idkvj_glu-aa/2015-nie-koduj-pisz-proze-45min/" target="_blank">Nie koduj, pisz prozę</a>. W pełnym anegdot i żartów wystąpieniu poruszył kilka tematów wokół podstawowej kwestii - jak pisać kod, żeby był czytelny? Jak się okazuje, różni ludzie różnie postrzegają czytelność, ale pewne techniki mogą pomóc. Dowiedzieliśmy się m.in. dlaczego ważne jest by nie mieszać obiektu ze strukturą danych, a funkcji z procedurą, jak grać w gibberish game na spotkaniach z biznesem oraz jak chronić swoją aplikację przez wprowadzanie do niej stref zgniotu i anti-corruption layers.</p>
 
 <p>Dziękujemy partnerom (<a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a> i <a href="http://www.weit.uz.zgora.pl/" target="_blank">WIEA UZ</a>) i zapraszamy na kolejne spotkanie, którego temat jest jeszcze w trakcie ustaleń, ale termin będzie standardowy - ostatnia środa lutego.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania styczniowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/01/26/podsumowanie-spotkania-styczniowego/"/>
-    <updated>2016-01-26T21:50:00+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/01/26/podsumowanie-spotkania-styczniowego</id>
-    <content type="html"><![CDATA[<p>Pierwsze spotkanie w 2016 odbyło się z rekordową frekwencją - prezentacji Roberta Firka o mikroserwisach przyszło posłuchać aż 105 osób! Super:) Po samej prezentacji (<a href="http://robertfirek.github.io/introduction_to_microservices_zg_jug/#/step-1" target="_blank">Architektura Mikroserwisów - Dobry, zły i brzydki</a>), odbyła się jeszcze dyskusja - było bardzo dużo pytań o praktyczne aspekty zastosowania tej architektury, i Robert dzielił się z nami swoim doświadczeniem, podpowiadając, na co uważać, co jest ślepą uliczką, i na których aspektach warto się skupić. Choć w przypadku mikroserwisów, które są bardziej filozofią tworzenia oprogramowania niż ścisłym zbiorem zasad, często jedyną właściwą odpowiedzią jest &ldquo;to zależy&rdquo; :)</p>
-
-<p>Dziękujemy Robertowi za wizytę, sponsorom za wsparcie, i zapraszamy na następne spotkanie, 1. lutego - <a href="http://www.meetup.com/Zielona-Gora-JUG/events/227668947/" target="_blank">Dodatkowe spotkanie lutowe - CD i DDD</a> - liczba uczestników jest tym razem ściśle ograniczona, ale kilka wolnych miejsc jeszcze zostało.</p>
 ]]></content>
   </entry>
   
