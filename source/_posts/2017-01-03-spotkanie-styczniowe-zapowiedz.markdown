@@ -17,3 +17,5 @@ W tym miesiącu ograniczymy się do jednej, za to dłuższej, prezentacji Marcin
 
 W wielu miejscach - również na naszych spotkaniach - mogliście dowiedzieć się jak zbudować i utrzymywać mikroserwisy. Teraz pora przejść na następny
 poziom wtajemniczenia: porozmawiamy o metodach debugowania i wykrywania problemów (np. opóźnieniach i przetwarzaniu logów). Serdecznie zapraszamy!
+
+Więcej szczegółów oraz rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/236619601/" target="_blank">meetupie</a>.
