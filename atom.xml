@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-01-11T21:13:02+01:00</updated>
+  <updated>2017-01-24T18:06:09+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ScalaSphere - darmowe bilety do wzięcia!]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/01/24/scalasphere-darmowe-bilety-do-wziecia/"/>
+    <updated>2017-01-24T17:56:06+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/01/24/scalasphere-darmowe-bilety-do-wziecia</id>
+    <content type="html"><![CDATA[<p>W dniach 2-3 marca 2017 r., w Krakowie odbędzie się konferencja <a href="http://scalasphere.org">ScalaSphere</a>. Wydarzenie to poświęcone jest narzędziom Scali dla developerów.
+W programie ujęto również omówienie nowych elementów ekosystemu Scali i ich dalszego rozwoju. Wystąpią znani prelegenci zajmujący się Scala IDE, Scala Compiler, Ensime, IntelliJ itp.
+W cenie catering!</p>
+
+<p>Do zaoferowania mamy (kontakt z <a href="leaders">Magdą</a>, kto pierwszy ten lepszy):</p>
+
+<ul>
+<li>Dwie darmowe wejściówki.</li>
+<li>Dla 5 osób zniżki 50% na bilety.</li>
+</ul>
+
+
+<p>Organizatorzy serdecznie zapraszają!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie styczniowe - zapowiedź]]></title>
@@ -426,21 +447,6 @@ Get ready !</p>
 <p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy - 119 &lsquo;going&rsquo; ! Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/228723316/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
 
 <p>Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania o CD i DDD]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd/"/>
-    <updated>2016-02-02T21:34:25+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/02/02/podsumowanie-spotkania-o-cd-i-ddd</id>
-    <content type="html"><![CDATA[<p>Kolejny rekord frekwencji w ZG JUG (120 osób) - tym razem za sprawą Łukasza Szydło i Sławomira Sobótki, którzy poprowadzili bardzo ciekawe i dopracowane merytorycznie prezentacje.</p>
-
-<p>Łukasz Szydło w prezentacji <a href="http://www.slideshare.net/ukaszSzydo/enabling-continuous-delivery-57880367" target="_blank">Continuous Delivery - architektura i praktyka</a> wytłumaczył, jak zastosować podejście, w którym każdy commit idzie automatycznie na produkcję, natomiast to, czy sama funkcjonalność będzie widoczna dla użytkowników czy nie, zarządzane jest przez tzw. feature switch. Zarządzaniem tym, co i kiedy włączyć i wyłączyć na różnych środowiskach, może się wtedy zająć product owner. Po prezentacji było bardzo dużo pytań o aspekty praktyczne, do jakich aplikacji podejście to nadaje się bardziej, dla jakich mniej, było również trochę wątpliwości, czy faktycznie da się pracować dużym zespołem na jednym branchu, i jak bardzo trzeba być zdyscyplinowanym, żeby mieć pewność że każdy commit rzeczywiście może od razu iść na produkcję.</p>
-
-<p>Następnie wystąpił Sławomir Sobótka z prezentacją <a href="https://prezi.com/idkvj_glu-aa/2015-nie-koduj-pisz-proze-45min/" target="_blank">Nie koduj, pisz prozę</a>. W pełnym anegdot i żartów wystąpieniu poruszył kilka tematów wokół podstawowej kwestii - jak pisać kod, żeby był czytelny? Jak się okazuje, różni ludzie różnie postrzegają czytelność, ale pewne techniki mogą pomóc. Dowiedzieliśmy się m.in. dlaczego ważne jest by nie mieszać obiektu ze strukturą danych, a funkcji z procedurą, jak grać w gibberish game na spotkaniach z biznesem oraz jak chronić swoją aplikację przez wprowadzanie do niej stref zgniotu i anti-corruption layers.</p>
-
-<p>Dziękujemy partnerom (<a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a> i <a href="http://www.weit.uz.zgora.pl/" target="_blank">WIEA UZ</a>) i zapraszamy na kolejne spotkanie, którego temat jest jeszcze w trakcie ustaleń, ale termin będzie standardowy - ostatnia środa lutego.</p>
 ]]></content>
   </entry>
   
