@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-01-24T18:06:09+01:00</updated>
+  <updated>2017-01-26T16:50:35+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Po spotkaniu styczniowym]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/01/26/po-spotkaniu-styczniowym/"/>
+    <updated>2017-01-26T16:30:38+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/01/26/po-spotkaniu-styczniowym</id>
+    <content type="html"><![CDATA[<p>25 stycznia odbyło się pierwsze spotkanie w Nowym Roku! Na zaproszenie <a href="http://www.cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> w Zielonej Górze pojawił się Marcin Grzejszczak, który opowiedział o metodach pracy z logami w systemach rozproszonych.</p>
+
+<!-- more -->
+
+
+<p>Wykład rozpoczął się krótkim omówieniem problemów, które napotykają programiści takich systemów. Następnie przeszliśmy do podstawowej terminologii związanej z logowaniem: span, trace, baggage itp. w kontekście Spring Sleuth – systemu do śledzenia rozproszonego. Po pokazaniu podstaw Marcin przeszedł do łączenia (agregacji) i korelacji informacji z różnych maszyn oraz ich przeglądaniu przy pomocy Kibany.</p>
+
+<p>W drugiej części zajęliśmy się problem wolnego działania (wcześniejsze przykłady zakładały brak działania badanego systemu). Tu pojawił się Zipkin, który ułatwia śledzenie opóźnień w komunikacji.</p>
+
+<p>Ostatnim akordem było demo – Marcin szybko zbudował aplikację w Spring i pokazał jak analizować logi za pomocą powyższych narzędzi.</p>
+
+<p>Materiały:</p>
+
+<ul>
+<li><a target="_blank" href="https://docs.google.com/presentation/d/1ZILMqLJXFva9cKHpW5j1dsQ1OcEpqNYE_a-3t0pbyng/edit">Prezentacja zawierająca również odnośniki do narzędzi I przykładowych projektów</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ScalaSphere - darmowe bilety do wzięcia!]]></title>
@@ -421,32 +446,6 @@ Get ready !</p>
 <p>Następnie Andrzej Hirko przedstawił język <a href="https://www.r-project.org/about.html" target="_blank">R</a>, język oraz środowisko przeznaczone do najróżniejszych działań obliczeniowych i statystycznych. Zabaczyliśmy kilka jego zalet - oprócz tego, że jest open-source (alternatywy są dość kosztowne), zapewnia nam łatwe rysowanie tabelek i wykresów, które za pomocą prostych dyrektyw można umieścić w LaTexowym dokumencie czy na stronie. Slajdy: <a href="http://zielona-gora-jug.github.io/files/R.pdf" target="_blank">Parę słów o Rrrr</a>.</p>
 
 <p>Dziękujemy prelegentom i sponsorom i do zobaczenia w marcu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie lutowe - Meteor i R]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r/"/>
-    <updated>2016-02-23T12:37:46+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/02/23/spotkanie-lutowe-meteor-i-r</id>
-    <content type="html"><![CDATA[<p>To już jutro, ponownie oni, ponownie konkretnie, ponownie obecność obowiązkowa, dlaczego ? Ano dlatego, że to kolejne spotkanie zielonogórskiego JUGa, kolejne fajne tematy, kolejna dobra okazja do branżowego spotkania i konstruktywnych dyskusji. Miejscówka dobrze znana, zaprzyjaźniony pub Haust. Tym razem będzie okazja do wysłuchania dwóch dobrych prezentacji na temat frameworka Meteor oraz tajemniczego, nieco egzotycznego języka R. Spotykamy się przy wsparciu dobrze znanej, aczkolwiek w nieco nowej odsłonie, firmie <a href="http://www.rec-global.com" target="_blank">REC - a GlobalLogic company</a>.</p>
-
-<p><a href="http://www.rec-global.com"><img class="center" src="http://zielona-gora-jug.github.io/images/rec_global_logic.jpg" width="400" height="250" title="REC - a GlobalLogic company" ></a></p>
-
-<!-- more -->
-
-
-<p>Meteor - wprowadzenie do aplikacji czasu rzeczywistego - Igor Mróz</p>
-
-<p>W dzisiejszych czasach każdy próbuje pokazać się w internecie. Dla firm jest to jedna z podstawowych kwestii. Dodatkowo czasy statycznych stron, gdzie obrazki były maksimum możliwości, się skończył. Teraz trzeba odbiorcę zainteresować czymś więcej. Meteor (<a href="https://www.meteor.com/">https://www.meteor.com/</a>) umożliwia szybkie tworzenie stron, działających w czasie rzeczywistym. Dzisiaj każdy może stworzyć swojego Facebooka.</p>
-
-<p>Parę słów o Rrrrr&hellip; - Andrzej Hirko</p>
-
-<p>R (<a href="https://www.r-project.org/">https://www.r-project.org/</a>) jest to język programowania wykorzystywany w wielu znanych firmach, w tym m.in. Facebook, Google, Mozilla czy Twitter. Podczas prezentacji przedstawię podstawowe informacje na temat R. Następnie napiszemy prosty program typu &ldquo;Hello world&rdquo;, a na końcu pokażę parę pakietów, z których warto skorzystać :)</p>
-
-<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy - 119 &lsquo;going&rsquo; ! Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/228723316/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictw <a href="http://manning.com/" target="_blank">Manning</a> i <a href="http://oreilly.com/" target="_blank">O&#8217;Reilly</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
