@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-01-26T16:50:35+01:00</updated>
+  <updated>2017-02-03T18:04:46+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe - NoSQL]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/02/02/spotkanie-lutowe-nosql/"/>
+    <updated>2017-02-02T16:52:42+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/02/02/spotkanie-lutowe-nosql</id>
+    <content type="html"><![CDATA[<p>Dwudziestego drugiego lutego spotykamy się w pubie Haust o 19:00 dzięki <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, aby porozmawiać o NoSQL.
+Tego dnia planujemy jeden wykład autorstwa Maksymiliana Wiesiołka, który pozwoli nam oderwać się od &ldquo;gorącego&rdquo; tematu mikroserwisów. Przenisiemy się do świata baz danych, żeby
+przypomnieć sobie o zapomnianych szczegółach, uzupełnić luki, a może dowiedzieć się czegoś nowego.</p>
+
+<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="330" height="130" title="GlobalLogic" ></a></p>
+
+<!-- more -->
+
+
+<p>Wykład będzie zawierał omówienie kilku popularnych systemów NoSQL (np. Coherence, HBase, MongoDB, Redis) na tle baz relacyjnych - w tym wypadku PostgreSQL.
+Maksymilian opowie co tracimy, a co zyskujemy w przypadku wyboru NoSQL. Poza plusami pojawią się zagrożenia oraz sposoby ich obejścia żywcem wzięte z doświadczenia
+prelegenta. Poruszony będzie również temat rozwiązań hybrydowych.</p>
+
+<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/237425080/">Meetup</a>. Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Po spotkaniu styczniowym]]></title>
@@ -431,21 +453,6 @@ Get ready !</p>
 <p>Mirek Szajowski - JavaScript przeżywa renesans i stał się językiem, którego nie możemy dłużej ignorować. Aktualne szaleństwo i moda na JavaScript sprawia, że powstaje coraz więcej narzędzi i frameworków wokół tego języka&hellip; Jak to ogarnąć? Jak odnaleźć się w tym świecie?</p>
 
 <p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/229467681/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje JetBrains i ebooki wydawnictwa Manning. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania lutowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/02/27/podsumowanie-spotkania-lutowego/"/>
-    <updated>2016-02-27T10:27:56+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/02/27/podsumowanie-spotkania-lutowego</id>
-    <content type="html"><![CDATA[<p>Spotkanie lutowe już za nami: w środę słuchaliśmy dwóch ciekawych prezentacji - o Meteorze i R, a sponsorem była firma <a href="http://www.rec-global.com/" target="_blank">REC</a>.</p>
-
-<p>Jako pierwszy wystąpił Igor Mróz - opowiedział o frameworku <a href="https://www.meteor.com/" target="_blank">Meteor</a>, pozwalającym na tworzenie aplikacji przystosowanych do działania w czasie rzeczywistym. Meteor zapewnia bezproblemową synchronizację stanu z interfejsem użytkownika, jak również spójny wygląd aplikacji w wersjach przeglądarkowych, desktopowych i mobilnych. Slajdy z prezentacji: <a href="http://zielona-gora-jug.github.io/files/meteor.pptx" target="_blank">Meteor - wprowadzenie do aplikacji czasu rzeczywistego</a>.</p>
-
-<p>Następnie Andrzej Hirko przedstawił język <a href="https://www.r-project.org/about.html" target="_blank">R</a>, język oraz środowisko przeznaczone do najróżniejszych działań obliczeniowych i statystycznych. Zabaczyliśmy kilka jego zalet - oprócz tego, że jest open-source (alternatywy są dość kosztowne), zapewnia nam łatwe rysowanie tabelek i wykresów, które za pomocą prostych dyrektyw można umieścić w LaTexowym dokumencie czy na stronie. Slajdy: <a href="http://zielona-gora-jug.github.io/files/R.pdf" target="_blank">Parę słów o Rrrr</a>.</p>
-
-<p>Dziękujemy prelegentom i sponsorom i do zobaczenia w marcu!</p>
 ]]></content>
   </entry>
   
