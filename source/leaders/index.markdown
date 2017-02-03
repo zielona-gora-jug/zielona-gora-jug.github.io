@@ -39,5 +39,17 @@ footer: true
 		Pracuje w ADB, obecnie jako programista Javy, choć w przez wiele lat programował również w C# i PHP, a także kierował niewielkimi zespołami programistów. Czasami dzieli się wiedzą podczas różnych wykładów, np. w ramach Akademii ADB.
 		</p>
 	</div>
+	<div class="leader">
+		<img src="/images/karol_buler.jpg" width="100" height="250">
+		<p class="name">Karol Buler</p>
+		<div class="social"> 
+			<a class="mail" href="mailto:971carlos@gmail.com"></a>
+		</div>
+		<p class="desc">
+		Zapalony, chłonny wiedzy programista. Świeżynka w "armii" ADB :) W pracy koduję głównie w Javie, wieczorami JavaScript, ale różnie to bywa... ostatnio Swift. Interesuje się również muzyką, gram na gitarze i perkusji. Lubię też wciągnąć dobry serial lub stand-up (raczej zagraniczne).
+		</p>
+	</div>
+
+
 	<div class="clear"></div>
 </div>
