@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-02-03T18:04:46+01:00</updated>
+  <updated>2017-02-24T22:03:24+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania lutowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/02/24/podsumowanie-spotkania-lutowego/"/>
+    <updated>2017-02-24T21:38:01+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/02/24/podsumowanie-spotkania-lutowego</id>
+    <content type="html"><![CDATA[<p>Za nami spotkanie lutowe - 22.02 mimo ulewnego deszczu spotkaliśmy się w Hauście, by posłuchać o NoSQL. W temat wprowadził nas Maksymilian Wiesiołek, na co dzień pracownik w <a href="https://www.globallogic.com/pl/" traget="_blank">GlobalLogic</a>, które było sponsorem spotkania.</p>
+
+<p>Maks najpierw przybliżył nam różne koncepcje używane w świecie NoSQL - rozproszenie, różne strategie replikacji, CAP (aka &ldquo;nie można mieć wszystkiego&rdquo;), skalowanie wszerz itd. Później zaś zaprezentował kilka przykładów różnych NoSQLowych baz (Redis, HBase, Mongo, Neo4j, Coherence), wraz z porównaniem do Postgresa. Na koniec pojawiło się jeszcze kilka praktycznych, sprawdzonych w boju wskazówek na co zwrócić uwagę przy projektowaniu i używaniu tego typu baz. No i rekomendacje książkowe. Zresztą, zobaczcie sami: <a href="http://zielona-gora-jug.github.io/files/NoSQL.pdf" target="_blank">NoSQL - slajdy</a>.</p>
+
+<p>Na koniec jeszcze jedno ogłoszenie - nieustająco i ogromnie szukamy prelegentów. Prezentacje mogą być długie lub krótkie, nie muszą mieć perfekcyjnych slajdów, a nasza lokalna publiczność jest wdzięczna i sympatyczna - zapraszamy nowych śmiałków:)</p>
+
+<p>Dzięki za spotkanie i do zobaczenia za miesiąc!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie lutowe - NoSQL]]></title>
@@ -119,8 +134,10 @@ stworzy testy ze stuprocentowym pokryciem dla obiektów typu POJO. Piotr przedst
 jego biblioteka przewyższa inne dostępne rozwiązania tego typu. Zwrócił nam także uwagę na to, że pomijanie testowania getterów, setterów,
 <code>hashCode</code>, <code>toString</code> i <code>equals</code> może mieć zgubne skutki dla stabilności naszego kodu.</p>
 
-<!-- more --> 
+<!-- more -->
 
+
+<p></p>
 
 <p>Spotkanie zakończono losowaniem prezentów świątecznych w postaci licencji JetBrains, książek wydawnictwa Manning oraz prezentów od sponsora:
 wejściówek na mecze Stelmet BC z albumami reprezentacji Polski w piłce nożnej.</p>
@@ -431,28 +448,6 @@ Get ready !</p>
 <p>Drugim tematem był świat JavaScriptu, który przedstawił nam (i zachęcał do polubienia) Mirek Szajowski. Opowiedział, jak ma się obecnie sprawa z kolejnymi wersjami specyfikacji, jak zachowana jest kompatybilność przeglądarek oraz jak pracować z najnowszym ulepszeniami języka, tak by jednocześnie wspierać starsze wersje. Dowiedzieliśmy się też, jak w JavaScripcie można uzyskać kontrolę typów, jak napisać dobre testy, jakich narzędzi użyć do CSSów, żeby nie było to mozolne rzeźbienie pod każdą przeglądarkę osobno, oraz jak zautomatyzować proces budowania, tak żeby programować szybko i mieć natychmiastowy feedback. Slajdy: <a href="http://zielona-gora-jug.github.io/files/JavaScriptLubieTo.pdf" target="_blank">JavaScript - lubię to</a>.</p>
 
 <p>Dziękujemy prelegentom i sponsorom i do zobaczenia w kwietniu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie marcowe - RxJava i JavaScript]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/03/29/spotkanie-marcowe-rxjava-i-javascript/"/>
-    <updated>2016-03-29T08:58:18+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/03/29/spotkanie-marcowe-rxjava-i-javascript</id>
-    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie zielonogórskiej Java User Group, które to po raz pierwszy zorganizowane zostanie przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>.</p>
-
-<p><a href="http://www.metapack.com/?lang=pl"><img class="center" src="http://zielona-gora-jug.github.io/images/metapack.jpg" width="330" height="130" title="MetaPack" ></a></p>
-
-<!-- more -->
-
-
-<p>Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:</p>
-
-<p>Piotr Kafel - <a href="https://github.com/ReactiveX/RxJava" target="_blank">RxJava</a> to Javowa implementacja Reactive Extensions (RX) - biblioteki do tworzenia aplikacji asynchronicznych i opartych na eventach, poprzez użycie obserwowalnych sekwencji. Czy może być przydatna w architekturze mikroserwisów?</p>
-
-<p>Mirek Szajowski - JavaScript przeżywa renesans i stał się językiem, którego nie możemy dłużej ignorować. Aktualne szaleństwo i moda na JavaScript sprawia, że powstaje coraz więcej narzędzi i frameworków wokół tego języka&hellip; Jak to ogarnąć? Jak odnaleźć się w tym świecie?</p>
-
-<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/229467681/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje JetBrains i ebooki wydawnictwa Manning. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
 ]]></content>
   </entry>
   
