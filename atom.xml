@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-02-24T22:11:12+01:00</updated>
+  <updated>2017-03-16T18:22:46+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie marcowe - Backlog]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/03/16/spotkanie-marcowe-backlog/"/>
+    <updated>2017-03-16T18:08:41+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/03/16/spotkanie-marcowe-backlog</id>
+    <content type="html"><![CDATA[<p>29 III marca JUG przyjmie wyjątkowo formę warsztatu. Tego dnia Marek Tryliński pokaże nam jak nie marnować czasu pracując z backlogiem.
+Wielu z nas pracuje według zwinnych metodyk i choć w teorii w większości wiemy jak to działa, to nadal miewmay problemy ze szczegółami.
+Marek przedstawi kilka sposobów na ogarnięcie naszych spotkań, abyśmy mogli szybciej zabrać się do tego, co stanowi <i>clou</i> naszej pracy - programowania.</p>
+
+<p>Sponsorem spotkania jest <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
+
+<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
+
+<!-- more -->
+
+
+<p>Podobne spotkania miały już miejsce w trzech większych miastach w Polsce i cieszyły się dużym zainteresowaniem. W planie warsztatów są metody: 1-3-5, Moscow, Monopoly dollars,
+Kano, ROI oraz wiele innych. Przewidziana praca w grupach!</p>
+
+<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/238445120/">Meetup</a>. Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania lutowego]]></title>
@@ -134,10 +157,8 @@ stworzy testy ze stuprocentowym pokryciem dla obiektów typu POJO. Piotr przedst
 jego biblioteka przewyższa inne dostępne rozwiązania tego typu. Zwrócił nam także uwagę na to, że pomijanie testowania getterów, setterów,
 <code>hashCode</code>, <code>toString</code> i <code>equals</code> może mieć zgubne skutki dla stabilności naszego kodu.</p>
 
-<!-- more -->
+<!-- more --> 
 
-
-<p></p>
 
 <p>Spotkanie zakończono losowaniem prezentów świątecznych w postaci licencji JetBrains, książek wydawnictwa Manning oraz prezentów od sponsora:
 wejściówek na mecze Stelmet BC z albumami reprezentacji Polski w piłce nożnej.</p>
@@ -433,21 +454,6 @@ Ticket price is  BYR1.450.000 or €65. We do provide visa support for EU citize
 
 <p>As usually at the end there are communities announcements + raffle of Jetbrains licenses and Manning ebooks. Remember to enroll on <a href="http://www.meetup.com/Zielona-Gora-JUG/events/230299419/" target="_blank">meetup</a> with a full name.
 Get ready !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania marcowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/04/01/podsumowanie-spotkania-marcowego/"/>
-    <updated>2016-04-01T20:54:12+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/04/01/podsumowanie-spotkania-marcowego</id>
-    <content type="html"><![CDATA[<p>Tuż po świętach odbyło się marcowe spotkanie ZG JUG, zorganizowane przy wsparciu firmy <a href="http://www.metapack.com/?lang=pl" target="_blank">MetaPack</a>. Mieliśmy okazję posłuchać dwóch ciekawych prezentacji.</p>
-
-<p>Jako pierwszy, Piotr Kafel opowiedział o <a href="https://github.com/ReactiveX/RxJava" target="_blank">RxJava</a> - bibliotece umożliwiającej programowanie asynchroniczne i oparte na eventach. Pokazał kilka ciekawych zastosowań, oraz konkretne przykłady tego, jak sprawdzało się wprowadzanie takich elementów wraz z mikroserwisami w Grouponie. Po prezentacji było bardzo dużo pytań - część o RxJava, część też o same mikroserwisy w praktyce, co pokazuje, że temat jest gorący i nie ma w nim jedynych słusznych rozwiązań. Slajdy: <a href="https://speakerdeck.com/pkafel/rxjava-in-microservices-world" target="_blank">RxJava in Microservices World</a>.</p>
-
-<p>Drugim tematem był świat JavaScriptu, który przedstawił nam (i zachęcał do polubienia) Mirek Szajowski. Opowiedział, jak ma się obecnie sprawa z kolejnymi wersjami specyfikacji, jak zachowana jest kompatybilność przeglądarek oraz jak pracować z najnowszym ulepszeniami języka, tak by jednocześnie wspierać starsze wersje. Dowiedzieliśmy się też, jak w JavaScripcie można uzyskać kontrolę typów, jak napisać dobre testy, jakich narzędzi użyć do CSSów, żeby nie było to mozolne rzeźbienie pod każdą przeglądarkę osobno, oraz jak zautomatyzować proces budowania, tak żeby programować szybko i mieć natychmiastowy feedback. Slajdy: <a href="http://zielona-gora-jug.github.io/files/JavaScriptLubieTo.pdf" target="_blank">JavaScript - lubię to</a>.</p>
-
-<p>Dziękujemy prelegentom i sponsorom i do zobaczenia w kwietniu!</p>
 ]]></content>
   </entry>
   
