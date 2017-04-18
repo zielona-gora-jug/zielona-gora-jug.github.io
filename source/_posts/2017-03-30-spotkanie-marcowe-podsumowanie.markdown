@@ -14,6 +14,12 @@ zajęła praca w poszczególnych podgrupach - każda dostała instrukcję dotycz
 zestawu zadań. Następne pół godziny zostało poświęcone na omówienie doświadczeń w pełnym składzie - podgrupa omawiała metodę i swoje wrażenia, a reszta uczestników mogła zadawać
 pytania dodatkowe zarówno członkom podgrupy, jak i prowadzącemu. Mamy nadzieję, że ta wyjątkowa forma spotkania przypadła Wam do gustu.
 
+Materiały:
+<ul>
+<li><a href="files/ProductBacklogOrdering.pdf" target="_blank">Prezentacja</a></li>
+<li><a href="files/ProductBacklogOrdering.zip" target="_blank">Metody</a></li>
+</ul>
+
 Sponsorem spotkania był <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!
 
 [{% img center /images/softwaremill.png SoftwareMill %}](https://softwaremill.com/)
