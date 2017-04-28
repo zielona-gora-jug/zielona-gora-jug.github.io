@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-04-18T19:43:41+02:00</updated>
+  <updated>2017-04-28T07:56:21+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie kwietniowe - podsumowanie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/04/28/spotkanie-kwietniowe-podsumowanie/"/>
+    <updated>2017-04-28T07:43:50+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/04/28/spotkanie-kwietniowe-podsumowanie</id>
+    <content type="html"><![CDATA[<p>Tym razem JUGa rozpoczęliśmy od krótkiej formy - pierwszej prezentacji nowego typu, który zaproponowaliśmy na początku sezonu. Paweł Nowak pokrótce opisał
+zmiany w nowej wersji najpopularniejszej Javowej biblioteki świata - JUnit. Mamy nadzieję, że szybko znajdzie naśladowców i pojawią się kolejne prezentacje
+tego typu.</p>
+
+<p>Potem przyszedł czas na długą formę połączoną z budowaniem systemu na żywo. Karol Buler pokazał ogólną ideę standardu SSO według OpenID Connect oraz zaprezentował
+najlepszą - swoim zdaniem - implementację, czyli KeyCloak. Rozmowę o konkretach poprzedził ogólnym przedstawieniem zasady działania SSO. Na koniec zbudował prostą
+aplikację w SpringBoot, którą zabezpieczył KeyCloakiem.</p>
+
+<p>Sponsorem spotkania było <a href="https://www.adbglobal.com/" target="_blank">ADB</a> - dostawca rozwiązań dla telewizji cyfrowej i IoT.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/adb.jpg" style="width: 50%;"></p>
+
+<p>Przypominamy, że prosiliśmy o wypełnienie ankiet dotyczących spotkania. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfyXP_MXdom0KaiuAIWnPXeNuczsaGwxrcigSf9VcXMCCUhWA/viewform?c=0&w=1"> Jest to możliwe tutaj</a>.
+Czekają nagrody!.</p>
+
+<p>Materiały:</p>
+
+<ul>
+<li><a href="files/JUnit 5.pdf" target="_blank">JUnit 5</a></li>
+<li><a href="files/Open ID Connect.pdf" target="_blank">OpenID Connect</a></li>
+</ul>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie kwietniowe JUnit 5 i OpenID Connect]]></title>
@@ -438,32 +470,6 @@ Ticket price is  BYR1.450.000 or €65. We do provide visa support for EU citize
 <p>Follow us on <a href="https://twitter.com/javadayby" target="_blank">twitter</a> or <a href="https://web.facebook.com/javadayby?_rdr" target="_blank">facebook</a> and use #javadayby hashtag to get all the latest news — and win some free tickets as well!</p>
 
 <p>Feel free to ask any questions if you have’em — Kate Budnikova, our event manager, will happily answer all of them: budnikova.kate@gmail.com, +375(25)902-16-03.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie majowe - PITEST, ZTD & Inbox Zero]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/05/16/spotkanie-majowe-pitest/"/>
-    <updated>2016-05-16T21:30:17+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/05/16/spotkanie-majowe-pitest</id>
-    <content type="html"><![CDATA[<p>Dzieje się ostatnio w Zielonej Górze, jeżeli chodzi o wydarzenia związane z branżą IT. Również my, Java User Group, jak co miesiąc, konsekwentnie zapraszamy, tym razem na spotkanie majowe, które organizujemy przy wsparciu i we współpracy z firmą <a href="http://www.cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<!-- more -->
-
-
-<p>Tradycyjnie spotykamy się o 18:30 w zaprzyjaźnionym pubie Haust. Będzie okazja do wysłuchania dwóch prezentacji:</p>
-
-<p>Jedrzej Andrykowski - PITEST, czyli jak testować testy w Javie</p>
-
-<p>Testowanie mutacyjne to technika, która pomimo ponad trzydziestoletniego stażu nie osiągnęła do dziś wielkiej popularności. Wiele lat był to problem z mocą obliczeniową urządzeń, na których te testy miały być uruchamiane. To na szczęście się zmieniło, a narzędzia, które ostatnio powstają, pozwalają użyć tej techniki praktycznie w każdym projekcie. Na prezentacji omówiona będzie idea testów mutacyjnych od strony teoretycznej jak i praktycznej. Zademonstrowane będzie narzędzie PITEST, które w prosty sposób automatyzuje testowanie mutacyjne w Javie i daje bardzo duże możliwości zwiększenia jakości naszych testów jednostkowych.</p>
-
-<p>Marcin Stożek - ZTD &amp; Inbox Zero czyli - człowieku, ogarnij się&hellip;</p>
-
-<p>Co robić w świecie, w którym można zrobić (prawie) wszystko? Gdy mamy na głowie 3 projekty w pracy, przedstawienie dziecka w przedszkolu, grilla ze znajomymi w weekend, świetne książki podrzucone przez przyjaciół, fajne posty na Hacker News i przygotowanie prezentacji na JUGa, to czasem ciężko się ogarnąć. Podczas prezentacji pokażę dwie wypróbowane techniki pomagające w tych wymagających czasach. Będzie to subiektywny przegląd dwóch z wielu dostępnych technik zarządzania swoim czasem.</p>
-
-<p>Jak co miesiąc, liczymy na sporą liczbę słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/231170943/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje JetBrains i ebooki wydawnictwa Manning. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
 ]]></content>
   </entry>
   
