@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-05-03T11:17:09+02:00</updated>
+  <updated>2017-05-23T06:46:27+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenia na konferencje]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/05/23/zaproszenia-na-konferencje/"/>
+    <updated>2017-05-23T06:21:29+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/05/23/zaproszenia-na-konferencje</id>
+    <content type="html"><![CDATA[<p>Otrzymaliśmy bezpłatne wejściówki na dwie konferencje. Opisy znajdują się poniżej. Gdyby któreś z was chciało wziąć udział w danej konferencji, prosimy o <a href="http://zielona-gora-jug.github.io/leaders">kontakt z Magdą</a>.
+Liczy się kolejność zgłoszeń - kto pierwszy, ten lepszy. Formalności, koszty dojazdu i zakwaterowanie we własnym zakresie.</p>
+
+<p><img src="http://zielona-gora-jug.github.io/images/JavaDay 2017.png" style="width:50%;height:50%" class="center"></p>
+
+<p>Pierwsze spotkanie ma miejsce 3 czerwca w Mińsku (Białoruś). Tu mamy jedną wejściówkę. Oddajmy głos organizatorom:</p>
+
+<p><i>
+We&rsquo;re inviting you to annual JavaDay 2017 conference that will be held on June 3 in Minsk, Belarus! The program will consist of presentations and workshops by Java super stars: Yegor Bugaenko, Philipp Krenn, Alexander Tarasov, Hrvoje Crnjak and many others!
+We&rsquo;ll talk not only about Java (but we&rsquo;ll pay a lot of attention to it), but also about practices, instruments, approaches and even philosophy. Spring Boot, JWT, containers monitoring, correct integration between microservices, Continuous Delivery – what JavaDay Minsk 2017 involves.
+Tickets and details are on the website <a href="http://javaday.by/en/"><a href="http://javaday.by/en/">http://javaday.by/en/</a></a>. Hashtag: #javadayby
+</i></p>
+
+<p><img src="http://zielona-gora-jug.github.io/images/scalawave.jpg" class="center"></p>
+
+<p>Drugie spotkanie to <a href="http://scalawave.io">ScalaWave 2017</a>. Wejściówki są dwie, a sama konferencja odbywa się 7 i 8 lipca 2017 w Gdańsku. W programie warsztaty, spotkania z ekspertami
+Scali z całego świata oraz impreza na plaży. Wśród tematów streamy, IntelliJ oraz mikroserwisy. Tu wejściówki są dwie.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie majowe]]></title>
@@ -424,45 +449,6 @@ Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały 
 <p>Więcej szczegółów oraz rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/233582939/" target="_blank">meetupie</a>. Wśród zarejestrowanych uczestników rozlosujemy nagrody od partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>.</p>
 
 <p>Do zobaczenia!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie czerwcowe - Agile is dead + React Native]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/06/29/spotkanie-czerwcowe-agile-is-dead-plus-react-native/"/>
-    <updated>2016-06-29T07:35:41+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/06/29/spotkanie-czerwcowe-agile-is-dead-plus-react-native</id>
-    <content type="html"><![CDATA[<p>Kolejne spotkanie zielonogórskiego JUGa już za chwilę… Startujemy jak zawsze o 18:30 w znanym pubie Haust. Na wstępie krótka integracja społeczności aby dalej przejść do konkretów. Spotkanie zrealizowane będzie ponownie przy wsparciu firmy <a href="https://www.adbglobal.com" target="_blank">ADB</a>.</p>
-
-<p><a href="http://adbglobal.com"><img class="center" src="http://zielona-gora-jug.github.io/images/adb.jpg" width="300" height="145" title="ADB" ></a></p>
-
-<!-- more -->
-
-
-<p>Tomasz Łączkowski, Agile is dead! Long live&hellip; what!?</p>
-
-<ul>
-<li>czy zwinne prowadzenie projektów przechodzi poważny kryzys?</li>
-<li>czy nadal warto zostać Scrum Masterem, Product Ownerem, etc.?</li>
-<li>przegląd niepokojących informacji ze świata zarządzania projektami&hellip;</li>
-</ul>
-
-
-<p>Goście z Poznania, Adam Skrzyński, Marcin Boguc, wprowadzą do technologii React Native:</p>
-
-<ul>
-<li>podstaw tego dynamicznie rozwijającego się ostatnio frameworka</li>
-<li>zbudowanie szkieletu projektu</li>
-<li>najważniejszych różnic w porównaniu z aplikacjami natywnymi</li>
-<li>najważniejszych modułów npm</li>
-<li>głównych zalet (szybkość iteracji, reużycie kodu etc.)</li>
-<li>rozszerzalności poprzez moduły natywne</li>
-</ul>
-
-
-<p>Ponownie, co Nas niezmiernie cieszy, zapowiada się spora liczba słuchaczy. Rejestracja na spotkanie jest darmowa, ale obowiązkowa. Odbywa się poprzez portal <a href="http://www.meetup.com/Zielona-Gora-JUG/events/232038815/" target="_blank">meetup</a>. Wśród uczestników spotkania rozlosowane zostaną nagrody od naszych partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebook wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>. Pamiętajcie, aby rejestrować się z pełnym imieniem i nazwiskiem.</p>
-
-<p>Zapraszamy!</p>
 ]]></content>
   </entry>
   
