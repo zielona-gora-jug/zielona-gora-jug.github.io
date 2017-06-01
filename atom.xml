@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-05-23T06:46:27+02:00</updated>
+  <updated>2017-06-01T21:18:27+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania majowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/06/01/podsumowanie-spotkania-majowego/"/>
+    <updated>2017-06-01T21:00:04+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/06/01/podsumowanie-spotkania-majowego</id>
+    <content type="html"><![CDATA[<p>W upalny majowy wieczór spotkaliśmy się, aby posłuchać o dwóch tematach, które mają luźny związek z samym programowaniem, ale zaczynają być coraz ważniejsze w nowoczesnym
+wytwarzaniu oprogramowania.</p>
+
+<p>Rozpoczął Maciej Żarczyński, devops z ADB, który wprowadził nas, programistów, w świat OpenShifta. Na początku wprowadził nas w genezę systemu i podstawowe pojęcia niezbędne
+do zrozumienia działania OS. Wszystko podane bez zbędnych szczegółów niestotnych dla Javowców, a za to z podkreśleniem rzeczy o których musimy pamiętać, żeby nie doprowadzić
+devopsa do rozpaczy. Ostatnim elementem prezentacji był &ldquo;żywy&rdquo; OpenShift zarządzający kilkoma instancjami serwisu (widocznymi jako jedno), z których jedna była autmatycznie
+wskrzeszana po awarii. Stanowiło to świetną ilustrację wygody stosowania tego typu rozwiązań.</p>
+
+<p>W drugiej części naszym gościem był Piotr Kafel pracujący na co dzień w Grouponie, w Berlinie. Tematem jego prezentacji było znaczenie modnego ostatnio słowa <i>reaktywny</i>.
+Piotr omówił cechy systemu reaktywnego wedłu Reaktywnego Manifestu oraz znaczenie tychże cech w praktyce. Wskazał na &ldquo;fałszywe&rdquo; interpretacje i złe zrozumienie cech reaktywnych.
+Jako że prezentacja miała charakter teoretyczny, Piotr na zakończenie pokrótce omówił przykłady bibliotek implementująych &ldquo;reaktywność&rdquo;.</p>
+
+<p>Przypominamy, że możecie ocenić prezentacje <a href="https://docs.google.com/forms/d/1dh-w0Bc3RrWQEQVAL5s1FqqAYyFWrnH_kQs9IhFMViA/edit"> tutaj</a>.
+Czekają nagrody!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zaproszenia na konferencje]]></title>
@@ -421,34 +443,6 @@ Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały 
 <p>Po trzecie i najciekawsze, mamy dla was dwie darmowe wejściówki! Aby wziąć udział w losowaniu, należy zapisać się do <a href="https://www.meetup.com/Zielona-Gora-JUG/events/233872253/" target="_blank">wydarzenia na meetupie</a>.</p>
 
 <p>A dla zainteresowanych, którym nie dopisze szczęście, mamy też 25% zniżki z kodem JDD_JUG.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rozpoczęcie sezonu 2016/2017]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/09/05/rozpoczecie-sezonu-2016-slash-2017/"/>
-    <updated>2016-09-05T20:55:42+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/09/05/rozpoczecie-sezonu-2016-slash-2017</id>
-    <content type="html"><![CDATA[<p>Witamy po wakacjach! Sezon 2016/2017 przed nami. Znów mamy w planach spotykać się i poszerzać horyzonty w doborowym towarzystwie lokalnej społeczności:)</p>
-
-<p>Zaczniemy od tematu, który bywa niedoceniany, a jest niezmiernie ważny - Usability. O tym, jak tworzyć przyjazne aplikacje, opowie Tomasz Karwatka, a sponsorem spotkania będzie firma <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>.</p>
-
-<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="260" height="83" title="GlobalLogic" ></a></p>
-
-<!-- more -->
-
-
-<p><em>Tomasz Karwatka - Usability dla programistów</em></p>
-
-<p><em>Jak tworzyć użyteczne i przyjazne aplikacje. Podczas prezentacji poznacie proste i skuteczne metody tworzenia zrozumiałych interfejsów. Tomek opowie o najbardziej kuriozalnych i najciekawszych projektach w jakich brał udział. Podzieli się swoim doświadczeniem i praktycznymi radami.</em></p>
-
-<p><em>Prelekcja skierowana jest do programistów, założycieli startupów oraz business ownerów.</em></p>
-
-<p><em>Tomek Karwatka to założyciel i CEO w Divante, Grupa OEX. Divante to wrocławski software house realizujący wdrożenia eCommerce w Europie, Azji i Afryce. Tomek pisze bloga <a href="http://divante.co/blog" target="_blank"><a href="http://divante.co/blog">http://divante.co/blog</a></a>.</em></p>
-
-<p>Więcej szczegółów oraz rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/233582939/" target="_blank">meetupie</a>. Wśród zarejestrowanych uczestników rozlosujemy nagrody od partnerów - licencje <a href="http://jetbrains.com/" target="_blank">JetBrains</a> i ebooki wydawnictwa <a href="http://manning.com/" target="_blank">Manning</a>.</p>
-
-<p>Do zobaczenia!</p>
 ]]></content>
   </entry>
   
