@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-06-05T19:59:00+02:00</updated>
+  <updated>2017-06-06T16:44:13+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zakończenie sezonu 2016/2017]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/06/06/zakonczenie-sezonu-2016-slash-2017/"/>
+    <updated>2017-06-06T16:35:10+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/06/06/zakonczenie-sezonu-2016-slash-2017</id>
+    <content type="html"><![CDATA[<p>Przed nami ostatnie spotkanie sezonu 2016/2017. Z powodu wczesnych wakacji, spotykamy się już w połowie miesiąca (14 czerwca), w pubie Haust, o 19:00.
+Dzięki naszemu sponsorowi, <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, spotkanie będzie połączone z after party i dodatkową liczbą atrakcji.</p>
+
+<p>Zanim jednak przejdziemy do zabawy i podsumowań, czekają nas dwa tematy:</p>
+
+<ul>
+<li>Tomasz Kleszczyński wprowadzi nas w świat wschodzącej gwiazdy języków programowania - Kotlina. Ze względu na ostatnie doniesienia z Google I/O, może być to ciekawy temat dla
+ludzi poszukujących nowych wrażeń koderskich.
+<li>Cezary Kujawa dotknie tematu, którego większość ludzi nie lubi ruszać (i nie bez powodu!): kryptografii. Zrobi to ze szczególnym uwzględnieniem tego, co ważne dla programistów
+oraz miejsc, w których developerzy popełniają błędy.
+</ul>
+
+
+<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/240218492/">Meetup</a>. Zapraszamy!</p>
+
+<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="330" height="130" title="GlobalLogic" ></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania majowego]]></title>
@@ -37,6 +61,7 @@ Czekają nagrody!</p>
 
 <ul>
 <li>Prezentacja <a href="files/Reactive_-_land_of_confusion.pdf">Reactive - land of confusion</a></li>
+<li>Prezentacja <a href="files/Openshift.pdf">OpenShift<a></li>
 </ul>
 
 ]]></content>
@@ -430,26 +455,6 @@ Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały 
     <content type="html"><![CDATA[<p>Wrześniowe spotkanie, zorganizowane przy wsparciu firmy <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, już za nami. Prezentację &#8221;Usability dla programistów&#8221; przygotowali dla nas Andrzej Bogatko i Krzysztof Jagiełka - goście z wrocławskiego Divante, gdzie na co dzień zajmują się tym tematem. Dzieląc się swoim doświadczeniem z pracy z wieloma klientami z różnych branż, obalili dla nas kilka rozpowszechnionych mitów (np. że strona nie musi być koniecznie nowoczesna i minimalistyczna - czasem to co na pozór niezbyt ładne, okazuje się najbardziej praktyczne dla użytkownika i znacznie usprawnia jego pracę), oraz pokazali sporo przykładów dobrych i złych aplikacji, oraz zaskakujących wniosków, do których można było dojść tylko po sprawdzeniu, jak z danego produktu korzystają użytkownicy końcowi (zazwyczaj inaczej niż nam się wydaje&hellip;). Więcej szczegółów - w slajdach: <a href="http://zielona-gora-jug.github.io/files/Usability.pdf" target="_blank">Usability dla programistów</a>.</p>
 
 <p>Dziękujemy prelegentom i sponsorom i do zobaczenia za miesiąc!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zaproszenie na konferencję JDD]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/09/05/zaproszenie-na-konferencje-jdd/"/>
-    <updated>2016-09-05T21:54:18+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/09/05/zaproszenie-na-konferencje-jdd</id>
-    <content type="html"><![CDATA[<p>Jako Zielona Góra JUG, po raz kolejny jesteśmy partnerem krakowskiej konferencji <a href="http://16.jdd.org.pl/" target="_blank">JDD</a>, która odbędzie się 10-11 października.</p>
-
-<p><a href="http://16.jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/JDD_300x300.jpg" width="300" height="300" title="JDD" ></a></p>
-
-<!-- more -->
-
-
-<p>Tak jak w poprzednim roku, jest ona mocno nastawiona na współpracę z lokalnymi społecznościami, co oznacza kilka rzeczy. Po pierwsze, liderzy społeczności zostali zaproszeni do jej współtworzenia, mając wpływ zarówno na ogólne koncepcje, jak i na kwestie szczegółowe, np. wybór prezentacji. Po drugie, reprezentanci społeczności, debiutujący na scenie lokalnej, zostali zaproszeni na konferencję jako prelegenci w ramach konkursu na <a href="http://16.jdd.org.pl/program/jugmajster/join/" target="_blank">JUGmajstra</a>. Z Zielonej Góry będą to Maciej Schmidt i Marcin Stożek, zdobywcy wysokich ocen w pospotkaniowych ankietach.</p>
-
-<p>Po trzecie i najciekawsze, mamy dla was dwie darmowe wejściówki! Aby wziąć udział w losowaniu, należy zapisać się do <a href="https://www.meetup.com/Zielona-Gora-JUG/events/233872253/" target="_blank">wydarzenia na meetupie</a>.</p>
-
-<p>A dla zainteresowanych, którym nie dopisze szczęście, mamy też 25% zniżki z kodem JDD_JUG.</p>
 ]]></content>
   </entry>
   
