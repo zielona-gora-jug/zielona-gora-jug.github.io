@@ -24,4 +24,5 @@ Czekają nagrody!
 Materiały:
 <ul>
 <li>Prezentacja <a href="files/Reactive_-_land_of_confusion.pdf">Reactive - land of confusion</a></li>
+<li>Prezentacja <a href="files/Openshift.pdf">OpenShift<a></li>
 </ul>
