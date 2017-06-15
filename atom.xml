@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-06-06T16:44:13+02:00</updated>
+  <updated>2017-06-15T20:00:22+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zakończenie sezonu 2016/2017 - podsumowanie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/06/15/zakonczenie-sezonu-2016-slash-2017-podsumowanie/"/>
+    <updated>2017-06-15T19:53:01+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/06/15/zakonczenie-sezonu-2016-slash-2017-podsumowanie</id>
+    <content type="html"><![CDATA[<p>Czternastego czerwca miało miejsce nasze ostatnie spotkanie w sezonie 2016/17. Sponsorem spotkania i after-party był <a href="https://www.globallogic.com/pl/"> GlobalLogic</a>.</p>
+
+<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="330" height="130" title="GlobalLogic" ></a></p>
+
+<p>Prelegentami byli dwaj pracownicy sponsora: Cezary Kujawa i Tomasz Kleszczyński. Cezary przedstawił nam szybkie przypomnienie podstaw kryptografii wraz z najczęściej używanymi
+algorytmami. Najważniejszym elementem tego wykładu było jednak wymienienie błędów, które popełniamy jako programiści podczas użycia kryptografii. Chodziło tu o sposoby
+przechowywania haseł, wybór algorytmów i procedur oraz certyfikaty używane m.in. do cyfrowego podpisywania dokumentów.</p>
+
+<p>Tomek z kolei opowiedział nam o Kotlinie - wschodzącej gwieździe wśród języków programowania. Wymienił 20 składniowych cech, które sprawiają, że warto zainteresować się właśnie tym językiem.
+Wspomniał również o jego historii i perspektywach rozwoju. Ostatnim elementem było szybkie wymienienie narzędzi, dzięki którym sprawnie można zapoznać się z Kotlinem.</p>
+
+<p>Po części oficjalnej i losowaniu nagród, GlobalLogic zorganizować dodatkowe atrakcje, czyli catering+ oraz gry zespołowe. Dziękujemy!</p>
+
+<p>Dziękujemy również wszystkim zaangażowanym w kończący się sezon: sponsorom, prelegentom oraz uczestnikom. Bez Was nie byłoby naszych comiesięcznych spotkań. Dziękujemy również załodze pubu
+Haust, który udostępnia nam swoje podwoje. Do zobaczenia w nowym, czwartym sezonie JUG ZG!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zakończenie sezonu 2016/2017]]></title>
@@ -444,17 +467,6 @@ Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały 
     <updated>2016-10-06T20:48:26+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2016/10/06/global-day-of-coderetreat-2016</id>
     <content type="html"><![CDATA[<p>Pamiętacie <a href="http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/" target="_blank">Global Day of Coderetreat 2014</a>? W tym roku również będzie okazja wziąć udział w takim wydarzeniu. Tym razem nie organizuje go ZG JUG, ale robi to jeden z naszych partnerów - firma <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>. Wszystkie zasady są takie same: sobota, programowanie w parach, rozwiązywanie kilka razy tego samego problemu, ale w kilku sesjach. Każda sesja ma swoje modyfikacje i przebiega trochę inaczej, w każdej uczestnicy uczą się czegoś nowego. Dla wielu najtrudniejsze jest kasowanie kodu, obowiązkowe między sesjami;) Ogólnie jest to świetny sposób na doszlifowanie programistycznego warsztatu. Impreza trwa cały dzień, jest darmowa, a dla uczestników zapewniony jest lunch i przekąski. Więcej szczegółów o tym międzynarodowym wydarzeniu na oficjalnej stronie <a href="http://globalday.coderetreat.org/" target="_blank">Global Day of Coderetreat</a>, a tutaj <a href="http://www.uczestnicy.pl/event/global-day-of-coderetreat-2016" target="_blank">rejestracja i informacje o zielonogórskiej edycji</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/10/04/podsumowanie-spotkania-wrzesniowego/"/>
-    <updated>2016-10-04T20:44:06+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/10/04/podsumowanie-spotkania-wrzesniowego</id>
-    <content type="html"><![CDATA[<p>Wrześniowe spotkanie, zorganizowane przy wsparciu firmy <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, już za nami. Prezentację &#8221;Usability dla programistów&#8221; przygotowali dla nas Andrzej Bogatko i Krzysztof Jagiełka - goście z wrocławskiego Divante, gdzie na co dzień zajmują się tym tematem. Dzieląc się swoim doświadczeniem z pracy z wieloma klientami z różnych branż, obalili dla nas kilka rozpowszechnionych mitów (np. że strona nie musi być koniecznie nowoczesna i minimalistyczna - czasem to co na pozór niezbyt ładne, okazuje się najbardziej praktyczne dla użytkownika i znacznie usprawnia jego pracę), oraz pokazali sporo przykładów dobrych i złych aplikacji, oraz zaskakujących wniosków, do których można było dojść tylko po sprawdzeniu, jak z danego produktu korzystają użytkownicy końcowi (zazwyczaj inaczej niż nam się wydaje&hellip;). Więcej szczegółów - w slajdach: <a href="http://zielona-gora-jug.github.io/files/Usability.pdf" target="_blank">Usability dla programistów</a>.</p>
-
-<p>Dziękujemy prelegentom i sponsorom i do zobaczenia za miesiąc!</p>
 ]]></content>
   </entry>
   
