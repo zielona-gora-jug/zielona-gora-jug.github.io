@@ -20,9 +20,10 @@ Wspomniał również o jego historii i perspektywach rozwoju. Ostatnim elementem
 Materiały:
 <ul>
 <li> Kotlin - <a href="files/Kotlin-jug.pdf" target="_blank">prezentacja</a> i <a href="files/Kotlin-jug.zip" target="_blank">prezentacja z kodem</a>
+<li> <a href="files/kryptografia.pdf" target="_blank">Kryptografia na usługach dewelopera</a></li>
 </ul>
 
-Po części oficjalnej i losowaniu nagród, GlobalLogic zorganizować dodatkowe atrakcje, czyli catering+ oraz gry zespołowe. Dziękujemy!
+Po części oficjalnej i losowaniu nagród, GlobalLogic zorganizował dodatkowe atrakcje, czyli catering+ oraz gry zespołowe. Dziękujemy!
 
 Dziękujemy również wszystkim zaangażowanym w kończący się sezon: sponsorom, prelegentom oraz uczestnikom. Bez Was nie byłoby naszych comiesięcznych spotkań. Dziękujemy również załodze pubu
 Haust, który udostępnia nam swoje podwoje. Do zobaczenia w nowym, czwartym sezonie JUG ZG!
