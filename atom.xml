@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-07-07T22:21:27+02:00</updated>
+  <updated>2017-07-09T15:57:35+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenie na JDD]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/07/09/zaproszenie-na-jdd/"/>
+    <updated>2017-07-09T15:29:58+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/07/09/zaproszenie-na-jdd</id>
+    <content type="html"><![CDATA[<p>Zapraszamy no konferencję JDD organizowaną przez naszych partnerów, a zarazem organizatorów konkursu JUGmajster. Konferencja odbędzie się w Krakowie 3 i 4 października na terenach EXPO.
+Dla chętnych mamy jedną darmową wejściówkę. Otrzyma ją osoba, które prześle <a href="mailto:magda.stozek@gmail.com">Magdzie</a> najbardziej interesującą propozycję rozwoju naszego JUGa albo opinię o sezonie 2016/2017.
+Czekamy do 16 lipca włącznie (do północy).</p>
+
+<p><a href="https://17.jdd.org.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd.jpg"></a></p>
+
+<p>Dlaczego warto jechać do Krakowa? Oddajmy głos samym organizatorom:</p>
+
+<p><i>Dlaczego JDD jest warte Twojego czasu? Ponieważ to konferencja, która opiera się przede wszystkim na współpracy ze społecznościami. Program powstaje dzięki członkom Rady Programowej oraz przedstawicielom polskich Java User Groups, dlatego idealnie odpowiada aktualnej sytuacji w świecie Java.</p>
+
+<p>Tutaj zobaczysz na scenie (i poznasz osobiście!) znanych - lokalnych i zagranicznych - ekspertów, nawiążesz kontakty z organizatorami spotkań i meetupów, a także spotkasz przedstawicieli wiodących firm IT na polskim rynku. A przede wszystkim - w świetnej atmosferze i doborowym towarzystwie poszerzysz swoją wiedzę i zdobędziesz nowe umiejętności!</i></p>
+
+<p>Więcej informacji na <a href="https://17.jdd.org.pl"><a href="https://17.jdd.org.pl">https://17.jdd.org.pl</a></a>. Zapisy pod <a href="https://jdd2017.evenea.pl"><a href="https://jdd2017.evenea.pl">https://jdd2017.evenea.pl</a></a>. Podczas rejestracji użyjcie kodu <b>zielonagora-20</b>, który daje 20% zniżki!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zakończenie sezonu 2016/2017 - podsumowanie]]></title>
@@ -375,10 +396,8 @@ stworzy testy ze stuprocentowym pokryciem dla obiektów typu POJO. Piotr przedst
 jego biblioteka przewyższa inne dostępne rozwiązania tego typu. Zwrócił nam także uwagę na to, że pomijanie testowania getterów, setterów,
 <code>hashCode</code>, <code>toString</code> i <code>equals</code> może mieć zgubne skutki dla stabilności naszego kodu.</p>
 
-<!-- more -->
+<!-- more --> 
 
-
-<p></p>
 
 <p>Spotkanie zakończono losowaniem prezentów świątecznych w postaci licencji JetBrains, książek wydawnictwa Manning oraz prezentów od sponsora:
 wejściówek na mecze Stelmet BC z albumami reprezentacji Polski w piłce nożnej.</p>
@@ -468,15 +487,6 @@ Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały 
 <p>Prelegentem był Jarek Pałka, który przyjechał do nas z Krakowa, gdzie na co dzień pracuje w Allegro. Jarek współorganizuje także konferencję <a href="http://16.jdd.org.pl/" target="_blank">JDD</a>, na której była nasza jugowa reprezentacja w postaci Macieja Schmidta i Marcina Stożka. Tytuł JUGmajstra jest nasz! A dokładniej Marcina, którego prezentację o Dockerze (sprawdzoną u nas na lokalnym gruncie) publiczność wybrała jako najciekawszą. Gratulujemy:)</p>
 
 <p>Wracając zaś do październikowej prezentacji - Jarek z właściwą sobie werwą i poczuciem humoru przeprowadził nas przez świat grafów - na początku powoli i spokojnie, a potem wpadliśmy już całkiem w wir zapytań w Cypherze, analizując i budując kolejne zależności na wprowadzonej jako graf skrzynce mailowej Jarka - było ciekawie:). Dla przypomnienia, oto slajdy: <a href="http://zielona-gora-jug.github.io/files/neo4j-slides.zip">W gąszczu grafów</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Global Day of Coderetreat 2016]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/10/06/global-day-of-coderetreat-2016/"/>
-    <updated>2016-10-06T20:48:26+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/10/06/global-day-of-coderetreat-2016</id>
-    <content type="html"><![CDATA[<p>Pamiętacie <a href="http://zielona-gora-jug.github.io/blog/2014/11/16/podsumowanie-global-day-of-code-retreat-2014/" target="_blank">Global Day of Coderetreat 2014</a>? W tym roku również będzie okazja wziąć udział w takim wydarzeniu. Tym razem nie organizuje go ZG JUG, ale robi to jeden z naszych partnerów - firma <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>. Wszystkie zasady są takie same: sobota, programowanie w parach, rozwiązywanie kilka razy tego samego problemu, ale w kilku sesjach. Każda sesja ma swoje modyfikacje i przebiega trochę inaczej, w każdej uczestnicy uczą się czegoś nowego. Dla wielu najtrudniejsze jest kasowanie kodu, obowiązkowe między sesjami;) Ogólnie jest to świetny sposób na doszlifowanie programistycznego warsztatu. Impreza trwa cały dzień, jest darmowa, a dla uczestników zapewniony jest lunch i przekąski. Więcej szczegółów o tym międzynarodowym wydarzeniu na oficjalnej stronie <a href="http://globalday.coderetreat.org/" target="_blank">Global Day of Coderetreat</a>, a tutaj <a href="http://www.uczestnicy.pl/event/global-day-of-coderetreat-2016" target="_blank">rejestracja i informacje o zielonogórskiej edycji</a>.</p>
 ]]></content>
   </entry>
   
