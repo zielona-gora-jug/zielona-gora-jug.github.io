@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-07-09T15:57:35+02:00</updated>
+  <updated>2017-08-23T17:18:09+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie przy grillu]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/08/23/spotkanie-przy-grillu/"/>
+    <updated>2017-08-23T17:07:55+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/08/23/spotkanie-przy-grillu</id>
+    <content type="html"><![CDATA[<p>Nowy sezon JUG inaugurujemy grillem urządzanym wspólnie z Dev@ZG 19 września o 18:00. To wyjątkowe wydarzenie będzie miało miejsce na terenie KS Gwardia Zielona Góra przy
+ulicy Strzeleckiej. Oprócz nietypowego cateringu, doświadczymy spotkania z dwoma goścmi z Wrocławia, którzy na codzień zajmują się Rubym:</p>
+
+<ul>
+<li>Robert Pankowecki opowie o orkiestracji skomplikowanej aplikacji przy pomocy Saga Patterns. Szczególną uwagę zwróci na poprawny podział na podsystemy i sterowanie nimi przy pomocy zdarzeń.
+<li>Andrzej Krzywda pochyli się nad nowym modnym terminem - <i>serverless</i>. Pokaże jak połączyć to &#8220;coś&#8221; z przebojami poprzednich sezonów: mikroserwisami i DDD.
+</ul>
+
+
+<p>Sponsorem spotkania jest <a href="https://www.adbglobal.com/" target="_blank">ADB</a> - dostawca rozwiązań dla telewizji cyfrowej i IoT.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/adb.jpg" style="width: 50%;"></p>
+
+<p>UWAGA: pierwsze &ldquo;samodzielne&rdquo; spotkanie JUG jeszcze we wrześniu! Szczegóły później&hellip;</p>
+
+<!-- more -->
+
+
+<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/242746978/">Meetup</a>. Zwracamy uwagę na ogłoszenia organizacyjne - są istotne dla dobrej zabawy.
+Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zaproszenie na JDD]]></title>
@@ -474,19 +502,6 @@ Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały 
 <p>Spotkanie rozpocznie się tradycyjnie o 18:30 półgodzinnym wprowadzeniem w Andrzejkowe klimaty. Potem sama prezentacja, równie tradycyjne losowanie nagród oraz kontynuacja w bardziej „luźnej” formie.</p>
 
 <p>Przypominamy o zarejestrowaniu swojego udziału poprzez <a href="https://www.meetup.com/Zielona-Gora-JUG/events/235518525/" target="_blank">Meetup</a> (pełnym imieniem i nazwiskiem, aby wziąć udział w losowaniu).</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania październikowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/11/04/podsumowanie-spotkania-pazdziernikowego/"/>
-    <updated>2016-11-04T21:04:22+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/11/04/podsumowanie-spotkania-pazdziernikowego</id>
-    <content type="html"><![CDATA[<p>Kolejne jugowe <a href="http://www.meetup.com/Zielona-Gora-JUG/events/234700196/" target="_blank">spotkanie</a> za nami. Tym razem spotkaliśmy się, żeby posłuchać o grafowych bazach danych, a sponsorem była firma <a href="http://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>.</p>
-
-<p>Prelegentem był Jarek Pałka, który przyjechał do nas z Krakowa, gdzie na co dzień pracuje w Allegro. Jarek współorganizuje także konferencję <a href="http://16.jdd.org.pl/" target="_blank">JDD</a>, na której była nasza jugowa reprezentacja w postaci Macieja Schmidta i Marcina Stożka. Tytuł JUGmajstra jest nasz! A dokładniej Marcina, którego prezentację o Dockerze (sprawdzoną u nas na lokalnym gruncie) publiczność wybrała jako najciekawszą. Gratulujemy:)</p>
-
-<p>Wracając zaś do październikowej prezentacji - Jarek z właściwą sobie werwą i poczuciem humoru przeprowadził nas przez świat grafów - na początku powoli i spokojnie, a potem wpadliśmy już całkiem w wir zapytań w Cypherze, analizując i budując kolejne zależności na wprowadzonej jako graf skrzynce mailowej Jarka - było ciekawie:). Dla przypomnienia, oto slajdy: <a href="http://zielona-gora-jug.github.io/files/neo4j-slides.zip">W gąszczu grafów</a>.</p>
 ]]></content>
   </entry>
   
