@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-09-17T21:20:19+02:00</updated>
+  <updated>2017-09-17T21:39:20+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Innovation@Amazon]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/09/17/innovation-at-amazon/"/>
+    <updated>2017-09-17T21:31:48+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/09/17/innovation-at-amazon</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy Community Partnerem <a href="https://innovation-amazon.com/" target="_blank">Innovation@Amazon</a> - bezpłatnej konferencji technicznej organizowanej przez Amazon Development Center Polska w Gdańsku 30 września!</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/amazon.png" style="width: 25%;"></p>
+
+<p>Na scenie pojawią się m.in. takie gwiazdy jak Jeff Barr, Julien Simon, Hasan Sawaf i inni.</p>
+
+<p>Amazon łączy ze sobą czołowych inżynierów z Amazon Development Center z całego świata, którzy przeprowadzą was przez najgorętsze, aktualne tematy techniczne, takie jak:</p>
+
+<ul>
+<li>AmazonWebServices</li>
+<li>MachineLearning</li>
+<li>IoT</li>
+<li>AmazonGameStudios</li>
+<li>AmazonAlexa</li>
+<li>..i inne!</li>
+</ul>
+
+
+<p>Będziecie też mieć okazję przetestować Amazon Echo, Amazon Echo Dot, Echo Look, Echo Show i inne, geekowskie gadżety!</p>
+
+<p>Udział jest bezpłatny, jednak liczba miejsc jest ograniczona.
+Rejestrujcie się poprzez formularz: <a href="https://innovation-amazon.com">https://innovation-amazon.com</a> i do zobaczenia w Gdańsku! :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zaproszenie na spotkanie wrześniowe]]></title>
@@ -486,26 +516,6 @@ Spring Cloud Contract Verifier, które ułatwia zastosowanie tej filozofii.</p>
 
 <p>Z kolei Piotr przedstawi nam swoje własne narzędzie do testowania POJO, które zdejmuje z nas nieprzyjemny obowiązek żmudnego
 pisania testów do prostych klas Javy. Z Pojo Tester możecie zapoznać się pod <a href="http://www.pojo.pl">tym adresem</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania listopadowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/12/03/podsumowanie-spotkania-listopadowego/"/>
-    <updated>2016-12-03T10:16:04+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/12/03/podsumowanie-spotkania-listopadowego</id>
-    <content type="html"><![CDATA[<p>W ostatnią środę (30 XI) miało miejsce kolejne spotkanie JUG Zielona Góra, tym razem sponsorowane przez <a href="https://www.globallogic.com/pl/" traget="_blank">GlobalLogic</a>. Jacek Bukowski, architekt oprogramowania z tej firmy, pokazał nam jak stworzyć dwa komunikujące się ze sobą mikroserwisy za pomocą kilkunastut linii kodu Javy oraz konfiguracji w XML&#8217;u i YAML&#8217;u. Wykład rozpoczął się od ogólnego wyjaśnienia czym jest aplikacja cloud-native, Spring Cloud oraz co wiąże te obszary z Netflixem i jego OSS. Okazuje sie, że wprowadzenie chmury jest nie tylko wyzwaniem technicznym, ale również ogromną zmianą z punktu widzenia zarządzania projektami. W ramach tego wprowadzenia, poznaliśmy również ogólną budowę Spring Cloud oraz podstawy konfiguracji jego komponentów. Następnie Jacek przeszedł do programowania &ldquo;na żywo&rdquo;, podczas którego stworzył odkrywające się wzajemnie serwisy oraz pokazał jak za pomocą feign clients, circuit breakers oraz Hystrix&#8217;a radzić sobie z problemami stawrzanymi przez mikroserwisy.
-Na zakończenie, zamiast przysłowiowej wisienki na torcie, otrzymaliśmy cały tort świętując 5 lat GlobalLogic w Zielonej Górze.</p>
-
-<p><p>Materiały:
-<ul>
-<li><a href="files/spring-cloud.pptx">Prezentacja</a></li>
-<li><a href="https://github.com/zielona-gora-jug/spring-cloud-netflix-demo">Kod źródłowy na GitHub</a></li>
-</ul></p>
-
-<p><!-- more --></p>
-
-<p>Podczas listopadowego spotkania zaszły też pewne zmiany organizacyjne. Do zespołu JUG dołączyły cztery nowe osoby (Basia, Karol i dwóch Pawłów). Jednocześnnie proponujemy wprowadzenie krótkich prezentacji o mniej wymagających tematach. Listę tematów, o których chcielibyście posłuchać, zebraliśmy w trakcie spotkania. Wkrótce opublikujemy wyniki tej mini-ankiety i - miejmy nadzieję - nazwiska pierwszych prelegentów.</p>
 ]]></content>
   </entry>
   
