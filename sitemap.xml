@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2017/09/17/zaproszenie-na-spotkanie-wrzesniowe/</loc>
+    <lastmod>2017-09-17T20:52:14+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2017/08/23/spotkanie-przy-grillu/</loc>
     <lastmod>2017-08-23T17:07:55+02:00</lastmod>
   </url>
@@ -325,11 +329,32 @@
     <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
   </url>
   <url>
-    <loc>http://zielona-gora-jug.github.io/files/cdc2.html</loc>
-    <lastmod>2017-07-09T15:55:18+02:00</lastmod>
+    <loc>http://zielona-gora-jug.github.io/posts/2/</loc>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/posts/3/</loc>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/posts/4/</loc>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/posts/5/</loc>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/posts/6/</loc>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/posts/7/</loc>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/posts/8/</loc>
   </url>
   <url>
     <loc>http://zielona-gora-jug.github.io/ankieta/index.html</loc>
-    <lastmod>2017-07-09T15:55:18+02:00</lastmod>
+    <lastmod>2015-11-18T22:05:44+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/files/cdc2.html</loc>
+    <lastmod>2017-01-26T21:27:27+01:00</lastmod>
   </url>
 </urlset>
