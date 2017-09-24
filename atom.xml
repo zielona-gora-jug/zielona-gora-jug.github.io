@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-09-17T21:58:30+02:00</updated>
+  <updated>2017-09-24T22:00:02+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenia na konferencje]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/09/24/zaproszenia-na-konferencje/"/>
+    <updated>2017-09-24T21:16:34+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/09/24/zaproszenia-na-konferencje</id>
+    <content type="html"><![CDATA[<p>Nowy sezon konferencyjny właśnie się zaczyna, i mamy z tej okazji dla was trochę zaproszeń :) Cztery ciekawe wydarzenia, wszystkie w październiku. Jako partnerzy, mamy dla was darmowe wejściówki! Aby je otrzymać, wystarczy dodać komentarz do tego postu, w którym napiszecie, na którą z konferencji chcielibyście się wybrać. Kto pierwszy ten lepszy, zapraszamy :)</p>
+
+<!-- more -->
+
+
+<p><strong>JDD - 3-4 października, Kraków</strong></p>
+
+<p>Dlaczego JDD jest warte Twojego czasu? Ponieważ to konferencja, która opiera się przede wszystkim na współpracy ze społecznościami. Program powstaje dzięki członkom Rady Programowej oraz przedstawicielom polskich Java User Groups, dlatego idealnie odpowiada aktualnej sytuacji w świecie Java. Kandydatami ZG JUG do Jugmajstra 2017 na JDD będą Jędrzej Andrykowski i Tomasz Kleszczyński.</p>
+
+<p>Tutaj zobaczysz na scenie (i poznasz osobiście!) znanych - lokalnych i zagranicznych - ekspertów, nawiążesz kontakty z organizatorami spotkań i meetupów, a także spotkasz przedstawicieli wiodących firm IT na polskim rynku. A przede wszystkim - w świetnej atmosferze i doborowym towarzystwie poszerzysz swoją wiedzę i zdobędziesz nowe umiejętności!</p>
+
+<p>Więcej informacji na <a href="https://17.jdd.org.pl.">https://17.jdd.org.pl.</a> Zapisy pod <a href="https://jdd2017.evenea.pl.">https://jdd2017.evenea.pl.</a></p>
+
+<p>Mamy dla was jedną darmową wejściówkę, oraz kod na 20% zniżki: zielonagora-20.</p>
+
+<p><strong>Byte My Code - 7 października, Wrocław</strong></p>
+
+<p>Spotkanie z JavaChampions: UBS Polska zaprasza na pierwszą edycję konferencji Byte My Code, podczas której spotkacie JavaChampions: Josha Long oraz Kirka Pepperdine, jak również wyśmienitych specjalistów Java: Łukasza Szydło, Sebastiana Malaca, Michała Kordasa i innych.</p>
+
+<p>Wszystkich prelegentów oraz szczegółowe informacje znajdziecie na: <a href="https://bytemycode.pl">https://bytemycode.pl</a></p>
+
+<p>Nie czekajcie z rezerwacją biletu - na spotkanie z JavaChampions przewidziano podczas pierwszej edycji tylko 250 biletów! Bilety są płatne symbolicznie, a całość idzie na cele charytatywne.</p>
+
+<p><strong>DevCamp - 14-15 października, Wrocław</strong></p>
+
+<p>DevCamp to 2-dniowe wydarzenie dla programistów różnych technologii, które łączy w sobie cechy panelu szkoleniowego i hackathonu. Nie ogranicza nas ani język programowania ani poziom doświadczenia, a zgłaszać można się indywidualnie lub zespołowo. 30 mentorów przez 8 godzin będzie dzielić się z 300 uczestnikami swoim doświadczeniem i wiedzą. Nowo nabyte umiejętności przetestujemy następnie podczas 24-godzinnego maratonu programowania.</p>
+
+<p>Agenda i prelegenci są na bieżąco aktualizowani na stronie <a href="http://devcamp.pl/">http://devcamp.pl/</a>
+A bilety kupić można na <a href="https://devcamp2017.evenea.pl/">https://devcamp2017.evenea.pl/</a></p>
+
+<p>Na to wydarzenie mamy dla was 10 darmowych wejściówek :)</p>
+
+<p><strong>HackYeah - 28-29 października, Kraków</strong></p>
+
+<ul>
+<li>6 biletów VIP do loży prezydenckiej na koncert zespołu Metallica w Krakowie - tych biletów nie da się kupić!</li>
+<li>bilety i podróż na WebSummit</li>
+<li>nagrody pieniężne o łącznej wartości 90 000 PLN!</li>
+</ul>
+
+
+<p>O co chodzi? O HackYeah - największy, stacjonarny hackathon w Europie, który odbędzie się już 28-29 października w Tauron Arena Kraków.</p>
+
+<p>Organizatorzy zapraszają programistów wszelkiej specjalizacji, od poziomu początkującego do zaawansowanego, jak i grafików, team leaderów, osoby z pomysłem na rozwiązanie jednego z kilku zadań opisanych tutaj: <a href="https://hackyeah.pl/task.html">https://hackyeah.pl/task.html</a></p>
+
+<p>Tutaj mamy 15 darmowych wejściówek :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Innovation@Amazon]]></title>
@@ -494,31 +548,6 @@ wejściówek na mecze Stelmet BC z albumami reprezentacji Polski w piłce nożne
 <li><a href="http://pojo.pl">POJO Tester</a></li>
 <li><a href="https://github.com/zielona-gora-jug/pojo-tester-jug">POJO Tester: przykładowy projekt</a></li>
 </ul></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zapowiedź spotkania grudniowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/12/12/zapowiedz-spotkania-grudniowego/"/>
-    <updated>2016-12-12T20:04:53+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/12/12/zapowiedz-spotkania-grudniowego</id>
-    <content type="html"><![CDATA[<p>Nasze ostatnie tegoroczne spotkanie odbędzie się 21-ego grudnia w pubie Haust. Rozpoczęcie o 18:30, a obydwa tematy
-tego dnia przygotowane są we współpracy z firmą <a href="http://www.cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<p>Prelegentami będą: Jędrzej Andrykowski (testy CDC) oraz Piotr Joński (POJO Tester).</p>
-
-<!-- more -->
-
-
-<p>CDC to skrót od <i>Customer-Driven Contracts</i>. Jest to metodologia tworzenia usług, w której stroną nadrzędną i definijuącą
-interfejs jest jej konsument. Odwraca to całkowicie podejście do tworzenia usług sieciowych, a także pozwala na spojrzenie
-na problemy związane z upublicznianiem API z zupełnie nowej perspektywy. W trakcie wykładu Jędrzej zaprezentuje również narzędzie
-Spring Cloud Contract Verifier, które ułatwia zastosowanie tej filozofii.</p>
-
-<p>Z kolei Piotr przedstawi nam swoje własne narzędzie do testowania POJO, które zdejmuje z nas nieprzyjemny obowiązek żmudnego
-pisania testów do prostych klas Javy. Z Pojo Tester możecie zapoznać się pod <a href="http://www.pojo.pl">tym adresem</a>.</p>
 ]]></content>
   </entry>
   
