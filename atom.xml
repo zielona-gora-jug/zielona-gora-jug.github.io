@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-09-28T12:11:49+02:00</updated>
+  <updated>2017-09-29T20:03:42+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/09/29/podsumowanie-spotkania-wrzesniowego/"/>
+    <updated>2017-09-29T19:57:00+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/09/29/podsumowanie-spotkania-wrzesniowego</id>
+    <content type="html"><![CDATA[<p>Nasze pierwsze całkowicie samodzielne spotkanie w nowym sezonie miało miejsce tradycyjnie w ostatnią środę miesiąca. Tym razem był to 27 września, a sponsorem spotkania było <a href="http://www.sygnitysbs.pl/">Sygnity Business Solutions!</a>.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/sygnity.jpg" style="width: 50%;">
+<img class="center" src="http://zielona-gora-jug.github.io/images/oracle.jpg" style="width: 50%;"></p>
+
+<!-- more -->
+
+
+<p>Pierwszym gościem był przybyły aż z Bukaresztu przedstawiciel Oracle, Łukasz Klimas. Na co dzień zajmuje się środowiskiem chmurowym Oracle i tego też dotyczyła prezentacja. Skoncentrował się głównie na ofercie
+PaaS, czyli dostarczaniu platformy jako serwisu (choć Oracle oferuje również IaaS i SaaS) ze szczególnym uwzględnieniem potrzeb developerów. Omówił development w Java Cloud Service i Application Container. Te ostatnie to usługi opakowane w Dockera. Rozwiązanie Oracle okazuje się być bardzo kompleksowe: pozwala na chmuryzację istniejących rozwiązań, tworzenie nowych przy pomocy specjalnego Developer Cloud Service, gdzie zintegrowany jest pełen cykl wytwarzania oprogramowania, oraz migrację między technikami wirtualizacji. Na końcu mogliśmy zobaczyć żywe demo deployowania rozwiązania.</p>
+
+<p>Drugi temat zaprezentował laureat nagrody &ldquo;JUG Majster&rdquo;, Marcin Stożek. Pokazał nam swoje ostatnie odkrycie, czyli Nginx sterowany Luą, czyli OpenResty. Po krótkim wprowadzeniu w stylu <i>what-is-what</i>, zobaczyliśmy krótkie, acz treściwe skrypty Lua, które szybko pozwalały dodać do serwera HTTP takie możliwości jak: ID korelacji, zarządzanie sesjami, modyfikowanie zawartości &ldquo;w locie&rdquo; oraz bronienie strony przy pomocy firewalla.</p>
+
+<p>Materiały</p>
+
+<ul>
+<li><a href="files/OCD.pdf">Oracle Cloud Development</a></li>
+<li><a href="http://slides.com/perk/nginx-lua-openresty">Nginx + Lua = OpenResty</a></li>
+</ul>
+
+
+<p>Przypominamy o:</p>
+
+<ul>
+<li>możliwości ocenienia prezentacji (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfC5s-v_JrKzIeOcn0Uj3jtyquOVeOcdYYDfORwmrFmEABtBw/viewform?c=0&w=1">tutaj</a>). Znowu czekają nagrody!</li>
+<li>wejściówkach na różne imprezy do wzięcia za darmo (szczegóły w poprzednich postach)</li>
+<li>poszukiwanych prelegentach i sponsorach</li>
+</ul>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zaproszenia na konferencje]]></title>
@@ -25,7 +64,7 @@
 
 <p><strong>JDD - 3-4 października, Kraków</strong></p>
 
-<p>Dlaczego JDD jest warte Twojego czasu? Ponieważ to konferencja, która opiera się przede wszystkim na współpracy ze społecznościami. Program powstaje dzięki członkom Rady Programowej oraz przedstawicielom polskich Java User Groups, dlatego idealnie odpowiada aktualnej sytuacji w świecie Java. Kandydatami ZG JUG do Jugmajstra 2017 na JDD będą Jędrzej Andrykowski i Tomasz Kleszczyński, wystąpi również zwycięzca z poprzedniego roku - Marcin Stożek.</p>
+<p>Dlaczego JDD jest warte Twojego czasu? Ponieważ to konferencja, która opiera się przede wszystkim na współpracy ze społecznościami. Program powstaje dzięki członkom Rady Programowej oraz przedstawicielom polskich Java User Groups, dlatego idealnie odpowiada aktualnej sytuacji w świecie Java. Kandydatami ZG JUG do Jugmajstra 2017 na JDD będą Jędrzej Andrykowski i Tomasz Kleszczyński.</p>
 
 <p>Tutaj zobaczysz na scenie (i poznasz osobiście!) znanych - lokalnych i zagranicznych - ekspertów, nawiążesz kontakty z organizatorami spotkań i meetupów, a także spotkasz przedstawicieli wiodących firm IT na polskim rynku. A przede wszystkim - w świetnej atmosferze i doborowym towarzystwie poszerzysz swoją wiedzę i zdobędziesz nowe umiejętności!</p>
 
@@ -514,40 +553,6 @@ tradycyjnie o 18:30, tym razem 25 stycznia.</p>
 poziom wtajemniczenia: porozmawiamy o metodach debugowania i wykrywania problemów (np. opóźnieniach i przetwarzaniu logów). Serdecznie zapraszamy!</p>
 
 <p>Więcej szczegółów oraz rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/236619601/" target="_blank">meetupie</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Po spotkaniu grudniowym]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2016/12/22/po-spotkaniu-grudniowym/"/>
-    <updated>2016-12-22T09:05:58+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2016/12/22/po-spotkaniu-grudniowym</id>
-    <content type="html"><![CDATA[<p>Za nami ostatnie spotkanie w 2016 roku. Wysłuchaliśmy podczas niego dwóch prezentacji prowadzonych przez pracowników naszego sponsora:
-<a href="http://www.cinkciarz.pl/" traget="_blank">Cinkciarz.pl</a>. Rozpoczął Jędrzej Andrykowski, który krótko przedstawił ideę i korzyści
-<i>Customer-Driven Contracts</i> - podejścia do tworzenia interfejsów między serwisami według pomysłu Martina Fowlera. Następnie pokazał
-implementację tej metody przy użyciu <i>Spring Cloud Contract Verifier</i>. Po prezentacji wywiązała się krótka dyskusja, podczas której
-Jędrzej udowodnił, że CDC jest użyteczne także praktycznie i ma zastosowania również poza światem Javy.</p>
-
-<p>Druga część spotkania to prezetacja autorskiego rozwiązania Piotra Jońskiego, czyli POJO Tester: narzędzie, które prawie automatycznie
-stworzy testy ze stuprocentowym pokryciem dla obiektów typu POJO. Piotr przedstawił przykładu użycia oraz pokazał za pomocą metryk, że
-jego biblioteka przewyższa inne dostępne rozwiązania tego typu. Zwrócił nam także uwagę na to, że pomijanie testowania getterów, setterów,
-<code>hashCode</code>, <code>toString</code> i <code>equals</code> może mieć zgubne skutki dla stabilności naszego kodu.</p>
-
-<!-- more -->
-
-
-<p></p>
-
-<p>Spotkanie zakończono losowaniem prezentów świątecznych w postaci licencji JetBrains, książek wydawnictwa Manning oraz prezentów od sponsora:
-wejściówek na mecze Stelmet BC z albumami reprezentacji Polski w piłce nożnej.</p>
-
-<p><p>Materiały:
-<ul>
-<li><a href="http://jug.zgora.pl/files/cdc2.html" target="_blank">Prezentacja <i>Customer-Driven Contracts</i></a></li>
-<li><a href="https://github.com/zielona-gora-jug/consumer-driven-contracts">CDC: projekt przedstawiony podczas prezentacji</a>
-<li><a href="http://pojo.pl">POJO Tester</a></li>
-<li><a href="https://github.com/zielona-gora-jug/pojo-tester-jug">POJO Tester: przykładowy projekt</a></li>
-</ul></p>
 ]]></content>
   </entry>
   
