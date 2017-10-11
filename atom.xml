@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-09-29T20:03:42+02:00</updated>
+  <updated>2017-10-11T21:56:23+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenie na konferencję]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/10/11/zaproszenie-na-konferencje/"/>
+    <updated>2017-10-11T21:54:03+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/10/11/zaproszenie-na-konferencje</id>
+    <content type="html"><![CDATA[<p>Firma ADB poinformowała nas, że 24 października organizuje bezpłatną konferencję ADB Tech Talk w gmachu Filharmonii Zielonogórskiej. Dwójka gości zaproszonych specjalnie na to wydarzenie opowie o mikroserwisach i sztucznej inteligencji. Więcej szczegółów i rejestracja na <a href="https://www.adbglobal.com/adb-tech-talk/" target="_blank">tej stronie</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie październikowe]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/10/11/spotkanie-pazdziernikowe/"/>
+    <updated>2017-10-11T21:49:40+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/10/11/spotkanie-pazdziernikowe</id>
+    <content type="html"><![CDATA[<p>W październiku spotykamy się 25-tego, o 19-tej, w pubie Haust. Tym razem sponsorem spotkania jest <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, a prelegentem – Daniel Pokusa z Gliwic.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
+
+<p>Daniel jest aktywnym uczestnikiem spotkań świata IT. W swojej pracy skupia się nad, zarówno „zdolnościami” twardymi jak i „miękkimi”. Tym razem zostajemy przy tych pierwszych i porozmawiamy o Kubernetesie. Daniel zaproponuje nowe podejście, które pozwoli nam na development modułu osadzonego w ekosystemie dziesiątek mikroserwisów. Często próbujemy „postawić” całą taką aplikację. Czy to potrzebne? Odpowiedź już 25 X!</p>
+
+<p>Więcej szczegółów oraz zapisy – na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/244121730/" target="_blank">Meetupie</a> Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego]]></title>
@@ -510,49 +534,6 @@ prelegenta. Poruszony będzie również temat rozwiązań hybrydowych.</p>
 <li><a target="_blank" href="https://docs.google.com/presentation/d/1ZILMqLJXFva9cKHpW5j1dsQ1OcEpqNYE_a-3t0pbyng/edit">Prezentacja zawierająca również odnośniki do narzędzi I przykładowych projektów</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ScalaSphere - darmowe bilety do wzięcia!]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/01/24/scalasphere-darmowe-bilety-do-wziecia/"/>
-    <updated>2017-01-24T17:56:06+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/01/24/scalasphere-darmowe-bilety-do-wziecia</id>
-    <content type="html"><![CDATA[<p>W dniach 2-3 marca 2017 r., w Krakowie odbędzie się konferencja <a href="http://scalasphere.org">ScalaSphere</a>. Wydarzenie to poświęcone jest narzędziom Scali dla developerów.
-W programie ujęto również omówienie nowych elementów ekosystemu Scali i ich dalszego rozwoju. Wystąpią znani prelegenci zajmujący się Scala IDE, Scala Compiler, Ensime, IntelliJ itp.
-W cenie catering!</p>
-
-<p>Do zaoferowania mamy (kontakt z <a href="leaders">Magdą</a>, kto pierwszy ten lepszy):</p>
-
-<ul>
-<li>Dwie darmowe wejściówki.</li>
-<li>Dla 5 osób zniżki 50% na bilety.</li>
-</ul>
-
-
-<p>Organizatorzy serdecznie zapraszają!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie styczniowe - zapowiedź]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/01/03/spotkanie-styczniowe-zapowiedz/"/>
-    <updated>2017-01-03T20:50:20+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/01/03/spotkanie-styczniowe-zapowiedz</id>
-    <content type="html"><![CDATA[<p>Rok 2017-ty rozpoczynamy razem z <a href="http://www.cinkciarz.pl" target="_blank">Cinkciarz.pl</a>. Nasze spotkanie rozpocznie się
-tradycyjnie o 18:30, tym razem 25 stycznia.</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<p>W tym miesiącu ograniczymy się do jednej, za to dłuższej, prezentacji Marcina Grzejszczaka dotyczącej &ldquo;śledzenia&rdquo; mikroserwisów przy użyciu Spring Cloud Sleuth i Zipkin.</p>
-
-<!-- more -->
-
-
-<p>W wielu miejscach - również na naszych spotkaniach - mogliście dowiedzieć się jak zbudować i utrzymywać mikroserwisy. Teraz pora przejść na następny
-poziom wtajemniczenia: porozmawiamy o metodach debugowania i wykrywania problemów (np. opóźnieniach i przetwarzaniu logów). Serdecznie zapraszamy!</p>
-
-<p>Więcej szczegółów oraz rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/236619601/" target="_blank">meetupie</a>.</p>
 ]]></content>
   </entry>
   
