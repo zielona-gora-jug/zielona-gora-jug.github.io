@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-10-11T21:56:23+02:00</updated>
+  <updated>2017-11-01T14:18:50+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Global Day of Coderetreat]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/11/01/global-day-of-coderetreat/"/>
+    <updated>2017-11-01T14:08:41+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/11/01/global-day-of-coderetreat</id>
+    <content type="html"><![CDATA[<p><a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a> organizuje zielonogórską edycję <a href="http://coderetreat.org/events/" target="_blank">Global Day of Coderetreat</a>!
+Całodzienne wydarzenie będzie miało miejsce 18 listopada od 8:00 do 17:00 na Uniwersytecie, w budynku przy ulicy prof. Szafrana. Chętni do wzięcia w nim udziału
+powinni zarejestrować się za pomocą <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdNyoWzPGq9WUHvMr4ZWIpgDe7URYUZAJmC2gYFfPneJDmQAg/viewform">formularza on-line</a>.
+Wahającym się polecamy poznanie szczegółów na <a target="_blank" href="https://www.facebook.com/events/377373666017704/">Facebook</a>. Zachęcamy do udziału w tym nietypowym wydarzeniu!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zaproszenie na konferencję]]></title>
@@ -509,31 +521,6 @@ Maksymilian opowie co tracimy, a co zyskujemy w przypadku wyboru NoSQL. Poza plu
 prelegenta. Poruszony będzie również temat rozwiązań hybrydowych.</p>
 
 <p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/237425080/">Meetup</a>. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Po spotkaniu styczniowym]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/01/26/po-spotkaniu-styczniowym/"/>
-    <updated>2017-01-26T16:30:38+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/01/26/po-spotkaniu-styczniowym</id>
-    <content type="html"><![CDATA[<p>25 stycznia odbyło się pierwsze spotkanie w Nowym Roku! Na zaproszenie <a href="http://www.cinkciarz.pl/" target="_blank">Cinkciarz.pl</a> w Zielonej Górze pojawił się Marcin Grzejszczak, który opowiedział o metodach pracy z logami w systemach rozproszonych.</p>
-
-<!-- more -->
-
-
-<p>Wykład rozpoczął się krótkim omówieniem problemów, które napotykają programiści takich systemów. Następnie przeszliśmy do podstawowej terminologii związanej z logowaniem: span, trace, baggage itp. w kontekście Spring Sleuth – systemu do śledzenia rozproszonego. Po pokazaniu podstaw Marcin przeszedł do łączenia (agregacji) i korelacji informacji z różnych maszyn oraz ich przeglądaniu przy pomocy Kibany.</p>
-
-<p>W drugiej części zajęliśmy się problem wolnego działania (wcześniejsze przykłady zakładały brak działania badanego systemu). Tu pojawił się Zipkin, który ułatwia śledzenie opóźnień w komunikacji.</p>
-
-<p>Ostatnim akordem było demo – Marcin szybko zbudował aplikację w Spring i pokazał jak analizować logi za pomocą powyższych narzędzi.</p>
-
-<p>Materiały:</p>
-
-<ul>
-<li><a target="_blank" href="https://docs.google.com/presentation/d/1ZILMqLJXFva9cKHpW5j1dsQ1OcEpqNYE_a-3t0pbyng/edit">Prezentacja zawierająca również odnośniki do narzędzi I przykładowych projektów</a></li>
-</ul>
-
 ]]></content>
   </entry>
   
