@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-11-01T14:18:50+01:00</updated>
+  <updated>2017-11-08T20:45:40+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania październikowego - Kubernetes]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/11/08/podsumowanie-spotkania-pazdziernikowego-kubernetes/"/>
+    <updated>2017-11-08T20:28:13+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/11/08/podsumowanie-spotkania-pazdziernikowego-kubernetes</id>
+    <content type="html"><![CDATA[<p>Październikowe spotkanie już za nami - tym razem tematem było Kubernetes, przedstawione przez Daniela Pokusę. Poznaliśmy podstawowe pojęcia oraz sposób działania z perspektywy dewelopera, ze szczególnym uwzględnieniem <a href="https://kubernetes.io/docs/getting-started-guides/minikube/" target="_blank">Minikube</a>. Było też trochę historii i smaczków &ldquo;z pola walki&rdquo;, czyli jak to wszystko wygląda w praktyce i czego się wystrzegać. Zapraszamy do obejrzenia <a href="http://zielona-gora-jug.github.io/files/Kubernetes.pdf" target="_blank">slajdów z prezentacji</a> i dziękujemy za spotaknie - prelegentowi, uczestnikom i sponsorowi, którym był w tym miesiącu <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>. A dla osób, które wypełnią <a href="https://goo.gl/forms/SViNagbmJE30vzaj1" target="_blank">ankietę pospotkaniową</a>, mamy do rozdania licencje <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a> i ebooki od <a href="https://www.manning.com/" target="_blank">Manning</a>.</p>
+
+<p>Do zobaczenia w listopadzie :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Global Day of Coderetreat]]></title>
@@ -100,7 +111,7 @@ PaaS, czyli dostarczaniu platformy jako serwisu (choć Oracle oferuje również 
 
 <p><strong>JDD - 3-4 października, Kraków</strong></p>
 
-<p>Dlaczego JDD jest warte Twojego czasu? Ponieważ to konferencja, która opiera się przede wszystkim na współpracy ze społecznościami. Program powstaje dzięki członkom Rady Programowej oraz przedstawicielom polskich Java User Groups, dlatego idealnie odpowiada aktualnej sytuacji w świecie Java. Kandydatami ZG JUG do Jugmajstra 2017 na JDD będą Jędrzej Andrykowski i Tomasz Kleszczyński.</p>
+<p>Dlaczego JDD jest warte Twojego czasu? Ponieważ to konferencja, która opiera się przede wszystkim na współpracy ze społecznościami. Program powstaje dzięki członkom Rady Programowej oraz przedstawicielom polskich Java User Groups, dlatego idealnie odpowiada aktualnej sytuacji w świecie Java. Kandydatami ZG JUG do Jugmajstra 2017 na JDD będą Jędrzej Andrykowski i Tomasz Kleszczyński, wystąpi również zwycięzca z poprzedniego roku - Marcin Stożek.</p>
 
 <p>Tutaj zobaczysz na scenie (i poznasz osobiście!) znanych - lokalnych i zagranicznych - ekspertów, nawiążesz kontakty z organizatorami spotkań i meetupów, a także spotkasz przedstawicieli wiodących firm IT na polskim rynku. A przede wszystkim - w świetnej atmosferze i doborowym towarzystwie poszerzysz swoją wiedzę i zdobędziesz nowe umiejętności!</p>
 
@@ -499,28 +510,6 @@ Kano, ROI oraz wiele innych. Przewidziana praca w grupach! Początek o 19:00.</p
 <p>Na koniec jeszcze jedno ogłoszenie - nieustająco i ogromnie szukamy prelegentów. Prezentacje mogą być długie lub krótkie, nie muszą mieć perfekcyjnych slajdów, a nasza lokalna publiczność jest wdzięczna i sympatyczna - zapraszamy nowych śmiałków:)</p>
 
 <p>Dzięki za spotkanie i do zobaczenia za miesiąc!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie lutowe - NoSQL]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/02/02/spotkanie-lutowe-nosql/"/>
-    <updated>2017-02-02T16:52:42+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/02/02/spotkanie-lutowe-nosql</id>
-    <content type="html"><![CDATA[<p>Dwudziestego drugiego lutego spotykamy się w pubie Haust o 19:00 dzięki <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, aby porozmawiać o NoSQL.
-Tego dnia planujemy jeden wykład autorstwa Maksymiliana Wiesiołka, który pozwoli nam oderwać się od &ldquo;gorącego&rdquo; tematu mikroserwisów. Przenisiemy się do świata baz danych, żeby
-przypomnieć sobie o zapomnianych szczegółach, uzupełnić luki, a może dowiedzieć się czegoś nowego.</p>
-
-<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="330" height="130" title="GlobalLogic" ></a></p>
-
-<!-- more -->
-
-
-<p>Wykład będzie zawierał omówienie kilku popularnych systemów NoSQL (np. Coherence, HBase, MongoDB, Redis) na tle baz relacyjnych - w tym wypadku PostgreSQL.
-Maksymilian opowie co tracimy, a co zyskujemy w przypadku wyboru NoSQL. Poza plusami pojawią się zagrożenia oraz sposoby ich obejścia żywcem wzięte z doświadczenia
-prelegenta. Poruszony będzie również temat rozwiązań hybrydowych.</p>
-
-<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/237425080/">Meetup</a>. Zapraszamy!</p>
 ]]></content>
   </entry>
   
