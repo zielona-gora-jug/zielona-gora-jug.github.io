@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-11-08T20:45:40+01:00</updated>
+  <updated>2017-11-09T18:08:27+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe 2017 - AWS]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/11/09/spotkanie-listopadowe-2017-aws/"/>
+    <updated>2017-11-09T17:59:04+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/11/09/spotkanie-listopadowe-2017-aws</id>
+    <content type="html"><![CDATA[<p>„Z AWS za pan brat – czyli poznaj chmurę Amazona (okiem programisty)” - to temat naszego listopadowego spotkania. 29 listopada spotykamy się tradycyjnie w Hauście o 19:00, aby posłuchać o AWS-ie. Po raz pierwszy spotkanie będzie sponsorowane przez <a href="https://ttpsc.pl/" target="_blank">Transition Technologies PSC</a>.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/ttpsc.png" style="width: 50%;"></p>
+
+<p>Terminem dnia będzie architektura: skalowalna, wysokodostępna, trwała i rozproszona. Zbudujemy aplikację, która będzie właśnie taka dzięki Amazon. Dla tych, którzy lubią hardware, przygotujemy Raspberry z deep learning.</p>
+
+<p>Uwaga: Można zabrać laptopy i wziąć udział w kodowaniu na żywo. Należy założyć zawczasu <a href="https://aws.amazon.com/free/" target="_blank">darmowe konto AWS!</a></p>
+
+<p>Więcej szczegółów oraz zapisy – na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/244958517/" target="_blank">Meetupie</a> Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania październikowego - Kubernetes]]></title>
@@ -495,21 +512,6 @@ Marek przedstawi kilka sposobów na ogarnięcie naszych spotkań, abyśmy mogli 
 Kano, ROI oraz wiele innych. Przewidziana praca w grupach! Początek o 19:00.</p>
 
 <p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/238445120/">Meetup</a>. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania lutowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/02/24/podsumowanie-spotkania-lutowego/"/>
-    <updated>2017-02-24T21:38:01+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/02/24/podsumowanie-spotkania-lutowego</id>
-    <content type="html"><![CDATA[<p>Za nami spotkanie lutowe - 22.02 mimo ulewnego deszczu spotkaliśmy się w Hauście, by posłuchać o NoSQL. W temat wprowadził nas Maksymilian Wiesiołek, na co dzień pracownik w <a href="https://www.globallogic.com/pl/" traget="_blank">GlobalLogic</a>, które było sponsorem spotkania.</p>
-
-<p>Maks najpierw przybliżył nam różne koncepcje używane w świecie NoSQL - rozproszenie, różne strategie replikacji, CAP (aka &ldquo;nie można mieć wszystkiego&rdquo;), skalowanie wszerz itd. Później zaś zaprezentował kilka przykładów różnych NoSQLowych baz (Redis, HBase, Mongo, Neo4j, Coherence), wraz z porównaniem do Postgresa. Na koniec pojawiło się jeszcze kilka praktycznych, sprawdzonych w boju wskazówek na co zwrócić uwagę przy projektowaniu i używaniu tego typu baz. No i rekomendacje książkowe. Zresztą, zobaczcie sami: <a href="http://zielona-gora-jug.github.io/files/NoSql.pdf" target="_blank">NoSQL - slajdy</a>.</p>
-
-<p>Na koniec jeszcze jedno ogłoszenie - nieustająco i ogromnie szukamy prelegentów. Prezentacje mogą być długie lub krótkie, nie muszą mieć perfekcyjnych slajdów, a nasza lokalna publiczność jest wdzięczna i sympatyczna - zapraszamy nowych śmiałków:)</p>
-
-<p>Dzięki za spotkanie i do zobaczenia za miesiąc!</p>
 ]]></content>
   </entry>
   

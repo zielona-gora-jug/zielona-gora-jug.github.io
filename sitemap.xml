@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2017/11/09/spotkanie-listopadowe-2017-aws/</loc>
+    <lastmod>2017-11-09T17:59:04+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2017/11/08/podsumowanie-spotkania-pazdziernikowego-kubernetes/</loc>
     <lastmod>2017-11-08T20:28:13+01:00</lastmod>
   </url>
@@ -357,11 +361,11 @@
     <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
   </url>
   <url>
-    <loc>http://zielona-gora-jug.github.io/ankieta/index.html</loc>
-    <lastmod>2015-11-18T22:05:44+01:00</lastmod>
+    <loc>http://zielona-gora-jug.github.io/files/cdc2.html</loc>
+    <lastmod>2017-07-09T15:55:18+02:00</lastmod>
   </url>
   <url>
-    <loc>http://zielona-gora-jug.github.io/files/cdc2.html</loc>
-    <lastmod>2017-01-26T21:27:27+01:00</lastmod>
+    <loc>http://zielona-gora-jug.github.io/ankieta/index.html</loc>
+    <lastmod>2017-07-09T15:55:18+02:00</lastmod>
   </url>
 </urlset>
