@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-11-09T18:08:27+01:00</updated>
+  <updated>2017-12-01T20:59:35+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe 2017 - podsumowanie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/12/01/spotkanie-listopadowe-2017-podsumowanie/"/>
+    <updated>2017-12-01T20:49:49+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/12/01/spotkanie-listopadowe-2017-podsumowanie</id>
+    <content type="html"><![CDATA[<p>W przedostatni dzień listopada 2017 spotkaliśmy się w Hauście, żeby dowiedzieć się więcej o AWS.
+Prelegentem był Michał Dubel - reprezentant naszego sponsora, <a href="https://ttpsc.pl/" target="_blank">Transition Technologies PSC</a>.
+Michał podzielił swoją prezentację na dwie części:</p>
+
+<ul>
+<li>część teoretyczną, w której szybko opisał czym jest AWS i jak działa;</li>
+<li>część praktyczną, kiedy to na żywo pokazywał jak buduje aplikację związaną z AWS oraz jak używa go do&#8230; rozumienia mowy.</li>
+</ul>
+
+
+<p>W związku z tym, że prezentacja była bardzo dynamiczna i zadawaliście wiele pytań, zachęcamy do pobrania <a href="http://zielona-gora-jug.github.io/files/z_aws_za_pan_brat.pdf" target="_blank">materiałów</a>.
+Znalazły się tam obiecane przez Michała linki do dodatkowych informacji.</p>
+
+<p>Jeśli chcecie wyrazić swoją opinię o prezentacji, przejdźcie do <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf0GhOvCrW-fJDeiAhhLLERZwgvwod67o9od5uHf4hOo96O0A/viewform?c=0&w=1">ankiety</a>. Nagrody czekają!</p>
+
+<p>Dziękujemy za liczną obecność i zapraszamy za trzy tygodnie!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie listopadowe 2017 - AWS]]></title>
@@ -489,29 +513,6 @@ pytania dodatkowe zarówno członkom podgrupy, jak i prowadzącemu. Mamy nadziej
 <p>Sponsorem spotkania był <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
 
 <p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie marcowe - Backlog]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/03/16/spotkanie-marcowe-backlog/"/>
-    <updated>2017-03-16T18:08:41+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/03/16/spotkanie-marcowe-backlog</id>
-    <content type="html"><![CDATA[<p>29 III marca JUG przyjmie wyjątkowo formę warsztatu. Tego dnia Marek Tryliński pokaże nam jak nie marnować czasu pracując z backlogiem.
-Wielu z nas pracuje według zwinnych metodyk i choć w teorii w większości wiemy jak to działa, to nadal miewmay problemy ze szczegółami.
-Marek przedstawi kilka sposobów na ogarnięcie naszych spotkań, abyśmy mogli szybciej zabrać się do tego, co stanowi <i>clou</i> naszej pracy - programowania.</p>
-
-<p>Sponsorem spotkania jest <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
-
-<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
-
-<!-- more -->
-
-
-<p>Podobne spotkania miały już miejsce w trzech większych miastach w Polsce i cieszyły się dużym zainteresowaniem. W planie warsztatów są metody: 1-3-5, Moscow, Monopoly dollars,
-Kano, ROI oraz wiele innych. Przewidziana praca w grupach! Początek o 19:00.</p>
-
-<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/238445120/">Meetup</a>. Zapraszamy!</p>
 ]]></content>
   </entry>
   
