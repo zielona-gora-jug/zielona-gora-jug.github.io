@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-12-01T21:16:14+01:00</updated>
+  <updated>2017-12-15T19:57:22+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie grudniowe 2017 - Java 9 i Lombok]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/12/15/spotkanie-grudniowe-2017-java-9-i-lombok/"/>
+    <updated>2017-12-15T19:50:20+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/12/15/spotkanie-grudniowe-2017-java-9-i-lombok</id>
+    <content type="html"><![CDATA[<p>Ostatnia środa przed Świętami (20 XII), to spotkanie w Hauście o 19:00 dla wszystkich, którzy chcą wiedzieć więcej o Java 9. Część z Was pewnie już próbowała coś w niej robić, zdecydowana większość -
+już z grubsza wie o nowościach. Natomiast nasz prelegent opowie o szczegółach i to tych najbardziej interesujących. Na dokładkę - Lombok, czyli jeden z bardziej przydatnych
+&ldquo;upraszczaczy&rdquo; życia.
+Prezentację pooprowadzi nasz były współorganizator - Dawid Maksylewicz, dla którego będzie to powrót do JUG-a po dłuższej przerwie.
+Sponsorem spotkania będzie <a href="https://cinkciarz.pl/" target="_blank">Cinkciarz.pl</a>.</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/245733478/" target="_blank">Meetupie</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie listopadowe 2017 - podsumowanie]]></title>
@@ -487,32 +504,6 @@ aplikacji webowych. Nadrabia ona  wady OAuth i podobnych rozwiązań. Poznacie i
 <p>Początek o 19:00. Jeszcze raz zachęcamy do przedstawiania krótkich 15-minutowych tematów. Być może po tej środzie któreś z Was się przekona i zgłosi swój temat? Czekamy!</p>
 
 <p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/239216928/">Meetup</a>. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie marcowe - podsumowanie]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/03/30/spotkanie-marcowe-podsumowanie/"/>
-    <updated>2017-03-30T07:07:44+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/03/30/spotkanie-marcowe-podsumowanie</id>
-    <content type="html"><![CDATA[<p>W ostatnią środę marca przyjechał do nas z Wrocławia Marek Tryliński, który poprowadział warsztaty z sortowania backlogu. Górne piętro Hausta zostało przygotowane
-w nietypowej dla nas konfiguracji - zestawiono 7 stolików, aby każda podgrupa uczestników mogła w praktyce przećwiczyć jedną metodę pracy z listą zadań. Zanim to się jednak
-stało, Marek przedstawił krótkie wprowadzenie przypominające o odpowiedzialności właściciela produktu. Sam warsztat został podzielony na dwie części: pierwsze pół godziny
-zajęła praca w poszczególnych podgrupach - każda dostała instrukcję dotyczącą wybranej metody (np. <i>now-not now</i> lub <i>1-3-5</i>) i miała ją zastosować do swojego
-zestawu zadań. Następne pół godziny zostało poświęcone na omówienie doświadczeń w pełnym składzie - podgrupa omawiała metodę i swoje wrażenia, a reszta uczestników mogła zadawać
-pytania dodatkowe zarówno członkom podgrupy, jak i prowadzącemu. Mamy nadzieję, że ta wyjątkowa forma spotkania przypadła Wam do gustu.</p>
-
-<p>Materiały:</p>
-
-<ul>
-<li><a href="files/ProductBacklogOrdering.pdf" target="_blank">Prezentacja</a></li>
-<li><a href="files/ProductBacklogOrdering.zip" target="_blank">Metody</a></li>
-</ul>
-
-
-<p>Sponsorem spotkania był <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
-
-<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
 ]]></content>
   </entry>
   
