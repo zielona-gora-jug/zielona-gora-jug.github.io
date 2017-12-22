@@ -23,3 +23,5 @@ Prezentacje:
 <li><a href="/files/Java_9.pptx" target="_blank">Java 9</a></li>
 <li><a href="/files/Lombok.pptx" target="_blank">Lombok</a></li>
 </ul>
+
+Zachęcamy do wypełnienia <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJii9GrTMDk3-UDQPBRPI_b7-XIWxF6ptcUF_yz0eG9Sh7og/viewform?c=0&w=1" target="_blank">ankiety po spotkaniu</a>. Nagrody czekają!
