@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2017-12-15T19:57:22+01:00</updated>
+  <updated>2017-12-22T15:52:13+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania grudniowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2017/12/22/podsumowanie-spotkania-grudniowego/"/>
+    <updated>2017-12-22T15:46:33+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2017/12/22/podsumowanie-spotkania-grudniowego</id>
+    <content type="html"><![CDATA[<p>W przedświąteczny środowy wieczór Dawid Maksylewicz szybko wprowadził nas w nowości Javy 9. Po kolei streścił zasady nowej modułowości,
+zalety konsoli Java, zmiany w API oraz kilkanaście mniejszych dodatków i usprawnień.
+Jak widać po żywych reakcjach publiczności i krótkich dyskusjach, Java 9 bardzo szybko wkroczyła przynajmniej do Waszych POCów i macie już swoje zdanie na temat zmian.
+W uzupełnieniu prezentacji Dawid uruchomił modularny kod zgodny z Jigsaw. Końcowym akordem był krótki pokaz projektu Lombok - jedna klasa zawierała większość miłych rzeczy przychodzących z tą biblioteką.</p>
+
+<p>Na końcu tradycyjnie rozlosowaliśmy nagrody - w tym inteligentny głośnik Google od naszego sponsora <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.
+After party trwało kolejne dobrych kilkadziesiąt minut.</p>
+
+<p>W Nowym Roku życzymy wszystkiego najlepszego - nie tylko w kodowaniu. Do zobaczenia na kolejnym JUG-u w styczniu!</p>
+
+<p>Prezentacje:</p>
+
+<ul>
+<li><a href="http://zielona-gora-jug.github.io/files/Java_9.pptx" target="_blank">Java 9</a></li>
+<li><a href="http://zielona-gora-jug.github.io/files/Lombok.pptx" target="_blank">Lombok</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie grudniowe 2017 - Java 9 i Lombok]]></title>
@@ -479,31 +504,6 @@ Czekają nagrody!.</p>
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie kwietniowe JUnit 5 i OpenID Connect]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/04/15/spotkanie-kwietniowe-junit-5-i-openid-connect/"/>
-    <updated>2017-04-15T08:56:33+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/04/15/spotkanie-kwietniowe-junit-5-i-openid-connect</id>
-    <content type="html"><![CDATA[<p>Następne spotkanie JUG będzie miało miejsce 26 IV, tradycyjnie w pubie Haust. Rozpoczniemy je pierwszą krótką prezentacją - jest to forma, którą zaproponowaliśmy kilka miesięcy temu.
-Mamy nadzieję, że przypadnie Wam do gustu i będziecie chcieli prezentować narzędzia i techniki właśnie w taki sposób. Na pierwszy ogień idzie nowa wersja JUnit. Paweł Nowak
-przedstawi nam zmiany oraz sposób migracji testów z poprzedniej do nowej wersji.</p>
-
-<p>Potem przejdziemy do głównego tematu - OpenID Connect. Karol Buler przedstawi technologię, która ma wielką szansę stania się standardem autentykacji i autoryzacji w świecie
-aplikacji webowych. Nadrabia ona  wady OAuth i podobnych rozwiązań. Poznacie ideę działania, istniejące implementacje oraz kilka ciekawostek związanych z tematem.</p>
-
-<p>Sponsorem spotkania jest <a href="https://www.adbglobal.com/" target="_blank">ADB</a> - dostawca rozwiązań dla telewizji cyfrowej i IoT.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/adb.jpg" style="width: 50%;"></p>
-
-<!-- more -->
-
-
-<p>Początek o 19:00. Jeszcze raz zachęcamy do przedstawiania krótkich 15-minutowych tematów. Być może po tej środzie któreś z Was się przekona i zgłosi swój temat? Czekamy!</p>
-
-<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/239216928/">Meetup</a>. Zapraszamy!</p>
 ]]></content>
   </entry>
   
