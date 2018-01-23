@@ -19,7 +19,7 @@ Tematy będą dwa:
 <li><b>Blockchain & Cryptocurrencies making Startup funding obsolete</b> (po angielsku) - 
 Abdallah Alaili opowie o technicznej podstawie kryptowalut: Blockchain. 
 Potem Abdallah przejdzie do prezentacji zastosowań, najbardziej udanych przypadkach oraz o ICO. 
-Ten ostatni to nowa sposoba zdobywania pieniędzy na rozkręcenie własnej firmy.</li>
+Ten ostatni to nowy sposób zdobywania pieniędzy na rozkręcenie własnej firmy.</li>
 <li><b>Wprowadzenie do języka programowania Rust</b> - może nie czysta Java, 
 ale na pewno gorący ostatnio termin. Nataniel Stefaniak (przedstawiciel GlobalLogic) wprowadzi nas w 
 zagadnienia ownership, borrowing, lifetimes, traits, algebraic data types, pattern matching. Co to wszystko znaczy dowiemy się na miejscu ;)</li>
