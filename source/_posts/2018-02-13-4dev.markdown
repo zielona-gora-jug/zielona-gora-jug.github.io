@@ -1,0 +1,25 @@
+---
+layout: post
+title: "4Dev"
+date: 2018-02-13 21:52:02 +0100
+comments: true
+author: Paweł Nowak
+---
+
+9 kwietnia 2018 odbędzie się kolejna edycja 4Developers. Zielona Góra JUG - jako partner imprezy - zachęca Was, aby wziąć udział w największym Festiwalu Technologicznym w Polsce!
+
+Po pierwsze: możecie wziąć w nim udział jako prelegenci. Jeśli jest wiedza, którą chcielibyście się podzielić, to organizatorzy czekają na zgłoszenia 
+<a href="https://2018.4developers.org.pl/form.html" target="_blank">tutaj.</a> Spieszcie się, bo termin mija <b>16 lutego</b>. Tematyka dowolna byleby dotyczyła IT.
+
+Po drugie: możecie tam po prostu pojechać. Wystarczy zameldować się 9 kwietnia w Warszawie po wykupieniu biletu. Jedna osoba może go otrzymać za darmo (kto pierwszy, ten lepszy). Reszta - ze zniżką
+10% (podajcie kod <b>CP_zielonagorajug10</b> na <a href="https://4developers2018.evenea.pl/" target="_blank">Evenea</a>).
+
+Oddając głos organizatorom:
+
+<i>
+"4Developers to jeden dzień, w którym możecie wziąć udział w wykładach i warsztatach z odpowiadających Wam dziedzin, ale też spróbować czegoś nowego! Wszystkie ścieżki tematyczne stoją przed Wami otworem. Tutaj dowiecie się więcej: http://4developers.org.pl
+
+Dlaczego Festiwal? Ponieważ to kilkanaście technologii i języków programowania w jednym miejscu. Do tego eksperci i profesjonaliści, którzy chętnie wymienią się z Wami doświadczeniami! Wszystko to w ramach świetnej zabawy ;)"
+</i>
+
+<img class="center" src="/images/4developers.png" style="width: 50%;">
