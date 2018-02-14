@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-02-13T22:24:55+01:00</updated>
+  <updated>2018-02-14T20:57:04+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe '18]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/02/14/spotkanie-lutowe-18/"/>
+    <updated>2018-02-14T20:46:54+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/02/14/spotkanie-lutowe-18</id>
+    <content type="html"><![CDATA[<p>Drugie spotkanie w tym roku odbędzie się 28 lutego, w Hauście, o 19-tej. Można przyjść wcześniej na pogaduchy.</p>
+
+<p>Tym razem czeka nas jedna prezentacja, a mówić będzie Piotr Bugaj. Tematem będzie śledzenie aplikacji w Zipkinie.
+Omówi on wszelkie problemy związane z badaniem działania Waszych serwisów. Zipkinowi potowarzyszy cały ELK.</p>
+
+<p>W gronie naszych sponsorów witamy <a href="https://www.eobuwie.com.pl/" target="_blank">eobuwie.pl</a>.
+To dzięki nim będziemy mogli coś przekąsić.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/eobuwie.png" style="width: 75%;"></p>
+
+<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/247751246/" target="_blank">Meetup</a>. Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[4Dev]]></title>
@@ -462,30 +481,6 @@ Wspomniał również o jego historii i perspektywach rozwoju. Ostatnim elementem
 
 <p>Dziękujemy również wszystkim zaangażowanym w kończący się sezon: sponsorom, prelegentom oraz uczestnikom. Bez Was nie byłoby naszych comiesięcznych spotkań. Dziękujemy również załodze pubu
 Haust, który udostępnia nam swoje podwoje. Do zobaczenia w nowym, czwartym sezonie JUG ZG!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zakończenie sezonu 2016/2017]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/06/06/zakonczenie-sezonu-2016-slash-2017/"/>
-    <updated>2017-06-06T16:35:10+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/06/06/zakonczenie-sezonu-2016-slash-2017</id>
-    <content type="html"><![CDATA[<p>Przed nami ostatnie spotkanie sezonu 2016/2017. Z powodu wczesnych wakacji, spotykamy się już w połowie miesiąca (14 czerwca), w pubie Haust, o 19:00.
-Dzięki naszemu sponsorowi, <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, spotkanie będzie połączone z after party i dodatkową liczbą atrakcji.</p>
-
-<p>Zanim jednak przejdziemy do zabawy i podsumowań, czekają nas dwa tematy:</p>
-
-<ul>
-<li>Tomasz Kleszczyński wprowadzi nas w świat wschodzącej gwiazdy języków programowania - Kotlina. Ze względu na ostatnie doniesienia z Google I/O, może być to ciekawy temat dla
-ludzi poszukujących nowych wrażeń koderskich.
-<li>Cezary Kujawa dotknie tematu, którego większość ludzi nie lubi ruszać (i nie bez powodu!): kryptografii. Zrobi to ze szczególnym uwzględnieniem tego, co ważne dla programistów
-oraz miejsc, w których developerzy popełniają błędy.
-</ul>
-
-
-<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/240218492/">Meetup</a>. Zapraszamy!</p>
-
-<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="330" height="130" title="GlobalLogic" ></a></p>
 ]]></content>
   </entry>
   
