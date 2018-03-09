@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-02-14T20:57:04+01:00</updated>
+  <updated>2018-03-09T19:11:48+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Po spotkaniu lutowym]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/03/09/po-spotkaniu-lutowym/"/>
+    <updated>2018-03-09T19:10:45+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/03/09/po-spotkaniu-lutowym</id>
+    <content type="html"><![CDATA[<p>Ostatni lutowy wieczór przyniósł nam wystąpienie Piotra Bugaja, który mówił o Zipkinie. Piotr przedstawił nam ogólne wprowadzenie do śledzenia aplikacji, w tym takich, które składają
+się z mikroserwisów. Prezentację okrasił przykładami w formie wykresów oraz kodu - tym razem - PHP. Po licznych pytaniach wywołanych przez wystąpienie, widać, że temat
+ten jest jednym z codziennych problemów napotykanych przez programistów.</p>
+
+<p>Na koniec rozlosowaliśmy nagrody za wypełnione ankiety oraz jedną wejściówkę na konferencję <a href="http://conf.it/index.html" target="_blank">Greenfield</a>.</p>
+
+<p>Za sponsoring dziękujemy <a href="https://www.eobuwie.com.pl/" target="_blank">eobuwie.pl</a>.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/eobuwie.png" style="width: 75%;"></p>
+
+<p>Zachęcamy do wypełnienia <a href="https://docs.google.com/forms/d/1M4utX4FPiiQwp9c4mBBvygEcwJuGHFbGVnVu2QN7VLg/edit#responses" target="_blank">ankiety po spotkaniu</a>. Losowanie nagród na marcowym spotkaniu!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie lutowe '18]]></title>
@@ -450,37 +469,6 @@ Czekamy do 16 lipca włącznie (do północy).</p>
 <p>Tutaj zobaczysz na scenie (i poznasz osobiście!) znanych - lokalnych i zagranicznych - ekspertów, nawiążesz kontakty z organizatorami spotkań i meetupów, a także spotkasz przedstawicieli wiodących firm IT na polskim rynku. A przede wszystkim - w świetnej atmosferze i doborowym towarzystwie poszerzysz swoją wiedzę i zdobędziesz nowe umiejętności!</i></p>
 
 <p>Więcej informacji na <a href="https://17.jdd.org.pl"><a href="https://17.jdd.org.pl">https://17.jdd.org.pl</a></a>. Zapisy pod <a href="https://jdd2017.evenea.pl"><a href="https://jdd2017.evenea.pl">https://jdd2017.evenea.pl</a></a>. Podczas rejestracji użyjcie kodu <b>zielonagora-20</b>, który daje 20% zniżki!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zakończenie sezonu 2016/2017 - podsumowanie]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/06/15/zakonczenie-sezonu-2016-slash-2017-podsumowanie/"/>
-    <updated>2017-06-15T19:53:01+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/06/15/zakonczenie-sezonu-2016-slash-2017-podsumowanie</id>
-    <content type="html"><![CDATA[<p>Czternastego czerwca miało miejsce nasze ostatnie spotkanie w sezonie 2016/17. Sponsorem spotkania i after-party był <a href="https://www.globallogic.com/pl/"> GlobalLogic</a>.</p>
-
-<p><a href="https://www.globallogic.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" width="330" height="130" title="GlobalLogic" ></a></p>
-
-<p>Prelegentami byli dwaj pracownicy sponsora: Cezary Kujawa i Tomasz Kleszczyński. Cezary przedstawił nam szybkie przypomnienie podstaw kryptografii wraz z najczęściej używanymi
-algorytmami. Najważniejszym elementem tego wykładu było jednak wymienienie błędów, które popełniamy jako programiści podczas użycia kryptografii. Chodziło tu o sposoby
-przechowywania haseł, wybór algorytmów i procedur oraz certyfikaty używane m.in. do cyfrowego podpisywania dokumentów.</p>
-
-<p>Tomek z kolei opowiedział nam o Kotlinie - wschodzącej gwieździe wśród języków programowania. Wymienił 20 składniowych cech, które sprawiają, że warto zainteresować się właśnie tym językiem.
-Wspomniał również o jego historii i perspektywach rozwoju. Ostatnim elementem było szybkie wymienienie narzędzi, dzięki którym sprawnie można zapoznać się z Kotlinem.</p>
-
-<p>Materiały:</p>
-
-<ul>
-<li> Kotlin - <a href="files/Kotlin-jug.pdf" target="_blank">prezentacja</a> i <a href="files/Kotlin-jug.zip" target="_blank">prezentacja z kodem</a>
-<li> <a href="files/kryptografia.pdf" target="_blank">Kryptografia na usługach dewelopera</a></li>
-</ul>
-
-
-<p>Po części oficjalnej i losowaniu nagród, GlobalLogic zorganizował dodatkowe atrakcje, czyli catering+ oraz gry zespołowe. Dziękujemy!</p>
-
-<p>Dziękujemy również wszystkim zaangażowanym w kończący się sezon: sponsorom, prelegentom oraz uczestnikom. Bez Was nie byłoby naszych comiesięcznych spotkań. Dziękujemy również załodze pubu
-Haust, który udostępnia nam swoje podwoje. Do zobaczenia w nowym, czwartym sezonie JUG ZG!</p>
 ]]></content>
   </entry>
   
