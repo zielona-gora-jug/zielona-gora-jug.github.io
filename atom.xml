@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-03-09T19:11:48+01:00</updated>
+  <updated>2018-03-09T21:53:28+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Java. To takie proste.]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/03/09/java-to-takie=proste/"/>
+    <updated>2018-03-09T21:39:25+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/03/09/java-to-takie=proste</id>
+    <content type="html"><![CDATA[<p>Uwaga, uwaga! Zielona Góra JUG po raz pierwszy objął patronatem książkę i to od razu prestiżowego wydawnictwa PWN. Być może jest to dobra okazja, aby podrzucić tę książkę komuś, kto powinien lub chciałby iść w
+Wasze ślady, programiści?</p>
+
+<p><a href="http://bit.ly/2DUIgmt" target="_blank">
+<img class="center" src="http://zielona-gora-jug.github.io/images/ksiazka.jpg" style="width: 50%">
+</a></p>
+
+<p>Spójrzcie na opis książki:</p>
+
+<blockquote>
+<p>
+Java to najpopularniejszy język programowania na świecie, lecz jest znany z tego, że z początku jest trudny do nauki. Książka Java, to takie proste uczy tego języka za pomocą praktycznych projektów, dzięki którym od razu zaczniesz tworzyć prawdziwe, działające aplikacje.
+<br><br>
+<p>
+Naukę zaczniesz od zapoznania się z JSell, interaktywnym wierszem poleceń Javy, który pozwala programistom uruchamiać pojedyncze wiersze kodu od razu otrzymując rezultat. 
+Następnie utworzysz grę w zgadywankę, koder sekretnych wiadomości oraz aplikację do rysowania bąbelków za pomocą wielokrotnego dotyku – zarówno na komputer, jak i urządzenia mobilne. Będziesz przy tym korzystać ze standardu IDE, Eclipse, a także Android Studio, środowiska do budowania aplikacji w systemie Android.
+<br><br>
+<p>
+Tworząc te aplikacje, nauczysz się:
+wykonywać obliczenia, operować na ciągach tekstowych i generować losowe kolory
+używać warunków, pętli i metod, aby twoje programy były responsywne i zwięzłe
+tworzyć funkcje, aby ponownie wykorzystywać kod i oszczędzać czas
+tworzyć elementy graficznego interfejsu użytkownika (GUI), w tym przyciski, menu, wyskakujące okienka i suwaki  
+korzystać z funkcji Eclipse i Android Studio do debugowania kodu i znajdowania, poprawiania oraz zapobiegania typowym błędom
+<br><br><p>
+Jeśli zamierzasz uczyć się Javy, książka Java, to takie proste od razu pozwoli ci przejść do działania.
+
+</blockquote>
+
+
+<p>Więcej szczegółów <a href="http://bit.ly/2DUIgmt" target="_blank">na stronie wydawnictwa</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Po spotkaniu lutowym]]></title>
@@ -448,27 +487,6 @@ ulicy Strzeleckiej. Oprócz nietypowego cateringu, doświadczymy spotkania z dwo
 
 <p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/242746978/">Meetup</a>. Zwracamy uwagę na ogłoszenia organizacyjne - są istotne dla dobrej zabawy.
 Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zaproszenie na JDD]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/07/09/zaproszenie-na-jdd/"/>
-    <updated>2017-07-09T15:29:58+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/07/09/zaproszenie-na-jdd</id>
-    <content type="html"><![CDATA[<p>Zapraszamy no konferencję JDD organizowaną przez naszych partnerów, a zarazem organizatorów konkursu JUGmajster. Konferencja odbędzie się w Krakowie 3 i 4 października na terenach EXPO.
-Dla chętnych mamy jedną darmową wejściówkę. Otrzyma ją osoba, które prześle <a href="mailto:magda.stozek@gmail.com">Magdzie</a> najbardziej interesującą propozycję rozwoju naszego JUGa albo opinię o sezonie 2016/2017.
-Czekamy do 16 lipca włącznie (do północy).</p>
-
-<p><a href="https://17.jdd.org.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd.jpg"></a></p>
-
-<p>Dlaczego warto jechać do Krakowa? Oddajmy głos samym organizatorom:</p>
-
-<p><i>Dlaczego JDD jest warte Twojego czasu? Ponieważ to konferencja, która opiera się przede wszystkim na współpracy ze społecznościami. Program powstaje dzięki członkom Rady Programowej oraz przedstawicielom polskich Java User Groups, dlatego idealnie odpowiada aktualnej sytuacji w świecie Java.</p>
-
-<p>Tutaj zobaczysz na scenie (i poznasz osobiście!) znanych - lokalnych i zagranicznych - ekspertów, nawiążesz kontakty z organizatorami spotkań i meetupów, a także spotkasz przedstawicieli wiodących firm IT na polskim rynku. A przede wszystkim - w świetnej atmosferze i doborowym towarzystwie poszerzysz swoją wiedzę i zdobędziesz nowe umiejętności!</i></p>
-
-<p>Więcej informacji na <a href="https://17.jdd.org.pl"><a href="https://17.jdd.org.pl">https://17.jdd.org.pl</a></a>. Zapisy pod <a href="https://jdd2017.evenea.pl"><a href="https://jdd2017.evenea.pl">https://jdd2017.evenea.pl</a></a>. Podczas rejestracji użyjcie kodu <b>zielonagora-20</b>, który daje 20% zniżki!</p>
 ]]></content>
   </entry>
   
