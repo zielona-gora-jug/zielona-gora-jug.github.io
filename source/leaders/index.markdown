@@ -33,7 +33,7 @@ footer: true
 		<p class="name">Paweł Nowak</p>
 		<div class="social"> 
 			<a class="linkedin" href="https://pl.linkedin.com/in/pawel-nowak-7077b98" target="_blank"></a>
-			<a class="mail" href="mailto:nowak.p@gmail.com"></a>
+			<a class="mail" href="mailto:nowak.p@hotmail.com"></a>
 		</div>
 		<p class="desc">
 		Pracuje w ADB, obecnie jako programista Javy, choć w przez wiele lat programował również w C# i PHP, a także kierował niewielkimi zespołami programistów. Czasami dzieli się wiedzą podczas różnych wykładów, np. w ramach Akademii ADB.

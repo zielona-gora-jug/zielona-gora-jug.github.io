@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Scala Sphere 2018"
+date: 2018-03-10 21:30:13 +0100
+comments: true
+categories: 
+author: Paweł Nowak
+---
+16 i 17 kwietnia 2017 r., w Krakowie odbędzie się III konferencja <a href="http://scala.sphere.it" target="_blank">ScalaSphere</a>. Tym razem będą to tak naprawdę trzy konferencje, ale jedno miejsce i jeden bilet. 
+Oprócz Scala Sphere o samej Scali i okolicach, będzie to również <a href="http://data.sphere.it" target="_blank">DataSphere</a> (analiza danych, AI, Spark, Python) i <a href="http://react.sphere.it" target="_blank">ReactSphere</a> (o programowanie reaktywne).
+
+Dzień wcześniej będzie dzień wydarzeń towarzyszących czyli szkolenia, warsztaty, hackatony z udziałem znanych gości (Jon Pretty, Ólafur Páll Geirsson, Krzysztof Romanowski, Grzegorz Gawron).
+
+Do zaoferowania mamy (kontakt z <a href="leaders">Pawłem Nowakiem</a>, kto pierwszy ten lepszy przy czym może okazać się, że kody zostaną wykorzystane przez innych partnerów w międzyczasie):
+<ul>
+<li>Darmowe wejściówki.</li>
+<li>Zniżki 10% na bilety.</li>
+</ul>
+
