@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-03-10T21:42:35+01:00</updated>
+  <updated>2018-03-15T19:18:27+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe 2018 - Elm]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/03/15/spotkanie-lutowe-2018-elm/"/>
+    <updated>2018-03-15T19:12:14+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/03/15/spotkanie-lutowe-2018-elm</id>
+    <content type="html"><![CDATA[<p>Kolejne spotkanie będzie miało miejsce 28 marca, w Hauście, o 19-tej. Na pół godziny przed spotkaniem - tradycyjny networking.</p>
+
+<p>Tematem dnia będzie Elm - mało znana na razie technologia frontendowa. Dowiecie się dlaczego jest ona lepsza niż JS, TypeScript i im podobne.
+Wykład poprowadzi Karol Marcjan.</p>
+
+<p>Tym razem sponsorem spotkania będziecie Wy - korzystając z gościnności Hausta, nie zapomnijcie o zakupie przynajmniej jednego napoju,
+aby okazać swoją wdzięczność. A gdybyście znali firmę chętną dołączyć do grona sponsorów, podejdźcie do organizatorów w trakcie spotkania.</p>
+
+<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/248678434/" target="_blank">Meetup</a>. Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Scala Sphere 2018]]></title>
@@ -459,28 +476,6 @@ A bilety kupić można na <a href="https://devcamp2017.evenea.pl/">https://devca
 
 <p>Udział jest bezpłatny, jednak liczba miejsc jest ograniczona.
 Rejestrujcie się poprzez formularz: <a href="https://innovation-amazon.com">https://innovation-amazon.com</a> i do zobaczenia w Gdańsku! :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zaproszenie na spotkanie wrześniowe]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/09/17/zaproszenie-na-spotkanie-wrzesniowe/"/>
-    <updated>2017-09-17T20:52:14+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/09/17/zaproszenie-na-spotkanie-wrzesniowe</id>
-    <content type="html"><![CDATA[<p>We wrześniu mamy dla was aż dwa wydarzenia - oprócz <a href="blog/2017/08/23/spotkanie-przy-grillu/">grilla</a> mamy również spotkanie tradycyjne, w zaprzyjaźnionym pubie Haust. Jak zwykle, odbędzie się ono w ostatnią środę miesiąca, czyli 27. września. Sponsorem będzie firma <a href="http://www.sygnitysbs.pl/" target="_blank">Sygnity Business Solutions S.A.</a>.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/sygnity.jpg" style="width: 50%;">
-<img class="center" src="http://zielona-gora-jug.github.io/images/oracle.jpg" style="width: 50%;"></p>
-
-<p>W planach mamy dwie ciekawe prezentacje:</p>
-
-<ul>
-<li>Marcin Stożek - Nginx + Lua = OpenResty</li>
-<li>Łukasz Klimas - A full Oracle Cloud development environment</li>
-</ul>
-
-
-<p>Więcej szczegółów oraz zapisy - na <a href="https://www.meetup.com/preview/Zielona-Gora-JUG/events/243326406" target="_blank">meetupie</a>. Zapraszamy!</p>
 ]]></content>
   </entry>
   
