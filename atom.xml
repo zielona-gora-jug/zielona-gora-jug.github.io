@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-03-15T19:18:27+01:00</updated>
+  <updated>2018-03-24T16:55:29+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Spotkanie lutowe 2018 - Elm]]></title>
+    <title type="html"><![CDATA[Spotkanie lutowe 2018 - Elm i Helm]]></title>
     <link href="http://zielona-gora-jug.github.io/blog/2018/03/15/spotkanie-lutowe-2018-elm/"/>
     <updated>2018-03-15T19:12:14+01:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2018/03/15/spotkanie-lutowe-2018-elm</id>
@@ -27,6 +27,8 @@ Wykład poprowadzi Karol Marcjan.</p>
 aby okazać swoją wdzięczność. A gdybyście znali firmę chętną dołączyć do grona sponsorów, podejdźcie do organizatorów w trakcie spotkania.</p>
 
 <p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/248678434/" target="_blank">Meetup</a>. Zapraszamy!</p>
+
+<p><b>Zmiana z ostatniej chwili:</b> Będzie drugi prelegent - Pojo. Opowie nam o Helmie.</p>
 ]]></content>
   </entry>
   
