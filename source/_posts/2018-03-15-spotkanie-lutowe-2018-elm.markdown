@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spotkanie lutowe 2018 - Elm"
+title: "Spotkanie lutowe 2018 - Elm i Helm"
 date: 2018-03-15 19:12:14 +0100
 comments: true
 categories: 
@@ -16,3 +16,5 @@ Tym razem sponsorem spotkania będziecie Wy - korzystając z gościnności Haust
 aby okazać swoją wdzięczność. A gdybyście znali firmę chętną dołączyć do grona sponsorów, podejdźcie do organizatorów w trakcie spotkania.
 
 Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/248678434/" target="_blank">Meetup</a>. Zapraszamy!
+
+<b>Zmiana z ostatniej chwili:</b> Będzie drugi prelegent - Pojo. Opowie nam o Helmie.
