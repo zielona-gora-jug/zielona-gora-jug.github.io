@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-04-03T22:03:50+02:00</updated>
+  <updated>2018-04-03T22:15:27+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -33,10 +33,10 @@ Jest też <a href="https://docs.google.com/forms/d/e/1FAIpQLScb2U4RApq-K0duV0mGx
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Spotkanie lutowe 2018 - Elm i Helm]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/03/15/spotkanie-lutowe-2018-elm/"/>
+    <title type="html"><![CDATA[Spotkanie marcowe 2018 - Elm i Helm]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/03/15/spotkanie-marcowe-2018-elm/"/>
     <updated>2018-03-15T19:12:14+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/03/15/spotkanie-lutowe-2018-elm</id>
+    <id>http://zielona-gora-jug.github.io/blog/2018/03/15/spotkanie-marcowe-2018-elm</id>
     <content type="html"><![CDATA[<p>Kolejne spotkanie będzie miało miejsce 28 marca, w Hauście, o 19-tej. Na pół godziny przed spotkaniem - tradycyjny networking.</p>
 
 <p>Tematem dnia będzie Elm - mało znana na razie technologia frontendowa. Dowiecie się dlaczego jest ona lepsza niż JS, TypeScript i im podobne.
