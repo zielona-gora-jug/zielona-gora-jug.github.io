@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spotkanie lutowe 2018 - Elm i Helm"
+title: "Spotkanie marcowe 2018 - Elm i Helm"
 date: 2018-03-15 19:12:14 +0100
 comments: true
 categories: 
