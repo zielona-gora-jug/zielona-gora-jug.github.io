@@ -7,7 +7,7 @@ categories:
 ---
 
 Dzień przed konferencją <a href="http://greenfieldconf.pl/" target="_blank">Greenfield</a>, zapraszamy na wspólny meetup grup DEV@ZG, Zielona Góra JUG i UX Zielona Góra. 
-Spotkajmy się w piątkowy wieczór, 18 V o 19:00, aby porozmawiać, posłuchać ciekawej prezentacji i przygotować na sobotnią konferencję :)
+Spotkajmy się w piątkowy wieczór, 18 V o 19:00 w Hauście, aby porozmawiać, posłuchać ciekawej prezentacji i przygotować na sobotnią konferencję :)
 
 Napoje i przekąski zapewnia sponsor spotkania - firma <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.
 
