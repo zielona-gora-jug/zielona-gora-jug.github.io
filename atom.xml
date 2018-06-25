@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-05-07T20:10:30+02:00</updated>
+  <updated>2018-06-25T21:23:53+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lipcowe - 4 lipca]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/06/25/spotkanie-czerwcowe-4-lipca/"/>
+    <updated>2018-06-25T21:05:54+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/06/25/spotkanie-czerwcowe-4-lipca</id>
+    <content type="html"><![CDATA[<p>W tym roku wyjątkowo odbędzie się spotkanie w lipcu (4-ego). Z powodu zamknięcia naszego dotychczasowego lokalu, zapraszamy do Barcelony na typową 19:00.</p>
+
+<p>Tematem dnia będzie alternatywa dla REST - GraphQL. Marcin Stachniuk z wrocławskiego JUGa przybliży problemy związane z zastosowaniem tego stylu
+architekturalnego i pokaże w jaki sposób Facebook starał się je rozwiązać tworząc GraphQL. Sam Marcin jest programistą, propagatorem zwinnych technik programowania a także
+wielu sportów z deską (od snowboardu do wakeboardu). Jego wystąpienie z pewnością będzie wynikało z doświadczenia zdobytego w trudzie i znoju ;)</p>
+
+<p>Napoje i przekąski zapewnia sponsor spotkania - firma <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<p>Zapraszamy! <a href="https://cinkciarz.pl" target="_blank">Zapisy tutaj</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wspólny meetup z DEV@ZG i UX Zielona Góra]]></title>
@@ -388,45 +407,6 @@ Wahającym się polecamy poznanie szczegółów na <a target="_blank" href="http
 <p>Daniel jest aktywnym uczestnikiem spotkań świata IT. W swojej pracy skupia się nad, zarówno „zdolnościami” twardymi jak i „miękkimi”. Tym razem zostajemy przy tych pierwszych i porozmawiamy o Kubernetesie. Daniel zaproponuje nowe podejście, które pozwoli nam na development modułu osadzonego w ekosystemie dziesiątek mikroserwisów. Często próbujemy „postawić” całą taką aplikację. Czy to potrzebne? Odpowiedź już 25 X!</p>
 
 <p>Więcej szczegółów oraz zapisy – na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/244121730/" target="_blank">Meetupie</a> Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/09/29/podsumowanie-spotkania-wrzesniowego/"/>
-    <updated>2017-09-29T19:57:00+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/09/29/podsumowanie-spotkania-wrzesniowego</id>
-    <content type="html"><![CDATA[<p>Nasze pierwsze całkowicie samodzielne spotkanie w nowym sezonie miało miejsce tradycyjnie w ostatnią środę miesiąca. Tym razem był to 27 września, a sponsorem spotkania było <a href="http://www.sygnitysbs.pl/">Sygnity Business Solutions!</a>.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/sygnity.jpg" style="width: 50%;">
-<img class="center" src="http://zielona-gora-jug.github.io/images/oracle.jpg" style="width: 50%;"></p>
-
-<!-- more -->
-
-
-<p>Pierwszym gościem był przybyły aż z Bukaresztu przedstawiciel Oracle, Łukasz Klimas. Na co dzień zajmuje się środowiskiem chmurowym Oracle i tego też dotyczyła prezentacja. Skoncentrował się głównie na ofercie
-PaaS, czyli dostarczaniu platformy jako serwisu (choć Oracle oferuje również IaaS i SaaS) ze szczególnym uwzględnieniem potrzeb developerów. Omówił development w Java Cloud Service i Application Container. Te ostatnie to usługi opakowane w Dockera. Rozwiązanie Oracle okazuje się być bardzo kompleksowe: pozwala na chmuryzację istniejących rozwiązań, tworzenie nowych przy pomocy specjalnego Developer Cloud Service, gdzie zintegrowany jest pełen cykl wytwarzania oprogramowania, oraz migrację między technikami wirtualizacji. Na końcu mogliśmy zobaczyć żywe demo deployowania rozwiązania.</p>
-
-<p>Drugi temat zaprezentował laureat nagrody &ldquo;JUG Majster&rdquo;, Marcin Stożek. Pokazał nam swoje ostatnie odkrycie, czyli Nginx sterowany Luą, czyli OpenResty. Po krótkim wprowadzeniu w stylu <i>what-is-what</i>, zobaczyliśmy krótkie, acz treściwe skrypty Lua, które szybko pozwalały dodać do serwera HTTP takie możliwości jak: ID korelacji, zarządzanie sesjami, modyfikowanie zawartości &ldquo;w locie&rdquo; oraz bronienie strony przy pomocy firewalla.</p>
-
-<p>Materiały</p>
-
-<ul>
-<li><a href="files/OCD.pdf">Oracle Cloud Development</a></li>
-<li><a href="http://slides.com/perk/nginx-lua-openresty">Nginx + Lua = OpenResty</a></li>
-</ul>
-
-
-<p>Przypominamy o:</p>
-
-<ul>
-<li>możliwości ocenienia prezentacji (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfC5s-v_JrKzIeOcn0Uj3jtyquOVeOcdYYDfORwmrFmEABtBw/viewform?c=0&w=1">tutaj</a>). Znowu czekają nagrody!</li>
-<li>wejściówkach na różne imprezy do wzięcia za darmo (szczegóły w poprzednich postach)</li>
-<li>poszukiwanych prelegentach i sponsorach</li>
-</ul>
-
-
-
 ]]></content>
   </entry>
   
