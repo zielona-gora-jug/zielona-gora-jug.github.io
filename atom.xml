@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-06-25T21:23:53+02:00</updated>
+  <updated>2018-07-10T20:18:46+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lipcowe '18 - podsumowanie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/07/10/spotkanie-lipcowe-18-podsumowanie/"/>
+    <updated>2018-07-10T20:00:54+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/07/10/spotkanie-lipcowe-18-podsumowanie</id>
+    <content type="html"><![CDATA[<p>Ostatnie spotkanie w czwartym sezonie JUG-a było wyjątkowe pod wieloma względami: miało miejsce w Barcelonie i było w lipcu. Teamtem dnia był GraphQL, a mówił o nim
+nasz gość z Wrocławia - Marcin Stachniuk.</p>
+
+<p>Na wstępie podał nam powody, dla których REST może nie być najlepszym rozwiązaniem dla API oraz wytłumaczył dlaczego Facebook zdecydował się na opracowanie
+własnego rozwiązania. Przez następne kilkadziesiąt minut poznaliśmy składnię GraphQL oraz metody tworzenia kontrolerów w Javie.</p>
+
+<p>Jeśli chcecie jeszcze raz przejrzeć prezentację lub kody źródłowe, kliknijcie w odpowiedni link:</p>
+
+<ul>
+<li><a href="http://zielona-gora-jug.github.io/files/graphql.pdf" target="_blank">Prezentacja</a></li>
+<li><a href="http://zielona-gora-jug.github.io/files/graphql.zip" target="_blank">Kod źródłowy</a></li>
+</ul>
+
+
+<p>Po prezentacji - oraz w jej trakcie - padały liczne pytania odnoszące się do praktycznych zastosowań Facebookowej technologii.</p>
+
+<p>Spotkanie zakończyło losowanie nagród za wypełnione ankiety oraz rozdawanie książek (również tej wydanej pod naszym patronatem). Na koniec przedstawiliśmy garść statystyk
+tyczących się naszej grupy za ostatnie cztery lata.</p>
+
+<p>Dziękujemy za ten rok i do zobaczenia we wrześniu. Śledźcie nasze kanały komunikacji, aby nie pominąć wrześniowego spotkania!</p>
+
+<p>P.S. Ankieta pospotkaniowa <a href="https://docs.google.com/forms/d/1IH55K9LwsJ9OZMAi8hypRsAiP2zLNoFdeeQ2tRv5K1g/viewform?c=0&w=1" target="_blank">jest tutaj</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie lipcowe - 4 lipca]]></title>
@@ -28,7 +58,7 @@ wielu sportów z deską (od snowboardu do wakeboardu). Jego wystąpienie z pewno
 
 <p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
 
-<p>Zapraszamy! <a href="https://cinkciarz.pl" target="_blank">Zapisy tutaj</a>.</p>
+<p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/252130930/" target="_blank">Zapisy tutaj</a>.</p>
 ]]></content>
   </entry>
   
@@ -392,21 +422,6 @@ Wahającym się polecamy poznanie szczegółów na <a target="_blank" href="http
     <updated>2017-10-11T21:54:03+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2017/10/11/zaproszenie-na-konferencje</id>
     <content type="html"><![CDATA[<p>Firma ADB poinformowała nas, że 24 października organizuje bezpłatną konferencję ADB Tech Talk w gmachu Filharmonii Zielonogórskiej. Dwójka gości zaproszonych specjalnie na to wydarzenie opowie o mikroserwisach i sztucznej inteligencji. Więcej szczegółów i rejestracja na <a href="https://www.adbglobal.com/adb-tech-talk/" target="_blank">tej stronie</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie październikowe]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/10/11/spotkanie-pazdziernikowe/"/>
-    <updated>2017-10-11T21:49:40+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/10/11/spotkanie-pazdziernikowe</id>
-    <content type="html"><![CDATA[<p>W październiku spotykamy się 25-tego, o 19-tej, w pubie Haust. Tym razem sponsorem spotkania jest <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, a prelegentem – Daniel Pokusa z Gliwic.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
-
-<p>Daniel jest aktywnym uczestnikiem spotkań świata IT. W swojej pracy skupia się nad, zarówno „zdolnościami” twardymi jak i „miękkimi”. Tym razem zostajemy przy tych pierwszych i porozmawiamy o Kubernetesie. Daniel zaproponuje nowe podejście, które pozwoli nam na development modułu osadzonego w ekosystemie dziesiątek mikroserwisów. Często próbujemy „postawić” całą taką aplikację. Czy to potrzebne? Odpowiedź już 25 X!</p>
-
-<p>Więcej szczegółów oraz zapisy – na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/244121730/" target="_blank">Meetupie</a> Zapraszamy!</p>
 ]]></content>
   </entry>
   
