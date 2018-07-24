@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-07-10T20:18:46+02:00</updated>
+  <updated>2018-07-24T18:51:19+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zaproszenia na imprezy]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/07/24/zaproszenia-na-imprezy/"/>
+    <updated>2018-07-24T18:34:30+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/07/24/zaproszenia-na-imprezy</id>
+    <content type="html"><![CDATA[<p>Oficjalnie rozpoczynamy sezon zaproszeniowy na konferencje i pokrewne wydarzenia. Dziś zaproszenia dwa.</p>
+
+<p>Aby otrzymać bonusy, wystarczy dodać komentarz do tego postu lub napisać do nas na Facebook.</p>
+
+<!-- more -->
+
+
+<p><strong>HackYeah - 24-25 listopada, Warszawa</strong></p>
+
+<p>O co chodzi? O HackYeah - największy, stacjonarny hackathon w Europie. Pula nagród: 240.000 PLN.</p>
+
+<p>Opłata za bilety jest symboliczna, cały dochód ze sprzedaży zostanie przekazany na rzecz projektu Szkoła 3.0. – kursów programowania dla podopiecznych z krakowskich domów dziecka.</p>
+
+<p>HackYeah to nie tylko hackathon! To także festiwal IT, który łączy ludzi ze świata programowania i nowych technologii. Na pewno znajdziesz coś dla siebie w agendzie konferencji lub w strefach wypełnionych atrakcjami. Więcej informacji niebawem pod
+<a href="https://hackyeah.pl" target="_blank">hackyeah.pl</a>.</p>
+
+<p>Tutaj mamy 20 darmowych wejściówek i nieograniczoną ilość ze zniżką 40%.</p>
+
+<p><strong>SpreadIT - 8 września, Katowice</strong></p>
+
+<p>Darmowa konferencja poświęcona zagadnieniom związanym z informatyką. Tu wystarczy się zarejestrować pod <a href="https://spreadit.pl/" target="_blank">spreadit.pl</a> i &hellip; jechać.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie lipcowe '18 - podsumowanie]]></title>
@@ -413,15 +442,6 @@ Znalazły się tam obiecane przez Michała linki do dodatkowych informacji. Kod 
 Całodzienne wydarzenie będzie miało miejsce 18 listopada od 8:00 do 17:00 na Uniwersytecie, w budynku przy ulicy prof. Szafrana. Chętni do wzięcia w nim udziału
 powinni zarejestrować się za pomocą <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdNyoWzPGq9WUHvMr4ZWIpgDe7URYUZAJmC2gYFfPneJDmQAg/viewform">formularza on-line</a>.
 Wahającym się polecamy poznanie szczegółów na <a target="_blank" href="https://www.facebook.com/events/377373666017704/">Facebook</a>. Zachęcamy do udziału w tym nietypowym wydarzeniu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zaproszenie na konferencję]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/10/11/zaproszenie-na-konferencje/"/>
-    <updated>2017-10-11T21:54:03+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/10/11/zaproszenie-na-konferencje</id>
-    <content type="html"><![CDATA[<p>Firma ADB poinformowała nas, że 24 października organizuje bezpłatną konferencję ADB Tech Talk w gmachu Filharmonii Zielonogórskiej. Dwójka gości zaproszonych specjalnie na to wydarzenie opowie o mikroserwisach i sztucznej inteligencji. Więcej szczegółów i rejestracja na <a href="https://www.adbglobal.com/adb-tech-talk/" target="_blank">tej stronie</a>.</p>
 ]]></content>
   </entry>
   
