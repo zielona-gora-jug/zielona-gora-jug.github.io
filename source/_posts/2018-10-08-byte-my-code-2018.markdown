@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Byte My Code 2018"
+date: 2018-10-08 20:27:31 +0200
+comments: true
+categories: 
+---
+
+<img class="center" src="/images/bytemycode.png" style="width: 50%;">
+
+Otrzymaliśmy zaproszenie od naszych partnerów z Byte My Code - konferencji o Javie i Craftsmanship. Wystąpią Marcus Biel,
+Kuba Nabrdalik, Jakub Pilimon, Celine Boudier i Machael Feathers. Impreza jest biletowana, ale dochód przeznaczony jest
+na cele charytatywne. Szczegóły na stronie <a href="https://bytemycode.pl" target="_blank">bytemycode.pl</a>.
+
+
