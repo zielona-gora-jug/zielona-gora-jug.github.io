@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-10-10T19:24:22+02:00</updated>
+  <updated>2018-10-21T09:55:28+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie październikowe 2018]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/10/21/spotkanie-pazdziernikowe-2018/"/>
+    <updated>2018-10-21T09:50:18+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/10/21/spotkanie-pazdziernikowe-2018</id>
+    <content type="html"><![CDATA[<p>Spotkanie październikowe odbędzie się 24-ego października o 19:00 (o 18:30 jest tradycyjne pre-party) w klubie &ldquo;Wyspa&rdquo; na Campusie B UZ przy Al. Wojska Polskiego 65.
+Prelegent przyjedzie z Łodzi, a sponsorem dnia jest <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
+
+<p><b>MongoDB in a nutshell for Developer</b></p>
+
+<p>No więc pewnie słyszałeś coś o MongoDB ale być może nie masz pojęcia jak (albo kiedy) go użyć? Wiktor pomoże zrozumieć podstawowe koncepcje związane z MongoDB i różnice w stosunku do klasycznego świata RDBMS. W trakcie prezentacji spojrzymy na MongoDB z perspektywy Java Developera i odpowiemy sobie na kilka pytań. Do czego możemy go użyć? Co może nam dać Mongo, a czego nie mogą tradycyjne relacyjne bazy? Kiedy go nie używać?</p>
+
+<p>W drugiej części przyjrzymy się temu jak poszukiwać wąskie gardła, jak czytać explain() i na co zwracać uwagę. Dokładnie przyjrzymy się indeksom. Dowiemy się jak najlepiej wykorzystywać indeksy do sortowania, dlaczego tak ważna jest kolejność pól w indeksie oraz jakie są zasady, którymi powinniśmy się kierować tworząc indeksy.
+Aby dodać łyżkę dziegciu do beczki miodu przybliżę wam również ciemniejsze strony indeksów - zasobożerność i to jak wpływają na wydajność zapisów.</p>
+
+<p><b>Wiktor Sztajerowski</b> - cynik, wielbiciel marnych dowcipów i koneser chemexa. Zakręcony na punkcie systemów rozproszonych. Bywalec salonów konferencyjnych (czasami nawet udaje, że coś wie i mądrzy się ze sceny). Na co dzień programista, architekt lub konsultant – w zależności od potrzeb. Jeden z leaderów łódzkiego JUGa, a od niedawna współorganizator konferencji SegFault oraz CoreDump.</p>
+
+<p>Napoje i przekąski zapewnia sponsor spotkania - firma <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/255574466/" target="_blank">Zapisy tutaj</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego 2018]]></title>
@@ -456,33 +481,6 @@ zagadnienia ownership, borrowing, lifetimes, traits, algebraic data types, patte
 
 
 <p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/246775002/" target="_blank">Meetup</a>. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania grudniowego]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2017/12/22/podsumowanie-spotkania-grudniowego/"/>
-    <updated>2017-12-22T15:46:33+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2017/12/22/podsumowanie-spotkania-grudniowego</id>
-    <content type="html"><![CDATA[<p>W przedświąteczny środowy wieczór Dawid Maksylewicz szybko wprowadził nas w nowości Javy 9. Po kolei streścił zasady nowej modułowości,
-zalety konsoli Java, zmiany w API oraz kilkanaście mniejszych dodatków i usprawnień.
-Jak widać po żywych reakcjach publiczności i krótkich dyskusjach, Java 9 bardzo szybko wkroczyła przynajmniej do Waszych POCów i macie już swoje zdanie na temat zmian.
-W uzupełnieniu prezentacji Dawid uruchomił modularny kod zgodny z Jigsaw. Końcowym akordem był krótki pokaz projektu Lombok - jedna klasa zawierała większość miłych rzeczy przychodzących z tą biblioteką.</p>
-
-<p>Na końcu tradycyjnie rozlosowaliśmy nagrody - w tym inteligentny głośnik Google od naszego sponsora <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.
-After party trwało kolejne dobrych kilkadziesiąt minut.</p>
-
-<p>W Nowym Roku życzymy wszystkiego najlepszego - nie tylko w kodowaniu. Do zobaczenia na kolejnym JUG-u w styczniu!</p>
-
-<p>Prezentacje:</p>
-
-<ul>
-<li><a href="http://zielona-gora-jug.github.io/files/Java_9.pptx" target="_blank">Java 9</a></li>
-<li><a href="http://zielona-gora-jug.github.io/files/Lombok.pptx" target="_blank">Lombok</a></li>
-</ul>
-
-
-<p>Zachęcamy do wypełnienia <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJii9GrTMDk3-UDQPBRPI_b7-XIWxF6ptcUF_yz0eG9Sh7og/viewform?c=0&w=1" target="_blank">ankiety po spotkaniu</a>. Nagrody czekają!</p>
 ]]></content>
   </entry>
   
