@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-10-21T09:55:28+02:00</updated>
+  <updated>2018-10-31T12:49:58+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[IT NonStop: J-Santa 2018]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/10/31/it-nonstop-j-santa-2018/"/>
+    <updated>2018-10-31T12:42:06+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/10/31/it-nonstop-j-santa-2018</id>
+    <content type="html"><![CDATA[<p>Jesteśmy Community Partnerem pierwszej konferencji JVM i Craftsmanship w Lublinie!
+IT NonStop: J-Santa to przede wszystkim technologiczni eksperci, 3 merytoryczne ścieżki tematyczne i typowe techniczne case studies.
+Wystąpią Jarosław Pałka, Marcin Grzejszczak, Grzegorz Piwowarek i inni.
+Będziecie?</p>
+
+<p><a href="https://j-santa.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jsanta.jpg" title="J-Santa" ></a></p>
+
+<p>Linki:</p>
+
+<ul>
+<li><a href="https://goo.gl/kALdPj" target="_blank">Rejestracja</a>
+<li><a href="https://j-santa.pl" target="_blank">Strona domowa</a>
+<li><a href="https://www.facebook.com/events/180114162913608/" target="_blank">Strona Facebook</a>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie październikowe 2018]]></title>
@@ -452,35 +475,6 @@ tak naprawdę są cechami tego językami sprawiającymi, że programista ma mnie
     <content type="html"><![CDATA[<p>Zielona Góra JUG zaprasza - jako współorganizator - na pierwszą na Ziemi Lubuskiej konferencję dal programistów - <a href="http://greenfieldconf.pl/" target="_blank">Greenfield</a>!
 Na stronie domowej konferencji znajdziecie wszystkie szczegóły. Tytułem skrótu informujemy, że: konferencja odbędzie się w majową sobotę na Uniwersytecie; przewidziano dwie ścieżki i wstęp
 jest (symbolicznie) płatny. Serdecznie zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pierwsze spotkanie w 2018 - Blockchain i Rust]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/01/15/pierwsze-spotkanie-w-2018-blockchain-i-rust/"/>
-    <updated>2018-01-15T17:44:28+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/01/15/pierwsze-spotkanie-w-2018-blockchain-i-rust</id>
-    <content type="html"><![CDATA[<p>Szczęśliwego Nowego Roku! Od razu ruszamy z nową porcją wiadomości i umiejętności.
-Pierwsze spotkanie 2018 już 31 stycznia o 19:00 w minibrowarze Haust.
-Oczywiście poprzedzone kilkunastominutową rozgrzewką. Sponsorem będzie - po raz kolejny -
-<a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>. Dziękujemy!</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
-
-<p>Tematy będą dwa:</p>
-
-<ul>
-<li><b>Blockchain & Cryptocurrencies making Startup funding obsolete</b> (po angielsku) - 
-Abdallah Alaili opowie o technicznej podstawie kryptowalut: Blockchain. 
-Potem Abdallah przejdzie do prezentacji zastosowań, najbardziej udanych przypadkach oraz o ICO. 
-Ten ostatni to nowy sposób zdobywania pieniędzy na rozkręcenie własnej firmy.</li>
-<li><b>Wprowadzenie do języka programowania Rust</b> - może nie czysta Java, 
-ale na pewno gorący ostatnio termin. Nataniel Stefaniak (przedstawiciel GlobalLogic) wprowadzi nas w 
-zagadnienia ownership, borrowing, lifetimes, traits, algebraic data types, pattern matching. Co to wszystko znaczy dowiemy się na miejscu ;)</li>
-</ul>
-
-
-<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/246775002/" target="_blank">Meetup</a>. Zapraszamy!</p>
 ]]></content>
   </entry>
   
