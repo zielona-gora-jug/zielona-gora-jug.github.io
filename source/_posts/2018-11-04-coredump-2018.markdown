@@ -1,0 +1,31 @@
+---
+layout: post
+title: "CoreDump 2018"
+date: 2018-11-04 17:16:41 +0100
+comments: true
+categories: 
+---
+
+Zostaliśmy partnerem <a href="http://coredump.events/2018/" target="_blank">CoreDump</a>. Konferencja odbędzie się w Krakowie, 26-27 listopada. Oddajmy głos
+organizatorom:
+
+<i>
+CoreDump – z jednej strony nowość na rynku konferencji IT, z drugiej... podsumowanie coraz bardziej rozpoznawalnych konferencji SegFault. Czym zaskoczy CoreDump?
+
+CoreDump to solidny zastrzyk inspiracji, możliwość dyskusji oraz integracji lokalnych społeczności IT. 
+
+<!-- more -->
+Dzień pierwszy to CommunityDay. Tego dnia wszystkie zaproszone, prężnie działające społeczności spotkają się, by wysłuchać prezentacji swoich najlepszych prelegentów.
+
+To czas by spojrzeć jak Java radzi sobie z problemami, które .NET już dawno rozwiązał, a Ruby nigdy nie musiał. To czas spojrzenia na to, jak Python interpretuje ideę obiektowości i dlaczego Scala się tym nie przejmuje. Czy wreszcie: co na to wszystko ma do powiedzenia JavaScript.
+
+Community Day to także czas by spotkać liderów społeczności. To  miejsce na podsłuchanie, jak buduje się aktywną grupę pasjonatów, jak nie stracić tej początkowej iskry oraz skąd znaleźć sponsorów i prelegentów.
+
+Dzień drugi – zaproszeni goście. W skrócie: dwa dni pełne spotkań, paneli dyskusyjnych oraz znanych i rozpoznawalnych nazwisk, wśród których (już w listopadzie) między innymi: Alberta Soranzo, Robin Moffatt, Michael Hunger, Daniel Pokusa, Sebastian Malaca, czy Norbert Wójtowicz. Wybraliśmy nie tylko najlepszych prelegentów, ale także ludzi, którzy swoją codzienną pracą zmieniają przyszłość - i to nie tylko przyszłość naszej branży. To ludzie, którzy nie boją się słuchać tych, którzy nieustannie mówią: “ale tak się tego nie robi, próbowaliśmy”... By poszukać inspiracji musimy nie tylko wysłuchać ich prelekcji, ale także wejść w dyskusję.
+
+W Radzie Programowej zaś: Jarek Pałka, Kuba Marchwicki, Wiktor Sztajerowski oraz Justyna Bień. 
+
+Pierwsza edycja CoreDump to nie tylko języki programowania, systemy rozproszone (i techniki ich weryfikacji), ale także: mikrousługi, bazy danych oraz future of work - czyli dyskusje o tym, jak zmieniają się organizacje.
+
+Szukasz inspiracji? CoreDump – musisz tam być! I tura rejestracji już trwa!
+</i>
