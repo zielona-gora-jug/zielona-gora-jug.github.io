@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-10-31T12:49:58+01:00</updated>
+  <updated>2018-11-04T17:20:50+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CoreDump 2018]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/11/04/coredump-2018/"/>
+    <updated>2018-11-04T17:16:41+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/11/04/coredump-2018</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem <a href="http://coredump.events/2018/" target="_blank">CoreDump</a>. Konferencja odbędzie się w Krakowie, 26-27 listopada. Oddajmy głos
+organizatorom:</p>
+
+<p><i>
+CoreDump – z jednej strony nowość na rynku konferencji IT, z drugiej&hellip; podsumowanie coraz bardziej rozpoznawalnych konferencji SegFault. Czym zaskoczy CoreDump?</p>
+
+<p>CoreDump to solidny zastrzyk inspiracji, możliwość dyskusji oraz integracji lokalnych społeczności IT.</p>
+
+<p>Tegoroczna konferencja CoreDump odbędzie się w Krakowie, w dniach 26-27 listopada.</p>
+
+<!-- more -->
+
+
+<p>Dzień pierwszy to CommunityDay. Tego dnia wszystkie zaproszone, prężnie działające społeczności spotkają się, by wysłuchać prezentacji swoich najlepszych prelegentów.</p>
+
+<p>To czas by spojrzeć jak Java radzi sobie z problemami, które .NET już dawno rozwiązał, a Ruby nigdy nie musiał. To czas spojrzenia na to, jak Python interpretuje ideę obiektowości i dlaczego Scala się tym nie przejmuje. Czy wreszcie: co na to wszystko ma do powiedzenia JavaScript.</p>
+
+<p>Community Day to także czas by spotkać liderów społeczności. To  miejsce na podsłuchanie, jak buduje się aktywną grupę pasjonatów, jak nie stracić tej początkowej iskry oraz skąd znaleźć sponsorów i prelegentów.</p>
+
+<p>Dzień drugi – zaproszeni goście. W skrócie: dwa dni pełne spotkań, paneli dyskusyjnych oraz znanych i rozpoznawalnych nazwisk, wśród których (już w listopadzie) między innymi: Alberta Soranzo, Robin Moffatt, Michael Hunger, Daniel Pokusa, Sebastian Malaca, czy Norbert Wójtowicz. Wybraliśmy nie tylko najlepszych prelegentów, ale także ludzi, którzy swoją codzienną pracą zmieniają przyszłość - i to nie tylko przyszłość naszej branży. To ludzie, którzy nie boją się słuchać tych, którzy nieustannie mówią: “ale tak się tego nie robi, próbowaliśmy”&hellip; By poszukać inspiracji musimy nie tylko wysłuchać ich prelekcji, ale także wejść w dyskusję.</p>
+
+<p>W Radzie Programowej zaś: Jarek Pałka, Kuba Marchwicki, Wiktor Sztajerowski oraz Justyna Bień.</p>
+
+<p>Pierwsza edycja CoreDump to nie tylko języki programowania, systemy rozproszone (i techniki ich weryfikacji), ale także: mikrousługi, bazy danych oraz future of work - czyli dyskusje o tym, jak zmieniają się organizacje.</p>
+
+<p>Szukasz inspiracji? CoreDump – musisz tam być! I tura rejestracji już trwa!
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[IT NonStop: J-Santa 2018]]></title>
@@ -464,17 +499,6 @@ tak naprawdę są cechami tego językami sprawiającymi, że programista ma mnie
 
 
 <p>Zachęcamy do wypełnienia <a href="https://docs.google.com/forms/d/e/1FAIpQLSfReXI3cW19M9F7tQ2B_HPIl1mylWboqfNaYurSaO0ZLjZQwQ/viewform?c=0&w=1" target="_blank">ankiety po spotkaniu</a>. Nagrody czekają!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Konferencja Greenfield]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/01/23/konferencja-greenfield/"/>
-    <updated>2018-01-23T17:12:09+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/01/23/konferencja-greenfield</id>
-    <content type="html"><![CDATA[<p>Zielona Góra JUG zaprasza - jako współorganizator - na pierwszą na Ziemi Lubuskiej konferencję dal programistów - <a href="http://greenfieldconf.pl/" target="_blank">Greenfield</a>!
-Na stronie domowej konferencji znajdziecie wszystkie szczegóły. Tytułem skrótu informujemy, że: konferencja odbędzie się w majową sobotę na Uniwersytecie; przewidziano dwie ścieżki i wstęp
-jest (symbolicznie) płatny. Serdecznie zapraszamy!</p>
 ]]></content>
   </entry>
   
