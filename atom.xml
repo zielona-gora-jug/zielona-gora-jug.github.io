@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-11-04T17:20:50+01:00</updated>
+  <updated>2018-11-07T17:47:38+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe 2018]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/11/07/spotkanie-listopadowe-2018/"/>
+    <updated>2018-11-07T17:42:31+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/11/07/spotkanie-listopadowe-2018</id>
+    <content type="html"><![CDATA[<p>21-ego listopada zapraszamy do klubu WySPa (al. Wojska Polskiego 65, start o 19:00 z rozgrzewką od 18:30) na kolejne spotkanie Zielona Góra JUG. Sponsorem jest <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
+
+<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
+
+<p>W programie dwie prezentacje:</p>
+
+<!-- more -->
+
+
+<p><b>Michał Matłoka - Machine learning by example</b></p>
+
+<p>Are the machines learning on their own? Wait, is Skynet already here? During this session we will tackle an easy Machine Learning problem, show how can it be processed on Spark including data cleaning, normalization and a learning process. Live coding session, but only if the machines don&rsquo;t rise against us.
+[opis po angielsku, ale prezentacja będzie po polsku]</p>
+
+<p>Bio:
+W trakcie swojej kariery Michał pracował z C, Javą, zapomnianymi krainami Java EE, Springiem, Scalą oraz Big Data. Popełnił zbrodnię pisząc książkę o Java EE, która będzie go nękać przez resztę życia. Obecnie 1 z 40 CEO w firmie SoftwareMill.</p>
+
+<p><b>Marcin Stożek - Jak wytresować Basha</b></p>
+
+<p>Czy zdarzyło Ci się złapać za głowę, gdy otwarty do edycji skrypt w Bashu miał 3000 linii i zacinał IDE?
+Mnie tak. Do dzisiaj miewam koszmary. Różne wtedy przychodzą myśli. Jedni chcą do mamy, inni chcą w Bieszczady.
+Chciałbym Ci pokazać, że trzymając się pewnych zasad, w Bashu da się pisać, da się to później czytać, refaktoryzować, a i rezultat odpalenia skryptu jest taki, jak zakładaliśmy.
+Ba, da się nawet - nie bójmy się użyć tego słowa - programować! Jak się uprzeć to i funkcyjnie.
+Po co ci więcej siwych włosów? Chodź zobacz jak wytresować Basha.</p>
+
+<p>Bio:
+Za dnia jestem programistą i devopsem, po nocach czytam co słychać na Hacker News. Wierny fan pracy zdalnej.
+Programowanie zaczynałem od zeszytu w kratkę, w którym w drugiej klasie podstawówki na piechotę wyliczałem bajty potrzebne do wyświetlenia obrazka na C64.
+Od tego czasu brałem udział w wielu projektach z różnych dziedzin, od bezpieczeństwa w kolejkach po Hadoopa, od monolitu do mikroserwisów.
+Szerzę zarazę automatyzacji, GNU/Linuksa oraz Vima. Niekoniecznie w tej kolejności.</p>
+
+<p>Rejestracja uczestnictwa, jak zwykle, na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/256184248/">Meetup</a>. Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CoreDump 2018]]></title>
@@ -25,8 +65,6 @@ organizatorom:</p>
 CoreDump – z jednej strony nowość na rynku konferencji IT, z drugiej&hellip; podsumowanie coraz bardziej rozpoznawalnych konferencji SegFault. Czym zaskoczy CoreDump?</p>
 
 <p>CoreDump to solidny zastrzyk inspiracji, możliwość dyskusji oraz integracji lokalnych społeczności IT.</p>
-
-<p>Tegoroczna konferencja CoreDump odbędzie się w Krakowie, w dniach 26-27 listopada.</p>
 
 <!-- more -->
 
@@ -472,33 +510,6 @@ To dzięki nim będziemy mogli coś przekąsić.</p>
 </i></p>
 
 <p><img class="center" src="http://zielona-gora-jug.github.io/images/4developers.png" style="width: 50%;"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania styczniowego '18]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/02/10/podsumowanie-spotkania-styczniowego-18/"/>
-    <updated>2018-02-10T14:20:00+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/02/10/podsumowanie-spotkania-styczniowego-18</id>
-    <content type="html"><![CDATA[<p>Ostatni styczniowy dzień zgromadził w Hauście rekordową liczbę osób. Powodem był oczywiście JUG (tym razem sponsorowany przez <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>)
-oraz jego dwa tematy: Blockachain i kryptowaluty oraz Rust.</p>
-
-<p>Wieczór rozpoczął Abdallah wprowadzeniem do technologii Blockchain, a potem przeszedł do najbardziej znanego aspektu jej wykorzystania: kryptowalut ze szczególnym uwzględnieniem Bitcoin. Druga część
-jego prezentacji była poświęcona zmianom jakie Blockchain i jego użycie może wprowadzić w nasze codzienne życie.</p>
-
-<p>W kolejnej prezentacji, Nataniel szybko przeprowadził nas przez kilka przykładów obrazujących dlaczego Rust może być ciekawą alternatywą dla C i C++. Zaprezentował kilko tajemniczo brzmiących nazw, które
-tak naprawdę są cechami tego językami sprawiającymi, że programista ma mniej przestrzeni na popełnienie błędów. Uzupełnieniem tej prezentacji była długa seria pytań.</p>
-
-<p>Spotkanie zakończyło tradycyjne losowanie nagród za wypełnione ankiety.</p>
-
-<p>Prezentacje:</p>
-
-<ul>
-<li><a href="http://alaili.com/jug/" target="_blank">Blockchain i kryptowaluty</a></li>
-</ul>
-
-
-<p>Zachęcamy do wypełnienia <a href="https://docs.google.com/forms/d/e/1FAIpQLSfReXI3cW19M9F7tQ2B_HPIl1mylWboqfNaYurSaO0ZLjZQwQ/viewform?c=0&w=1" target="_blank">ankiety po spotkaniu</a>. Nagrody czekają!</p>
 ]]></content>
   </entry>
   
