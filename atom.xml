@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-11-07T17:47:38+01:00</updated>
+  <updated>2018-11-23T19:16:29+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe 2018 - podsumowanie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/11/23/spotkanie-listopadowe-2018-podsumowanie/"/>
+    <updated>2018-11-23T19:00:26+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/11/23/spotkanie-listopadowe-2018-podsumowanie</id>
+    <content type="html"><![CDATA[<p>W zimny listopadowy wieczór spotkaliśmy się na tropikalnej WySPie dzięki <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a>, aby porozmawiać o Machine Learning i bashu.</p>
+
+<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
+
+<p>Pierwszą prezentację przedstawił pracownik sponsora - Michał Matłoka. Wprowadził nas pokrótce w różne tematy związane z AI i wyjaśnił czym różni się Machine Learning od innych technik. Część teoretyczną
+okrasił przykładem systemu uczącego się jak automatycznie kwalifikować opisy prelekcji do konkretnych kategorii. <a href="http://zielona-gora-jug.github.io/files/machine-learning.pdf" target="_blank">Pełna prezentacja znajduje się tutaj</a>.</p>
+
+<p>Po krótkiej przerwie wystąpienie rozpoczął Marcin Stożek, który dynamicznie poruszał się między pułapkami jakie na co dzień spotyka &ldquo;programując&rdquo; w bashu. Narzędzie znane i wykorzystywane, ale - jak widać -
+bywa używane w niekoniecznie optymalny sposób. Jeżeli chcecie przypomnieć sobie tajniki basha, <a href="http://slides.com/perk/jak-wytresowac-basha#/" target="_blank">kliknijcie tutaj</a>.</p>
+
+<p>Ankieta, której wypełnienie może zostać nagrodzone, znajduje się <a href="https://docs.google.com/forms/d/e/1FAIpQLScfLnNHjn4U1LSB3be9jNrQdOYpr0Bl3-zm6MjVI5z3DoVDkQ/viewform?vc=0&c=0&w=1" target="_blank">tutaj</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie listopadowe 2018]]></title>
@@ -485,31 +504,6 @@ To dzięki nim będziemy mogli coś przekąsić.</p>
 <p><img class="center" src="http://zielona-gora-jug.github.io/images/eobuwie.png" style="width: 75%;"></p>
 
 <p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/247751246/" target="_blank">Meetup</a>. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[4Dev]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/02/13/4dev/"/>
-    <updated>2018-02-13T21:52:02+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/02/13/4dev</id>
-    <content type="html"><![CDATA[<p>9 kwietnia 2018 odbędzie się kolejna edycja 4Developers. Zielona Góra JUG - jako partner imprezy - zachęca Was, aby wziąć udział w największym Festiwalu Technologicznym w Polsce!</p>
-
-<p>Po pierwsze: możecie wziąć w nim udział jako prelegenci. Jeśli jest wiedza, którą chcielibyście się podzielić, to organizatorzy czekają na zgłoszenia
-<a href="https://2018.4developers.org.pl/form.html" target="_blank">tutaj</a>. Spieszcie się, bo termin mija <b>16 lutego</b>. Tematyka dowolna byleby dotyczyła IT.</p>
-
-<p>Po drugie: możecie tam po prostu pojechać. Wystarczy zameldować się 9 kwietnia w Warszawie po wykupieniu biletu. Jedna osoba może go otrzymać za darmo (kto pierwszy, ten lepszy -> patrz zakładka <a href="http://jug.zgora.pl/leaders/">Kontakt</a>). Reszta - ze zniżką
-10% (podajcie kod <b>CP_zielonagorajug10</b> na <a href="https://4developers2018.evenea.pl/" target="_blank">Evenea</a>).</p>
-
-<p>Oddając głos organizatorom:</p>
-
-<p><i>
-&ldquo;4Developers to jeden dzień, w którym możecie wziąć udział w wykładach i warsztatach z odpowiadających Wam dziedzin, ale też spróbować czegoś nowego! Wszystkie ścieżki tematyczne stoją przed Wami otworem. Tutaj dowiecie się więcej: <a href="http://4developers.org.pl" target="_blank"><a href="http://4developers.org.pl">http://4developers.org.pl</a></a></p>
-
-<p>Dlaczego Festiwal? Ponieważ to kilkanaście technologii i języków programowania w jednym miejscu. Do tego eksperci i profesjonaliści, którzy chętnie wymienią się z Wami doświadczeniami! Wszystko to w ramach świetnej zabawy ;)&ldquo;
-</i></p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/4developers.png" style="width: 50%;"></p>
 ]]></content>
   </entry>
   
