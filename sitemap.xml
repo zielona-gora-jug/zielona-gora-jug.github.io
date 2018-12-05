@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2018/12/05/spotkanie-grudniowe-pieklo-integracji/</loc>
+    <lastmod>2018-12-05T20:36:55+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2018/11/23/spotkanie-listopadowe-2018-podsumowanie/</loc>
     <lastmod>2018-11-23T19:00:26+01:00</lastmod>
   </url>
@@ -457,10 +461,10 @@
     <lastmod>2014-08-10T13:02:43+02:00</lastmod>
   </url>
   <url>
-    <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
+    <loc>http://zielona-gora-jug.github.io/</loc>
   </url>
   <url>
-    <loc>http://zielona-gora-jug.github.io/</loc>
+    <loc>http://zielona-gora-jug.github.io/blog/archives/</loc>
   </url>
   <url>
     <loc>http://zielona-gora-jug.github.io/leaders/</loc>
@@ -469,11 +473,11 @@
     <loc>http://zielona-gora-jug.github.io/sponsors/</loc>
   </url>
   <url>
-    <loc>http://zielona-gora-jug.github.io/files/cdc2.html</loc>
-    <lastmod>2018-02-10T14:15:11+01:00</lastmod>
+    <loc>http://zielona-gora-jug.github.io/ankieta/index.html</loc>
+    <lastmod>2018-12-05T20:28:10+01:00</lastmod>
   </url>
   <url>
-    <loc>http://zielona-gora-jug.github.io/ankieta/index.html</loc>
-    <lastmod>2018-02-10T14:15:11+01:00</lastmod>
+    <loc>http://zielona-gora-jug.github.io/files/cdc2.html</loc>
+    <lastmod>2018-12-05T20:28:10+01:00</lastmod>
   </url>
 </urlset>
