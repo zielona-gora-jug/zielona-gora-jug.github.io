@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-12-05T20:46:25+01:00</updated>
+  <updated>2018-12-23T20:18:58+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie grudniowe - podusmowanie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2018/12/21/spotkanie-grudniowe-podusmowanie/"/>
+    <updated>2018-12-21T19:04:14+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2018/12/21/spotkanie-grudniowe-podusmowanie</id>
+    <content type="html"><![CDATA[<p>W ostatnią przedświąteczną środę, klub &ldquo;WySPa&rdquo; gościł nas i Jacka Majchrzaka, abyśmy mogli porozmawiać o ciągłej integracji i dostarczaniu. Spotkanie sponsorowała firma <a href="https://7n.com/" target="_blank">7N</a>,
+w której pracuje Jacek.</p>
+
+<p><a href="https://7n.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/7N.png" width="330" height="130" title="7N" ></a></p>
+
+<p>Jacek przedstawił w czasie swojej prezentacji 5 zasad, których powinniśmy się trzymać podczas realizacji projektów. Wszystko to ma nam zaoszczędzić kosztów i czasu. Zasady wywiódł ze swojego
+wieloletniego praktycznego doświadczenia. Tyczyły się one głównie tworzenia gałęzi oraz cyklu wydawania oprogramowania. Pokazał nam również jak przekonać współpracowników i przełożonych do stosowania
+technik CI i CD. Z widowni padały liczne pytania o zastosowanie w konkretnych przypadkach.</p>
+
+<p><a href="http://zielona-gora-jug.github.io/files/pieklo-integracji.pdf" target="_blank">Slajdy do pobrania.</a></p>
+
+<p>Na koniec podano barszczyk z krokietem. Po drodze można było wziąć sobie książki jako prezent.</p>
+
+<p>Spotkanie możecie ocenić wypełniając <a href="https://bit.ly/2EEQgHB" target="_blank">ankietę</a>. Nagrody czekają.</p>
+
+<p>Korzystając z okazji życzymy wszystkim wesołych Świąt i szczęśliwego Nowego Roku!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie grudniowe - Piekło integracji]]></title>
@@ -31,8 +55,7 @@ Gościć nas będzie ponownie klub WySPa przy Wojska Polskiego 65 (Campus B). St
 <p>W ciągu ostatnich dwóch lat wraz ze swoim zespołem pokonałem drogę od Piekła Integracji aż po Continuous Delivery. Chciałbym podzielić się z Wami tym jak do tego doszliśmy. Wspólnie przejdziemy tą samą drogę którą pokonał mój zespół. Ale zaczniemy od tego ile może kosztować nas brak Continuous Delivery na bardzo konkretnym przykładzie pewnej amerykańskiej firmy. W między czasie opowiem czym się różni Continuous Integration od Continouos Delivery i Continuous Deployment. Przedstawię Wam również 5 kroków jakie według mnie okazały się kluczowe w procesie przekształcania mojego zespołu i pomogły osiągnąć nam nasz cel. Jak wszyscy wiemy Diabeł (ten mieszkający w piekle integracji) tkwi w szczegółach i dlatego też przejdziemy również do nich: zrozumiemy czym jest Feature Toggle, jak użyć “branch by abstraction” co to jest Pipeline as A Code. Dowiecie się jakie problemy napotkaliśmy i jak udało nam się z nimi poradzić. Nawet najdłuższa podróż zaczyna się od pierwszego kroku, dlatego zróbcie swój i wpadnijcie posłuchać.</p>
 
 <p>Bio:
-Na codzień jestem programistą i technicznym liderem w firmie Roche. Z dziedziny programowania obszary które w szczególności mnie kręcą to tematyka dobrych praktyk, Clean Code, Domain Driven Design i CI/CD. Ostatnio spełniam się w roli trenera na szkoleniach z tematyki CI/CD i facylitatora prowadzącego warsztaty Event Storming&#8217;u. Prywatnie jestem pasjonatem takich sportów jak: boks/kickboxing, bieganie po górach, freediving i nurkowanie.
-21-ego listopada zapraszamy do klubu WySPa (al. Wojska Polskiego 65, start o 19:00 z rozgrzewką od 18:30) na kolejne spotkanie Zielona Góra JUG. Sponsorem jest <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
+Na codzień jestem programistą i technicznym liderem w firmie Roche. Z dziedziny programowania obszary które w szczególności mnie kręcą to tematyka dobrych praktyk, Clean Code, Domain Driven Design i CI/CD. Ostatnio spełniam się w roli trenera na szkoleniach z tematyki CI/CD i facylitatora prowadzącego warsztaty Event Storming&#8217;u. Prywatnie jestem pasjonatem takich sportów jak: boks/kickboxing, bieganie po górach, freediving i nurkowanie.</p>
 
 <p>Rejestracja uczestnictwa na <a href="https://www.meetup.com/pl-PL/Zielona-Gora-JUG/events/256972305/">Meetup</a>. Zapraszamy!</p>
 ]]></content>
@@ -491,25 +514,6 @@ Jeśli zamierzasz uczyć się Javy, książka Java, to takie proste od razu pozw
 
 
 <p>Więcej szczegółów <a href="http://bit.ly/2DUIgmt" target="_blank">na stronie wydawnictwa</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Po spotkaniu lutowym]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/03/09/po-spotkaniu-lutowym/"/>
-    <updated>2018-03-09T19:10:45+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/03/09/po-spotkaniu-lutowym</id>
-    <content type="html"><![CDATA[<p>Ostatni lutowy wieczór przyniósł nam wystąpienie Piotra Bugaja, który mówił o Zipkinie. Piotr przedstawił nam ogólne wprowadzenie do śledzenia aplikacji, w tym takich, które składają
-się z mikroserwisów. Prezentację okrasił przykładami w formie wykresów oraz kodu - tym razem - PHP. Po licznych pytaniach wywołanych przez wystąpienie, widać, że temat
-ten jest jednym z codziennych problemów napotykanych przez programistów.</p>
-
-<p>Na koniec rozlosowaliśmy nagrody za wypełnione ankiety oraz jedną wejściówkę na konferencję <a href="http://conf.it/index.html" target="_blank">Greenfield</a>.</p>
-
-<p>Za sponsoring dziękujemy <a href="https://www.eobuwie.com.pl/" target="_blank">eobuwie.pl</a>.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/eobuwie.png" style="width: 75%;"></p>
-
-<p>Zachęcamy do wypełnienia <a href="https://docs.google.com/forms/d/1M4utX4FPiiQwp9c4mBBvygEcwJuGHFbGVnVu2QN7VLg/edit#responses" target="_blank">ankiety po spotkaniu</a>. Losowanie nagród na marcowym spotkaniu!</p>
 ]]></content>
   </entry>
   
