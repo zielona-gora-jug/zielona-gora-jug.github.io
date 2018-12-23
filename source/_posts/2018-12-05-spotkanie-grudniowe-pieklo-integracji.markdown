@@ -19,6 +19,5 @@ W ciągu ostatnich dwóch lat wraz ze swoim zespołem pokonałem drogę od Piek�
 
 Bio:
 Na codzień jestem programistą i technicznym liderem w firmie Roche. Z dziedziny programowania obszary które w szczególności mnie kręcą to tematyka dobrych praktyk, Clean Code, Domain Driven Design i CI/CD. Ostatnio spełniam się w roli trenera na szkoleniach z tematyki CI/CD i facylitatora prowadzącego warsztaty Event Storming'u. Prywatnie jestem pasjonatem takich sportów jak: boks/kickboxing, bieganie po górach, freediving i nurkowanie.
-21-ego listopada zapraszamy do klubu WySPa (al. Wojska Polskiego 65, start o 19:00 z rozgrzewką od 18:30) na kolejne spotkanie Zielona Góra JUG. Sponsorem jest <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!
 
 Rejestracja uczestnictwa na <a href="https://www.meetup.com/pl-PL/Zielona-Gora-JUG/events/256972305/">Meetup</a>. Zapraszamy!
