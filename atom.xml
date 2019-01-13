@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2018-12-23T20:18:58+01:00</updated>
+  <updated>2019-01-13T20:47:35+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie styczniowe - stan Javy i algebra]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/01/13/spotkanie-styczniowe-stan-javy-i-algebra/"/>
+    <updated>2019-01-13T20:43:28+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/01/13/spotkanie-styczniowe-stan-javy-i-algebra</id>
+    <content type="html"><![CDATA[<p>Wraz z GlobalLogic (<a href="https://www.globallogic.com/pl/">https://www.globallogic.com/pl/</a>) zapraszamy na pierwsze spotkanie w nowym roku. Odbędzie się ono w środę, 30 stycznia o 19:00. Nadal spotykamy się w klubie &ldquo;Wyspa&rdquo;. Tym razem wystąpi dwóch pracowników naszego sponsora.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
+
+<!-- more --> 
+
+
+<p><b>1. Paweł Żalejko - Stan Javy 2019</b></p>
+
+<p><i>This is your last chance. After this, there is no turning back. You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I&rsquo;m offering is the truth. Nothing more.</i></p>
+
+<p>Mamy początek roku 2019. Dokładnie 20 lat temu odbyła się premiera filmu Matrix. W tym samym czasie jako programiści pracowaliśmy z Javą 1.2 i odliczaliśmy dni do roku 2000 oraz premiery Javy 1.3. W ciągu ostatnich 20 lat Java przeszła długą drogę, ale tempo zmian jakie mają miejsce obecnie są większe niż kiedykolwiek.</p>
+
+<p>Podczas prezentacji opowiem o zmianach, które zaszły w ostatnim czasie. Osobom, które na co dzień pracują z Java 8 pokażę, dlaczego warto rozważyć migrację do Javy 11. Dodatkowo wyjaśnię, jak wygląda nowy cykl wydawniczy Javy, o co chodzi z Javą LTS, co się z tym wiąże i jakie mamy alternatywy.</p>
+
+<p><b>2. Karol Marcjan - Algebra w służbie replikacji</b></p>
+
+<p>Wielu z nas pracuje na co dzień nad systemami rozproszonymi - często mirkoserwisami. W ramach poszerzania horyzontów porozmawiamy o Bezkonfliktowych Zreplikowanych Typach Danych (Conflict-free Replicated Data Types). Pokrótce omówimy kilka przykładów ich użycia w praktyce. Zahaczymy o algebrę i stosunkowo niedawne publikacje akademickie o systemach rozproszonych.</p>
+
+<p>Matura z matematyki nie będzie potrzebna.</p>
+
+<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/257967961/" target="_blank">Meetup</a>. Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie grudniowe - podusmowanie]]></title>
@@ -475,45 +505,6 @@ Oprócz Scala Sphere o samej Scali i okolicach, będzie to również <a href="ht
 
 
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Java. To takie proste.]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/03/09/java-to-takie=proste/"/>
-    <updated>2018-03-09T21:39:25+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/03/09/java-to-takie=proste</id>
-    <content type="html"><![CDATA[<p>Uwaga, uwaga! Zielona Góra JUG po raz pierwszy objął patronatem książkę i to od razu prestiżowego wydawnictwa PWN. Być może jest to dobra okazja, aby podrzucić tę książkę komuś, kto powinien lub chciałby iść w
-Wasze ślady, programiści?</p>
-
-<p><a href="http://bit.ly/2DUIgmt" target="_blank">
-<img class="center" src="http://zielona-gora-jug.github.io/images/ksiazka.jpg" style="width: 50%">
-</a></p>
-
-<p>Spójrzcie na opis książki:</p>
-
-<blockquote>
-<p>
-Java to najpopularniejszy język programowania na świecie, lecz jest znany z tego, że z początku jest trudny do nauki. Książka Java, to takie proste uczy tego języka za pomocą praktycznych projektów, dzięki którym od razu zaczniesz tworzyć prawdziwe, działające aplikacje.
-<br><br>
-<p>
-Naukę zaczniesz od zapoznania się z JSell, interaktywnym wierszem poleceń Javy, który pozwala programistom uruchamiać pojedyncze wiersze kodu od razu otrzymując rezultat. 
-Następnie utworzysz grę w zgadywankę, koder sekretnych wiadomości oraz aplikację do rysowania bąbelków za pomocą wielokrotnego dotyku – zarówno na komputer, jak i urządzenia mobilne. Będziesz przy tym korzystać ze standardu IDE, Eclipse, a także Android Studio, środowiska do budowania aplikacji w systemie Android.
-<br><br>
-<p>
-Tworząc te aplikacje, nauczysz się:
-wykonywać obliczenia, operować na ciągach tekstowych i generować losowe kolory
-używać warunków, pętli i metod, aby twoje programy były responsywne i zwięzłe
-tworzyć funkcje, aby ponownie wykorzystywać kod i oszczędzać czas
-tworzyć elementy graficznego interfejsu użytkownika (GUI), w tym przyciski, menu, wyskakujące okienka i suwaki  
-korzystać z funkcji Eclipse i Android Studio do debugowania kodu i znajdowania, poprawiania oraz zapobiegania typowym błędom
-<br><br><p>
-Jeśli zamierzasz uczyć się Javy, książka Java, to takie proste od razu pozwoli ci przejść do działania.
-
-</blockquote>
-
-
-<p>Więcej szczegółów <a href="http://bit.ly/2DUIgmt" target="_blank">na stronie wydawnictwa</a>.</p>
 ]]></content>
   </entry>
   
