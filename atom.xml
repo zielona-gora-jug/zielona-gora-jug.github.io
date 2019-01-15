@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-01-13T20:47:35+01:00</updated>
+  <updated>2019-01-15T19:41:08+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[4Developers '19]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/01/15/4developers-19/"/>
+    <updated>2019-01-15T19:33:46+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/01/15/4developers-19</id>
+    <content type="html"><![CDATA[<p>2000 uczestników i niemal 100 cenionych ekspertów z branży IT w jednym miejscu. Przed nami ogromne, interdyscyplinarne spotkanie polskiej społeczności programistycznej. W ciągu jednego dnia specjaliści i pasjonaci IT będą mogli uczestniczyć w niemal 100 praktycznych prelekcjach. Już
+8 kwietnia 2019 w Warszawie odbędzie się kolejna edycja 4Developers 2019!</p>
+
+<p>Możecie wziąć w nim udział jako prelegenci - organizatorzy czekają na zgłoszenia w ramach
+<a href="https://www.4developers.org.pl" target="_blank">call for papers</a>. Termin mija <b>z końcem stycznia</b>.</p>
+
+<p>Informacje o samym festiwalu dostępne są na stronie <a href="https://4developers.org.pl" target="_blank">organizatora</a>.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/4developers_2019.png" style="width: 50%;"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie styczniowe - stan Javy i algebra]]></title>
@@ -483,28 +500,6 @@ aby okazać swoją wdzięczność. A gdybyście znali firmę chętną dołączy�
 <p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/248678434/" target="_blank">Meetup</a>. Zapraszamy!</p>
 
 <p><b>Zmiana z ostatniej chwili:</b> Będzie drugi prelegent - Pojo. Opowie nam o Helmie.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Scala Sphere 2018]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/03/10/scala-sphere-2018/"/>
-    <updated>2018-03-10T21:30:13+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/03/10/scala-sphere-2018</id>
-    <content type="html"><![CDATA[<p>16 i 17 kwietnia 2017 r., w Krakowie odbędzie się III konferencja <a href="http://scala.sphere.it" target="_blank">ScalaSphere</a>. Tym razem będą to tak naprawdę trzy konferencje, ale jedno miejsce i jeden bilet.
-Oprócz Scala Sphere o samej Scali i okolicach, będzie to również <a href="http://data.sphere.it" target="_blank">DataSphere</a> (analiza danych, AI, Spark, Python) i <a href="http://react.sphere.it" target="_blank">ReactSphere</a> (o programowanie reaktywne).</p>
-
-<p>Dzień wcześniej będzie dzień wydarzeń towarzyszących czyli szkolenia, warsztaty, hackatony z udziałem znanych gości (Jon Pretty, Ólafur Páll Geirsson, Krzysztof Romanowski, Grzegorz Gawron).</p>
-
-<p>Do zaoferowania mamy (kontakt z <a href="leaders">Pawłem Nowakiem</a>, kto pierwszy ten lepszy przy czym może okazać się, że kody zostaną wykorzystane przez innych partnerów w międzyczasie):</p>
-
-<ul>
-<li>Darmowe wejściówki.</li>
-<li>Zniżki 10% na bilety.</li>
-</ul>
-
-
-
 ]]></content>
   </entry>
   
