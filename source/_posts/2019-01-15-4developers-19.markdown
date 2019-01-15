@@ -9,7 +9,7 @@ categories:
 8 kwietnia 2019 w Warszawie odbędzie się kolejna edycja 4Developers 2019!
 
 Możecie wziąć w nim udział jako prelegenci - organizatorzy czekają na zgłoszenia w ramach
-<a href="https://www.4developers.org.pl" target="_blank">call for papers</a>. Termin mija <b>z końcem stycznia</b>.
+<a href="https://cfp.4developers.org.pl/warszawa/" target="_blank">call for papers</a>. Termin mija <b>z końcem stycznia</b>.
 
 Informacje o samym festiwalu dostępne są na stronie <a href="https://4developers.org.pl" target="_blank">organizatora</a>.
 
