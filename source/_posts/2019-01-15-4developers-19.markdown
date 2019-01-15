@@ -1,0 +1,16 @@
+---
+layout: post
+title: "4Developers '19"
+date: 2019-01-15 19:33:46 +0100
+comments: true
+categories: 
+---
+2000 uczestników i niemal 100 cenionych ekspertów z branży IT w jednym miejscu. Przed nami ogromne, interdyscyplinarne spotkanie polskiej społeczności programistycznej. W ciągu jednego dnia specjaliści i pasjonaci IT będą mogli uczestniczyć w niemal 100 praktycznych prelekcjach. Już 
+8 kwietnia 2019 w Warszawie odbędzie się kolejna edycja 4Developers 2019!
+
+Możecie wziąć w nim udział jako prelegenci - organizatorzy czekają na zgłoszenia w ramach
+<a href="https://www.4developers.org.pl" target="_blank">call for papers</a>. Termin mija <b>z końcem stycznia</b>.
+
+Informacje o samym festiwalu dostępne są na stronie <a href="https://4developers.org.pl" target="_blank">organizatora</a>.
+
+<img class="center" src="/images/4developers_2019.png" style="width: 50%;">
