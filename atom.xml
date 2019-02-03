@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-02-02T15:41:45+01:00</updated>
+  <updated>2019-02-03T19:17:37+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SegFault University]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/02/03/segfault-university/"/>
+    <updated>2019-02-03T19:00:28+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/02/03/segfault-university</id>
+    <content type="html"><![CDATA[<p>Nasi partnerzy, SegFault, utworzyli swój własny uniwersytet. Ma on siedzibę w Gdańsku, a zajęcia odbędą się w połowie marca. Poniżej pełny tekst zaproszenia:</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/SegFault_University.jpg" style="width: 50%;"></p>
+
+<!-- more -->
+
+
+<p><b>Tego jeszcze nie było! </b></p>
+
+<p>Po zeszłorocznych edycjach konferencji SegFault i CoreDump przyszedł czas na coś zupełnie nowego!</p>
+
+<p>Warsztaty czy konferencja? Teraz nie musicie wybierać! Bo już 14 i 15 marca, w Gdańsku, odbędzie się <b>SegFault University</b>, czyli wyjątkowe połączenie obu tych formuł.</p>
+
+<p>Pierwszy dzień SegFault University to <b>WORKSHOP DAY</b>, czyli <b>7 równoległych ścieżek warsztatowych</b> - łącznie ponad 30 godzin wyjątkowo interaktywnych warsztatów. Spieszcie się z rejestracją, bo liczba miejsc na warsztatach jest ograniczona! 100 procent merytoryki!</p>
+
+<p>Dzień drugi ma charakter <b>CONFERENCE DAY</b>. To ponad 10 godzin merytorycznych prezentacji - w dwóch ścieżkach do wyboru.</p>
+
+<p>SegFault University nie ogranicza się ani do jednej technologii, ani do jednego języka. Przed Wami nie tylko frameworki, ale przede wszystkim zasady działania samej platformy JVM (maszyny wirtualnej) oraz języków na niej funkcjonujących (JVM, Java, Kotlin, Scala). Sprawny, nowoczesny, ergonomiczny i łatwy w utrzymaniu interfejs użytkownika? Oczywiście! SegFault University to także JavaScipt i frontend, ale i architektura, Domain Driven Design - a więc budowanie i modelowanie systemów w oparciu o to, co się dzieje w rzeczywistym świecie. Kręci Was Machine Learning i sztuczna inteligencja? Znajdzie się coś i dla Was - popatrzymy we wcale nie tak odległą przyszłość i zupełnie nowy paradygmat.
+SegFault University rozwieje także wasze wątpliwości dotyczące środowiska, w którym działa aplikacja (infrastruktura, chmura, DevOps). Ale nie zabraknie też tego, co dotyczy samorozwoju każdego programisty, a więc: kształtowania umiejętności personalnych, komunikacji, czy publicznego prezentowania pomysłów.</p>
+
+<p>WORKSHOP DAY czy CONFERENCE DAY? A może oba? Nie musicie wybierać! Plan na SegFault University możecie ułożyć sami! Sprawdźcie warianty biletów pod linkiem: <a href="http://bit.ly/2H4aBcf">http://bit.ly/2H4aBcf</a></p>
+
+<p>Dlaczego SegFault University? Bo programowanie to nie tylko rozmowy o kodzie! Warto rozpocząć inaczej, inspirująco! Warto spojrzeć na to, co robimy z zupełnie innej perspektywy!</p>
+
+<p>Szczegóły znajdziecie na stronie wydarzenia: <a href="http://segfault.events/gdansk2019/">http://segfault.events/gdansk2019/</a> oraz w social media #SegFaultConf.</p>
+
+<p>SegFault University - Gdańsk, 14-15 marca - zajęcia obowiązkowe!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie pierwszego spotkania w 2019]]></title>
@@ -481,25 +516,6 @@ Spotkajmy się w piątkowy wieczór, 18 V o 19:00 w Hauście, aby porozmawiać, 
 
 <p>Na spotkaniu o zdrowiu opowie nam Marek Stój. Zwykle jest programistą, jednak od czas do czasu porusza temat zachowania dobrego zdrowia. Dla nas szczególnie groźne
 jest wielogodzinne siedzenie. Marek wskaże nam jak nie zasiedzieć się na śmierć. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie marcowe - podsumowanie]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/04/03/spotkanie-marcowe-podsumowanie/"/>
-    <updated>2018-04-03T21:51:11+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/04/03/spotkanie-marcowe-podsumowanie</id>
-    <content type="html"><![CDATA[<p>W ostatnią środę marca spotkaliśmy się w bardziej kameralnej atmosferze, aby posłuchać o dwóch podobnie zwących się technologiach: Elmie i Helmie.</p>
-
-<p>Rozpoczął Karol Marcjan, który w swojej prezentacji pokazywał dlaczego Elm jest lepszym językiem programowania niż &ldquo;zwykły&rdquo; JavaScript. Omówił
-ciekawsze elementy języka oraz prostsze wprawki.</p>
-
-<p>Drugą prezentacją dnia mówiła o Helmie. Mimo podobnej nazwy, nie jest to język, a narzędzie wspomagające używających Kubernetesa, o czym opowiadał nam Piotr &ldquo;Pojo&rdquo; Joński.
-Ta prezentacja zawierała elementy interaktywne, czyli pokaz w konsoli.</p>
-
-<p>Spotkanie zakończyło losowanie nagród za wypełnione ankiety. W tym miesiącu możecie ją wypełnić pod <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfUncbWvut9yJgDmh3cjFhRFTXYQNJZgnxhZcs5UykLED6PA/viewform?c=0&w=1" target="_blank">tym adresem</a>.
-Jest też <a href="https://docs.google.com/forms/d/e/1FAIpQLScb2U4RApq-K0duV0mGxM39SorXn_qLrOTXvsiGSUEtl07-AQ/viewform?c=0&w=1" target="_blank">druga ankieta</a>, którą możecie wypełnić po pierwszej. Dzięki niej możecie otrzymać za darmo książkę <a href="https://ksiegarnia.pwn.pl/Java-to-takie-proste,737612801,p.html" target="_blank">&ldquo;Java, to takie proste&rdquo;</a> objętą naszym patronatem.
-<b>Książkę otrzymają wyłącznie ci z Was, którzy stawią się na następnym spotkaniu!</b> No chyba że od razu zadeklarujecie inny sposób odbioru&hellip;</p>
 ]]></content>
   </entry>
   
