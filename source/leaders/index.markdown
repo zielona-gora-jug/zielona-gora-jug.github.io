@@ -45,17 +45,25 @@ footer: true
 		<div class="social"> 
 		</div>
 		<p class="desc">
-Programista w firmie Cinkciarz.pl. Związany głównie ze środowiskiem Java. Pasjonat kultury DevOps oraz szeroko pojętej automatyzacji czegokolwiek. Entuzjasta Domain-Driven Design. Od czasu do czasu występuje w roli prelegenta. W wolnym czasie gitarzysta i fan muzyki ekstremalnej.
+		Programista w firmie Cinkciarz.pl. Związany głównie ze środowiskiem Java. Pasjonat kultury DevOps oraz szeroko pojętej automatyzacji czegokolwiek. Entuzjasta Domain-Driven Design. Od czasu do czasu występuje w roli prelegenta. W wolnym czasie gitarzysta i fan muzyki ekstremalnej.
 		</p>
 	</div>
+	<div class="leader">
+		<img src="/images/Dawid.jpg" width="100" height="250">
+		<p class="name">Dawid Belkiewicz</p>
+		<div class="social"> 
+		</div>
+		<p class="desc">
+		Adept Javy, ciekaw dynamicznie zmieniającego się świata programowania. Chciałby wiedzieć wszystko, jednak niezmiennie pozostaje na etapie nauki. Zwolennik idei Software Craftsmanship. Miłośnik wszelkich form aktywności fizycznej. Kocha wszystko co związane z górami, od pieszych wędrówek po zimowe szaleństwo na nartach.
+		</p>
+	</div>
+
+
 	<div class="clear"></div>
 <h1>Byli organizatorzy</p>
     <div class="leader">
 	<img src="/images/mireksz.jpg" width="100" height="250">
 	<p class="name">Mirek Szajowski</p>
-	<div class="social"> 
-	    <a class="mail" href="mailto:m.szajowski@gmail.com"></a>
-	</div>
 	<p class="desc">
 	Programista systemów ERP w Streamsoft, zainteresowany / doświadczony w wielu technologiach około-Javowych, w wolnych chwilach dbając o kondycję fizyczną, podnosi ciężary.
 	</p>
@@ -63,11 +71,6 @@ Programista w firmie Cinkciarz.pl. Związany głównie ze środowiskiem Java. Pa
     <div class="leader">
 	<img src="/images/dawidm.jpg" width="100" height="250">
 	<p class="name">Dawid Maksylewicz</p>
-	<div class="social"> 
-	    <a class="twitter" href="https://twitter.com/dmaksylewicz" target="_blank"></a>
-	    <a class="linkedin" href="https://pl.linkedin.com/in/dawidmaksylewicz" target="_blank"></a>
-	    <a class="mail" href="mailto:dawid.maksylewicz@gmail.com"></a>
-	</div>
 	<p class="desc">
 	    Programista, zainteresowany wszystkim tym co związane jest z kodowaniem, JVM, Android, wierzący w moc pracy zdalnej, czerpiący energię z jazdy na rowerze górskim oraz zimowych zjazdów na nartach.
 	</p>
@@ -75,9 +78,6 @@ Programista w firmie Cinkciarz.pl. Związany głównie ze środowiskiem Java. Pa
 	<div class="leader">
 		<img src="/images/karol_buler.jpg" width="100" height="250">
 		<p class="name">Karol Buler</p>
-		<div class="social"> 
-			<a class="mail" href="mailto:971carlos@gmail.com"></a>
-		</div>
 		<p class="desc">
 		Zapalony, chłonny wiedzy programista. Świeżynka w "armii" ADB :) W pracy koduję głównie w Javie, wieczorami JavaScript, ale różnie to bywa... ostatnio Swift. Interesuje się również muzyką, gram na gitarze i perkusji. Lubię też wciągnąć dobry serial lub stand-up (raczej zagraniczne).
 		</p>
