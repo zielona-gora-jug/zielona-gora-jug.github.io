@@ -43,6 +43,8 @@ footer: true
 		<img src="/images/jedrzej_andrykowski.jpg" width="100" height="250">
 		<p class="name">Jędrzej Andrykowski</p>
 		<div class="social"> 
+			<a class="linkedin" href="https://pl.linkedin.com/in/j%C4%99drzej-andrykowski-918673a9/" target="_blank"></a>
+			<a class="mail" href="mailto:jandrykowski@gmail.com"></a>
 		</div>
 		<p class="desc">
 		Programista w firmie Cinkciarz.pl. Związany głównie ze środowiskiem Java. Pasjonat kultury DevOps oraz szeroko pojętej automatyzacji czegokolwiek. Entuzjasta Domain-Driven Design. Od czasu do czasu występuje w roli prelegenta. W wolnym czasie gitarzysta i fan muzyki ekstremalnej.
@@ -52,6 +54,8 @@ footer: true
 		<img src="/images/Dawid.jpg" width="100" height="250">
 		<p class="name">Dawid Belkiewicz</p>
 		<div class="social"> 
+			<a class="linkedin" href="https://pl.linkedin.com/in/dawid-belkiewicz" target="_blank"></a>
+			<a class="mail" href="mailto:daw.belk@gmail.com"></a>
 		</div>
 		<p class="desc">
 		Adept Javy, ciekaw dynamicznie zmieniającego się świata programowania. Chciałby wiedzieć wszystko, jednak niezmiennie pozostaje na etapie nauki. Zwolennik idei Software Craftsmanship. Miłośnik wszelkich form aktywności fizycznej. Kocha wszystko co związane z górami, od pieszych wędrówek po zimowe szaleństwo na nartach.
