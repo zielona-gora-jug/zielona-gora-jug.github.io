@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2019/02/14/spotkanie-lutowe-jenkins-jako-kod/</loc>
+    <lastmod>2019-02-14T20:47:20+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2019/02/03/segfault-university/</loc>
     <lastmod>2019-02-03T19:00:28+01:00</lastmod>
   </url>

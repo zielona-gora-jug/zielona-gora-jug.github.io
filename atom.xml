@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-02-08T19:07:51+01:00</updated>
+  <updated>2019-02-14T20:52:03+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe - Jenkins jako kod]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/02/14/spotkanie-lutowe-jenkins-jako-kod/"/>
+    <updated>2019-02-14T20:47:20+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/02/14/spotkanie-lutowe-jenkins-jako-kod</id>
+    <content type="html"><![CDATA[<p>Wraz ze sponsorem miesiąca, firmą <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>, zapraszamy na spotkanie lutowe. Zaczynamy w klubie WySPa o 19:00 27-ego lutego. Spotkanie poprzedzone będzie tradycyjnym pre-party.</p>
+
+<p>Zaplanowano dwa wystąpienia prowadzone przez przedstawiciela sponsora. Pierwsze poprowadzi Jędrzej Andrykowski.</p>
+
+<p><i>
+Temat: <b>Jak przestać klikać i zacząć pisać! Cały Jenkins jako kod </b></p>
+
+<p>Abstrakt: Zespoły developerskie często zżywają się ze swoim serwerem CI. Traktują go trochę jak kolegę z zespołu. Wykonuje przecież z nimi zadania, wysyła info na chacie, podpina wersje w Jira. Żyć nie umierać. Jednak jak to z kolegami bywa, czasami nas irytują. Jenkins również to robi, gdy musimy go konfigurować i to niestety przez GUI.
+Podczas prezentacji dowiemy się:</p>
+
+<ul>
+<li>dlaczego konfigurowanie narzędzi z poziomu interfejsu użytkownika wcale nie jest takie fajne jak się wydaje?
+<li>dlaczego dokumentacja konfiguracji nie jest najlepszym rozwiązaniem?
+<li>czym jest podejście Infrastructure as Code?
+<li>jak to wszystko wkomponować w świat Jenkins&#8217;a?
+</ul>
+
+
+<p>Nie chcesz więcej klikać? To zacznij wszystko pisać i to obowiązkowo w kodzie!</p>
+
+<p></i></p>
+
+<p>Drugie wystąpienie na razie pozostaje niespodzianką. Powinno jednak zainteresować wszystkich tych, którzy w swojej pracy nie żyją samym programowaniem, lecz mają również &ldquo;miękkie&rdquo; obowiązki.</p>
+
+<p>Napoje i przekąski zapewnia sponsor spotkania - firma <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/258969398/" target="_blank">Zapisy tutaj</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SegFault University]]></title>
@@ -499,23 +536,6 @@ wielu sportów z deską (od snowboardu do wakeboardu). Jego wystąpienie z pewno
 <p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
 
 <p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/252130930/" target="_blank">Zapisy tutaj</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Wspólny meetup z DEV@ZG i UX Zielona Góra]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/05/07/wspolny-meetup-z-dev-at-zg-i-ux-zielona-gora/"/>
-    <updated>2018-05-07T19:56:05+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/05/07/wspolny-meetup-z-dev-at-zg-i-ux-zielona-gora</id>
-    <content type="html"><![CDATA[<p>Dzień przed konferencją <a href="http://greenfieldconf.pl/" target="_blank">Greenfield</a>, zapraszamy na wspólny meetup grup DEV@ZG, Zielona Góra JUG i UX Zielona Góra.
-Spotkajmy się w piątkowy wieczór, 18 V o 19:00 w Hauście, aby porozmawiać, posłuchać ciekawej prezentacji i przygotować na sobotnią konferencję :)</p>
-
-<p>Napoje i przekąski zapewnia sponsor spotkania - firma <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<p>Na spotkaniu o zdrowiu opowie nam Marek Stój. Zwykle jest programistą, jednak od czas do czasu porusza temat zachowania dobrego zdrowia. Dla nas szczególnie groźne
-jest wielogodzinne siedzenie. Marek wskaże nam jak nie zasiedzieć się na śmierć. Zapraszamy!</p>
 ]]></content>
   </entry>
   
