@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-02-14T20:52:03+01:00</updated>
+  <updated>2019-02-18T20:12:28+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe - ujawniamy niespodziankę]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/02/18/spotkanie-lutowe-ujawniamy-niespodzianke/"/>
+    <updated>2019-02-18T20:06:55+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/02/18/spotkanie-lutowe-ujawniamy-niespodzianke</id>
+    <content type="html"><![CDATA[<p>Możemy już uwanić czym będziemy się zajmować 27 lutego po omówieniu tematu Jenkinsa: Tomasz Śmidoda pochyli się nad problemem znanym każdemu od kierownika zespołu w górę - informacji zwrotnej.</p>
+
+<p><i>
+Temat: <b>Uzdrawiająca moc feedbacku</b></p>
+
+<p>Pracujemy razem, mamy przełożonych, otaczamy się zespołem i kolegami spoza zespołu. Bieg zdarzeń przynosi coraz to nowe zadania, niejednokrotnie stające się wyzwaniami w mniejszej lub większej skali. Zdarza się, że doświadczamy niepewności i trapią nas wątpliwości czy postępujemy we właściwy sposób, nie mówiąc już o końcowej efektywności naszych działań. Jednocześnie nie zawsze mamy dostęp do tylu informacji na swój temat, ile chcielibyśmy posiadać.
+Opowiem o naturalnej potrzebie informacji zwrotnej oraz nakreślę ramy w której może się ona zawierać. Skupię się na:</p>
+
+<ul>
+<li>ogólnej idei feedbacku
+<li>brzegowych zasadach przekazywania oraz sposobach na to jak go przekazać
+<li>skutkach jego obecności i braku
+<li>dostosowaniu do warunków i środowisk
+<li>oraz błędach i wypaczeniach :)
+</ul>
+
+
+<p>Nie chcesz więcej klikać? To zacznij wszystko pisać i to obowiązkowo w kodzie!</p>
+
+<p></i></p>
+
+<p>Sponsor drugiej części ten sam - <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/258969398/" target="_blank">Zapisy tutaj</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie lutowe - Jenkins jako kod]]></title>
@@ -517,25 +551,6 @@ tyczących się naszej grupy za ostatnie cztery lata.</p>
 <p>Dziękujemy za ten rok i do zobaczenia we wrześniu. Śledźcie nasze kanały komunikacji, aby nie pominąć wrześniowego spotkania!</p>
 
 <p>P.S. Ankieta pospotkaniowa <a href="https://docs.google.com/forms/d/1IH55K9LwsJ9OZMAi8hypRsAiP2zLNoFdeeQ2tRv5K1g/viewform?c=0&w=1" target="_blank">jest tutaj</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie lipcowe - 4 lipca]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/06/25/spotkanie-czerwcowe-4-lipca/"/>
-    <updated>2018-06-25T21:05:54+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/06/25/spotkanie-czerwcowe-4-lipca</id>
-    <content type="html"><![CDATA[<p>W tym roku wyjątkowo odbędzie się spotkanie w lipcu (4-ego). Z powodu zamknięcia naszego dotychczasowego lokalu, zapraszamy do Barcelony na typową 19:00.</p>
-
-<p>Tematem dnia będzie alternatywa dla REST - GraphQL. Marcin Stachniuk z wrocławskiego JUGa przybliży problemy związane z zastosowaniem tego stylu
-architekturalnego i pokaże w jaki sposób Facebook starał się je rozwiązać tworząc GraphQL. Sam Marcin jest programistą, propagatorem zwinnych technik programowania a także
-wielu sportów z deską (od snowboardu do wakeboardu). Jego wystąpienie z pewnością będzie wynikało z doświadczenia zdobytego w trudzie i znoju ;)</p>
-
-<p>Napoje i przekąski zapewnia sponsor spotkania - firma <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/252130930/" target="_blank">Zapisy tutaj</a>.</p>
 ]]></content>
   </entry>
   
