@@ -19,7 +19,6 @@ Opowiem o naturalnej potrzebie informacji zwrotnej oraz nakreślę ramy w które
 <li>dostosowaniu do warunków i środowisk
 <li>oraz błędach i wypaczeniach :)
 </ul>
-Nie chcesz więcej klikać? To zacznij wszystko pisać i to obowiązkowo w kodzie!
 
 </i>
 
