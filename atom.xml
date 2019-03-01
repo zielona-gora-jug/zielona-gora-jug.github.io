@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-02-19T19:10:41+01:00</updated>
+  <updated>2019-03-01T19:04:28+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie lutowe - podsumowanie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/03/01/spotkanie-lutowe-podsumowanie/"/>
+    <updated>2019-03-01T18:54:27+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/03/01/spotkanie-lutowe-podsumowanie</id>
+    <content type="html"><![CDATA[<p>Ostatnia lutowa środa to spotkanie, podczas którego rozmawialiśmy na dwa tematy. Jędrzej Andrykowski rozpoczął od wprowadzenia do Jenkinsa. Przypomniał z jaką dezynwolturą konfigurujemy to narzędzie
+licząc na to, że nigdy nie zmienimy jego ustawień i zawsze będziemy pamiętać jak je ustawiliśmy. Oczywiście nie jest to prawdą i prowadzi do poważnych powikłań podczas wytwarzania
+oprogramowania. Zaprezentował nam plugin, który rozwiązuje to rozwiązanie. Szczegóły <a href="http://zielona-gora-jug.github.io/files/jenkins.pdf" target="_blank">w samej prezentacji</a>.</p>
+
+<p>Po krótkiej przerwie przenieśliśmy się w świat tematów &ldquo;miękkich&rdquo;. Tomasz Śmidoda podsumował swoje doświadczenie z feedbackiem w ramach prezentacji <a href="http://zielona-gora-jug.github.io/files/feedback.pdf" target="_blank">&ldquo;Uzdrawiająca moc feedbacku&rdquo;</a>.
+Wspominał o regułach, odczuciach drugiej strony, wadze informacji zwrotnej i podstawowymi sposobami jej udzielania.</p>
+
+<p>Dziękujemy <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a> za sponsorowanie spotkania.</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<p>Ankieta pospotkaniowa znajduje się <a href="https://t.co/Dkckcj2ZZJ" target="_blank">tutaj</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie lutowe - ujawniamy niespodziankę]]></title>
@@ -519,36 +539,6 @@ Strona domowa: <a href="https://innovation-amazon.com/" target="_blank">innovati
 <p><strong>SpreadIT - 8 września, Katowice</strong></p>
 
 <p>Darmowa konferencja poświęcona zagadnieniom związanym z informatyką. Tu wystarczy się zarejestrować pod <a href="https://spreadit.pl/" target="_blank">spreadit.pl</a> i &hellip; jechać.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie lipcowe '18 - podsumowanie]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/07/10/spotkanie-lipcowe-18-podsumowanie/"/>
-    <updated>2018-07-10T20:00:54+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/07/10/spotkanie-lipcowe-18-podsumowanie</id>
-    <content type="html"><![CDATA[<p>Ostatnie spotkanie w czwartym sezonie JUG-a było wyjątkowe pod wieloma względami: miało miejsce w Barcelonie i było w lipcu. Teamtem dnia był GraphQL, a mówił o nim
-nasz gość z Wrocławia - Marcin Stachniuk.</p>
-
-<p>Na wstępie podał nam powody, dla których REST może nie być najlepszym rozwiązaniem dla API oraz wytłumaczył dlaczego Facebook zdecydował się na opracowanie
-własnego rozwiązania. Przez następne kilkadziesiąt minut poznaliśmy składnię GraphQL oraz metody tworzenia kontrolerów w Javie.</p>
-
-<p>Jeśli chcecie jeszcze raz przejrzeć prezentację lub kody źródłowe, kliknijcie w odpowiedni link:</p>
-
-<ul>
-<li><a href="http://zielona-gora-jug.github.io/files/graphql.pdf" target="_blank">Prezentacja</a></li>
-<li><a href="http://zielona-gora-jug.github.io/files/graphql.zip" target="_blank">Kod źródłowy</a></li>
-</ul>
-
-
-<p>Po prezentacji - oraz w jej trakcie - padały liczne pytania odnoszące się do praktycznych zastosowań Facebookowej technologii.</p>
-
-<p>Spotkanie zakończyło losowanie nagród za wypełnione ankiety oraz rozdawanie książek (również tej wydanej pod naszym patronatem). Na koniec przedstawiliśmy garść statystyk
-tyczących się naszej grupy za ostatnie cztery lata.</p>
-
-<p>Dziękujemy za ten rok i do zobaczenia we wrześniu. Śledźcie nasze kanały komunikacji, aby nie pominąć wrześniowego spotkania!</p>
-
-<p>P.S. Ankieta pospotkaniowa <a href="https://docs.google.com/forms/d/1IH55K9LwsJ9OZMAi8hypRsAiP2zLNoFdeeQ2tRv5K1g/viewform?c=0&w=1" target="_blank">jest tutaj</a>.</p>
 ]]></content>
   </entry>
   
