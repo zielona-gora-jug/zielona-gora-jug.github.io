@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-03-01T19:04:28+01:00</updated>
+  <updated>2019-03-11T21:07:21+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie marcowe - Scala i paradygmat funkcyjny]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/03/11/spotkanie-marcowe-scala-i-paradygmat-funkcyjny/"/>
+    <updated>2019-03-11T21:00:51+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/03/11/spotkanie-marcowe-scala-i-paradygmat-funkcyjny</id>
+    <content type="html"><![CDATA[<p>Kolejne spotkanie Zielona Góra JUG wyjątkowo w trzecią środę marca, czyli 20-ego, o 19:00. Miejsce bez zmian - klub Wyspa.</p>
+
+<p>Wśrod grona sponsorów witamy firmę <a href="https://www.idemia.com/" target="_blank">Idemia</a> - światowy lider technologii identyfikacyjnych. wygłosi jeden z jej pracowników - Paweł Włodarski. Tytuł prezentacji to &ldquo;Wprowadzenie do Scali poprzez FP (i do FP poprzez Scalę)&rdquo;.</p>
+
+<p>Oddajmy głos prelegentowi: <i>&ldquo;Chciałbym wam pokazać z jednej strony jak pewne podejścia &#8220;paradygmatu funkcyjnego&rdquo; mogą poprawić nasze codzienne programowanie (będziemy się trzymać jak najwięcej biblioteki standardowej bez żadnych FPHardkorów) oraz jak ta dziwna składnia scali w praktyce pomaga te podejścia przekuć na kod. A poniewaz ostatnio Java trochę &ldquo;przyśpieszyła&rdquo; to będa liczne odniesienia do tegoż języka (i innych jak Kotlin). Jest to wprowadzenie do Scali ale nie do programowania jako takiego także poziom moze być średnio-zaawansowany&#8221;</i></p>
+
+<p>Paweł od ponad 12 lat programuje legalnie i płaci podatki. Ostatnie 5 lat w zasadzie programował w Scali, jakkolwiek trochę mu się znudziło i od kilku miesięcy robi Kotlina na Springu i Androidzie. W kwestiach społecznościowych - działa na JUG Łódź.</p>
+
+<p><a href="http://www.idemia.com"><img class="center" src="http://zielona-gora-jug.github.io/images/idemia.jpg" width="660" height="260" title="Cinkciarz.pl" ></a></p>
+
+<p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/259677617/" target="_blank">Zapisy tutaj</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie lutowe - podsumowanie]]></title>
@@ -510,35 +529,6 @@ Program dnia i lista prelegentów dostępna na <a href="http://segfault.events/w
 Strona domowa: <a href="https://innovation-amazon.com/" target="_blank">innovation-amazon.com</a>.</p>
 
 <p>Do Gdańska oferujemy dwie darmowe wejściówki.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zaproszenia na imprezy]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/07/24/zaproszenia-na-imprezy/"/>
-    <updated>2018-07-24T18:34:30+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/07/24/zaproszenia-na-imprezy</id>
-    <content type="html"><![CDATA[<p>Oficjalnie rozpoczynamy sezon zaproszeniowy na konferencje i pokrewne wydarzenia. Dziś zaproszenia dwa.</p>
-
-<p>Aby otrzymać bonusy, wystarczy dodać komentarz do tego postu lub napisać do nas na Facebook.</p>
-
-<!-- more -->
-
-
-<p><strong>HackYeah - 24-25 listopada, Warszawa</strong></p>
-
-<p>O co chodzi? O HackYeah - największy, stacjonarny hackathon w Europie. Pula nagród: 240.000 PLN.</p>
-
-<p>Opłata za bilety jest symboliczna, cały dochód ze sprzedaży zostanie przekazany na rzecz projektu Szkoła 3.0. – kursów programowania dla podopiecznych z krakowskich domów dziecka.</p>
-
-<p>HackYeah to nie tylko hackathon! To także festiwal IT, który łączy ludzi ze świata programowania i nowych technologii. Na pewno znajdziesz coś dla siebie w agendzie konferencji lub w strefach wypełnionych atrakcjami. Więcej informacji niebawem pod
-<a href="https://hackyeah.pl" target="_blank">hackyeah.pl</a>.</p>
-
-<p>Tutaj mamy 20 darmowych wejściówek i nieograniczoną ilość ze zniżką 40%.</p>
-
-<p><strong>SpreadIT - 8 września, Katowice</strong></p>
-
-<p>Darmowa konferencja poświęcona zagadnieniom związanym z informatyką. Tu wystarczy się zarejestrować pod <a href="https://spreadit.pl/" target="_blank">spreadit.pl</a> i &hellip; jechać.</p>
 ]]></content>
   </entry>
   
