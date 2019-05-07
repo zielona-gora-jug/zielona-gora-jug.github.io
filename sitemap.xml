@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach/</loc>
+    <lastmod>2019-05-07T19:25:42+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2019/04/10/spotkanie-kwietniowe-docker-kontra-developer/</loc>
     <lastmod>2019-04-10T21:17:23+02:00</lastmod>
   </url>

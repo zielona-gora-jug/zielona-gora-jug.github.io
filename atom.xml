@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-04-10T21:33:30+02:00</updated>
+  <updated>2019-05-07T19:30:16+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie majowe - wolne aplikacje i testowanie oparte na właściwościach]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach/"/>
+    <updated>2019-05-07T19:25:42+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach</id>
+    <content type="html"><![CDATA[<p>29-ego maja zapraszamy do klubu WySPa (al. Wojska Polskiego 65, start o 19:00 z pogaduchami od 18:30) na kolejne spotkanie Zielona Góra JUG. Sponsorem jest <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
+
+<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
+
+<p>Pierwszy temat to &ldquo;<b>Twoja aplikacja działa, ale wolno. Co teraz?</b>&rdquo;. Zajmie się nim Aleksandra Kunysz, nasz gość z Wrocławia. Pisała frontendy, backendy i kod biznesowy, zbierała wymagania, testowała i szkoliła. Pracowała w korporacjach, startupach i pro bono w różnych branżach i krajach. Najbardziej lubi pisać kod, który ma znaczenie i rozwiązywać prawdziwe problemy. Kiedy jest offline, jeździ na rowerze, spaceruje z psem, albo ćwiczy jogę z kotami.</p>
+
+<p>Abstrakt: <i>Kawał dobrej roboty, zastosowane wzorce projektowe, test jednostkowe i integracyjnie, najnowsze frameworki i wzruszająco piękny proces CI. Aplikacja wchodzi na produkcję i BUM, klienci skarżą się na słaby performance. Nieważne, że aplikacja jest spełnieniem developerskich marzeń, nikt jej nie będzie używał, jeśli każdy widok ładuje się cztery sekundy. Co teraz? Gdzie szukać spowalniaczy i jak zastosować proste sztuczki, żeby było szybciej, albo chociaż tak się wydawało.</i></p>
+
+<p>Drugi temat to &ldquo;<b>Testowanie oparte na właściwościach</b>&rdquo; Magdy Stożek - przedstawicielki sponsora i naszej współorganizatorki.</p>
+
+<p>Abstrakt: <i>Nie pytaj co ty możesz zrobić dla swojej biblioteki do testów, zapytaj co ona może zrobić dla ciebie! A co może? Jak się okazuje, sporo więcej niż tylko wyświetlić ładny czerwono-zielony raport. Co powiecie na pomysł, żeby to ona zajęła się generowaniem danych testowych? A skoro o tym mowa, to może niech od razu wymyśli nam takie przypadki brzegowe, dla których nasz kod nie działa? Ale jak już taki znajdzie, to niech nam go trochę uprości przed podaniem - żeby łatwiej nam było zrozumieć dlaczego. No i dla pewności niech zrobi to tak z 1000 razy. Brzmi dobrze? To wszystko i jeszcze więcej da wam property-based testing. Na przykładzie <a href="https://jqwik.net/" target="_blank">jqwik</a> pokażę, jak się do tego zabrać w Javie. Ale czy to nie zbyt piękne, na pewno jest tam jakiś drobny druczek? Oczywiście że jest. Będzie i o nim.</i></p>
+
+<p>Rejestracja uczestnictwa, jak zwykle, na <a target="_blank" href="https://www.meetup.com/Zielona-Gora-JUG/events/261261921/">Meetup</a>. Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie kwietniowe - Docker kontra developer]]></title>
@@ -516,36 +537,6 @@ More information about the events:</p>
 <li><a href="https://2018.codemonsters.pro/" target="_blank">2018.codemonsters.pro</a>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Otwarcie nowego sezonu 2018/19]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/09/13/otwarcie-nowego-sezonu-2018-slash-19/"/>
-    <updated>2018-09-13T19:14:58+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/09/13/otwarcie-nowego-sezonu-2018-slash-19</id>
-    <content type="html"><![CDATA[<p>Wraz z <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, naszym sponsorem miesiąca,
-zapraszamy na otwarcie nowego sezonu. Tym razem spotykamy się we <b>wtorek</b>, 25 września, o 19:00 w studneckim klubie &ldquo;U Ojca&rdquo; na campusie A. Prelegentem będzie gość z Wrocławia: Michał Michaluk.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
-
-<p>Temat:
-Event Storming - przepływ wiedzy dziedzinowej od biznesu do kodu produkcyjnego.</p>
-
-<p>Wykład będzie omówieniem techniki Event Storming-u, jej wad i zalet oraz obserwacji z dwóch lat jej stosowania w polskich warunkach.</p>
-
-<p>Poruszymy problematyczne tematy, o które często pytacie:
-- Co robić dalej, kiedy karteczki już są na ścianie.
-- Praca ze zdalnym biznesem.
-- Tłumaczenie polskich pojęć biznesowych na angielski kod źródłowy.
-- Dokumentowanie na potrzeby przyszłych programistów.
-- Zastosowanie notacji Event Storimng-u przy pracy z legacy code-m.</p>
-
-<p>Zobaczymy relację Event Storming-u z innymi technikami takimi jak Specification by Examples, Walking Skeleton, Port and Adapters, Audit Log, CQRS, Event Sourcing oraz Continue Deployment.</p>
-
-<p>Michał Michaluk jest programistą Java, konsultantem i trenerem w firmie Bottega IT Minds. Domain-Driven Design, Specification by Example, Software Craftsmanship oraz fundamenty Agile są jego narzędziami w codziennej pracy. Jest programista z pasją, intensywnie pracującym nad swoim rzemiosłem i fanem refactoringu kodu legacy. W wolnym czasie strzela IPSC i gra w W40k.</p>
-
-<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/254657029/" target="_blank">Meetup</a>. Zapraszamy!</p>
 ]]></content>
   </entry>
   
