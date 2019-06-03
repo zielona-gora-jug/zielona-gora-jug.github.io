@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Spotkanie majowe - wolne aplikacje i testowanie oparte na właściwościach - Zielona Góra JUG</title>
+  <title>Spotkanie majowe - materiały - Zielona Góra JUG</title>
   <meta name="author" content="Zielona Góra JUG">
 
   
-  <meta name="description" content="29-ego maja zapraszamy do klubu WySPa (al. Wojska Polskiego 65, start o 19:00 z pogaduchami od 18:30) na kolejne spotkanie Zielona Góra JUG. &hellip;">
+  <meta name="description" content="W ostatnią środę maja odbyło się kolejne spotkanie naszego JUG-a, a jego sponsorem był SoftwareMill - firma dostarczająca oprogramowanie tworzone &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://zielona-gora-jug.github.io/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach">
+  <link rel="canonical" href="http://zielona-gora-jug.github.io/blog/2019/06/03/spotkanie-majowe-materialy">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Zielona Góra JUG" type="application/atom+xml">
@@ -89,7 +89,7 @@
   
   <header>
     
-      <h1 class="entry-title">Spotkanie majowe - wolne aplikacje i testowanie oparte na właściwościach</h1>
+      <h1 class="entry-title">Spotkanie majowe - materiały</h1>
     
     
       <p class="meta">
@@ -105,7 +105,7 @@
   
 
 
-<time datetime="2019-05-07T19:25:42+02:00" pubdate data-updated="true">May 7<sup>th</sup>, 2019</time>
+<time datetime="2019-06-03T17:42:11+02:00" pubdate data-updated="true">Jun 3<sup>rd</sup>, 2019</time>
         
            | <a href="#disqus_thread"
              data-disqus-identifier="http://zielona-gora-jug.github.io">Komentarze</a>
@@ -115,19 +115,18 @@
   </header>
 
 
-<div class="entry-content"><p>29-ego maja zapraszamy do klubu WySPa (al. Wojska Polskiego 65, start o 19:00 z pogaduchami od 18:30) na kolejne spotkanie Zielona Góra JUG. Sponsorem jest <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
+<div class="entry-content"><p>W ostatnią środę maja odbyło się kolejne spotkanie naszego JUG-a, a jego sponsorem był <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
 
 <p><a href="https://softwaremill.com/"><img class="center" src="/images/softwaremill.png" title="SoftwareMill" ></a></p>
 
-<p>Pierwszy temat to &ldquo;<b>Twoja aplikacja działa, ale wolno. Co teraz?</b>&rdquo;. Zajmie się nim Aleksandra Kunysz, nasz gość z Wrocławia. Pisała frontendy, backendy i kod biznesowy, zbierała wymagania, testowała i szkoliła. Pracowała w korporacjach, startupach i pro bono w różnych branżach i krajach. Najbardziej lubi pisać kod, który ma znaczenie i rozwiązywać prawdziwe problemy. Kiedy jest offline, jeździ na rowerze, spaceruje z psem, albo ćwiczy jogę z kotami.</p>
+<p>Spotkanie rozpoczęła Magda Stożek od pokazania czym jest testowanie oparte na właściwościach i jak stosować tę technikę w rozsądny sposób.
+Wytłumaczyła również kiedy nie jest to najlepsze podejście. <a href="https://slides.com/magdastozek/property-based-testing/" target="_blank">Slajdy znajdują się tutaj</a>.</p>
 
-<p>Abstrakt: <i>Kawał dobrej roboty, zastosowane wzorce projektowe, test jednostkowe i integracyjnie, najnowsze frameworki i wzruszająco piękny proces CI. Aplikacja wchodzi na produkcję i BUM, klienci skarżą się na słaby performance. Nieważne, że aplikacja jest spełnieniem developerskich marzeń, nikt jej nie będzie używał, jeśli każdy widok ładuje się cztery sekundy. Co teraz? Gdzie szukać spowalniaczy i jak zastosować proste sztuczki, żeby było szybciej, albo chociaż tak się wydawało.</i></p>
+<p>W dalszej części wieczoru Ola Kunysz opowiedziała nam dlaczego aplikacje są wolne oraz pokazała kilka trików pozwalających albo na zmianę tego stanu rzeczy (zwykle poprzez
+ustalenie praprzyczyny) albo na jego maskowanie.
+I ponownie dysponujemy <a href="/files/Kunysz_Performance.pdf">slajdami</a>.</p>
 
-<p>Drugi temat to &ldquo;<b>Testowanie oparte na właściwościach</b>&rdquo; Magdy Stożek - przedstawicielki sponsora i naszej współorganizatorki.</p>
-
-<p>Abstrakt: <i>Nie pytaj co ty możesz zrobić dla swojej biblioteki do testów, zapytaj co ona może zrobić dla ciebie! A co może? Jak się okazuje, sporo więcej niż tylko wyświetlić ładny czerwono-zielony raport. Co powiecie na pomysł, żeby to ona zajęła się generowaniem danych testowych? A skoro o tym mowa, to może niech od razu wymyśli nam takie przypadki brzegowe, dla których nasz kod nie działa? Ale jak już taki znajdzie, to niech nam go trochę uprości przed podaniem - żeby łatwiej nam było zrozumieć dlaczego. No i dla pewności niech zrobi to tak z 1000 razy. Brzmi dobrze? To wszystko i jeszcze więcej da wam property-based testing. Na przykładzie <a href="https://jqwik.net/" target="_blank">jqwik</a> pokażę, jak się do tego zabrać w Javie. Ale czy to nie zbyt piękne, na pewno jest tam jakiś drobny druczek? Oczywiście że jest. Będzie i o nim.</i></p>
-
-<p>Rejestracja uczestnictwa, jak zwykle, na <a target="_blank" href="https://www.meetup.com/Zielona-Gora-JUG/events/261261921/">Meetup</a>. Zapraszamy!</p>
+<p>Dal chętnych istnieje możliwość oceny spotkana pod <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd2eG-Ublzu_8ejC1qgbeyXQMKlfxjH-yW6Cx84JvMCLM3fww/viewform">tym adresem</a>. Nagrody czekają!</p>
 </div>
 
 
@@ -150,7 +149,7 @@
   
 
 
-<time datetime="2019-05-07T19:25:42+02:00" pubdate data-updated="true">May 7<sup>th</sup>, 2019</time>
+<time datetime="2019-06-03T17:42:11+02:00" pubdate data-updated="true">Jun 3<sup>rd</sup>, 2019</time>
       
 
 
@@ -158,7 +157,7 @@
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://zielona-gora-jug.github.io/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach/" data-via="" data-counturl="http://zielona-gora-jug.github.io/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://zielona-gora-jug.github.io/blog/2019/06/03/spotkanie-majowe-materialy/" data-via="" data-counturl="http://zielona-gora-jug.github.io/blog/2019/06/03/spotkanie-majowe-materialy/" >Tweet</a>
   
   
   
@@ -167,10 +166,8 @@
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2019/04/10/spotkanie-kwietniowe-docker-kontra-developer/" title="Previous Post: Spotkanie kwietniowe - Docker kontra developer">&laquo; Spotkanie kwietniowe - Docker kontra developer</a>
+        <a class="basic-alignment left" href="/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach/" title="Previous Post: Spotkanie majowe - wolne aplikacje i testowanie oparte na właściwościach">&laquo; Spotkanie majowe - wolne aplikacje i testowanie oparte na właściwościach</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2019/06/03/spotkanie-majowe-materialy/" title="Next Post: Spotkanie majowe - materiały">Spotkanie majowe - materiały &raquo;</a>
       
     </p>
   </footer>
@@ -206,8 +203,8 @@
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://zielona-gora-jug.github.io/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach/';
-        var disqus_url = 'http://zielona-gora-jug.github.io/blog/2019/05/07/spotkanie-majowe-wolne-aplikacje-i-testowanie-oparte-na-wlasciwosciach/';
+        var disqus_identifier = 'http://zielona-gora-jug.github.io/blog/2019/06/03/spotkanie-majowe-materialy/';
+        var disqus_url = 'http://zielona-gora-jug.github.io/blog/2019/06/03/spotkanie-majowe-materialy/';
         var disqus_script = 'embed.js';
       
     (function () {
