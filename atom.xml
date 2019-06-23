@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-06-10T19:31:32+02:00</updated>
+  <updated>2019-06-23T19:07:11+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[HackYeah 2019]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/06/23/hackyeah-2019/"/>
+    <updated>2019-06-23T19:02:05+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/06/23/hackyeah-2019</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem <a href="http://www.hackyeah.pl" target="_blank">HackYeah 2019</a>. Dla chętnych posiadamy kody zniżkowe na udział jako drużyna (do uzyskania po wiadomości wysłanej do organizatorów). O co chodzi? Oddajmy głos organizatorom:</p>
+
+<p><a href="https://hackyeah.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/hackyeahcolor.png" title="HackYeah" ></a></p>
+
+<p><i></p>
+
+<p>HackYeah to największy stacjonarny hackathon w Europie, skupiający ludzi hackujących rzeczywistość, którzy koncentrują się na rozwiązywaniu ważnych problemów dzisiejszego świata. 2500 uczestników z różnymi specjalizacjami wzięło udział w  2018.  Tegoroczna edycja odbędzie się w dniach 14-15 września w Ptak Expo Warsaw.</p>
+
+<!-- more -->
+
+
+<p>Na wydarzenie zapraszamy: studentów, back-end developer, front-end developerów, full-stack developerów, grafików komputerowych, produkt menedżerów, projekt menedżerów, specjalistów od bezpieczeństwa informacji, analityków danych, projektantów aplikacji, projektantów stron internetowych, elektrotechników, projektantów gier i nie tylko!</p>
+
+<p>W tym roku uczestnicy będą mierzyć się z zadaniami w trzech otwartych kategoriach:  BEZPIECZEŃSTWA, ŚRODOWISKA i KOMUNIKACJI. Celem uczestników będzie stworzenie aplikacji, programów lub urządzeń, które wspierają poprawę warunków życia właśnie w ramach tych trzech tematów. W każdej z trzech kategorii do wygrania będzie nagroda główna w kwocie 10 000 PLN. Organizatorzy nie sugerują kierunku rozwiązywania zadań ale na zespoły będzie czekać wsparcie mentorów zarówno technicznych jak i społecznościowych, którzy będą gotowi odpowiedzieć na wszystkie pytania.</p>
+
+<p>Dodatkowo na uczestników czekać będzie wiele zadań partnerskich. W zeszłym roku w ramach tej kategorii można było zmierzyć się z wyzwaniem włamania do agregatu prądotwórczego, stworzyć aplikację do gier losowych czy też stworzyć narzędzie ułatwiające klientom banków przejrzyste korzystanie z ich usług.</p>
+
+<p>Udział w wydarzeniu jest otwarty dla wszystkich chętnych: studentów, programistów, UXoców, project managerów, inżynierów, specjalistów od baz danych, analityków czy gamerów. Wstęp jest płatny 49,00 PLN jednak cały przychdów z biletów przeznaczony zostanie na rzecz fundacji edukujących dzieci w tematyce programowania - SZKOŁY 3.0 i HEARTY FOUNDATION.</p>
+
+<p>Więcej szczegółów pojawi się już wkrótce na stronie <a href="http://www.hackyeah.pl" target="_blank">www.hackyeah.pl</a></p>
+
+<p></i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie czerwocowe - Kubernetes]]></title>
@@ -518,22 +548,6 @@ Aby dodać łyżkę dziegciu do beczki miodu przybliżę wam również ciemniejs
 <p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
 
 <p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/255574466/" target="_blank">Zapisy tutaj</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego 2018]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/10/10/podsumowanie-spotkania-wrzesniowego-2018/"/>
-    <updated>2018-10-10T19:08:57+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/10/10/podsumowanie-spotkania-wrzesniowego-2018</id>
-    <content type="html"><![CDATA[<p>Sezon 2018/19 rozpoczęliśmy tematem bardziej związanym z architekturą i zarządzaniem projektem niż z programowaniem <i>per se</i>. Prelegentem był Michał Michaluk z Bottegi.
-Mowa była o Event Stormingu. Michał rozpoczął od krótkiego omówienia czym właściwie jest ES oraz podstaw anotacji. Następnie przeszedł do pokazywania zalet
-rzeczonego podejścia na podstawie swojego bogatego doświadczenia. Udowodnił w ten sposób, że realne projekty mogą wiele zyskać na stosowaniu tej techniki. W trakcie wykładu, nawiązał
-również do DDD i jego relacji ze stormingiem. Tradycyjnie, spotkanie zakończyło się pytaniami.</p>
-
-<p>Jeśli ktoś ma ochotę przypomnieć sobie to wydarzenie, <a href="http://zielona-gora-jug.github.io/files/jug-event-storming.pdf" target="_blank">prezentacja jest tutaj</a></p>
-
-<p>Ankietę pospotkaniową możecie wypełnić <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgXWEaKnKWoYqApd356xNoCR9ebNVQMMrtCjauFq2-ua2O8Q/viewform?c=0&w=1" target="_blank">tutaj</a>.</p>
 ]]></content>
   </entry>
   
