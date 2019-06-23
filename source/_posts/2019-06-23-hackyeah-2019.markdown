@@ -1,0 +1,28 @@
+---
+layout: post
+title: "HackYeah 2019"
+date: 2019-06-23 19:02:05 +0200
+comments: true
+categories: 
+---
+
+Zostaliśmy partnerem <a href="http://www.hackyeah.pl" target="_blank">HackYeah 2019</a>. Dla chętnych posiadamy kody zniżkowe na udział jako drużyna (do uzyskania po wiadomości wysłanej do organizatorów). O co chodzi? Oddajmy głos organizatorom:
+
+[{% img center /images/hackyeahcolor.png HackYeah %}](https://hackyeah.pl/)
+
+<i>
+
+HackYeah to największy stacjonarny hackathon w Europie, skupiający ludzi hackujących rzeczywistość, którzy koncentrują się na rozwiązywaniu ważnych problemów dzisiejszego świata. 2500 uczestników z różnymi specjalizacjami wzięło udział w  2018.  Tegoroczna edycja odbędzie się w dniach 14-15 września w Ptak Expo Warsaw.
+<!-- more -->
+
+Na wydarzenie zapraszamy: studentów, back-end developer, front-end developerów, full-stack developerów, grafików komputerowych, produkt menedżerów, projekt menedżerów, specjalistów od bezpieczeństwa informacji, analityków danych, projektantów aplikacji, projektantów stron internetowych, elektrotechników, projektantów gier i nie tylko!
+
+W tym roku uczestnicy będą mierzyć się z zadaniami w trzech otwartych kategoriach:  BEZPIECZEŃSTWA, ŚRODOWISKA i KOMUNIKACJI. Celem uczestników będzie stworzenie aplikacji, programów lub urządzeń, które wspierają poprawę warunków życia właśnie w ramach tych trzech tematów. W każdej z trzech kategorii do wygrania będzie nagroda główna w kwocie 10 000 PLN. Organizatorzy nie sugerują kierunku rozwiązywania zadań ale na zespoły będzie czekać wsparcie mentorów zarówno technicznych jak i społecznościowych, którzy będą gotowi odpowiedzieć na wszystkie pytania.
+
+Dodatkowo na uczestników czekać będzie wiele zadań partnerskich. W zeszłym roku w ramach tej kategorii można było zmierzyć się z wyzwaniem włamania do agregatu prądotwórczego, stworzyć aplikację do gier losowych czy też stworzyć narzędzie ułatwiające klientom banków przejrzyste korzystanie z ich usług. 
+
+Udział w wydarzeniu jest otwarty dla wszystkich chętnych: studentów, programistów, UXoców, project managerów, inżynierów, specjalistów od baz danych, analityków czy gamerów. Wstęp jest płatny 49,00 PLN jednak cały przychdów z biletów przeznaczony zostanie na rzecz fundacji edukujących dzieci w tematyce programowania - SZKOŁY 3.0 i HEARTY FOUNDATION.
+
+Więcej szczegółów pojawi się już wkrótce na stronie <a href="http://www.hackyeah.pl" target="_blank">www.hackyeah.pl</a>
+
+</i>
