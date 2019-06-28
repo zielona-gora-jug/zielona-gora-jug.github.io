@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spotkanie czerwocowe - Kubernetes"
+title: "Spotkanie czerwcowe - Kubernetes"
 date: 2019-06-10 19:08:51 +0200
 comments: true
 categories: 
