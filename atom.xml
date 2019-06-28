@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-06-23T19:07:11+02:00</updated>
+  <updated>2019-06-28T19:23:47+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zamknięcie sezonu 2018/2019]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/06/28/zamkniecie-sezonu-2019/"/>
+    <updated>2019-06-28T19:15:47+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/06/28/zamkniecie-sezonu-2019</id>
+    <content type="html"><![CDATA[<p>W ostatnią środę zamknęliśmy 5-ty sezon naszego JUG-a. Ostatnim prelegentem był Marcin Stożek, który opowiedział nam o logowaniu w Kubernetes. Rozpoczął od wyjaśnienia jak to się dzieje, że
+te wszystkie linijki trafiają w odpowiednie miejsce i jak są łączone. Stąd przeszedł do poważnego problemu - co zrobić po utworzeniu dziesiątek węzłów. Podał kilka sposobów rozwiązania
+tej kwestii, przy czym skoncentrował się na Logsense. Więcej szczegółów w <a target="_blank" href="http://slides.com/perk/k8s-logging-techniques#/">prezentacji</a>.</p>
+
+<p>Sponsorem miesiąca był <a href="https://streamsoft.pl/" target="_blank">Streamsoft</a> - zielonogórski dostawca systemów ERP.</p>
+
+<p><a href="https://streamsoft.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/streamsoft2019.png" title="Streamsoft" ></a></p>
+
+<p>Spotkanie można ocenić na <a target="_blank" href="https://forms.gle/QwWEqdnszGN6ogqK7">tej stronie</a>. Do zobaczeniu we wrześniu!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[HackYeah 2019]]></title>
@@ -44,7 +61,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Spotkanie czerwocowe - Kubernetes]]></title>
+    <title type="html"><![CDATA[Spotkanie czerwcowe - Kubernetes]]></title>
     <link href="http://zielona-gora-jug.github.io/blog/2019/06/10/spotkanie-czerwocowe-kubernetes/"/>
     <updated>2019-06-10T19:08:51+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2019/06/10/spotkanie-czerwocowe-kubernetes</id>
@@ -523,31 +540,6 @@ Będziecie?</p>
 <li><a href="https://www.facebook.com/events/180114162913608/" target="_blank">Strona Facebook</a>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie październikowe 2018]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/10/21/spotkanie-pazdziernikowe-2018/"/>
-    <updated>2018-10-21T09:50:18+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/10/21/spotkanie-pazdziernikowe-2018</id>
-    <content type="html"><![CDATA[<p>Spotkanie październikowe odbędzie się 24-ego października o 19:00 (o 18:30 jest tradycyjne pre-party) w klubie &ldquo;Wyspa&rdquo; na Campusie B UZ przy Al. Wojska Polskiego 65.
-Prelegent przyjedzie z Łodzi, a sponsorem dnia jest <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
-
-<p><b>MongoDB in a nutshell for Developer</b></p>
-
-<p>No więc pewnie słyszałeś coś o MongoDB ale być może nie masz pojęcia jak (albo kiedy) go użyć? Wiktor pomoże zrozumieć podstawowe koncepcje związane z MongoDB i różnice w stosunku do klasycznego świata RDBMS. W trakcie prezentacji spojrzymy na MongoDB z perspektywy Java Developera i odpowiemy sobie na kilka pytań. Do czego możemy go użyć? Co może nam dać Mongo, a czego nie mogą tradycyjne relacyjne bazy? Kiedy go nie używać?</p>
-
-<p>W drugiej części przyjrzymy się temu jak poszukiwać wąskie gardła, jak czytać explain() i na co zwracać uwagę. Dokładnie przyjrzymy się indeksom. Dowiemy się jak najlepiej wykorzystywać indeksy do sortowania, dlaczego tak ważna jest kolejność pól w indeksie oraz jakie są zasady, którymi powinniśmy się kierować tworząc indeksy.
-Aby dodać łyżkę dziegciu do beczki miodu przybliżę wam również ciemniejsze strony indeksów - zasobożerność i to jak wpływają na wydajność zapisów.</p>
-
-<p><b>Wiktor Sztajerowski</b> - cynik, wielbiciel marnych dowcipów i koneser chemexa. Zakręcony na punkcie systemów rozproszonych. Bywalec salonów konferencyjnych (czasami nawet udaje, że coś wie i mądrzy się ze sceny). Na co dzień programista, architekt lub konsultant – w zależności od potrzeb. Jeden z leaderów łódzkiego JUGa, a od niedawna współorganizator konferencji SegFault oraz CoreDump.</p>
-
-<p>Napoje i przekąski zapewnia sponsor spotkania - firma <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/255574466/" target="_blank">Zapisy tutaj</a>.</p>
 ]]></content>
   </entry>
   
