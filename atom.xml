@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-06-28T19:23:47+02:00</updated>
+  <updated>2019-08-19T22:15:12+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Dwa zaproszenia na SegFault]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/08/19/dwa-zaproszenia-na-segfault/"/>
+    <updated>2019-08-19T22:00:39+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/08/19/dwa-zaproszenia-na-segfault</id>
+    <content type="html"><![CDATA[<p>Powoli wracamy z wakacji i z tej okazji mamy dla Was zaproszenie na dwa wydarzenia. Dla chętnych zniżki 10% (po przesłaniu <a href="leaders">wiadomości</a>).</p>
+
+<p><a href="https://segfault.events/warszawa2019/"><img class="center" src="http://zielona-gora-jug.github.io/images/SegFaultWarszawa.png" title="SegFault" ></a></p>
+
+<p><a href="https://segfault.events/warszawa2019/" target="_blank">SegFault Warszawa 2019</a> - 27 września. Przede wszystkim tematyka związana z Data Engineering i Applied ML / AI. Zastanawiacie się jak wykorzystać ML lub AI w Waszych projektach? W SegFault idą krok dalej - nie teoretyzują, lecz pokazują jak wdrożyć tego typu rozwiązania w konkretne projekty.</p>
+
+<p><a href="https://segfault.events/krakow2019/"><img class="center" src="http://zielona-gora-jug.github.io/images/SegFaultUnconference.jpg" title="SegFault" ></a></p>
+
+<p><a href="https://segfault.events/krakow2019/" target="_blank">SegFault Unconference Kraków 2019</a> Ogólnotematyczna konferencja odbywająca się 25 i 26 listopada. Pierwszy dzień to &ldquo;unconference&rdquo;: wymiana doświadczeń z najlepszymi! Drugi dzień to już bardziej typowe prelekcje.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zamknięcie sezonu 2018/2019]]></title>
@@ -517,29 +534,6 @@ CoreDump – z jednej strony nowość na rynku konferencji IT, z drugiej&hellip;
 
 <p>Szukasz inspiracji? CoreDump – musisz tam być! I tura rejestracji już trwa!
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[IT NonStop: J-Santa 2018]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/10/31/it-nonstop-j-santa-2018/"/>
-    <updated>2018-10-31T12:42:06+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/10/31/it-nonstop-j-santa-2018</id>
-    <content type="html"><![CDATA[<p>Jesteśmy Community Partnerem pierwszej konferencji JVM i Craftsmanship w Lublinie!
-IT NonStop: J-Santa to przede wszystkim technologiczni eksperci, 3 merytoryczne ścieżki tematyczne i typowe techniczne case studies.
-Wystąpią Jarosław Pałka, Marcin Grzejszczak, Grzegorz Piwowarek i inni.
-Będziecie?</p>
-
-<p><a href="https://j-santa.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jsanta.jpg" title="J-Santa" ></a></p>
-
-<p>Linki:</p>
-
-<ul>
-<li><a href="https://goo.gl/kALdPj" target="_blank">Rejestracja</a>
-<li><a href="https://j-santa.pl" target="_blank">Strona domowa</a>
-<li><a href="https://www.facebook.com/events/180114162913608/" target="_blank">Strona Facebook</a>
-</ul>
-
 ]]></content>
   </entry>
   
