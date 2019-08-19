@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Powoli wracamy z wakacji i z tej okazji mamy dla Was zaproszenie na dwa wydarzenia. Dla chętnych zniżki 10% (po przesłaniu <a href="kontakt">wiadomości</a>).
+Powoli wracamy z wakacji i z tej okazji mamy dla Was zaproszenie na dwa wydarzenia. Dla chętnych zniżki 10% (po przesłaniu <a href="leaders">wiadomości</a>).
 
 [{% img center /images/SegFaultWarszawa.png SegFault %}](https://segfault.events/warszawa2019/)
 
