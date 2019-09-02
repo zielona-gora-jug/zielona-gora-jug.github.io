@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-08-27T19:43:01+02:00</updated>
+  <updated>2019-09-02T21:04:03+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Otwarcie sezonu 2019/20]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/09/02/otwarcie-sezonu-2019-slash-20/"/>
+    <updated>2019-09-02T20:55:14+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/09/02/otwarcie-sezonu-2019-slash-20</id>
+    <content type="html"><![CDATA[<p>Otwarcie nowego sezonu wyjątkowo w czwartek 12 IX, w Barcelona Sport Pub przy ulicy Ciesielskiej.
+Standardowo główna część spotkania zacznie się o 19:00, a poprzedzi ją półgodzinna integracja.
+Po raz pierwszy naszym sponsorem będzie <a href="https://dtpoland.com/" target="_blank">Digital Technology Poland</a> - firma świadczącą usługi projektowania i wdrażania innowacyjnych rozwiązań w zakresie oprogramowania, systemów i urządzeń elektronicznych: przemysł 4.0, robotyka, przetwarzanie obrazów i sztuczna inteligencja.</p>
+
+<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtpoland.jpg" title="DTPoland" ></a></p>
+
+<p>Tematem dnia będą <b>Grzechy nas wszystkich wobec UX</b>. Prelekcję poprowadzi <b>Noemi Rozpara</b>, które przyjedzie do Zielonej Góry specjalnie z tej okazji. Oddajmy jej głos:</p>
+
+<p><i>Często o front-endzie myślimy jako o kolejnym modnym frameworku i fikuśnych efektach wizualnych na stronie. Tym razem spojrzymy na witrynę internetową jak na cały system, merytoryczny i atrakcyjny wizualnie, w centrum którego znajduje się użytkownik. Pokażę, dlaczego taka perspektywa jest kluczem do wyróżnienia naszej witryny na tle przesyconego marketingowo rynku.</p>
+
+<p>Odpowiem na pytania:</p>
+
+<p>Jak zakończyć wojnę pomiędzy programistami, grafikami a klientem?</p>
+
+<p>Dlaczego nasz front-end powinien być jak lotnisko?</p>
+
+<p>Po co komu UX?</i></p>
+
+<p>Do zobaczenia!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Innovation@amazon 2019]]></title>
@@ -471,25 +498,6 @@ Gościć nas będzie ponownie klub WySPa przy Wojska Polskiego 65 (Campus B). St
 Na codzień jestem programistą i technicznym liderem w firmie Roche. Z dziedziny programowania obszary które w szczególności mnie kręcą to tematyka dobrych praktyk, Clean Code, Domain Driven Design i CI/CD. Ostatnio spełniam się w roli trenera na szkoleniach z tematyki CI/CD i facylitatora prowadzącego warsztaty Event Storming&#8217;u. Prywatnie jestem pasjonatem takich sportów jak: boks/kickboxing, bieganie po górach, freediving i nurkowanie.</p>
 
 <p>Rejestracja uczestnictwa na <a href="https://www.meetup.com/pl-PL/Zielona-Gora-JUG/events/256972305/">Meetup</a>. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie listopadowe 2018 - podsumowanie]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/11/23/spotkanie-listopadowe-2018-podsumowanie/"/>
-    <updated>2018-11-23T19:00:26+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/11/23/spotkanie-listopadowe-2018-podsumowanie</id>
-    <content type="html"><![CDATA[<p>W zimny listopadowy wieczór spotkaliśmy się na tropikalnej WySPie dzięki <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a>, aby porozmawiać o Machine Learning i bashu.</p>
-
-<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
-
-<p>Pierwszą prezentację przedstawił pracownik sponsora - Michał Matłoka. Wprowadził nas pokrótce w różne tematy związane z AI i wyjaśnił czym różni się Machine Learning od innych technik. Część teoretyczną
-okrasił przykładem systemu uczącego się jak automatycznie kwalifikować opisy prelekcji do konkretnych kategorii. <a href="http://zielona-gora-jug.github.io/files/machine-learning.pdf" target="_blank">Pełna prezentacja znajduje się tutaj</a>.</p>
-
-<p>Po krótkiej przerwie wystąpienie rozpoczął Marcin Stożek, który dynamicznie poruszał się między pułapkami jakie na co dzień spotyka &ldquo;programując&rdquo; w bashu. Narzędzie znane i wykorzystywane, ale - jak widać -
-bywa używane w niekoniecznie optymalny sposób. Jeżeli chcecie przypomnieć sobie tajniki basha, <a href="http://slides.com/perk/jak-wytresowac-basha#/" target="_blank">kliknijcie tutaj</a>.</p>
-
-<p>Ankieta, której wypełnienie może zostać nagrodzone, znajduje się <a href="https://docs.google.com/forms/d/e/1FAIpQLScfLnNHjn4U1LSB3be9jNrQdOYpr0Bl3-zm6MjVI5z3DoVDkQ/viewform?vc=0&c=0&w=1" target="_blank">tutaj</a>.</p>
 ]]></content>
   </entry>
   
