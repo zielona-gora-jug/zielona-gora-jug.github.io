@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-09-09T20:21:19+02:00</updated>
+  <updated>2019-09-10T20:07:32+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[4Developers 2019]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/09/10/4developers-2019/"/>
+    <updated>2019-09-10T20:00:10+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/09/10/4developers-2019</id>
+    <content type="html"><![CDATA[<p>Lada moment <b>4Developers</b> - największy, interdyscyplinarny festiwal technologiczny dla programistów w Polsce - rozpocznie programistyczną podróż po kraju 🥳 Lokalne edycje Festiwalu to merytoryczne wykłady, prowadzone przez doświadczonych ekspertów w kameralnym gronie. To również świetna okazja, by poznać ludzi z branży z Twojej okolicy!</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/4developers_2019_2.png"></p>
+
+<p>Jako Community Partner Festiwalu mam dla Was aż 15% zniżki na bilety! 💥</p>
+
+<p>Wpiszcie kod: <i>JUG_ZIELONAGÓRA</i> by zdobyć tańsze wejściówki 💸</p>
+
+<p>Bilety na #4Developers2019:</p>
+
+<ul>
+    <li>1.10 Kraków ➡️ <a target="_blank" href="https://evenea.pl/event/4developerskrakow2019/">https://evenea.pl/event/4developerskrakow2019/</a></li>
+<li>21.10 Katowice ➡️ <a target="_blank" href="https://evenea.pl/event/4developerskatowice2019/">https://evenea.pl/event/4developerskatowice2019/</a></li>
+<li>5.11 Wrocław ➡️ <a target="_blank" href="https://evenea.pl/event/4developerswroclaw2019/">https://evenea.pl/event/4developerswroclaw2019/</a></li>
+    <li>18.11 Poznań ➡️ <a target="_blank" href="https://evenea.pl/event/4developerspoznan2019/">https://evenea.pl/event/4developerspoznan2019/</a></li>
+</ul>
+
+
+<p>Zwieńczeniem programistycznego maratonu będzie #4DevelopersOFFLINE (Gdańsk, 27.11) - tutaj będziemy integrować społeczności IT przy smacznym jedzeniu i trunkach. Z naszym kodem otrzymacie także 10% zniżki na OFFLINE! 😊</p>
+
+<p>Więcej szczegółów i bilety <a target="_blank" href="https://evenea.pl/event/4developersoffline/">evenea.pl/event/4developersoffline/</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zmiana daty SegFault Warszawa]]></title>
@@ -461,30 +490,6 @@ pozwalają zapewnić wydajne i stabilne kopiowanie danych między węzłami syst
 <p>Matura z matematyki nie będzie potrzebna.</p>
 
 <p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/257967961/" target="_blank">Meetup</a>. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie grudniowe - podusmowanie]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2018/12/21/spotkanie-grudniowe-podusmowanie/"/>
-    <updated>2018-12-21T19:04:14+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2018/12/21/spotkanie-grudniowe-podusmowanie</id>
-    <content type="html"><![CDATA[<p>W ostatnią przedświąteczną środę, klub &ldquo;WySPa&rdquo; gościł nas i Jacka Majchrzaka, abyśmy mogli porozmawiać o ciągłej integracji i dostarczaniu. Spotkanie sponsorowała firma <a href="https://7n.com/" target="_blank">7N</a>,
-w której pracuje Jacek.</p>
-
-<p><a href="https://7n.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/7N.png" width="330" height="130" title="7N" ></a></p>
-
-<p>Jacek przedstawił w czasie swojej prezentacji 5 zasad, których powinniśmy się trzymać podczas realizacji projektów. Wszystko to ma nam zaoszczędzić kosztów i czasu. Zasady wywiódł ze swojego
-wieloletniego praktycznego doświadczenia. Tyczyły się one głównie tworzenia gałęzi oraz cyklu wydawania oprogramowania. Pokazał nam również jak przekonać współpracowników i przełożonych do stosowania
-technik CI i CD. Z widowni padały liczne pytania o zastosowanie w konkretnych przypadkach.</p>
-
-<p><a href="http://zielona-gora-jug.github.io/files/pieklo-integracji.pdf" target="_blank">Slajdy do pobrania.</a></p>
-
-<p>Na koniec podano barszczyk z krokietem. Po drodze można było wziąć sobie książki jako prezent.</p>
-
-<p>Spotkanie możecie ocenić wypełniając <a href="https://bit.ly/2EEQgHB" target="_blank">ankietę</a>. Nagrody czekają.</p>
-
-<p>Korzystając z okazji życzymy wszystkim wesołych Świąt i szczęśliwego Nowego Roku!</p>
 ]]></content>
   </entry>
   
