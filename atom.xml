@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-09-10T20:07:32+02:00</updated>
+  <updated>2019-09-15T18:28:06+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego '19]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/09/15/podsumowanie-spotkania-wrzesniowego-19/"/>
+    <updated>2019-09-15T18:19:43+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/09/15/podsumowanie-spotkania-wrzesniowego-19</id>
+    <content type="html"><![CDATA[<p>Mimo nietypowego czasu spotkania, zgromadziliście się dość licznie na pierwszym spotkaniu w nowym sezonie. Mamy nadzieję, że nasza prelegentka - Noemi Rozpara - pokazała Wam jak ważny jest dobry design
+interfejsu użytkownika oraz jak, czasami nieświadomie, utrudniamy życie użytkownikom naszych produktów. Dzięki uprzejmości Noemi możecie pobrać prezentację <a href="http://zielona-gora-jug.github.io/files/Our sins against UX ZGJUG.pdf" target="_blank">tutaj</a>
+i przypomnieć sobie najważniejsze tezy prezentacji.</p>
+
+<p>Dziękujemy <a href="https://dtpoland.com/" target="_blank">DTPoland</a> za pierwszy sponsoring w historii.</p>
+
+<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtpoland.jpg" title="DTPoland" ></a></p>
+
+<p>Do zobaczenia pod koniec października.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[4Developers 2019]]></title>
@@ -460,36 +477,6 @@ pozwalają zapewnić wydajne i stabilne kopiowanie danych między węzłami syst
 <p>Informacje o samym festiwalu dostępne są na stronie <a href="https://4developers.org.pl" target="_blank">organizatora</a>.</p>
 
 <p><img class="center" src="http://zielona-gora-jug.github.io/images/4developers_2019.png" style="width: 50%;"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie styczniowe - stan Javy i algebra]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/01/13/spotkanie-styczniowe-stan-javy-i-algebra/"/>
-    <updated>2019-01-13T20:43:28+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/01/13/spotkanie-styczniowe-stan-javy-i-algebra</id>
-    <content type="html"><![CDATA[<p>Wraz z GlobalLogic (<a href="https://www.globallogic.com/pl/">https://www.globallogic.com/pl/</a>) zapraszamy na pierwsze spotkanie w nowym roku. Odbędzie się ono w środę, 30 stycznia o 19:00. Nadal spotykamy się w klubie &ldquo;Wyspa&rdquo;. Tym razem wystąpi dwóch pracowników naszego sponsora.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
-
-<!-- more --> 
-
-
-<p><b>1. Paweł Żalejko - Stan Javy 2019</b></p>
-
-<p><i>This is your last chance. After this, there is no turning back. You take the blue pill—the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill—you stay in Wonderland, and I show you how deep the rabbit hole goes. Remember: all I&rsquo;m offering is the truth. Nothing more.</i></p>
-
-<p>Mamy początek roku 2019. Dokładnie 20 lat temu odbyła się premiera filmu Matrix. W tym samym czasie jako programiści pracowaliśmy z Javą 1.2 i odliczaliśmy dni do roku 2000 oraz premiery Javy 1.3. W ciągu ostatnich 20 lat Java przeszła długą drogę, ale tempo zmian jakie mają miejsce obecnie są większe niż kiedykolwiek.</p>
-
-<p>Podczas prezentacji opowiem o zmianach, które zaszły w ostatnim czasie. Osobom, które na co dzień pracują z Java 8 pokażę, dlaczego warto rozważyć migrację do Javy 11. Dodatkowo wyjaśnię, jak wygląda nowy cykl wydawniczy Javy, o co chodzi z Javą LTS, co się z tym wiąże i jakie mamy alternatywy.</p>
-
-<p><b>2. Karol Marcjan - Algebra w służbie replikacji</b></p>
-
-<p>Wielu z nas pracuje na co dzień nad systemami rozproszonymi - często mirkoserwisami. W ramach poszerzania horyzontów porozmawiamy o Bezkonfliktowych Zreplikowanych Typach Danych (Conflict-free Replicated Data Types). Pokrótce omówimy kilka przykładów ich użycia w praktyce. Zahaczymy o algebrę i stosunkowo niedawne publikacje akademickie o systemach rozproszonych.</p>
-
-<p>Matura z matematyki nie będzie potrzebna.</p>
-
-<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/257967961/" target="_blank">Meetup</a>. Zapraszamy!</p>
 ]]></content>
   </entry>
   
