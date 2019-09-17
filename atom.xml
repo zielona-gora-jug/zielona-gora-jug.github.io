@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-09-15T18:28:06+02:00</updated>
+  <updated>2019-09-17T19:08:24+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JDD 2019]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/09/17/jdd-2019/"/>
+    <updated>2019-09-17T18:55:08+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/09/17/jdd-2019</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem tegorocznej edycji <a href="https://jdd.org.pl/" target="_blank">JDD</a>. Oto co piszą organizatorzy:</p>
+
+<p><i>
+Zapowiada się kolejne, wielkie zgrupowanie fanatyków Javy. W tym roku widzimy się 14-15 października, jak zawsze, w Krakowie! Planujemy ścieżkę technologiczną oraz szereg zróżnicowanych tematów: front-end, Metodologie DevOps, JAVA 9/10/11, testing, dobre praktyki, soft skills, Machine Learning, AI, Mobile, Chatbots, Blockchain, Reactive, Functional Programming, Databases, Big Data, NoSQL, Industry 4.0 /ERP/ Erp in cloud. Wszyscy, który kochają Javę będą tam!
+</i></p>
+
+<p>W Radzie Programowej: Sławomir Sobótka, Andrzej Grzesik, Wojciech Oczkowski, Marcin Świerczyński, Magda Stożek, Damian Leszczyński, Łukasz Dziedziul, Michał Gruca, JakubPilimon, Grzegorz Piwowarek, Marcin Zajączkowski, Jarek Pałka.</p>
+
+<p>Dla wszystkich chętnych mamy zniżkę. Kod poniżej.</p>
+
+<p><a href="https://jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2019.png" width="400" height="400" title="JDD" ></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego '19]]></title>
@@ -460,23 +479,6 @@ pozwalają zapewnić wydajne i stabilne kopiowanie danych między węzłami syst
 
 
 <p>Ankietę pospotkaniową możecie wypełnić <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1E-KIxVcRpnfbPxgTsQ_N_hS7jjvUt0Y7qQQWIGwOk-AtJA/viewform" target="_blank">tutaj</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[4Developers '19]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/01/15/4developers-19/"/>
-    <updated>2019-01-15T19:33:46+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/01/15/4developers-19</id>
-    <content type="html"><![CDATA[<p>2000 uczestników i niemal 100 cenionych ekspertów z branży IT w jednym miejscu. Przed nami ogromne, interdyscyplinarne spotkanie polskiej społeczności programistycznej. W ciągu jednego dnia specjaliści i pasjonaci IT będą mogli uczestniczyć w niemal 100 praktycznych prelekcjach. Już
-8 kwietnia 2019 w Warszawie odbędzie się kolejna edycja 4Developers 2019!</p>
-
-<p>Możecie wziąć w nim udział jako prelegenci - organizatorzy czekają na zgłoszenia w ramach
-<a href="https://cfp.4developers.org.pl/warszawa/" target="_blank">call for papers</a>. Termin mija <b>z końcem stycznia</b>.</p>
-
-<p>Informacje o samym festiwalu dostępne są na stronie <a href="https://4developers.org.pl" target="_blank">organizatora</a>.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/4developers_2019.png" style="width: 50%;"></p>
 ]]></content>
   </entry>
   
