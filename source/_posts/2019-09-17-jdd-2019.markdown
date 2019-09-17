@@ -1,0 +1,19 @@
+---
+layout: post
+title: "JDD 2019"
+date: 2019-09-17 18:55:08 +0200
+comments: true
+categories: 
+---
+
+Zostaliśmy partnerem tegorocznej edycji <a href="https://jdd.org.pl/" target="_blank">JDD</a>. Oto co piszą organizatorzy:
+
+<i>
+Zapowiada się kolejne, wielkie zgrupowanie fanatyków Javy. W tym roku widzimy się 14-15 października, jak zawsze, w Krakowie! Planujemy ścieżkę technologiczną oraz szereg zróżnicowanych tematów: front-end, Metodologie DevOps, JAVA 9/10/11, testing, dobre praktyki, soft skills, Machine Learning, AI, Mobile, Chatbots, Blockchain, Reactive, Functional Programming, Databases, Big Data, NoSQL, Industry 4.0 /ERP/ Erp in cloud. Wszyscy, który kochają Javę będą tam!
+</i>
+
+W Radzie Programowej: Sławomir Sobótka, Andrzej Grzesik, Wojciech Oczkowski, Marcin Świerczyński, Magda Stożek, Damian Leszczyński, Łukasz Dziedziul, Michał Gruca, JakubPilimon, Grzegorz Piwowarek, Marcin Zajączkowski, Jarek Pałka.
+
+Dla wszystkich chętnych mamy zniżkę. Kod poniżej.
+
+[{% img center /images/jdd2019.png 400 400 JDD %}](https://jdd.org.pl/)
