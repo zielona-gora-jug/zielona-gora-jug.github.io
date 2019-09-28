@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-09-17T19:08:24+02:00</updated>
+  <updated>2019-09-28T19:24:10+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie październikowe - mikroserwisy na frontendzie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/09/28/spotkanie-pazdziernikowe-mikroserwisy-na-frontendzie/"/>
+    <updated>2019-09-28T19:14:22+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/09/28/spotkanie-pazdziernikowe-mikroserwisy-na-frontendzie</id>
+    <content type="html"><![CDATA[<p>Następne spotkanie odzbędzie się wyjątkowo w przedostatnią środę października (23 X) o godz. 19:00 w klubie WySPa przy ul. Wojska Polskiego. Tematem miesiąca będą mikroserwisy na frontendzie.
+Przemawiać będzie Aleksander Orchowski. Sponsorem miesiąca jest <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
+
+<p>Tytuł prezentacji: <i>&ldquo;A co jeśli mikroserwisy to tylko początek? Mikro&hellip; frontendy?&rdquo;</i></p>
+
+<p><i>
+Moda na mikroserwisy - mówi się o tym na każdej konferencji i większości meetupów. Tematem jesteśmy już chyba nawet nieco zmęczeni. Swoisty buzzword, ale i tak niewiele projektów kończy się sukcesem, lub mamy mnóstwo problemów z rozpraszaniem.
+Czy w pracy zetknęliście się może z problemem przy integracji usług na frontendzie?
+Nie? - prawdziwi z Was szczęśliwcy. Myślę jednak, że większość odpowie zdecydowanie - TAK.
+Opowiemy sobie o sposobie na mikroserwisy na frontendzie! O kulturze DevOps, o tym że jest niewystarczająca, oraz dlaczego nie należy robić tego w domu :)
+</i></p>
+
+<p>Do zobaczenia!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JDD 2019]]></title>
@@ -460,25 +483,6 @@ SegFault University rozwieje także wasze wątpliwości dotyczące środowiska, 
 <p>Szczegóły znajdziecie na stronie wydarzenia: <a href="http://segfault.events/gdansk2019/">http://segfault.events/gdansk2019/</a> oraz w social media #SegFaultConf.</p>
 
 <p>SegFault University - Gdańsk, 14-15 marca - zajęcia obowiązkowe!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie pierwszego spotkania w 2019]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/02/02/podsumowanie-pierwszego-spotkania-w-2019/"/>
-    <updated>2019-02-02T15:30:05+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/02/02/podsumowanie-pierwszego-spotkania-w-2019</id>
-    <content type="html"><![CDATA[<p>W nowy rok wkroczyliśmy ze spotkaniem sponsorowanym przez GlobalLogic (<a href="https://www.globallogic.com/pl/">https://www.globallogic.com/pl/</a>), podczas którego dwóch pracowników tej firmy pokazało swoje prezentacje o:</p>
-
-<ul>
-<li><a href="http://zielona-gora-jug.github.io/files/future-of-java.zip" target="_blank">Stanie Javy 2019</a>. Paweł Żalejko podsumował nowy model licencyjny Javy, funkcje zapowiadane w przyszłych odsłonach języka oraz stan obecny użycia
-technologii powiązanych. Przedstawił również projekt obrazujący różnice w dostępnych maszynach wirtualnych - paczka dostępna pod linkiem zawiera kod źródłowy.
-<li><a href="http://zielona-gora-jug.github.io/files/algebra.pdf" target="_blank">Algebra w służbie replikacji</a>. Karol Marcjan opowiedział nam o nieoczywistych związakch między algebra a replikacją, czyli jak modele matematyczne
-pozwalają zapewnić wydajne i stabilne kopiowanie danych między węzłami systemów.
-</ul>
-
-
-<p>Ankietę pospotkaniową możecie wypełnić <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1E-KIxVcRpnfbPxgTsQ_N_hS7jjvUt0Y7qQQWIGwOk-AtJA/viewform" target="_blank">tutaj</a>.</p>
 ]]></content>
   </entry>
   
