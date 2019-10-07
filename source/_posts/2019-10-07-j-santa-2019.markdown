@@ -1,0 +1,21 @@
+---
+layout: post
+title: "J-Santa 2019"
+date: 2019-10-07 20:12:27 +0200
+comments: true
+categories: 
+---
+
+Kolejny rok z rzędu jesteśmy partnerem konferencji <a href="https://j-santa.pl/" target="_blank">J-Santa</a>, która odbywa się w Lublinie. Wszystkich zainteresowanych odsyłamy do informacji od organizatorów umieszczonej poniżej.
+
+[{% img center /images/j-santa2019.png J-Santa %}](https://j-santa.pl/)
+
+<i>
+W sobotę 30 listopada w Lubelskim Centrum Konferencyjnym odbędzie się IT NonStop: J-Santa. To druga edycja konferencji poświęconej Javie, JVM i Craftsmanship w Lublinie. Eksperci opowiedzą o technologiach, podzielą się doświadczeniem związanym z realizowanymi projektami i zaprezentują typowe techniczne case studies. Zapraszamy do udziału specjalistów i entuzjastów Javy oraz tematów pokrewnych.
+
+Wśród prelegentów m.in.: Paul Czarkowski, Jarosław Pałka, Grzegorz Piwowarek i Jakub Nabrdalik. Konferencję tworzą: Lublin Java User Group, DataArt Poland, Buddy, Sollers Consulting, Sii, TEAM International oraz Lubelska Wyżyna IT.
+
+Ho! Ho! Ho! Dołącz do nas już teraz! <a href="https://evenea.pl/event/jsanta2019/" target="_blank">Zarejestruj się</a>
+
+Znajdź nas na <a href="https://www.facebook.com/jsantalublin" target="_blank">Facebook</a>. Więcej na <a href="https://j-santa.pl/" target="_blank">j-santa.pl</a>
+<i>
