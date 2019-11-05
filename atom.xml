@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-10-25T19:30:20+02:00</updated>
+  <updated>2019-11-05T19:23:41+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Open Banking Hackathon]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/11/05/open-banking-hackathon/"/>
+    <updated>2019-11-05T19:14:06+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/11/05/open-banking-hackathon</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem Open Banking Hackathon. Jest to impreza organizowana pod patronatem <a href="https://www.zbp.pl/" target="_blank">Związku Banku Polskich</a>. Więcej szczegółów podają nam organizatorzy:</p>
+
+<p><a href="https://openbankinghackathon.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/obh.png"></a></p>
+
+<p><i></p>
+
+<p>📍 Jesteś developerem szukającym nowych wyzwań? Chcesz zmierzyć się z innymi? Tworzycie zgarną paczkę, która może stworzyć rozwiązanie rewolucjonizujące otwartą bankowość? Mamy coś dla Ciebie! &#x263a;</p>
+
+<p>Zgłoś drużynę do udziału w Open Banking Hackathon!</p>
+
+<p>📍 Tej jesieni, 22-24 listopada Związek Banków Polskich wraz z partnerami organizuje w Warszawie to wyjątkowe wydarzenie. Szukamy najbardziej ambitnych komputerowych geeków, którzy wezmą udział w hackathonie i rozbiją bank z nagrodami!</p>
+
+<p>📍 Co oferujemy</p>
+
+<ul>
+<li>weekend dobrej zabawy z kodowaniem
+<li>wsparcie mentorów z firm technologicznych i banków
+<li>wyżywienie i zakwaterowanie
+<li>nagrodę główną 10,000 zł i wiele innych nagród!
+</ul>
+
+
+<p>REJESTRACJA TRWA: <a href="https://openbankinghackathon.pl/" target="_blank">openbankinghackathon.pl</a>.
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie spotkania o mikrofrontendach]]></title>
@@ -415,38 +447,6 @@ Wspominał o regułach, odczuciach drugiej strony, wadze informacji zwrotnej i p
 <p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
 
 <p>Ankieta pospotkaniowa znajduje się <a href="https://t.co/Dkckcj2ZZJ" target="_blank">tutaj</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie lutowe - ujawniamy niespodziankę]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/02/18/spotkanie-lutowe-ujawniamy-niespodzianke/"/>
-    <updated>2019-02-18T20:06:55+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/02/18/spotkanie-lutowe-ujawniamy-niespodzianke</id>
-    <content type="html"><![CDATA[<p>Możemy już uwanić czym będziemy się zajmować 27 lutego po omówieniu tematu Jenkinsa: Tomasz Śmidoda pochyli się nad problemem znanym każdemu od kierownika zespołu w górę - informacji zwrotnej.</p>
-
-<p><i>
-Temat: <b>Uzdrawiająca moc feedbacku</b></p>
-
-<p>Pracujemy razem, mamy przełożonych, otaczamy się zespołem i kolegami spoza zespołu. Bieg zdarzeń przynosi coraz to nowe zadania, niejednokrotnie stające się wyzwaniami w mniejszej lub większej skali. Zdarza się, że doświadczamy niepewności i trapią nas wątpliwości czy postępujemy we właściwy sposób, nie mówiąc już o końcowej efektywności naszych działań. Jednocześnie nie zawsze mamy dostęp do tylu informacji na swój temat, ile chcielibyśmy posiadać.
-Opowiem o naturalnej potrzebie informacji zwrotnej oraz nakreślę ramy w której może się ona zawierać. Skupię się na:</p>
-
-<ul>
-<li>ogólnej idei feedbacku
-<li>brzegowych zasadach przekazywania oraz sposobach na to jak go przekazać
-<li>skutkach jego obecności i braku
-<li>dostosowaniu do warunków i środowisk
-<li>oraz błędach i wypaczeniach :)
-</ul>
-
-
-<p></i></p>
-
-<p>Sponsor drugiej części ten sam - <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a>.</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/258969398/" target="_blank">Zapisy tutaj</a>.</p>
 ]]></content>
   </entry>
   
