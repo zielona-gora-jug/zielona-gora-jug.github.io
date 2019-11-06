@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-11-05T19:23:41+01:00</updated>
+  <updated>2019-11-06T19:02:32+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/11/06/spotkanie-listopadowe/"/>
+    <updated>2019-11-06T18:53:24+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/11/06/spotkanie-listopadowe</id>
+    <content type="html"><![CDATA[<p>Spotkanie listopadowe znowu ma nietypowy termin: odbędzie się w czwartek, <b>28-ego listopada</b>, godzinę wcześniej, czyli o <b>18:00</b>. Będzie składało się tylko z jednej prezentacji, ale za to dłuższej. Odwiedzi nas
+<b>Rafał Kotusiewicz</b> - doświadczony programista z Warszawy, a tematem będzie &ldquo;<b><i>Abstrakcyjny język inżynierii oprogramowania (konwencje, wzorce, standardy, etc)</b></i>&rdquo;. Spotkanie będzie więc całkowicie niezależne od języka
+ i mogą skorzystać z niego nie tylko Javowcy.</p>
+
+<p>Naszym sponsorem miesiąca jest ponownie <a href="https://ttpsc.pl/" target="_blank">Transition Technologies PSC</a> - firma wspierająca biznes w cyfrowej transformacji.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/ttpsc.png" style="width: 50%;"></p>
+
+<p>Oddajmy głos prelegentowi: <i>Podczas prezentacji opowiem jak widzę inżynierię programowania jako abstrakcyjny język. Spojrzymy wspólnie na wspólne cechy języków programowania, środowisk, wzorców itd… Innymi słowy — sprawdzimy co wspólnego ma Fryderyk
+Szopen czy Miles Davis z Robertem Martinem :)
+Będzie o dobrych praktykach, złych praktykach, celnych abstrakcjach i wszystkim co wydaje się interesujące w obszarze szeroko pojętej “inżynierii programowania”. Będzie trochę kodu (bez kodowania), trochę slajdów, trochę wymądrzania i jakieś śmieszne obrazki. Mam nadzieję, że nie będzie nudno, ale tego nie mogę obiecać
+</i></p>
+
+<p>Rafał o sobie: <i>Programuję zawodowo od 20 lat. Miałem okazję obserwować (mniej lub bardziej świadomie) ewolucję branży od momentu, gdy wybór języka zamykał się w C, C++ lub Perl, PHP do chwili obecnej, gdy w obrębie jednego projektu dzieje się więcej i
+różniej :) Na co dzień programuję, uczę, konsultuję, robię co mogę by świat był lepszym miejscem.
+Gram (głównie na gitarze), komponuję, słucham muzyki, czytam książki, trochę piszę, lubię gotować (nigdy nie ufajcie chudym kucharzom), interesują się właściwie wszystkim i w sumie jakoś udaje mi się to wszystko pogodzić z życiem rodzinnym, byciem mężem i ojcem.</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Open Banking Hackathon]]></title>
@@ -427,26 +451,6 @@ alpine:latest \
 <p><a href="http://www.idemia.com"><img class="center" src="http://zielona-gora-jug.github.io/images/idemia.jpg" width="660" height="260" title="Cinkciarz.pl" ></a></p>
 
 <p>Zapraszamy! <a href="https://www.meetup.com/Zielona-Gora-JUG/events/259677617/" target="_blank">Zapisy tutaj</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie lutowe - podsumowanie]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/03/01/spotkanie-lutowe-podsumowanie/"/>
-    <updated>2019-03-01T18:54:27+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/03/01/spotkanie-lutowe-podsumowanie</id>
-    <content type="html"><![CDATA[<p>Ostatnia lutowa środa to spotkanie, podczas którego rozmawialiśmy na dwa tematy. Jędrzej Andrykowski rozpoczął od wprowadzenia do Jenkinsa. Przypomniał z jaką dezynwolturą konfigurujemy to narzędzie
-licząc na to, że nigdy nie zmienimy jego ustawień i zawsze będziemy pamiętać jak je ustawiliśmy. Oczywiście nie jest to prawdą i prowadzi do poważnych powikłań podczas wytwarzania
-oprogramowania. Zaprezentował nam plugin, który rozwiązuje to rozwiązanie. Szczegóły <a href="http://zielona-gora-jug.github.io/files/jenkins.pdf" target="_blank">w samej prezentacji</a>.</p>
-
-<p>Po krótkiej przerwie przenieśliśmy się w świat tematów &ldquo;miękkich&rdquo;. Tomasz Śmidoda podsumował swoje doświadczenie z feedbackiem w ramach prezentacji <a href="http://zielona-gora-jug.github.io/files/feedback.pdf" target="_blank">&ldquo;Uzdrawiająca moc feedbacku&rdquo;</a>.
-Wspominał o regułach, odczuciach drugiej strony, wadze informacji zwrotnej i podstawowymi sposobami jej udzielania.</p>
-
-<p>Dziękujemy <a href="https://cinkciarz.pl" target="_blank">Cinkciarz.pl</a> za sponsorowanie spotkania.</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<p>Ankieta pospotkaniowa znajduje się <a href="https://t.co/Dkckcj2ZZJ" target="_blank">tutaj</a>.</p>
 ]]></content>
   </entry>
   
