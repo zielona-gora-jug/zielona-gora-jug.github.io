@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-11-14T19:30:27+01:00</updated>
+  <updated>2019-11-20T20:42:06+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zukunftswerkstatt Lausitz]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/11/20/zukunftswerkstatt-lausitz/"/>
+    <updated>2019-11-20T20:36:49+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/11/20/zukunftswerkstatt-lausitz</id>
+    <content type="html"><![CDATA[<p>Zza naszej zachodniej granicy otrzymaliśmy prośbę o rozpropagowanie pierwszego Hackday w Cottbus. Dla najlepszych - nagrody. Termin rejestracji mija wkrótce!</p>
+
+<p><a href="https://zw-lausitz.de/news/beitrag/erster-hackday-in-der-lausitz/"><img class="center" src="http://zielona-gora-jug.github.io/images/zw-lausitz.png" title="Zukunftswerkstatt Lausitz" ></a></p>
+
+<p><i>
+Time to support the Lausitz / Łużyce region - time for a Hackday!</p>
+
+<p>Creative and sustainable Ideas wanted.</p>
+
+<p>Let&rsquo;s talk about digital strategies that can have a positive influence on developments in the Lausitz / Łużyce area. How can locational potential be transformed to improve the region which is facing structural changes? This question will be the focus of the first Hackday of the @Zukunftswerkstatt Lausitz in in Cottbus /Chociebuż. Developers, designers and other creative experts are welcome to help shaping the future of the region. Register until Nov 23rd, 2019, the best solutions will be awarded with prizes worth 1.500,00 Euro.The location is the @GHB - Großenhainer Bahnhof in Cottbus. Find out more and register here <a href="https://zw-lausitz.de/news/beitrag/erster-hackday-in-der-lausitz/">https://zw-lausitz.de/news/beitrag/erster-hackday-in-der-lausitz/</a><br/>
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[AI Games]]></title>
@@ -404,58 +423,6 @@ I ponownie dysponujemy <a href="http://zielona-gora-jug.github.io/files/Kunysz_P
 <p>Abstrakt: <i>Nie pytaj co ty możesz zrobić dla swojej biblioteki do testów, zapytaj co ona może zrobić dla ciebie! A co może? Jak się okazuje, sporo więcej niż tylko wyświetlić ładny czerwono-zielony raport. Co powiecie na pomysł, żeby to ona zajęła się generowaniem danych testowych? A skoro o tym mowa, to może niech od razu wymyśli nam takie przypadki brzegowe, dla których nasz kod nie działa? Ale jak już taki znajdzie, to niech nam go trochę uprości przed podaniem - żeby łatwiej nam było zrozumieć dlaczego. No i dla pewności niech zrobi to tak z 1000 razy. Brzmi dobrze? To wszystko i jeszcze więcej da wam property-based testing. Na przykładzie <a href="https://jqwik.net/" target="_blank">jqwik</a> pokażę, jak się do tego zabrać w Javie. Ale czy to nie zbyt piękne, na pewno jest tam jakiś drobny druczek? Oczywiście że jest. Będzie i o nim.</i></p>
 
 <p>Rejestracja uczestnictwa, jak zwykle, na <a target="_blank" href="https://www.meetup.com/Zielona-Gora-JUG/events/261261921/">Meetup</a>. Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie kwietniowe - Docker kontra developer]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/04/10/spotkanie-kwietniowe-docker-kontra-developer/"/>
-    <updated>2019-04-10T21:17:23+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/04/10/spotkanie-kwietniowe-docker-kontra-developer</id>
-    <content type="html"><![CDATA[<p>Wraz z <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, naszym sponsorem miesiąca,
-zapraszamy na warsztaty. Spotykamy się w <b>środę</b>, 24 kwietnia, wyjątkowo o 18:00, w klubie WySPa. <b>UWAGA:</b> należy się szybko zapisać, bo liczba miejsc jest ograniczona do 25
-(<a href="https://www.meetup.com/Zielona-Gora-JUG/events/260514211/" target="_blank">zapisy tu</a>). Potem trafia się
-na listę rezerwową. Prosimy o ewentualne wycofanie udziału w przypadku zmiany planów, aby oczekujący mogli skorzystać ze zwalnianego miejsca.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
-
-<p>Temat warsztatu to &ldquo;Docker kontra developer&rdquo;. Poprowadzi go Marcin Stożek. Aby wziąć udział, należy przynieść swój komputer i Internet. Ten pierwszy musi być przygotowany zgodnie z zaleceniami podanymi poniżej.</p>
-
-<!--more-->
-
-
-<p><b>Docker kontra developer</b></p>
-
-<p>Warsztat dla tych którzy uruchomili w swoim życiu “docker run”, ale nie mieli okazji, żeby zrobić coś więcej. Postawiłeś już kontener? Masz w projekcie automagicznie budujący się Dockerfile? Ze wspaniałym entrypointem stworzonym przez kolegę który postanowił realizować cele biznesowe gdzieś indziej? Niby wszystko gra, ale jeżeli masz cokolwiek w swoim obrazie zmienić to jednak trochę się cykasz? Na warsztacie pobawimy się kontenerami jak na developerów przystało. Będziemy ściągać, odpalać, tagować, wypychać, zmieniać. Zaprzyjaźnimy się z docker-compose.</p>
-
-<p>Przed warsztatem</p>
-
-<p>Dobrze by było obejrzeć prezentację “Docker dla początkujących”: <a href="https://www.youtube.com/watch?v=kSzd40CeUr8">https://www.youtube.com/watch?v=kSzd40CeUr8</a></p>
-
-<p>Maszyna z Ubuntu 18.04 (może być wirtualna, np. zainstalowana z Vagranta) oraz zainstalowane pakiety z Dockerem oraz Docker Compose:</p>
-
-<pre>apt install docker.io docker-compose</pre>
-
-
-<p>Dodatkowo ściągnięte następujące obrazy:</p>
-
-<pre>
-for image in \
-ubuntu:latest \
-ubuntu:bionic \
-ubuntu:xenial \
-mongo:latest \
-postgres:latest \
-nginx:latest \
-openjdk:jre-slim \
-alpine:latest \
-; do docker pull ${image}; done
-</pre>
-
-
-<p>Tak jak w bootstrap maszyny z Vagranta: <a href="https://github.com/perk/docker-vs-developer/blob/master/vagrant.bootstrap.sh">https://github.com/perk/docker-vs-developer/blob/master/vagrant.bootstrap.sh</a></p>
-
-<p>Najlepiej użyć do tego celu repozytorium: <a href="https://github.com/perk/docker-vs-developer">https://github.com/perk/docker-vs-developer</a></p>
 ]]></content>
   </entry>
   
