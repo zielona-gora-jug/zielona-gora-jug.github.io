@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Grudzień 2019 - CMS, piramidy i diamenty"
+date: 2019-12-11 21:11:09 +0100
+comments: true
+categories: 
+---
+
+Zapraszamy na kolejne spotkanie 18 grudnia o 19:00 - ostatnie w tym roku. Przewidujemy dwa tematy. Rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/267105366/" target="_blank">Meetup</a>. Naszym sponsorem miesiąca jest <a href="https://allegro.tech/" target="_blank">Allegro</a> - firma, którą wszyscy znacie. Wiecie również gdzie nas znaleźć - w klubie WySPa.
+
+<img class="center" src="/images/allegro_tech.png" style="width: 50%;">
+
+<b>Michał Trojanowski: "Czy istnieje życie po CMSie"</b>
+
+<i>CMS, z którym zdążyliśmy się zżyć przez lata, przestał być wspierany w ostatnich wersjach Javy, zastąpiony przez nowe (lepsze?) rozwiązania. Podczas spotkania pokażę jakie Garbage Collectory mamy teraz dostępne, czym się różnią od siebie, ale też przede wszystkim, czym się różnią od starego dobrego CMSa.</i>
+
+<b>Jan Koszela i "Budowałem piramidę, aż zacząłem wydobywać diamenty"</b>
+
+<i>Z dobrym testowaniem aplikacji jest jak z flirtem, albo zaliczasz testy albo jesteś czerwony... i stoisz wryty jak cegła ;)
+Kojarzysz święty grall testerski jakim jest "Piramida testów"? Z tym jest jak z poradnikami PUA od wszelakiej maści internetowych ekspertów.
+Korzystanie z niego wprost bez zastanowienia się nad potrzebami projektu, może przypominać poniższą historię, gdzie kluczową role gra zestaw testów jednostkowych:
+
+Historia:
+Czytasz z poradnika jak poderwać osobę na najlepsze teksty na świecie. Tych zwrotów masz całą masę na każdą okazję. Teksty są sprawdzone, no przecież pisali, że ten zestaw działa! Odpalasz je na żywo w swojej sytuacji, a tu się okazuje, że po prostu nie działają... Myślisz sobie kurcze, przecież przygotowałem się jak trzeba!!
+Problem?
+Wiara, że święty grall (Piramida testów) jest panaceum na wszelkie sprawy.
+Proponowane rozwiązanie:
+Działania na żywym organizmie powinniśmy robić w żywy a nie sztuczny sposób
+Na spotkaniu opowiem kiedy, dlaczego i w jakich przypadkach testy integracyjne powinny być lwią częścią aplikacji, a narzut na testy jednostkowe możemy po prostu zmniejszyć. A wszystko to widziane oczami programisty :)</i>
+
+Zapraszmy na pogaduchy przed spotkaniem oraz zapewniamy świąteczną atmosferę zaraz po!
