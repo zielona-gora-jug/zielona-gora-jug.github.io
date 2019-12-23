@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-12-11T21:17:10+01:00</updated>
+  <updated>2019-12-23T19:05:37+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie ostatniego spotkania 2019]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/12/23/podsumowanie-ostatniego-spotkania-2019/"/>
+    <updated>2019-12-23T18:56:09+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/12/23/podsumowanie-ostatniego-spotkania-2019</id>
+    <content type="html"><![CDATA[<p>Ostatnie spotkanie w 2019 r. miało miejsce 18 grudnia i było sponsorowane przez <a href="https://allegro.tech/" target="_blank">Allegro</a>, którą to firmę witamy serdecznie w gronie naszych sponsorów. Jednym z prelegentów był pracownik
+Allegro - Michał Trojanowski. W trakcie jego <a href="http://zielona-gora-jug.github.io/files/ZyciePoCMSie.pdf" target="_blank">prezentacji</a> mogliśmy poznać tajniki różnych implementacji Garbage Collectora w Javie oraz ich wpływ na działanie naszych aplikacji. Po przerwie wystąpił Jan Koszela, który pochylił się z kolei nad <a href="http://zielona-gora-jug.github.io/files/IntegrationTests.pdf" target="_blank">testami integracyjnymi</a> i taksonomią testów jako takich. Spotkanie zakończyliśmy w świątecznej atmosferze - barszczem i krokietami.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/allegro_tech.png" style="width: 50%;"></p>
+
+<p>Wszystkim uczestnikom naszych spotkań, sympatykom, prelegentom oraz sponsorom życzymy wesołych Świąt i szczęśliwego Nowego Roku!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Grudzień 2019 - CMS, piramidy i diamenty]]></title>
@@ -413,26 +427,6 @@ Sponsorem miesiąca jest <a href="https://streamsoft.pl/" target="_blank">Stream
 <p><i>Kubernetes pomaga nam uruchamiać wiele węzłów w standardowy, określony sposób. Chociaż nie musimy myśleć o fizycznej lokalizacji naszej aplikacji, nadal chcemy wiedzieć jak się zachowuje. Nie możemy jednak po prostu „czytać logów”. Potrzebujemy zautomatyzowanego rozwiązania. Kubernetes pozwala nam użyć wielu technik, aby osiągnąć ten cel. Przyjrzymy się im oraz ich wadom i zaletom. Pozostaje pytanie: co zrobić dalej, gdy już zbierzemy wszystkie różne logi? Pokażemy przykłady wzięte z życia: w tym LogSense zbierający logi niezależnie od formatu i struktury.</i></p>
 
 <p>Rejestracja uczestnictwa na <a target="_blank" href="https://www.meetup.com/Zielona-Gora-JUG/events/262204292">Meetup</a>. Zapraszamy, tym bardziej, że jest to ostatnie spotkanie w tym sezonie!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie majowe - materiały]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/06/03/spotkanie-majowe-materialy/"/>
-    <updated>2019-06-03T17:42:11+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/06/03/spotkanie-majowe-materialy</id>
-    <content type="html"><![CDATA[<p>W ostatnią środę maja odbyło się kolejne spotkanie naszego JUG-a, a jego sponsorem był <a href="https://www.softwaremill.com/" target="_blank">SoftwareMill</a> - firma dostarczająca oprogramowanie tworzone przez prawdziwych inżynierów w najnowszych technologiach!</p>
-
-<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" title="SoftwareMill" ></a></p>
-
-<p>Spotkanie rozpoczęła Magda Stożek od pokazania czym jest testowanie oparte na właściwościach i jak stosować tę technikę w rozsądny sposób.
-Wytłumaczyła również kiedy nie jest to najlepsze podejście. <a href="https://slides.com/magdastozek/property-based-testing/" target="_blank">Slajdy znajdują się tutaj</a>.</p>
-
-<p>W dalszej części wieczoru Ola Kunysz opowiedziała nam dlaczego aplikacje są wolne oraz pokazała kilka trików pozwalających albo na zmianę tego stanu rzeczy (zwykle poprzez
-ustalenie praprzyczyny) albo na jego maskowanie.
-I ponownie dysponujemy <a href="http://zielona-gora-jug.github.io/files/Kunysz_Performance.pdf">slajdami</a>.</p>
-
-<p>Dal chętnych istnieje możliwość oceny spotkana pod <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd2eG-Ublzu_8ejC1qgbeyXQMKlfxjH-yW6Cx84JvMCLM3fww/viewform">tym adresem</a>. Nagrody czekają!</p>
 ]]></content>
   </entry>
   
