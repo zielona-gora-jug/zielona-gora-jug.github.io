@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-12-23T19:05:37+01:00</updated>
+  <updated>2019-12-30T18:58:31+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Styczeń 2020 - Code review i strumienie Akka]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2019/12/30/styczen-2020-code-review-i-strumienie-akka/"/>
+    <updated>2019-12-30T18:50:47+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2019/12/30/styczen-2020-code-review-i-strumienie-akka</id>
+    <content type="html"><![CDATA[<p>Rok 2020 otwieramy spotkaniem w nietypową, trzecią środę miesiąca - 15 stycznia. Będzie ono częścią JUG Tour z okazji 10-tych urodzin naszego sponsora miesiąca - <a href = "https://softwaremill.com/" target="_blank">Software Mill</a>. Odwiedzi nas dwóch pracowników tej firmy, a każdy z nich przedstawi osobną prezentację. Obie oczywiście po polsku :) Spotkanie tradycyjnie w klubie WySPa.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/JUG Tour.png" style="width: 80%;"></p>
+
+<p><b>Sebastian Rabiej: &ldquo;Have you ever wondered about code review?&rdquo;</b></p>
+
+<p><i>Code review dla wielu z nas stało się nieodłączną częścią wytwarzania oprogramowania. To doskonale, bo daje ono ogromną wartość w naszych projektach. A czy znaleźliście kiedyś chwilę, aby pomyśleć o nim? Zastanawialiście się kiedyś jaką wartość przynosi code review oraz po co je robimy? Czy zastanawialiście się, czy robimy je dobrze oraz dlaczego niektórzy ludzie czują się urażeni po dobrym review? Warto zadać sobie pytanie, co znaczy dobre review? Jeżeli chcesz poznać odpowiedź na te i inne pytania oraz podyskutować ze mną o nich to zapraszam na moją prelekcję.</i></p>
+
+<p>Bio: Odkąd pamiętam, fascynowały mnie języki programowania i wszystko, co było z nimi związane. Tworzenie czegoś z „niczego” jest ekscytujące na tyle, że postanowiłem iść tą ścieżką kariery. Pracuję jako developer od ponad 5 lat. Ciągle poszukuję odpowiedzi na pytanie „co to znaczy być profesjonalny” i wątpię, abym szybko znalazł odpowiedź na to pytanie. Jestem entuzjastą tematów związanych z czystym kodem, software craftsmanship i metodykami zwinnymi.
+Software engineer w firmie SoftwareMill.</p>
+
+<p><b>Jacek Kunicki: &ldquo;Reactive integration with Akka Streams and Alpakka&rdquo;</b></p>
+
+<p><i>An alpaca is like a camel, but is Alpakka like Apache Camel? Can we use the reactive approach in the area of integration as well, instead of the blocking approach that Camel usually offers?</p>
+
+<p>In this live coding session we’re going to explore the possibilities that Alpakka - a set of connectors for Akka Streams - offers to fetch data from various data sources and send it to different destinations. Using those, you’re going to learn, on a working example, how to build a reactive integration layer with the help of Akka Streams - one of the most popular Reactive Streams implementation.</p>
+
+<p>And if you thought Akka and friends were only for the Scala people, come to learn the nice Java APIs and see how wrong you were.</i></p>
+
+<p>Zapraszmy na integrację przed spotkaniem (circa 20 min.) i po! Zapisy na <a href = "https://www.meetup.com/Zielona-Gora-JUG/events/267516383/" target="_blank">Meetup</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Podsumowanie ostatniego spotkania 2019]]></title>
@@ -409,24 +437,6 @@ tej kwestii, przy czym skoncentrował się na Logsense. Więcej szczegółów w 
 <p>Więcej szczegółów pojawi się już wkrótce na stronie <a href="http://www.hackyeah.pl" target="_blank">www.hackyeah.pl</a></p>
 
 <p></i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie czerwcowe - Kubernetes]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/06/10/spotkanie-czerwocowe-kubernetes/"/>
-    <updated>2019-06-10T19:08:51+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/06/10/spotkanie-czerwocowe-kubernetes</id>
-    <content type="html"><![CDATA[<p>Spotkanie czerwcowe odbędzie się 26 czerwca w klubie WySPa (al. Wojska Polskiego 65) o godzine 19:00, z rozgrzewką od 18:30.
-Sponsorem miesiąca jest <a href="https://streamsoft.pl/" target="_blank">Streamsoft</a> - zielonogórski dostawca systemów ERP.</p>
-
-<p><a href="https://streamsoft.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/streamsoft2019.png" title="Streamsoft" ></a></p>
-
-<p>Tym razem pochylimy się nad jednym tematem: &ldquo;Techniki logowania w Kubernetes z odrobiną pomocy LogSense&rdquo;. Prelegentem będzie Marcin Stożek. Oto co zawrze w swojej prezentacji:</p>
-
-<p><i>Kubernetes pomaga nam uruchamiać wiele węzłów w standardowy, określony sposób. Chociaż nie musimy myśleć o fizycznej lokalizacji naszej aplikacji, nadal chcemy wiedzieć jak się zachowuje. Nie możemy jednak po prostu „czytać logów”. Potrzebujemy zautomatyzowanego rozwiązania. Kubernetes pozwala nam użyć wielu technik, aby osiągnąć ten cel. Przyjrzymy się im oraz ich wadom i zaletom. Pozostaje pytanie: co zrobić dalej, gdy już zbierzemy wszystkie różne logi? Pokażemy przykłady wzięte z życia: w tym LogSense zbierający logi niezależnie od formatu i struktury.</i></p>
-
-<p>Rejestracja uczestnictwa na <a target="_blank" href="https://www.meetup.com/Zielona-Gora-JUG/events/262204292">Meetup</a>. Zapraszamy, tym bardziej, że jest to ostatnie spotkanie w tym sezonie!</p>
 ]]></content>
   </entry>
   
