@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2019-12-30T18:58:31+01:00</updated>
+  <updated>2020-01-18T20:59:39+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,56 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[4Developers 2020]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/01/18/4developers-2020/"/>
+    <updated>2020-01-18T20:55:08+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/01/18/4developers-2020</id>
+    <content type="html"><![CDATA[<p>Po raz kolejny zostaliśmy partnerem 4Developers. Z tej okazji mamy komunikat od organizatorów:</p>
+
+<p><i></p>
+
+<p>20 kwietnia w Warszawie spotykamy się na kolejnej edycji największego Festiwalu Technologicznego w Polsce! Zostaliśmy Community Partnerem @4Developers i zapraszamy Was do wzięcia udziału w konferencji!</p>
+
+<p>W tym roku na 4Developers:</p>
+
+<p>✅ dwujęzyczna agenda – Festiwal nabiera międzynarodowego charakteru, organizatorzy zapowiadają więcej prelekcji w języku angielskim</p>
+
+<p>✅ 15 ścieżek: .NET, Architektury aplikacji, C++, Cloud Computing, DevOps, Java, JavaScript, Machine Learning, Mobile, PHP, Python, Testerska, Bottega IT Minds, Bottega Frontend, Soft Skills &amp; Business Relations</p>
+
+<p>✅ eksperci i profesjonaliści, którzy chętnie wymienią się z Wami doświadczeniem</p>
+
+<p>✅ ponad 100 praktycznych prelekcji</p>
+
+<p>✅ rozmowy, networking i cenne znajomości!</p>
+
+<p>Early Birds, bilety w najniższej cenie, są jeszcze dostępne. Zarejestruj się ➡️ <a href="https://tiny.pl/tnchf">https://tiny.pl/tnchf</a></p>
+
+<hr>
+
+
+<p>CFP już ruszyło i potrwa do połowy lutego Organizatorzy czekają na propozycje wystąpień na różnych poziomach zaawansowania, szczególnie na te w języku angielskim</p>
+
+<p>Masz wiedzę i chcesz się nią podzielić? Pospiesz się i wypełnij formularz ➡️ <a href="https://tiny.pl/tk6bn">https://tiny.pl/tk6bn</a>
+</i></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Podsumowanie spotkania styczniowego]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/01/18/podsumowanie-spotkania-styczniowego/"/>
+    <updated>2020-01-18T20:43:14+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/01/18/podsumowanie-spotkania-styczniowego</id>
+    <content type="html"><![CDATA[<p>Nowy rok powitaliśmy z <a href = "https://softwaremill.com/" target="_blank">Software Mill</a> i jego dwoma pracownikami w ramach świętowania 10-lecia tej firmy. Spotkanie rozpoczął Jacek Kunicki <a href="http://zielona-gora-jug.github.io/files/alpakka.pdf" target="_blank">prezentacją o strumieniach i Alpacce</a>. Po krótkim wstępie teoretycznym, gdzie omówił podstawy pracy ze strumieniami, przeszedł do kodowania na żywo, aby pokazać nam jak to wszystko działa w praktyce (<a href="http://zielona-gora-jug.github.io/files/alpakka.zip" target="_blank">tutaj</a> dostępny jest kod.</p>
+
+<p>Po przerwie zajęliśmy się przeglądem kodu z Sebastianem Rabiejem. Pochyliliśmy się nad samym procesem oceny cudzego kodu, ale też jego znaczeniem dla innych członków grupy. Oprócz typowo technicznych aspektów, Sebastian zwrócił również uwagę na kwestie psychologiczne.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/JUG Tour.png" style="width: 80%;"></p>
+
+<p>Dla wszystkich, którzy chcą ocenić spotkanie, przygotowaliśmy <a href="https://forms.gle/kXw9syMKgs6YaU9j7" target="_blank">ankietę</a>. Przypominamy o nagrodach za jej wypełnienie!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Styczeń 2020 - Code review i strumienie Akka]]></title>
@@ -390,53 +440,6 @@ Zapraszamy, bo warto! Do zobaczenia w Poznaniu! 😉</p>
 <p><a href="https://segfault.events/krakow2019/"><img class="center" src="http://zielona-gora-jug.github.io/images/SegFaultUnconference.jpg" title="SegFault" ></a></p>
 
 <p><a href="https://segfault.events/krakow2019/" target="_blank">SegFault Unconference Kraków 2019</a> Ogólnotematyczna konferencja odbywająca się 25 i 26 listopada. Pierwszy dzień to &ldquo;unconference&rdquo;: wymiana doświadczeń z najlepszymi! Drugi dzień to już bardziej typowe prelekcje.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zamknięcie sezonu 2018/2019]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/06/28/zamkniecie-sezonu-2019/"/>
-    <updated>2019-06-28T19:15:47+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/06/28/zamkniecie-sezonu-2019</id>
-    <content type="html"><![CDATA[<p>W ostatnią środę zamknęliśmy 5-ty sezon naszego JUG-a. Ostatnim prelegentem był Marcin Stożek, który opowiedział nam o logowaniu w Kubernetes. Rozpoczął od wyjaśnienia jak to się dzieje, że
-te wszystkie linijki trafiają w odpowiednie miejsce i jak są łączone. Stąd przeszedł do poważnego problemu - co zrobić po utworzeniu dziesiątek węzłów. Podał kilka sposobów rozwiązania
-tej kwestii, przy czym skoncentrował się na Logsense. Więcej szczegółów w <a target="_blank" href="http://slides.com/perk/k8s-logging-techniques#/">prezentacji</a>.</p>
-
-<p>Sponsorem miesiąca był <a href="https://streamsoft.pl/" target="_blank">Streamsoft</a> - zielonogórski dostawca systemów ERP.</p>
-
-<p><a href="https://streamsoft.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/streamsoft2019.png" title="Streamsoft" ></a></p>
-
-<p>Spotkanie można ocenić na <a target="_blank" href="https://forms.gle/QwWEqdnszGN6ogqK7">tej stronie</a>. Do zobaczeniu we wrześniu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[HackYeah 2019]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/06/23/hackyeah-2019/"/>
-    <updated>2019-06-23T19:02:05+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/06/23/hackyeah-2019</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem <a href="http://www.hackyeah.pl" target="_blank">HackYeah 2019</a>. Dla chętnych posiadamy kody zniżkowe na udział jako drużyna (do uzyskania po wiadomości wysłanej do organizatorów). O co chodzi? Oddajmy głos organizatorom:</p>
-
-<p><a href="https://hackyeah.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/hackyeahcolor.png" title="HackYeah" ></a></p>
-
-<p><i></p>
-
-<p>HackYeah to największy stacjonarny hackathon w Europie, skupiający ludzi hackujących rzeczywistość, którzy koncentrują się na rozwiązywaniu ważnych problemów dzisiejszego świata. 2500 uczestników z różnymi specjalizacjami wzięło udział w  2018.  Tegoroczna edycja odbędzie się w dniach 14-15 września w Ptak Expo Warsaw.</p>
-
-<!-- more -->
-
-
-<p>Na wydarzenie zapraszamy: studentów, back-end developer, front-end developerów, full-stack developerów, grafików komputerowych, produkt menedżerów, projekt menedżerów, specjalistów od bezpieczeństwa informacji, analityków danych, projektantów aplikacji, projektantów stron internetowych, elektrotechników, projektantów gier i nie tylko!</p>
-
-<p>W tym roku uczestnicy będą mierzyć się z zadaniami w trzech otwartych kategoriach:  BEZPIECZEŃSTWA, ŚRODOWISKA i KOMUNIKACJI. Celem uczestników będzie stworzenie aplikacji, programów lub urządzeń, które wspierają poprawę warunków życia właśnie w ramach tych trzech tematów. W każdej z trzech kategorii do wygrania będzie nagroda główna w kwocie 10 000 PLN. Organizatorzy nie sugerują kierunku rozwiązywania zadań ale na zespoły będzie czekać wsparcie mentorów zarówno technicznych jak i społecznościowych, którzy będą gotowi odpowiedzieć na wszystkie pytania.</p>
-
-<p>Dodatkowo na uczestników czekać będzie wiele zadań partnerskich. W zeszłym roku w ramach tej kategorii można było zmierzyć się z wyzwaniem włamania do agregatu prądotwórczego, stworzyć aplikację do gier losowych czy też stworzyć narzędzie ułatwiające klientom banków przejrzyste korzystanie z ich usług.</p>
-
-<p>Udział w wydarzeniu jest otwarty dla wszystkich chętnych: studentów, programistów, UXoców, project managerów, inżynierów, specjalistów od baz danych, analityków czy gamerów. Wstęp jest płatny 49,00 PLN jednak cały przychdów z biletów przeznaczony zostanie na rzecz fundacji edukujących dzieci w tematyce programowania - SZKOŁY 3.0 i HEARTY FOUNDATION.</p>
-
-<p>Więcej szczegółów pojawi się już wkrótce na stronie <a href="http://www.hackyeah.pl" target="_blank">www.hackyeah.pl</a></p>
-
-<p></i></p>
 ]]></content>
   </entry>
   
