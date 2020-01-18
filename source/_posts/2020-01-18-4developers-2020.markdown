@@ -1,0 +1,35 @@
+---
+layout: post
+title: "4Developers 2020"
+date: 2020-01-18 20:55:08 +0100
+comments: true
+categories: 
+---
+
+Po raz kolejny zostaliśmy partnerem 4Developers. Z tej okazji mamy komunikat od organizatorów:
+
+<i>
+	
+
+20 kwietnia w Warszawie spotykamy się na kolejnej edycji największego Festiwalu Technologicznego w Polsce! Zostaliśmy Community Partnerem @4Developers i zapraszamy Was do wzięcia udziału w konferencji!
+
+W tym roku na 4Developers:
+
+✅ dwujęzyczna agenda – Festiwal nabiera międzynarodowego charakteru, organizatorzy zapowiadają więcej prelekcji w języku angielskim
+
+✅ 15 ścieżek: .NET, Architektury aplikacji, C++, Cloud Computing, DevOps, Java, JavaScript, Machine Learning, Mobile, PHP, Python, Testerska, Bottega IT Minds, Bottega Frontend, Soft Skills & Business Relations
+
+✅ eksperci i profesjonaliści, którzy chętnie wymienią się z Wami doświadczeniem
+
+✅ ponad 100 praktycznych prelekcji
+
+✅ rozmowy, networking i cenne znajomości!
+
+Early Birds, bilety w najniższej cenie, są jeszcze dostępne. Zarejestruj się ➡️ https://tiny.pl/tnchf
+
+<hr>
+
+CFP już ruszyło i potrwa do połowy lutego Organizatorzy czekają na propozycje wystąpień na różnych poziomach zaawansowania, szczególnie na te w języku angielskim
+
+Masz wiedzę i chcesz się nią podzielić? Pospiesz się i wypełnij formularz ➡️ https://tiny.pl/tk6bn 
+</i>
