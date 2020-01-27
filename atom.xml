@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-01-18T21:13:32+01:00</updated>
+  <updated>2020-01-27T20:42:02+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SegFault 2020]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/01/27/segfault-2020/"/>
+    <updated>2020-01-27T20:35:20+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/01/27/segfault-2020</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem Konferencje SegFault! Poniżej informacja o planach na najbliższy czas. Dla chętnych zniżka 30%. Wiadomość na priv.</p>
+
+<p><a href="https://segfault.events/warszawa2020"><img class="center" src="http://zielona-gora-jug.github.io/images/segfault2020.jpg" title="DTPoland" ></a></p>
+
+<p><i>
+W marcu SegFault wraca z formułą University!</p>
+
+<p>Nowy rok SegFault rozpoczyna wydarzeniem w Warszawie - w znanej już formule SegFault University. Spotykamy się 23 i 24 marca, w Centrum konferencyjno-szkoleniowym Golden Floor Tower.
+SegFault University to dwudniowe wydarzenie, które łączy tradycyjną formę konferencji (prezentacji) i warsztatów.
+Warto się spieszyć, bo liczba miejsc - szczególnie na warsztatach - jest ograniczona!
+Wśród tematów dnia warsztatowego SegFault pojawi się zarówno Event Storming (Mariusz Gil, Marcin Markowski, Piotr Wyczesany, Oskar Dudycz), jak również Elastic Search (Zbyszko Papierski: “Co robi twoja aplikacja, kiedy rodziców nie ma w domu. Kilka słów o Elastic APM”), Distributed Systems (Szymon Pobiega: “Spójna komunikacja asynchroniczna w Chmurze. Jak budować niezawodne system z zawodnych komponentów.”), Deep Learning oraz AI (Marek Będkowski).
+Tematyka prezentacji jak zawsze będzie zróżnicowana. Obok tematów ściśle technicznych znajdą się także miękkie prezentacje.
+Więcej na temat SegFault University w Warszawie znajdziecie pod linkiem: <a href="https://segfault.events/warszawa2020">https://segfault.events/warszawa2020</a> oraz w mediach społecznościowych @SegFaultConf</p>
+
+<ul>
+    <li><a href="https://www.facebook.com/SegFaultConf" target="_blank">https://www.facebook.com/SegFaultConf</a></li>
+    <li><a href="https://twitter.com/SegFaultConf" target="_blank">https://twitter.com/SegFaultConf</a></li>
+    <li><a href="https://www.linkedin.com/company/segfaultconf" target="_blank">https://www.linkedin.com/company/segfaultconf</a></li>
+    </ul>
+
+
+<p>Do zobaczenia w Warszawie!
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[4Developers 2020]]></title>
@@ -418,23 +449,6 @@ Rejestracja już ruszyła! Więcej informacji 👉 <a href="https://pozitive.tec
 Zapraszamy, bo warto! Do zobaczenia w Poznaniu! 😉</p>
 
 <p><a href="https://pozitive.tech/"><img class="center" src="http://zielona-gora-jug.github.io/images/pozitivetech.png" title="Pozitivetech" ></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dwa zaproszenia na SegFault]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/08/19/dwa-zaproszenia-na-segfault/"/>
-    <updated>2019-08-19T22:00:39+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/08/19/dwa-zaproszenia-na-segfault</id>
-    <content type="html"><![CDATA[<p>Powoli wracamy z wakacji i z tej okazji mamy dla Was zaproszenie na dwa wydarzenia. Dla chętnych zniżki 10% (po przesłaniu <a href="leaders">wiadomości</a>).</p>
-
-<p><a href="https://segfault.events/warszawa2019/"><img class="center" src="http://zielona-gora-jug.github.io/images/SegFaultWarszawa.png" title="SegFault" ></a></p>
-
-<p><a href="https://segfault.events/warszawa2019/" target="_blank">SegFault Warszawa 2019</a> - 27 września. Przede wszystkim tematyka związana z Data Engineering i Applied ML / AI. Zastanawiacie się jak wykorzystać ML lub AI w Waszych projektach? W SegFault idą krok dalej - nie teoretyzują, lecz pokazują jak wdrożyć tego typu rozwiązania w konkretne projekty.</p>
-
-<p><a href="https://segfault.events/krakow2019/"><img class="center" src="http://zielona-gora-jug.github.io/images/SegFaultUnconference.jpg" title="SegFault" ></a></p>
-
-<p><a href="https://segfault.events/krakow2019/" target="_blank">SegFault Unconference Kraków 2019</a> Ogólnotematyczna konferencja odbywająca się 25 i 26 listopada. Pierwszy dzień to &ldquo;unconference&rdquo;: wymiana doświadczeń z najlepszymi! Drugi dzień to już bardziej typowe prelekcje.</p>
 ]]></content>
   </entry>
   
