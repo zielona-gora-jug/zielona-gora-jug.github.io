@@ -1,0 +1,27 @@
+---
+layout: post
+title: "SegFault 2020"
+date: 2020-01-27 20:35:20 +0100
+comments: true
+categories: 
+---
+Zostaliśmy partnerem Konferencje SegFault! Poniżej informacja o planach na najbliższy czas. Dla chętnych zniżka 30%. Wiadomość na priv.
+
+[{% img center /images/segfault2020.jpg DTPoland %}](https://segfault.events/warszawa2020)
+
+<i>
+W marcu SegFault wraca z formułą University!
+
+Nowy rok SegFault rozpoczyna wydarzeniem w Warszawie - w znanej już formule SegFault University. Spotykamy się 23 i 24 marca, w Centrum konferencyjno-szkoleniowym Golden Floor Tower.
+SegFault University to dwudniowe wydarzenie, które łączy tradycyjną formę konferencji (prezentacji) i warsztatów.
+Warto się spieszyć, bo liczba miejsc - szczególnie na warsztatach - jest ograniczona!
+Wśród tematów dnia warsztatowego SegFault pojawi się zarówno Event Storming (Mariusz Gil, Marcin Markowski, Piotr Wyczesany, Oskar Dudycz), jak również Elastic Search (Zbyszko Papierski: “Co robi twoja aplikacja, kiedy rodziców nie ma w domu. Kilka słów o Elastic APM”), Distributed Systems (Szymon Pobiega: “Spójna komunikacja asynchroniczna w Chmurze. Jak budować niezawodne system z zawodnych komponentów.”), Deep Learning oraz AI (Marek Będkowski).
+Tematyka prezentacji jak zawsze będzie zróżnicowana. Obok tematów ściśle technicznych znajdą się także miękkie prezentacje.
+Więcej na temat SegFault University w Warszawie znajdziecie pod linkiem: https://segfault.events/warszawa2020 oraz w mediach społecznościowych @SegFaultConf
+<ul>
+	<li><a href="https://www.facebook.com/SegFaultConf" target="_blank">https://www.facebook.com/SegFaultConf</a></li>
+	<li><a href="https://twitter.com/SegFaultConf" target="_blank">https://twitter.com/SegFaultConf</a></li>
+	<li><a href="https://www.linkedin.com/company/segfaultconf" target="_blank">https://www.linkedin.com/company/segfaultconf</a></li>
+	</ul>
+Do zobaczenia w Warszawie!
+</i>
