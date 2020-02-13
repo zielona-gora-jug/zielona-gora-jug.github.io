@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-01-27T20:42:02+01:00</updated>
+  <updated>2020-02-13T19:04:50+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Luty 2020 - Lider techniczny]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/02/13/luty-2020-lider-techniczny/"/>
+    <updated>2020-02-13T19:00:25+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/02/13/luty-2020-lider-techniczny</id>
+    <content type="html"><![CDATA[<p>Kolejne spotkanie JUG już 26-ego lutego o godzine 19:00 w klubie WySPa. Tym razem tematem dnia będzie zagadnienie niejako „miękkie” – bycie liderem technicznym. Prelekcję na ten temat poprowadzi Paweł Nowak, a jej dokładny tytuł to „Lider techniczny – fakty, półprawdy i mity”.</p>
+
+<p><i>Część z nas stanęła lub stanie w pewnym momencie swojej kariery przed decyzją czy zostać liderem technicznym. Wielu odmawia natychmiast, bo tego „nie czują”. Wielu przyjmuje „awans”, bo nawet nie spodziewają się przed jakim wyzwaniem stają. W trakcie prezentacji przejdziemy przez wszystkie aspekty pracy lidera technicznego, ale trochę na odwrót: od pytania czy chcesz nim być przez zadania oraz problemy wiążące się z tym stanowiskiem. Kolejne etapy będą wyznaczać zasłyszane opinie odnoszące się do bycia technicznym szefem zespołu. To wszystko bez HR-owego slangu, coachingowego mumbo-jumbo, memów oraz inspirujących cytatów ze Steve’a Jobsa.</p>
+
+<p>A jeśli kogoś nie interesuje bycie leadem, to może warto posłuchać, żeby zrozumieć dlaczego ten człowiek tak się zachowuje? Lub żeby dowiedzieć się co w nim zmienić, aby pracowało się po prostu lepiej?</i></p>
+
+<p><b>Bio</b>: człowiek-orkiestra. Od 15 lat w branży, z czego 13 lat bezpośrednio przy programowaniu. Czasem programista (czasem Java, czasem C#, czasem PHP, czasem JavaScript), czasem analityk, czasem lider techniczny. Zawsze starający się dać z siebie jak najwięcej.</p>
+
+<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/268684560/" target"_blank">Meetup.</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SegFault 2020]]></title>
@@ -435,20 +452,6 @@ Po raz pierwszy naszym sponsorem będzie <a href="https://dtpoland.com/" target=
 <p>Bilet można zarezerwować już dziś na <a href="https://innovation-amazon.com" target="_blank"><a href="https://innovation-amazon.com">https://innovation-amazon.com</a></a>. Warto dodać, że opłatę za uczestnictwo Amazon w całości przekaże na szczytny cel!</p>
 
 <p><a href="https://innovation-amazon.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/amazon2019.jpg" title="innovation@amazon" ></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pozitivetech]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/08/22/pozitivetech/"/>
-    <updated>2019-08-22T20:52:20+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/08/22/pozitivetech</id>
-    <content type="html"><![CDATA[<p>Jesteście gotowi na nowe technologie? 🧐 Już 26 września rusza wyjątkowe wydarzenie, które odmieni oblicze Poznania 👉 @pozitivetech ! Jesteśmy partnerem wydarzenia!
-Systemy rozproszone, software architecture, mikroserwisy, Artificial Intelligence, deep learning i nie tylko… 👉 Jeden dzień. Dwie ścieżki. Kilkunastu prelegentów. Zaproszeni goście… 😊
-Rejestracja już ruszyła! Więcej informacji 👉 <a href="https://pozitive.tech/.">https://pozitive.tech/.</a>
-Zapraszamy, bo warto! Do zobaczenia w Poznaniu! 😉</p>
-
-<p><a href="https://pozitive.tech/"><img class="center" src="http://zielona-gora-jug.github.io/images/pozitivetech.png" title="Pozitivetech" ></a></p>
 ]]></content>
   </entry>
   

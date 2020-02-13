@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2020/02/13/luty-2020-lider-techniczny/</loc>
+    <lastmod>2020-02-13T19:00:25+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2020/01/27/segfault-2020/</loc>
     <lastmod>2020-01-27T20:35:20+01:00</lastmod>
   </url>
