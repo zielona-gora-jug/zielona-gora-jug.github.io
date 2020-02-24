@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Call of Code 2020"
+date: 2020-02-24 20:05:41 +0100
+comments: true
+categories: 
+---
+
+Nasz wielokrotny sponsor, <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, po raz kolejny organizuje konkurs programistyczny Call of Code.
+
+Szczegóły samego wydarzenia na <a href="https://www.facebook.com/events/131347084859437/" target="_blank">Facebook</a>, ale od razu podajemy, że rozpoczęcie konkursu
+będzie miało miejsce 9 marca w siedzibie firmy przy ul. Dąbrowskiego. Na wykonanie zadania uczestnicy będą mieli cały miesiąc. Do wygrania staż oraz nagrody rzeczowe (m.in. iPad).
+
+<img class="center" src="/images/global_logic.jpg" style="width: 50%;">
