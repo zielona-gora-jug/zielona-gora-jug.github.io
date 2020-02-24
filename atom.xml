@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-02-13T19:04:50+01:00</updated>
+  <updated>2020-02-24T20:16:42+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Call of Code 2020]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/02/24/call-of-code-2020/"/>
+    <updated>2020-02-24T20:05:41+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/02/24/call-of-code-2020</id>
+    <content type="html"><![CDATA[<p>Nasz wielokrotny sponsor, <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, po raz kolejny organizuje konkurs programistyczny Call of Code.</p>
+
+<p>Szczegóły samego wydarzenia na <a href="https://www.facebook.com/events/131347084859437/" target="_blank">Facebook</a>, ale od razu podajemy, że rozpoczęcie konkursu
+będzie miało miejsce 9 marca w siedzibie firmy przy ul. Dąbrowskiego. Na wykonanie zadania uczestnicy będą mieli cały miesiąc. Do wygrania staż oraz nagrody rzeczowe (m.in. iPad).</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Luty 2020 - Lider techniczny]]></title>
@@ -437,21 +451,6 @@ Po raz pierwszy naszym sponsorem będzie <a href="https://dtpoland.com/" target=
 <p>Po co komu UX?</i></p>
 
 <p>Do zobaczenia!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Innovation@amazon 2019]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/08/27/innovation-at-amazon-2019/"/>
-    <updated>2019-08-27T19:37:06+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/08/27/innovation-at-amazon-2019</id>
-    <content type="html"><![CDATA[<p>Tę datę i miejsce warto zapisać: 28 września, Gdańsk! Zbliża się kolejna edycja @Innovation@Amazon2019 organizowanego przez @Gdanskamazon.</p>
-
-<p>Tego dnia eksperci #Amazon pojawią się w @GdanskshakespeareTheatre, aby podzielić się swoją wiedzą z zakresu #MachineLearning, #AI, #IoT, czy #AWS.</p>
-
-<p>Bilet można zarezerwować już dziś na <a href="https://innovation-amazon.com" target="_blank"><a href="https://innovation-amazon.com">https://innovation-amazon.com</a></a>. Warto dodać, że opłatę za uczestnictwo Amazon w całości przekaże na szczytny cel!</p>
-
-<p><a href="https://innovation-amazon.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/amazon2019.jpg" title="innovation@amazon" ></a></p>
 ]]></content>
   </entry>
   
