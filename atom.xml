@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-02-24T20:16:42+01:00</updated>
+  <updated>2020-03-03T20:22:22+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie marcowe 2020 - Mikroserwisy i Kotlin]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/03/03/spotkanie-marcowe-2020-mikroserwisy-i-kotlin/"/>
+    <updated>2020-03-03T20:04:10+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/03/03/spotkanie-marcowe-2020-mikroserwisy-i-kotlin</id>
+    <content type="html"><![CDATA[<p><b>Miejsce:</b> Klub WySPa, al. Wojska Polskiego<br>
+<b>Czas:</b> 19:00, środa 25 marca 2020.</p>
+
+<p>Kolejne spotkanie już pod koniec marca i będzie ono spotkaniem szczególnym, bo po angielsku. Wykład poprowadzi programistka z Kijowa, Marharyta Nedzelska, która odbywa dłuższe tournee po naszym kraju. Mamy również nowego sponsora miesiąca - <a href = "https://www.dataart.com.pl/" target="_blank">DataArt</a>. Jest to firma konsultingowa oraz dostawca rozwiązań technologicznych z siedzibą we Wrocławiu.</p>
+
+<p><a href="https://www.dataart.com.pl/" target="_blank"><img class="center" src="http://zielona-gora-jug.github.io/images/DataArt.png" style="width: 80%;"></a></p>
+
+<p><b>Building Microservices with Kotlin and gRPC</b></p>
+
+<p><i>Microservice architecture is now a huge trend. All big organizations with millions of users are doing microservices. This means they have lots of channels of communication between services and need to send and get much data. At some point, you can find yourself in a situation where your current approach doesn’t provide you with efficient communications, you pay more, wait for more, lose more etc. Maybe it’s time to look at gRPC… gRPC is asynchronous by its nature. But old api, java infrastructure and verbosity make people write lots of noise and break their beautiful minds to make things done. In Kotlin we have awesome coroutines concept. So async gRPC and coroutines could be a perfect match! Let’s discover if this is possible. In this talk, we’ll learn how to build microservices using gRPC with minimum pain. We’ ll discuss the pros and cons of this approach, what can be improved, what should be added.</i></p>
+
+<p><b>Bio:</b> I am a Software Engineer at Wix Engineering and Kyiv Kotlin user group leader. Interested in Kotlin, Scala, Microservices, Android, IoT and Machine Learning.
+I am also working on making Kotlin one more programming language for JVM at Wix and try to spread the light of Kotlin to other developers.
+I am very passionate about knowledge sharing, so I am involved in conferences such as Kotlin NIght Kyiv, Devoxx UA and one of the organizers of Rockstar Night dev club. As a speaker, I participated in JUG UA, Morning @ Lohika, IT Weekend, JEEConf, Voxxed Minsk, JFuture, Voxxed Ticino, Devoxx UA.</p>
+
+<p><b>Rejestracja</b>: <a href = "https://www.meetup.com/Zielona-Gora-JUG/events/269088441/" target="_blank">Meetup</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Slajdy o liderze technicznym]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/03/03/slajdy-o-liderze-technicznym/"/>
+    <updated>2020-03-03T20:02:49+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/03/03/slajdy-o-liderze-technicznym</id>
+    <content type="html"><![CDATA[<p>Wszystkich, którzy chcą przypomnieć sobie podstawowe wiadomości o byciu liderem technicznym, odsyłamy do <a href="http://zielona-gora-jug.github.io/files/Leadership.pdf" target="_blank">slajdów</a>. Prezentacja była dość długa, więc na pewno warto pochylić się nad nią jeszcze raz, żeby przypomnieć sobie najważniejsze punkty lub chociaż zapoznać się z literaturą.</p>
+
+<p>Spotkanie możecie ocenić przy pomocy <a href="https://tinyurl.com/wy9yqct" target="_blank">ankiety</a>. Dziękujemy za udział i zapraszamy do wyrażenia swojego zdania. Nagrody czekają.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Call of Code 2020]]></title>
@@ -413,44 +448,6 @@ i przypomnieć sobie najważniejsze tezy prezentacji.</p>
 <p>Zwieńczeniem programistycznego maratonu będzie #4DevelopersOFFLINE (Gdańsk, 27.11) - tutaj będziemy integrować społeczności IT przy smacznym jedzeniu i trunkach. Z naszym kodem otrzymacie także 10% zniżki na OFFLINE! 😊</p>
 
 <p>Więcej szczegółów i bilety <a target="_blank" href="https://evenea.pl/event/4developersoffline/">evenea.pl/event/4developersoffline/</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zmiana daty SegFault Warszawa]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/09/09/zmiana-daty-segfault-warszawa/"/>
-    <updated>2019-09-09T20:18:27+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/09/09/zmiana-daty-segfault-warszawa</id>
-    <content type="html"><![CDATA[<p>Uwaga! Zmiana daty <a href="https://segfault.events/warszawa2019/" target="_blank">SegFault Warszawa 2019</a>. Wydarzenie przesunięto na 25-ty października.</p>
-
-<p><a href="https://segfault.events/warszawa2019/"><img class="center" src="http://zielona-gora-jug.github.io/images/SegFaultWarszawa2.png" title="SegFault" ></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Otwarcie sezonu 2019/20]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/09/02/otwarcie-sezonu-2019-slash-20/"/>
-    <updated>2019-09-02T20:55:14+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/09/02/otwarcie-sezonu-2019-slash-20</id>
-    <content type="html"><![CDATA[<p>Otwarcie nowego sezonu wyjątkowo w czwartek 12 IX, w Barcelona Sport Pub przy ulicy Ciesielskiej.
-Standardowo główna część spotkania zacznie się o 19:00, a poprzedzi ją półgodzinna integracja.
-Po raz pierwszy naszym sponsorem będzie <a href="https://dtpoland.com/" target="_blank">Digital Technology Poland</a> - firma świadczącą usługi projektowania i wdrażania innowacyjnych rozwiązań w zakresie oprogramowania, systemów i urządzeń elektronicznych: przemysł 4.0, robotyka, przetwarzanie obrazów i sztuczna inteligencja.</p>
-
-<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtpoland.jpg" title="DTPoland" ></a></p>
-
-<p>Tematem dnia będą <b>Grzechy nas wszystkich wobec UX</b>. Prelekcję poprowadzi <b>Noemi Rozpara</b>, które przyjedzie do Zielonej Góry specjalnie z tej okazji. Oddajmy jej głos:</p>
-
-<p><i>Często o front-endzie myślimy jako o kolejnym modnym frameworku i fikuśnych efektach wizualnych na stronie. Tym razem spojrzymy na witrynę internetową jak na cały system, merytoryczny i atrakcyjny wizualnie, w centrum którego znajduje się użytkownik. Pokażę, dlaczego taka perspektywa jest kluczem do wyróżnienia naszej witryny na tle przesyconego marketingowo rynku.</p>
-
-<p>Odpowiem na pytania:</p>
-
-<p>Jak zakończyć wojnę pomiędzy programistami, grafikami a klientem?</p>
-
-<p>Dlaczego nasz front-end powinien być jak lotnisko?</p>
-
-<p>Po co komu UX?</i></p>
-
-<p>Do zobaczenia!</p>
 ]]></content>
   </entry>
   

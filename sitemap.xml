@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2020/03/03/spotkanie-marcowe-2020-mikroserwisy-i-kotlin/</loc>
+    <lastmod>2020-03-03T20:04:10+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2020/03/03/slajdy-o-liderze-technicznym/</loc>
+    <lastmod>2020-03-03T20:02:49+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2020/02/24/call-of-code-2020/</loc>
     <lastmod>2020-02-24T20:05:41+01:00</lastmod>
   </url>
