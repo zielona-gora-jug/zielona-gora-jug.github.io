@@ -1,0 +1,15 @@
+---
+layout: post
+title: "HackYeah 2020"
+date: 2020-03-30 20:07:02 +0200
+comments: true
+categories: 
+---
+
+Jak co roku, zostaliśmy partnerem HackYeah. W związku z rozwojem pandemii COVID-19 tegoroczna edycja odbędzie się wyłącznie online. Jest to wydarzenie pro bono a jego celem jest walka ze skutkami pandemii. Udział jest oczywiście bezpłatny.
+
+Wydarzenie startuje już w najbliższy piątek (3 kwietnia) i będzie trwało do niedzieli włącznie (5 kwietnia). Szczegóły na <a href="https://hackyeah.pl/" target="_blank">stronie organizatorów</a>.
+
+
+<a href="https://hackyeah.pl/" target="_blank"><img class="center" src="/images/hackyeah2020.jpg" style="width: 80%;"></a>
+
