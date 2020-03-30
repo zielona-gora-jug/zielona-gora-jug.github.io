@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-03-17T20:27:28+01:00</updated>
+  <updated>2020-03-30T20:12:52+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -14,13 +14,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[HackYeah 2020]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/03/30/hackyeah-2020/"/>
+    <updated>2020-03-30T20:07:02+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/03/30/hackyeah-2020</id>
+    <content type="html"><![CDATA[<p>Jak co roku, zostaliśmy partnerem HackYeah. W związku z rozwojem pandemii COVID-19 tegoroczna edycja odbędzie się wyłącznie online. Jest to wydarzenie pro bono a jego celem jest walka ze skutkami pandemii. Udział jest oczywiście bezpłatny.</p>
+
+<p>Wydarzenie startuje już w najbliższy piątek (3 kwietnia) i będzie trwało do niedzieli włącznie (5 kwietnia). Szczegóły na <a href="https://hackyeah.pl/" target="_blank">stronie organizatorów</a>.</p>
+
+<p><a href="https://hackyeah.pl/" target="_blank"><img class="center" src="http://zielona-gora-jug.github.io/images/hackyeah2020.jpg" style="width: 80%;"></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Spotkanie marcowe 2020 - zmiana]]></title>
     <link href="http://zielona-gora-jug.github.io/blog/2020/03/17/spotkanie-marcowe-2020-zmiana/"/>
     <updated>2020-03-17T20:23:19+01:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2020/03/17/spotkanie-marcowe-2020-zmiana</id>
-    <content type="html"><![CDATA[<p>W związku z zaistniałą sytuacją epidemiczną, spotkanie marcowe będzie miało wyłącznie miejsce on-line na <a href="https://www.youtube.com/watch?v=RcVON9pNFTY" target="_blank">YouTube</a>. Zmieniona jest data: będzie to czwartek 26 marca, o godzinie 18:00. Spotkanie będzie łączone z JUGami ze Śląska i Wrocławia.</p>
+    <content type="html"><![CDATA[<p>Jak co roku, zostaliśmy partnerem HackYeah. W związku z rozwojem pandemii COVID-19 tegoroczne HackYeah odbędzie się wyłącznie online. Jest to wydarzenie pro bono a jego celem jest walka ze skutkami pandemii. Udział jest oczywiście bezpłatny.</p>
 
-<p>Dziękujemy <a href="https://www.dataart.com.pl/" target="_blank">Dataart Wrocław</a> za umożliwienie nam udziału w prelekcji w tych wyjątkowych okolicznościach.</p>
+<p>Wydarzenie startuje już w najbliższy piątek (3 kwietnia) i będzie trwało do niedzieli włącznie (5 kwietnia). Szczegóły na stronie organizatorów.</p>
 
 <p><a href="https://www.dataart.com.pl/" target="_blank"><img class="center" src="http://zielona-gora-jug.github.io/images/DataArt.png" style="width: 80%;"></a></p>
 ]]></content>
@@ -415,23 +428,6 @@ Zapowiada się kolejne, wielkie zgrupowanie fanatyków Javy. W tym roku widzimy 
 <p>Dla wszystkich chętnych mamy zniżkę. Kod poniżej.</p>
 
 <p><a href="https://jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2019.png" width="400" height="400" title="JDD" ></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania wrześniowego '19]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/09/15/podsumowanie-spotkania-wrzesniowego-19/"/>
-    <updated>2019-09-15T18:19:43+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/09/15/podsumowanie-spotkania-wrzesniowego-19</id>
-    <content type="html"><![CDATA[<p>Mimo nietypowego czasu spotkania, zgromadziliście się dość licznie na pierwszym spotkaniu w nowym sezonie. Mamy nadzieję, że nasza prelegentka - Noemi Rozpara - pokazała Wam jak ważny jest dobry design
-interfejsu użytkownika oraz jak, czasami nieświadomie, utrudniamy życie użytkownikom naszych produktów. Dzięki uprzejmości Noemi możecie pobrać prezentację <a href="http://zielona-gora-jug.github.io/files/Our sins against UX ZGJUG.pdf" target="_blank">tutaj</a>
-i przypomnieć sobie najważniejsze tezy prezentacji.</p>
-
-<p>Dziękujemy <a href="https://dtpoland.com/" target="_blank">DTPoland</a> za pierwszy sponsoring w historii.</p>
-
-<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtpoland.jpg" title="DTPoland" ></a></p>
-
-<p>Do zobaczenia pod koniec października.</p>
 ]]></content>
   </entry>
   
