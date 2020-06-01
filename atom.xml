@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-04-14T18:50:15+02:00</updated>
+  <updated>2020-06-01T19:34:20+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hack4Change]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/06/01/hack4change/"/>
+    <updated>2020-06-01T19:08:40+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/06/01/hack4change</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem hackathonu Hack4Chnage. Poniżej więcej informacji o zawodach.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/hack4change.png" style="width: 80%;"></p>
+
+<p>Hack4Change 24 godziny by zmienić świat. 🌍</p>
+
+<p>@Hack4Change to 1 wspólna, wirtualna przestrzeń, 80 uczestników, 30 mentorów, 3 ścieżki tematyczne i tylko 24 godziny by zrobić coś dobrego i rozwinąć swoje umiejętności. Kiedy? Już 26/27 czerwca online! Podczas 24-godzinnego hackathonu wspólnie zrobimy co w naszej mocy, by pomóc naszej planecie.</p>
+
+<p>Celem @Hack4Change jest stworzenie technologicznej społeczności, która będzie działać na rzecz ochrony środowiska i naszej planety. Wspólnie opracujemy prototypy urządzeń i aplikacji, a także podejmiemy walkę z zanieczyszczeniem środowiska, zmianami klimatycznymi oraz zagrożeniami związanymi z epidemią koronawirusa.</p>
+
+<p>Czy wiesz jak wiele można zmienić w ciągu jednej doby? Chcesz się przekonać? Weź udział w Hack4Change i zmieniaj świat!  Udział w wydarzeniu jest bezpłatny. Zarejestruj się tutaj 👉 <a href="https://hack4change.tech/">https://hack4change.tech/</a> 🙋‍♀️🙋‍♂️</p>
+
+<p>Pamiętaj, masz 24 godziny by zmienić świat.</p>
+
+<p>Czas, start!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[JDD 2020]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/06/01/jdd-2020/"/>
+    <updated>2020-06-01T19:08:13+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/06/01/jdd-2020</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem JDD 2020. Poniżej szczegóły tego wydarzenia.</p>
+
+<p><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2020.png" style="width: 80%;"></p>
+
+<p>@JDD organizes something special for you 🤩</p>
+
+<p>@JDD 2020 Online: The Coolest Conf on Java in the totally new formula! This time we gather #online, on the 4th of June 2020!⚡️And, as a Community Partner, we encourage you to join this terrific event!☺️ With our code 👾JDDforJUG👾 you get 15% off!</p>
+
+<p>This special edition of #JDD includes #Java track with several talks 👥
+You can expect:
+▪️ top experts including Nikolas Frankel, Andrzej Grzesik, Jakub Pilimon, Piotr Przybył, Dominik Przybysz, Jarek Ratajski
+▪️ experienced programmers
+▪️ and a lot of the hottest Java topics! 💥
+▪️ chats with fellow mates on JDD Discord channel: <a href="https://discord.com/invite/xZ9veun">https://discord.com/invite/xZ9veun</a></p>
+
+<p>The Schedule is available: <a href="https://jdd.org.pl/online/#schedule_online">https://jdd.org.pl/online/#schedule_online</a></p>
+
+<p>&nbsp;#JDD2020Online is a conference for (as always!) ALL Java enthusiasts: software engineers, developers, team leaders and other passionate people keen to broaden and share their knowledge 🧐🌏</p>
+
+<p>Grab your ticket here:
+&nbsp;⚡️ <a href="https://app.evenea.pl/event/jdd2020online">https://app.evenea.pl/event/jdd2020online</a> ⚡️</p>
+
+<p>Another great and important <a href="news:">news:</a>
+If you have a ticket to JDD 2020, you will receive an entry code to #online edition FOR FREE</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Przerwa pandemiczna]]></title>
@@ -374,50 +429,6 @@ jak rozwiązać ten problem za pomocą małych komponentów. Dziękujemy za obec
 <p>Dziękujemy również <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a> za sponsorowanie tego spotkania!</p>
 
 <p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[J-Santa 2019]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/10/07/j-santa-2019/"/>
-    <updated>2019-10-07T20:12:27+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/10/07/j-santa-2019</id>
-    <content type="html"><![CDATA[<p>Kolejny rok z rzędu jesteśmy partnerem konferencji <a href="https://j-santa.pl/" target="_blank">J-Santa</a>, która odbywa się w Lublinie. Wszystkich zainteresowanych odsyłamy do informacji od organizatorów umieszczonej poniżej.</p>
-
-<p><a href="https://j-santa.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/j-santa2019.png" title="J-Santa" ></a></p>
-
-<p><i>
-W sobotę 30 listopada w Lubelskim Centrum Konferencyjnym odbędzie się IT NonStop: J-Santa. To druga edycja konferencji poświęconej Javie, JVM i Craftsmanship w Lublinie. Eksperci opowiedzą o technologiach, podzielą się doświadczeniem związanym z realizowanymi projektami i zaprezentują typowe techniczne case studies. Zapraszamy do udziału specjalistów i entuzjastów Javy oraz tematów pokrewnych.</p>
-
-<p>Wśród prelegentów m.in.: Paul Czarkowski, Jarosław Pałka, Grzegorz Piwowarek i Jakub Nabrdalik. Konferencję tworzą: Lublin Java User Group, DataArt Poland, Buddy, Sollers Consulting, Sii, TEAM International oraz Lubelska Wyżyna IT.</p>
-
-<p>Ho! Ho! Ho! Dołącz do nas już teraz! <a href="https://evenea.pl/event/jsanta2019/" target="_blank">Zarejestruj się</a></p>
-
-<p>Znajdź nas na <a href="https://www.facebook.com/jsantalublin" target="_blank">Facebook</a>. Więcej na <a href="https://j-santa.pl/" target="_blank">j-santa.pl</a>
-<i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie październikowe - mikroserwisy na frontendzie]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/09/28/spotkanie-pazdziernikowe-mikroserwisy-na-frontendzie/"/>
-    <updated>2019-09-28T19:14:22+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/09/28/spotkanie-pazdziernikowe-mikroserwisy-na-frontendzie</id>
-    <content type="html"><![CDATA[<p>Następne spotkanie odzbędzie się wyjątkowo w przedostatnią środę października (23 X) o godz. 19:00 w klubie WySPa przy ul. Wojska Polskiego. Tematem miesiąca będą mikroserwisy na frontendzie.
-Przemawiać będzie Aleksander Orchowski. Sponsorem miesiąca jest <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
-
-<p>Tytuł prezentacji: <i>&ldquo;A co jeśli mikroserwisy to tylko początek? Mikro&hellip; frontendy?&rdquo;</i></p>
-
-<p><i>
-Moda na mikroserwisy - mówi się o tym na każdej konferencji i większości meetupów. Tematem jesteśmy już chyba nawet nieco zmęczeni. Swoisty buzzword, ale i tak niewiele projektów kończy się sukcesem, lub mamy mnóstwo problemów z rozpraszaniem.
-Czy w pracy zetknęliście się może z problemem przy integracji usług na frontendzie?
-Nie? - prawdziwi z Was szczęśliwcy. Myślę jednak, że większość odpowie zdecydowanie - TAK.
-Opowiemy sobie o sposobie na mikroserwisy na frontendzie! O kulturze DevOps, o tym że jest niewystarczająca, oraz dlaczego nie należy robić tego w domu :)
-</i></p>
-
-<p>Do zobaczenia!</p>
 ]]></content>
   </entry>
   
