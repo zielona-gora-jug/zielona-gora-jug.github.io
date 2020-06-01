@@ -1,0 +1,32 @@
+---
+layout: post
+title: "JDD 2020"
+date: 2020-06-01 19:08:13 +0200
+comments: true
+categories: 
+---
+
+Zostaliśmy partnerem JDD 2020. Poniżej szczegóły tego wydarzenia.
+
+<img class="center" src="/images/jdd2020.png" style="width: 80%;">
+
+@JDD organizes something special for you 🤩
+ 
+@JDD 2020 Online: The Coolest Conf on Java in the totally new formula! This time we gather #online, on the 4th of June 2020!⚡️And, as a Community Partner, we encourage you to join this terrific event!☺️ With our code 👾JDDforJUG👾 you get 15% off! 
+ 
+This special edition of #JDD includes #Java track with several talks 👥
+You can expect:
+▪️ top experts including Nikolas Frankel, Andrzej Grzesik, Jakub Pilimon, Piotr Przybył, Dominik Przybysz, Jarek Ratajski 
+▪️ experienced programmers
+▪️ and a lot of the hottest Java topics! 💥
+▪️ chats with fellow mates on JDD Discord channel: https://discord.com/invite/xZ9veun 
+
+The Schedule is available: https://jdd.org.pl/online/#schedule_online 
+ 
+&nbsp;#JDD2020Online is a conference for (as always!) ALL Java enthusiasts: software engineers, developers, team leaders and other passionate people keen to broaden and share their knowledge 🧐🌏
+ 
+Grab your ticket here:
+&nbsp;⚡️ https://app.evenea.pl/event/jdd2020online ⚡️
+
+Another great and important news:
+If you have a ticket to JDD 2020, you will receive an entry code to #online edition FOR FREE
