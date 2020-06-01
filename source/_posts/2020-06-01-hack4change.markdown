@@ -5,7 +5,7 @@ date: 2020-06-01 19:08:40 +0200
 comments: true
 categories: 
 ---
-Zostaliśmy partnerem hackathonu Hack4Chnage. Poniżej więcej informacji o zawodach.
+Zostaliśmy partnerem hackathonu Hack4Change. Poniżej więcej informacji o zawodach.
 
 <img class="center" src="/images/hack4change.png" style="width: 80%;">
 
