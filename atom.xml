@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-06-01T19:34:20+02:00</updated>
+  <updated>2020-06-11T18:55:01+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -14,19 +14,57 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Segfault Masterclass lato 2020]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/06/11/segfault-masterclass-lato-2020/"/>
+    <updated>2020-06-11T18:45:05+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/06/11/segfault-masterclass-lato-2020</id>
+    <content type="html"><![CDATA[<p>Nasze partnerstwo z Segfault kwitnie! Sam Segfault - również. Poniżej kolejne zaproszenie z serii. Tym razem - zgodnie z duchem czasu - online.</p>
+
+<p><a href="https://bit.ly/2M1YuvI"><img class="center" src="http://zielona-gora-jug.github.io/images/segfault_online.png"></a></p>
+
+<p><i>
+Segfault uruchomiło nowy format dedykowany twórcom technologii: Segfault Masterclass. Wydarzenie ma formułę serii wirtualnych spotkań z praktykami.</p>
+
+<p>Przez pięć dni doświadczeni programiści, architekci, liderzy zespołów i technologii podzielą się swoją wiedzą i umiejętnościami, sprawdzonymi sposobami rozwiązywania problemów, a także lekcjami wyniesionymi z porażek i sukcesów prowadzonych projektów. Podczas wydarzenia online, uczestnicy wezmą także udział w dyskusji oraz sesji AMA (Ask Me Anything).</p>
+
+<p>Zapisy na Segfault Masterclass Lato 2020 są dostępne pod linkiem: <a href="https://bit.ly/2M1YuvI.">https://bit.ly/2M1YuvI.</a> Jednorazowa rejestracja daje dostęp do wszystkich dni wydarzenia oraz nagrań z prelekcji. Warto się pospieszyć, ponieważ liczba miejsc jest limitowana.</p>
+
+<p>Wśród prelegentów pierwszej edycji Masterclass znajdą się między innymi: Bartłomiej Słota, Krzysztof Owsiany, Rafał Pocztarski, czy Mariusz Jasiński. Nie zabraknie zarówno tematów twardych (live refactoring, relacyjne bazy danych), jak i tych miękkich (praca w zespole wielokulturowym).</p>
+
+<p>Segfault Masterclass Lato 2020 to codzienne sesje o godzinie 11.00, na które składa się “deep dive” na wybrany temat wraz z komentarzami na żywo prelegenta, dyskusją oraz Ask Me Anything od uczestników.</p>
+
+<p>Bieżące informacje na temat Segfault można znaleźć na stronie <a href="https://segfault.events/">https://segfault.events/</a> oraz w social media:</p>
+
+<ul>
+<li>Facebook: <a href="https://www.facebook.com/segfaultevents/">https://www.facebook.com/segfaultevents/</a> 
+<li>Twitter: <a href="https://twitter.com/segfaultevents">https://twitter.com/segfaultevents</a> 
+<li>LinkedIn: <a href="https://www.linkedin.com/company/23701423"/>https://www.linkedin.com/company/23701423</a> 
+<li>YouTube: <a href="https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA">https://www.youtube.com/channel/UCV38Do_3C5uVk3lWePkyxTA</a>
+<li>Anchor: <a href="https://bit.ly/3bO6nQu">https://bit.ly/3bO6nQu</a> 
+<li>Spotify: <a href="https://open.spotify.com/show/6rdGy8gZmka66XsKwDDB9v">https://open.spotify.com/show/6rdGy8gZmka66XsKwDDB9</a>
+<li>Apple Podcasts: <a href="https://podcasts.apple.com/pl/podcast/segfault-audio/id1505388477">https://podcasts.apple.com/pl/podcast/segfault-audio/id1505388477</a>
+</ul>
+
+
+<p>Do zobaczenia online!
+</i></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hack4Change]]></title>
     <link href="http://zielona-gora-jug.github.io/blog/2020/06/01/hack4change/"/>
     <updated>2020-06-01T19:08:40+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2020/06/01/hack4change</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem hackathonu Hack4Chnage. Poniżej więcej informacji o zawodach.</p>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem hackathonu Hack4Change. Poniżej więcej informacji o zawodach.</p>
 
 <p><img class="center" src="http://zielona-gora-jug.github.io/images/hack4change.png" style="width: 80%;"></p>
 
 <p>Hack4Change 24 godziny by zmienić świat. 🌍</p>
 
-<p>@Hack4Change to 1 wspólna, wirtualna przestrzeń, 80 uczestników, 30 mentorów, 3 ścieżki tematyczne i tylko 24 godziny by zrobić coś dobrego i rozwinąć swoje umiejętności. Kiedy? Już 26/27 czerwca online! Podczas 24-godzinnego hackathonu wspólnie zrobimy co w naszej mocy, by pomóc naszej planecie.</p>
+<p>Hack4Change to 1 wspólna, wirtualna przestrzeń, 80 uczestników, 30 mentorów, 3 ścieżki tematyczne i tylko 24 godziny by zrobić coś dobrego i rozwinąć swoje umiejętności. Kiedy? Już 26/27 czerwca online! Podczas 24-godzinnego hackathonu wspólnie zrobimy co w naszej mocy, by pomóc naszej planecie.</p>
 
-<p>Celem @Hack4Change jest stworzenie technologicznej społeczności, która będzie działać na rzecz ochrony środowiska i naszej planety. Wspólnie opracujemy prototypy urządzeń i aplikacji, a także podejmiemy walkę z zanieczyszczeniem środowiska, zmianami klimatycznymi oraz zagrożeniami związanymi z epidemią koronawirusa.</p>
+<p>Celem Hack4Change jest stworzenie technologicznej społeczności, która będzie działać na rzecz ochrony środowiska i naszej planety. Wspólnie opracujemy prototypy urządzeń i aplikacji, a także podejmiemy walkę z zanieczyszczeniem środowiska, zmianami klimatycznymi oraz zagrożeniami związanymi z epidemią koronawirusa.</p>
 
 <p>Czy wiesz jak wiele można zmienić w ciągu jednej doby? Chcesz się przekonać? Weź udział w Hack4Change i zmieniaj świat!  Udział w wydarzeniu jest bezpłatny. Zarejestruj się tutaj 👉 <a href="https://hack4change.tech/">https://hack4change.tech/</a> 🙋‍♀️🙋‍♂️</p>
 
@@ -414,21 +452,6 @@ Gram (głównie na gitarze), komponuję, słucham muzyki, czytam książki, troc
 
 <p>REJESTRACJA TRWA: <a href="https://openbankinghackathon.pl/" target="_blank">openbankinghackathon.pl</a>.
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie spotkania o mikrofrontendach]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/10/25/podsumowanie-spotkania-o-mikrofrontendach/"/>
-    <updated>2019-10-25T19:23:37+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/10/25/podsumowanie-spotkania-o-mikrofrontendach</id>
-    <content type="html"><![CDATA[<p>W tym miesiącu powróciliśmy do naszego stałego miejsca o stałej porze. Nowy za to był prelegent - Olek Orchowski debiutował &ldquo;na scenie&rdquo; ze swoją prezentacją o mikrofrontendach. Jest ona do pobrania
-<a href="http://zielona-gora-jug.github.io/files/mikrofrontendy.pdf" target="_blank">tutaj</a>. Znajdziecie w niej odpowiedź na pytanie, dlaczego integrowanie mikroserwisów na frontendzie nie jest najlepszym pomysłem oraz wskazówki,
-jak rozwiązać ten problem za pomocą małych komponentów. Dziękujemy za obecność, prelekcję i zapraszamy za miesiąc.</p>
-
-<p>Dziękujemy również <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a> za sponsorowanie tego spotkania!</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
 ]]></content>
   </entry>
   
