@@ -25,7 +25,7 @@ footer: true
 			<a class="mail" href="mailto:p.zalejko@gmail.com"></a>
 		</div>
 		<p class="desc">
-		Programista w GlobalLogic, kodujący głównie w Javie. Zainteresowany wszystkim, co związane jest z JVM. Nie boi się podejmowania wyzwań w pracy w nowych dla siebie technologiach. W wolnych chwilach biega.
+		Programista kodujący głównie w Javie. Zainteresowany wszystkim, co związane jest z JVM. Nie boi się podejmowania wyzwań w pracy w nowych dla siebie technologiach. W wolnych chwilach biega.
 		</p>
 	</div>
 	<div class="leader">
@@ -36,7 +36,7 @@ footer: true
 			<a class="mail" href="mailto:nowak.p@hotmail.com"></a>
 		</div>
 		<p class="desc">
-		Pracuje w GlobalLogic, obecnie jako programista Javy, choć w przez wiele lat programował również w C# i PHP, a także kierował niewielkimi zespołami programistów. Czasami dzielił się wiedzą podczas różnych wykładów, np. w ramach zajęć na miejscowym uniwersytecie.
+		Obecnie pracuje jako programista Javy, choć w przez wiele lat programował również w C# i PHP, a także kierował niewielkimi zespołami programistów. Czasami dzielił się wiedzą podczas różnych wykładów, np. w ramach zajęć na miejscowym uniwersytecie.
 		</p>
 	</div>
 	<div class="leader">
