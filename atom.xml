@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-08-31T20:01:19+02:00</updated>
+  <updated>2020-09-08T20:02:35+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,66 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JDD 2020]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/09/08/jdd-2020/"/>
+    <updated>2020-09-08T19:45:16+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/09/08/jdd-2020</id>
+    <content type="html"><![CDATA[<p><a href="https://4developers.org.pl/festiwal-2020/"><img class="center" src="http://zielona-gora-jug.github.io/images/JDD_2020.png"></a></p>
+
+<p><b>Wielkimi krokami zbliża się jubileuszowa 15 edycja jednej z największych konferencji o tematyce Java w Polsce. JDD po raz kolejny gromadzi Javowych ekspertów i aktywuje społeczności IT z całego kraju - tym razem online!</b></p>
+
+<p>W tym roku spotykamy się w dniach 12-14 października 2020 w sieci!</p>
+
+<p><b>Przygotuj się na spotkanie online z pełnymi zapału deweloperami i entuzjastami Javy.</b> JDD 2020 to trzydniowe wydarzenie, które odbędzie się sieci. Organizatorzy po raz kolejny zrzeszają miłośników Javy, jak to ma miejsce od 2006 roku.</p>
+
+<p>W tym roku na JDD znajdziemy tematy na różnych poziomach zaawansowania. Coś dla siebie znajdą zarówno junior, mid, jak i senior deweloperzy. Pośród morza tematów pojawią się: JVM (Java, Scala, Kotlin&hellip;), Agile, Functional Programming, Testing, TDD, BDD, Microservices, Docker, Kubernetes, Clean code, Cloud, AWS, design, DDD, Machine learning, AI, Future of Java, Functional Programming, Architecture, Getting Started.</p>
+
+<p>Więcej informacji o konferencji na <a href="https://jdd.org.pl/" target="blank">jdd.org.pl</a>.</p>
+
+<p><b>Spróbuj swoich sił jako Prelegent!</b></p>
+
+<p>Organizatorzy poszukują otwartych, charyzmatycznych osób, które pragną wystąpić na wirtualnej scenie i podzielić się swoją wiedzą na temat Javy. Wszystkie propozycje wystąpień, związane z tegoroczną tematyką JDD, są mile widzanie! Organizatorzy podkreślają, że Rada Programowa z chęcią rozważy zgłoszenia na różnych poziomach zaawansowania. Aplikować można przez formularz na stronie: <a href="https://jdd.org.pl/" target="blank">jdd.org.pl</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[4Developers online]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/09/08/4developers-online/"/>
+    <updated>2020-09-08T19:41:28+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/09/08/4developers-online</id>
+    <content type="html"><![CDATA[<p><a href="https://4developers.org.pl/festiwal-2020/"><img class="center" src="http://zielona-gora-jug.github.io/images/4developers_online.jpg"></a></p>
+
+<p>Wielkimi krokami zbliża się historyczna, wirtualna edycja
+największego Festiwalu Technologicznego w Polsce!
+W dniach 14-18 września odbędzie się @4Developers2020, w
+nowej 5-dniowej odsłonie!</p>
+
+<p>Cieszymy się, że dołączyliśmy do grona Community Partnerów
+tegorocznej edycji.<br/>
+Zapraszamy Was do wzięcia udziału, bo tak dużo na tym
+Festiwalu jeszcze nie było!</p>
+
+<p>
+✅ 14 ścieżek <br>
+✅ Welcome Pack, a w nim: odjazdowa bluza 4Developers 2020, voucher na obiad i 4Devowe piwo kraftowe <br>
+✅ 15 % zniżki na 4Developers 2021 <br>
+✅ Dostęp do wszystkich nagrań przez 2 tygodnie po zakończeniu Festiwalu<br>
+✅ Oraz wiele, wiele więcej!<br>
+</p>
+
+
+<p>Nie zwlekaj! Kup bilet i razem z nami weź udział w największym
+Interdyscyplinarnym Festiwalu Technologicznym w Polsce, tym
+razem Online!
+<b>Widzimy się w dniach 14-18 września! </b></p>
+
+<p>Rejestracja: <a href="https://app.evenea.pl/event/4developers2020" target="blank">app.evenea.pl/event/4developers2020</a></p>
+
+<p>Strona wydarzenia: <a href="https://app.evenea.pl/event/4developers2020" target="blank">4developers.org.pl/festiwal-2020/</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Segfault Masterclass lato 2020]]></title>
@@ -395,62 +455,6 @@ Early Birds tylko do 24.11 do 19.59!</p>
 
 <p>Chcesz być na bieżąco?
 Dołącz do wydarzenia: <a href="https://www.facebook.com/events/412847262744620/" target="_blank">na Facebook</a>.
-</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie listopadowe]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/11/06/spotkanie-listopadowe/"/>
-    <updated>2019-11-06T18:53:24+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/11/06/spotkanie-listopadowe</id>
-    <content type="html"><![CDATA[<p>Spotkanie listopadowe znowu ma nietypowy termin: odbędzie się w czwartek, <b>28-ego listopada</b>, godzinę wcześniej, czyli o <b>18:00</b>. Będzie składało się tylko z jednej prezentacji, ale za to dłuższej. Stałe jest za to miejsce: klub WySPa. Odwiedzi nas
-<b>Rafał Kotusiewicz</b> - doświadczony programista z Warszawy, a tematem będzie &ldquo;<b><i>Abstrakcyjny język inżynierii oprogramowania (konwencje, wzorce, standardy, etc)</b></i>&rdquo;. Spotkanie będzie więc całkowicie niezależne od języka
- i mogą skorzystać z niego nie tylko Javowcy. Rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/266263685" target="_blank">Meetup</a></p>
-
-<p>Naszym sponsorem miesiąca jest ponownie <a href="https://ttpsc.pl/" target="_blank">Transition Technologies PSC</a> - firma wspierająca biznes w cyfrowej transformacji.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/ttpsc.png" style="width: 50%;"></p>
-
-<p>Oddajmy głos prelegentowi: <i>Podczas prezentacji opowiem jak widzę inżynierię programowania jako abstrakcyjny język. Spojrzymy wspólnie na wspólne cechy języków programowania, środowisk, wzorców itd… Innymi słowy — sprawdzimy co wspólnego ma Fryderyk
-Szopen czy Miles Davis z Robertem Martinem :)
-Będzie o dobrych praktykach, złych praktykach, celnych abstrakcjach i wszystkim co wydaje się interesujące w obszarze szeroko pojętej “inżynierii programowania”. Będzie trochę kodu (bez kodowania), trochę slajdów, trochę wymądrzania i jakieś śmieszne obrazki. Mam nadzieję, że nie będzie nudno, ale tego nie mogę obiecać
-</i></p>
-
-<p>Rafał o sobie: <i>Programuję zawodowo od 20 lat. Miałem okazję obserwować (mniej lub bardziej świadomie) ewolucję branży od momentu, gdy wybór języka zamykał się w C, C++ lub Perl, PHP do chwili obecnej, gdy w obrębie jednego projektu dzieje się więcej i
-różniej :) Na co dzień programuję, uczę, konsultuję, robię co mogę by świat był lepszym miejscem.
-Gram (głównie na gitarze), komponuję, słucham muzyki, czytam książki, trochę piszę, lubię gotować (nigdy nie ufajcie chudym kucharzom), interesują się właściwie wszystkim i w sumie jakoś udaje mi się to wszystko pogodzić z życiem rodzinnym, byciem mężem i ojcem.</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Open Banking Hackathon]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/11/05/open-banking-hackathon/"/>
-    <updated>2019-11-05T19:14:06+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/11/05/open-banking-hackathon</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem Open Banking Hackathon. Jest to impreza organizowana pod patronatem <a href="https://www.zbp.pl/" target="_blank">Związku Banku Polskich</a>. Więcej szczegółów podają nam organizatorzy:</p>
-
-<p><a href="https://openbankinghackathon.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/obh.png"></a></p>
-
-<p><i></p>
-
-<p>📍 Jesteś developerem szukającym nowych wyzwań? Chcesz zmierzyć się z innymi? Tworzycie zgarną paczkę, która może stworzyć rozwiązanie rewolucjonizujące otwartą bankowość? Mamy coś dla Ciebie! &#x263a;</p>
-
-<p>Zgłoś drużynę do udziału w Open Banking Hackathon!</p>
-
-<p>📍 Tej jesieni, 22-24 listopada Związek Banków Polskich wraz z partnerami organizuje w Warszawie to wyjątkowe wydarzenie. Szukamy najbardziej ambitnych komputerowych geeków, którzy wezmą udział w hackathonie i rozbiją bank z nagrodami!</p>
-
-<p>📍 Co oferujemy</p>
-
-<ul>
-<li>weekend dobrej zabawy z kodowaniem
-<li>wsparcie mentorów z firm technologicznych i banków
-<li>wyżywienie i zakwaterowanie
-<li>nagrodę główną 10,000 zł i wiele innych nagród!
-</ul>
-
-
-<p>REJESTRACJA TRWA: <a href="https://openbankinghackathon.pl/" target="_blank">openbankinghackathon.pl</a>.
 </i></p>
 ]]></content>
   </entry>
