@@ -1,0 +1,23 @@
+---
+layout: post
+title: "JDD 2020"
+date: 2020-09-08 19:45:16 +0200
+comments: true
+categories: 
+---
+
+[{% img center /images/JDD_2020.png %}](https://4developers.org.pl/festiwal-2020/)
+
+<b>Wielkimi krokami zbliża się jubileuszowa 15 edycja jednej z największych konferencji o tematyce Java w Polsce. JDD po raz kolejny gromadzi Javowych ekspertów i aktywuje społeczności IT z całego kraju - tym razem online!</b>
+
+W tym roku spotykamy się w dniach 12-14 października 2020 w sieci!
+
+<b>Przygotuj się na spotkanie online z pełnymi zapału deweloperami i entuzjastami Javy.</b> JDD 2020 to trzydniowe wydarzenie, które odbędzie się sieci. Organizatorzy po raz kolejny zrzeszają miłośników Javy, jak to ma miejsce od 2006 roku.
+
+W tym roku na JDD znajdziemy tematy na różnych poziomach zaawansowania. Coś dla siebie znajdą zarówno junior, mid, jak i senior deweloperzy. Pośród morza tematów pojawią się: JVM (Java, Scala, Kotlin...), Agile, Functional Programming, Testing, TDD, BDD, Microservices, Docker, Kubernetes, Clean code, Cloud, AWS, design, DDD, Machine learning, AI, Future of Java, Functional Programming, Architecture, Getting Started. 
+
+Więcej informacji o konferencji na <a href="https://jdd.org.pl/" target="blank">jdd.org.pl</a>.
+
+<b>Spróbuj swoich sił jako Prelegent!</b>
+
+Organizatorzy poszukują otwartych, charyzmatycznych osób, które pragną wystąpić na wirtualnej scenie i podzielić się swoją wiedzą na temat Javy. Wszystkie propozycje wystąpień, związane z tegoroczną tematyką JDD, są mile widzanie! Organizatorzy podkreślają, że Rada Programowa z chęcią rozważy zgłoszenia na różnych poziomach zaawansowania. Aplikować można przez formularz na stronie: <a href="https://jdd.org.pl/" target="blank">jdd.org.pl</a>.
