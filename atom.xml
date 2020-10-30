@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-10-28T17:57:13+01:00</updated>
+  <updated>2020-10-30T20:12:13+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Innovation@Amazon 2020]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/10/30/innovation-at-amazon-2020/"/>
+    <updated>2020-10-30T20:03:44+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/10/30/innovation-at-amazon-2020</id>
+    <content type="html"><![CDATA[<p>Otrzymaliśmy kolejne zaproszenie na hackathon. Tym razem pochodzi od firmy Amazon, a jego celem jest wykorzystanie Alexy do rozwiązywania poważnych problemów społecznych. Oddajmy głos organizatorom.</p>
+
+<p><a href="https://innovation-amazon.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/alexa_2020.jpg" width="500" height="500" title="Logo" ></a></p>
+
+<p><i>
+Alexa Skills pomaga na wiele sposobów! Innovation@Amazon - niezwykły hackathon online</p>
+
+<p>Już  <b>6-8 listopada</b> odbędzie się <b>Innovation@Amazon Online Hackathon</b>, wyjątkowe wydarzenie, podczas którego wykorzystamy technologię, aby zmienić życie wielu osób na lepsze. Uczestnicy będą pracować nad uwolnieniem potencjału Amazon Alexa, a ich głównym celem będzie stworzenie kreatywnych rozwiązań odpowiadających na ważne społeczne problemy.
+</i></p>
+
+<!-- more -->
+
+
+<p><i>
+<b>Opracuj nową aplikację lub prototyp Alexa Skills</b></p>
+
+<p>Alexa to oparta na chmurze usługa głosowa Amazon, która działa w oparciu o zestaw wbudowanych funkcji - umiejętności (skills). Klienci mogą uzyskać do nich dostęp, zadając pytania lub wydając polecenia Alexie.<b> Alexa Skills Kit</b> pozwala nauczyć Alexę nowych umiejętności, zapewniających użytkownikom wiele różnych możliwości.</p>
+
+<p>Podczas hackathonu uczestnicy skupią się na budowaniu Alexa Skills pomagających w rozwiązywaniu <b>ważnych społecznie problemów</b>, z którymi zmagają się osoby starsze, a także osoby z dysfunkcjami wzroku, ruchowymi, neurorozwojowymi, neurologicznymi (w tym demencją) oraz chorobami przewlekłymi. Są to jedynie sugestie, ponieważ jury weźmie pod uwagę każde innowacyjne rozwiązanie, które pozytywnie wpływa na dostępność technologii.</p>
+
+<p><b>Bez barier dzięki wydarzeniu online</b></p>
+
+<p>Hackathon odbędzie się <b>online</b>, co daje mu nieograniczony, międzynarodowy zasięg. Dodatkowo, zostanie on poprzedzony cyklem <b>webinarów</b> prowadzonych przez ekspertów Amazon, poruszających tematy związane z budowaniem nowoczesnych i innowacyjnych rozwiązań technologicznych. Wydarzenie jest organizowane przez <b>Centrum Rozwoju Technologii Amazon w Gdańsku</b>. </p>
+
+<p><b>Przed uczestnikami dwa intensywne dni kodowania</b> - mogą pracować samodzielnie, dołączyć z zespołem lub spotkać jego członków podczas hackathonu. Na autorów najlepszych rozwiązań czekają nagrody, w tym urządzenia Alexa i kredyty AWS. Jury oceni nadesłane aplikacje pod kątem jakości projektu, kreatywności, designu, funkcjonalności i wpływu na społeczeństwo.</p>
+
+<p>Wydarzenie wspiera <b>Fundacja Widzialni</b>, której celem jest przeciwdziałanie wykluczeniu cyfrowemu i społecznemu. Ich działania skupiają się na zapewnieniu umożliwienia swobodnego dostępu do zasobów internetowych wszystkim obywatelom niezależnie od wieku, poziomu sprawności, zamożności oraz posiadanego sprzętu i oprogramowania.</p>
+
+<p><b>Dołącz do hackathonu i pomóż osobom niepełnosprawnym</b></p>
+
+<p>Wszystkie osoby zainteresowane udziałem w hackathonie zachęcamy do zapoznania się ze szczegółowymi informacjami na stronie: <a href="https://innovation-amazon.com" target="_blank">innovation-amazon.com</a> oraz do rejestracji. 
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[HackYeah 2020]]></title>
@@ -482,37 +522,6 @@ Allegro - Michał Trojanowski. W trakcie jego <a href="http://zielona-gora-jug.g
 <p><img class="center" src="http://zielona-gora-jug.github.io/images/allegro_tech.png" style="width: 50%;"></p>
 
 <p>Wszystkim uczestnikom naszych spotkań, sympatykom, prelegentom oraz sponsorom życzymy wesołych Świąt i szczęśliwego Nowego Roku!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Grudzień 2019 - CMS, piramidy i diamenty]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/12/11/grudzien-2019-cms/"/>
-    <updated>2019-12-11T21:11:09+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/12/11/grudzien-2019-cms</id>
-    <content type="html"><![CDATA[<p>Zapraszamy na kolejne spotkanie 18 grudnia o 19:00 - ostatnie w tym roku. Przewidujemy dwa tematy. Rejestracja na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/267105366/" target="_blank">Meetup</a>. Naszym sponsorem miesiąca jest <a href="https://allegro.tech/" target="_blank">Allegro</a> - firma, którą wszyscy znacie. Wiecie również gdzie nas znaleźć - w klubie WySPa.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/allegro_tech.png" style="width: 50%;"></p>
-
-<p><b>Michał Trojanowski: &ldquo;Czy istnieje życie po CMSie&rdquo;</b></p>
-
-<p><i>CMS, z którym zdążyliśmy się zżyć przez lata, przestał być wspierany w ostatnich wersjach Javy, zastąpiony przez nowe (lepsze?) rozwiązania. Podczas spotkania pokażę jakie Garbage Collectory mamy teraz dostępne, czym się różnią od siebie, ale też przede wszystkim, czym się różnią od starego dobrego CMSa.</i></p>
-
-<p><b>Jan Koszela i &ldquo;Budowałem piramidę, aż zacząłem wydobywać diamenty&rdquo;</b></p>
-
-<p><i>Z dobrym testowaniem aplikacji jest jak z flirtem, albo zaliczasz testy albo jesteś czerwony&hellip; i stoisz wryty jak cegła ;)
-Kojarzysz święty grall testerski jakim jest &ldquo;Piramida testów&rdquo;? Z tym jest jak z poradnikami PUA od wszelakiej maści internetowych ekspertów.
-Korzystanie z niego wprost bez zastanowienia się nad potrzebami projektu, może przypominać poniższą historię, gdzie kluczową role gra zestaw testów jednostkowych:</p>
-
-<p>Historia:
-Czytasz z poradnika jak poderwać osobę na najlepsze teksty na świecie. Tych zwrotów masz całą masę na każdą okazję. Teksty są sprawdzone, no przecież pisali, że ten zestaw działa! Odpalasz je na żywo w swojej sytuacji, a tu się okazuje, że po prostu nie działają&hellip; Myślisz sobie kurcze, przecież przygotowałem się jak trzeba!!
-Problem?
-Wiara, że święty grall (Piramida testów) jest panaceum na wszelkie sprawy.
-Proponowane rozwiązanie:
-Działania na żywym organizmie powinniśmy robić w żywy a nie sztuczny sposób
-Na spotkaniu opowiem kiedy, dlaczego i w jakich przypadkach testy integracyjne powinny być lwią częścią aplikacji, a narzut na testy jednostkowe możemy po prostu zmniejszyć. A wszystko to widziane oczami programisty :)</i></p>
-
-<p>Zapraszmy na pogaduchy przed spotkaniem oraz zapewniamy świąteczną atmosferę zaraz po!</p>
 ]]></content>
   </entry>
   
