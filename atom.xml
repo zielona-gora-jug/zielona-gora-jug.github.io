@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-10-30T20:12:13+01:00</updated>
+  <updated>2020-11-16T20:37:44+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Code{sun}day 25]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/11/16/code%7Bsun%7Dday/"/>
+    <updated>2020-11-16T20:33:39+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/11/16/code{sun}day</id>
+    <content type="html"><![CDATA[<p>Objęliśmy patronat nad warsztatami: <b>CODE{sun}DAY 25</b>, z których cały dochód przeznaczony jest na schronisko dla zwierząt. W trakcie 7 godzinnego spotkania, podczas którego uczestnicy będą mieli okazję sprawdzić swoje predyspozycje oraz przekonają się jak wygląda zdalna praca z trenerem, odbędą się 3 warsztaty: z języków Python, Java oraz z HTML. Poziom dla bardzo początkujących.</p>
+
+<p>Zgodnie z duchem czasu zajęcia odbędą się on-line, 06.12.2020 r. od 10:00 - 17:00. Zapisy: <a href="https://app.evenea.pl/event/codesunday25/" target="_blank">na Evenea</a>. Więcej informacji na <a href="https://www.facebook.com/events/2702176173434200" target="_blank">FB</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HackYeah 2020 - aktualizacja]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/11/16/hackyeah-2020-aktualizacja/"/>
+    <updated>2020-11-16T20:08:14+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/11/16/hackyeah-2020-aktualizacja</id>
+    <content type="html"><![CDATA[<p>Otrzymaliśmy nowe informacje dotyczące zapowiadanego przez nas HackYeah. Zaszły pewne zmiany w przebiegu samej imprezy, a wysokość nagród wzrosła do 355 tysięcy złotych. Szczegóły poniżej:</p>
+
+<p><a href="https://hackyeah.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/355k.png" title="Logo 300 300" ></a></p>
+
+<p><i></p>
+
+<p><b>@HackYeah 2020 - Worldwide!</b> powered by <b>@GovTech Polska</b> zbliża się wielkimi krokami! 🌠</p>
+
+<p>Pula nagród wzrosła do 3️⃣5️⃣5️⃣ 0️⃣0️⃣0️⃣PLN 💥💸</p>
+
+<p>Dołącz do świata IT w dniach 27-29 listopada 📆 i koduj, by wygrać szalone nagrody!✨
+</i></p>
+
+<!-- more -->
+
+
+<p><i>
+Do wyboru 2 kategorie otwarte:<br>
+☑️ ZERO WASTE - wspierana merytorycznie przez <b>WWFPolska</b> [pula nagród: 10 000 PLN] <br>
+☑️ ZDROWIE wspierana merytorycznie przez <b>RaknRoll</b> [pula nagród: 10 000 PLN]<br></p>
+
+<p>Oraz zadania partnerskie:<br>
+☑️ BGK Application Information Center - zadanie Głównego Partnera, <b>BGK - wspieramy rozwój firm</b> [pula nagród: 65 000 PLN]<br>
+☑️ The platform for ESG applications - również autorstwa <b>BGK</b>
+[pula nagród: 35 000 PLN] <br>
+☑️ Innovation@Amazon Competition | Alexa Skills Kit Partners - od Partnera Technologicznego Amazon Development Center Poland
+[pula nagród: 30 000 PLN]<br>
+☑️ Map of reported wild boar sightings - zadanie Ministerstwa Rolnictwa i Rozwoju Wsi, [pula nagród: 40 000 PLN]<br>
+☑️ Follow the river to reach the sea: increased risk offers detector - zadanie Ministerstwa Finansów, [pula nagród: 35 000 PLN]<br>
+☑️ Treasury of the Taxpayer: app for taxpayers -  task Ministerstwa Finansów, [pula nagród: 35 000 PLN]<br>
+☑️ Digital Tax: text to digital data converter -  zadanie od Ministerstwa Finansów, [pula nagród: 35 000 PLN]<br></p>
+
+<p>Niebawem jeszcze więcej zadań i nagród - sprawdzaj na <a href="https://hackyeah.pl/">https://hackyeah.pl/</a></p>
+
+<p>Zarejestruj się [ZA DARMO] 🔥 już dziś 👉 <a href="https://tiny.pl/7pv28">https://tiny.pl/7pv28</a><br/>
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Innovation@Amazon 2020]]></title>
@@ -480,48 +535,6 @@ Więcej na temat SegFault University w Warszawie znajdziecie pod linkiem: <a hre
 <p><img class="center" src="http://zielona-gora-jug.github.io/images/JUG Tour.png" style="width: 80%;"></p>
 
 <p>Dla wszystkich, którzy chcą ocenić spotkanie, przygotowaliśmy <a href="https://forms.gle/kXw9syMKgs6YaU9j7" target="_blank">ankietę</a>. Przypominamy o nagrodach za jej wypełnienie!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Styczeń 2020 - Code review i strumienie Akka]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/12/30/styczen-2020-code-review-i-strumienie-akka/"/>
-    <updated>2019-12-30T18:50:47+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/12/30/styczen-2020-code-review-i-strumienie-akka</id>
-    <content type="html"><![CDATA[<p>Rok 2020 otwieramy spotkaniem w nietypową, trzecią środę miesiąca - 15 stycznia. Będzie ono częścią JUG Tour z okazji 10-tych urodzin naszego sponsora miesiąca - <a href = "https://softwaremill.com/" target="_blank">Software Mill</a>. Odwiedzi nas dwóch pracowników tej firmy, a każdy z nich przedstawi osobną prezentację. Obie oczywiście po polsku :) Spotkanie tradycyjnie w klubie WySPa.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/JUG Tour.png" style="width: 80%;"></p>
-
-<p><b>Sebastian Rabiej: &ldquo;Have you ever wondered about code review?&rdquo;</b></p>
-
-<p><i>Code review dla wielu z nas stało się nieodłączną częścią wytwarzania oprogramowania. To doskonale, bo daje ono ogromną wartość w naszych projektach. A czy znaleźliście kiedyś chwilę, aby pomyśleć o nim? Zastanawialiście się kiedyś jaką wartość przynosi code review oraz po co je robimy? Czy zastanawialiście się, czy robimy je dobrze oraz dlaczego niektórzy ludzie czują się urażeni po dobrym review? Warto zadać sobie pytanie, co znaczy dobre review? Jeżeli chcesz poznać odpowiedź na te i inne pytania oraz podyskutować ze mną o nich to zapraszam na moją prelekcję.</i></p>
-
-<p>Bio: Odkąd pamiętam, fascynowały mnie języki programowania i wszystko, co było z nimi związane. Tworzenie czegoś z „niczego” jest ekscytujące na tyle, że postanowiłem iść tą ścieżką kariery. Pracuję jako developer od ponad 5 lat. Ciągle poszukuję odpowiedzi na pytanie „co to znaczy być profesjonalny” i wątpię, abym szybko znalazł odpowiedź na to pytanie. Jestem entuzjastą tematów związanych z czystym kodem, software craftsmanship i metodykami zwinnymi.
-Software engineer w firmie SoftwareMill.</p>
-
-<p><b>Jacek Kunicki: &ldquo;Reactive integration with Akka Streams and Alpakka&rdquo;</b></p>
-
-<p><i>An alpaca is like a camel, but is Alpakka like Apache Camel? Can we use the reactive approach in the area of integration as well, instead of the blocking approach that Camel usually offers?</p>
-
-<p>In this live coding session we’re going to explore the possibilities that Alpakka - a set of connectors for Akka Streams - offers to fetch data from various data sources and send it to different destinations. Using those, you’re going to learn, on a working example, how to build a reactive integration layer with the help of Akka Streams - one of the most popular Reactive Streams implementation.</p>
-
-<p>And if you thought Akka and friends were only for the Scala people, come to learn the nice Java APIs and see how wrong you were.</i></p>
-
-<p>Zapraszmy na integrację przed spotkaniem (circa 20 min.) i po! Zapisy na <a href = "https://www.meetup.com/Zielona-Gora-JUG/events/267516383/" target="_blank">Meetup</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Podsumowanie ostatniego spotkania 2019]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2019/12/23/podsumowanie-ostatniego-spotkania-2019/"/>
-    <updated>2019-12-23T18:56:09+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2019/12/23/podsumowanie-ostatniego-spotkania-2019</id>
-    <content type="html"><![CDATA[<p>Ostatnie spotkanie w 2019 r. miało miejsce 18 grudnia i było sponsorowane przez <a href="https://allegro.tech/" target="_blank">Allegro</a>, którą to firmę witamy serdecznie w gronie naszych sponsorów. Jednym z prelegentów był pracownik
-Allegro - Michał Trojanowski. W trakcie jego <a href="http://zielona-gora-jug.github.io/files/ZyciePoCMSie.pdf" target="_blank">prezentacji</a> mogliśmy poznać tajniki różnych implementacji Garbage Collectora w Javie oraz ich wpływ na działanie naszych aplikacji. Po przerwie wystąpił Jan Koszela, który pochylił się z kolei nad <a href="http://zielona-gora-jug.github.io/files/IntegrationTests.pdf" target="_blank">testami integracyjnymi</a> i taksonomią testów jako takich. Spotkanie zakończyliśmy w świątecznej atmosferze - barszczem i krokietami.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/allegro_tech.png" style="width: 50%;"></p>
-
-<p>Wszystkim uczestnikom naszych spotkań, sympatykom, prelegentom oraz sponsorom życzymy wesołych Świąt i szczęśliwego Nowego Roku!</p>
 ]]></content>
   </entry>
   
