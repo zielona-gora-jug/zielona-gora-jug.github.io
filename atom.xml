@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-11-17T21:00:31+01:00</updated>
+  <updated>2020-11-18T20:36:37+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Innovation@Amazon 2020 - aktualizacja]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2020/11/18/innovation-at-amazon-2020-aktualizacja/"/>
+    <updated>2020-11-18T20:27:56+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2020/11/18/innovation-at-amazon-2020-aktualizacja</id>
+    <content type="html"><![CDATA[<p>Ogłaszamy kolejną zmianę wydarzenia partnerskiego. Tym razem chodzi o Innovation@Amazon 2020. Zmianie uległ termin i pula nagród. Szczegóły poniżej.</p>
+
+<p><a href="https://innovation-amazon.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/alexa_2020_2.jpg" width="500" height="500" title="Logo" ></a></p>
+
+<p><i></p>
+
+<ul>
+<li>November  27-29th - join Innovation@Amazon Online Hackathon</li>
+<li>build an #AlexaSkill that helps solving important social problems</li>
+<li>present the Skill to the Jury</li>
+<li>win awesome prizes, including 30 000 PLN in total, #AWS credits, Amazon Echo, Ring Stick Up Cams and more!</li>
+<li>talk to #Amazon IT mentors</li>
+<li>win a donation for the charity of your choice</li>
+<li>&hellip; and more!</li>
+</ul>
+
+
+<p>Innovation@Amazon Online #Hackathon is an event where we employ technology to make the world a better place.
+Check the details, inspirational materials, task and prizes here: <a href="https://innovation-amazon.com/">https://innovation-amazon.com/</a> and join us right away!
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pozitive - ostatnie odliczanie]]></title>
@@ -528,36 +556,6 @@ Więcej na temat SegFault University w Warszawie znajdziecie pod linkiem: <a hre
 
 <p>Do zobaczenia w Warszawie!
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[4Developers 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/01/18/4developers-2020/"/>
-    <updated>2020-01-18T20:55:08+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/01/18/4developers-2020</id>
-    <content type="html"><![CDATA[<p>20 kwietnia w Warszawie spotykamy się na kolejnej edycji największego Festiwalu Technologicznego w Polsce! Zostaliśmy Community Partnerem @4Developers i zapraszamy Was do wzięcia udziału w konferencji!</p>
-
-<p>W tym roku na 4Developers:</p>
-
-<p>✅ dwujęzyczna agenda – Festiwal nabiera międzynarodowego charakteru, organizatorzy zapowiadają więcej prelekcji w języku angielskim</p>
-
-<p>✅ 15 ścieżek: .NET, Architektury aplikacji, C++, Cloud Computing, DevOps, Java, JavaScript, Machine Learning, Mobile, PHP, Python, Testerska, Bottega IT Minds, Bottega Frontend, Soft Skills &amp; Business Relations</p>
-
-<p>✅ eksperci i profesjonaliści, którzy chętnie wymienią się z Wami doświadczeniem</p>
-
-<p>✅ ponad 100 praktycznych prelekcji</p>
-
-<p>✅ rozmowy, networking i cenne znajomości!</p>
-
-<p>Early Birds, bilety w najniższej cenie, są jeszcze dostępne. Zarejestruj się ➡️ <a href="https://tiny.pl/tnchf">https://tiny.pl/tnchf</a></p>
-
-<hr>
-
-
-<p>CFP już ruszyło i potrwa do połowy lutego Organizatorzy czekają na propozycje wystąpień na różnych poziomach zaawansowania, szczególnie na te w języku angielskim</p>
-
-<p>Masz wiedzę i chcesz się nią podzielić? Pospiesz się i wypełnij formularz ➡️ <a href="https://tiny.pl/tk6bn">https://tiny.pl/tk6bn</a></p>
 ]]></content>
   </entry>
   
