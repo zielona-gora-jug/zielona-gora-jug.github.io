@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2020-11-18T20:36:37+01:00</updated>
+  <updated>2021-02-01T19:06:02+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Polish JUGs Together]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/02/01/polish-jugs-together/"/>
+    <updated>2021-02-01T18:54:06+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/02/01/polish-jugs-together</id>
+    <content type="html"><![CDATA[<p>Ponieważ sytuacja nadal się nie normuje, polskie JUGi zdecydowały się zorganizować łączone spotkanie on-line 11 lutego o 17:30. Szczegóły wkrótce. Otrzymają je wszyscy, którzy zapiszą się na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/276110907" target="_blank">Meetup</a>. Zapowiedź po angielsku - bo taki będzie język spotkania - poniżej.</p>
+
+<p><a href="https://www.meetup.com/Zielona-Gora-JUG/events/276110907"><img class="center" src="http://zielona-gora-jug.github.io/images/PolishJUG.png" title="Logo" ></a></p>
+
+<p><i></p>
+
+<p>8 Polish JUGs united one year into a world-wide home office.</p>
+
+<p>On that occasion we join our forces to gather Polish JUG community.
+We will start with talk delivered by Frank Delporte on programming Raspberry Pi using Java. After than we will meet together.</p>
+
+<p>Let the world see how big Polish JUG Community is!</p>
+
+<p>After Frank’s presentation we invite you for a non-official after party - let’s hang out together. Details will be provided at the event.
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Innovation@Amazon 2020 - aktualizacja]]></title>
@@ -525,37 +548,6 @@ będzie miało miejsce 9 marca w siedzibie firmy przy ul. Dąbrowskiego. Na wyko
 <p><b>Bio</b>: człowiek-orkiestra. Od 15 lat w branży, z czego 13 lat bezpośrednio przy programowaniu. Czasem programista (czasem Java, czasem C#, czasem PHP, czasem JavaScript), czasem analityk, czasem lider techniczny. Zawsze starający się dać z siebie jak najwięcej.</p>
 
 <p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/268684560/" target"_blank">Meetup.</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[SegFault 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/01/27/segfault-2020/"/>
-    <updated>2020-01-27T20:35:20+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/01/27/segfault-2020</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem Konferencje SegFault! Poniżej informacja o planach na najbliższy czas. Dla chętnych zniżka 30%. Wiadomość na priv.</p>
-
-<p><a href="https://segfault.events/warszawa2020"><img class="center" src="http://zielona-gora-jug.github.io/images/segfault2020.jpg" title="DTPoland" ></a></p>
-
-<p><i>
-W marcu SegFault wraca z formułą University!</p>
-
-<p>Nowy rok SegFault rozpoczyna wydarzeniem w Warszawie - w znanej już formule SegFault University. Spotykamy się 23 i 24 marca, w Centrum konferencyjno-szkoleniowym Golden Floor Tower.
-SegFault University to dwudniowe wydarzenie, które łączy tradycyjną formę konferencji (prezentacji) i warsztatów.
-Warto się spieszyć, bo liczba miejsc - szczególnie na warsztatach - jest ograniczona!
-Wśród tematów dnia warsztatowego SegFault pojawi się zarówno Event Storming (Mariusz Gil, Marcin Markowski, Piotr Wyczesany, Oskar Dudycz), jak również Elastic Search (Zbyszko Papierski: “Co robi twoja aplikacja, kiedy rodziców nie ma w domu. Kilka słów o Elastic APM”), Distributed Systems (Szymon Pobiega: “Spójna komunikacja asynchroniczna w Chmurze. Jak budować niezawodne system z zawodnych komponentów.”), Deep Learning oraz AI (Marek Będkowski).
-Tematyka prezentacji jak zawsze będzie zróżnicowana. Obok tematów ściśle technicznych znajdą się także miękkie prezentacje.
-Więcej na temat SegFault University w Warszawie znajdziecie pod linkiem: <a href="https://segfault.events/warszawa2020">https://segfault.events/warszawa2020</a> oraz w mediach społecznościowych @SegFaultConf</p>
-
-<ul>
-    <li><a href="https://www.facebook.com/SegFaultConf" target="_blank">https://www.facebook.com/SegFaultConf</a></li>
-    <li><a href="https://twitter.com/SegFaultConf" target="_blank">https://twitter.com/SegFaultConf</a></li>
-    <li><a href="https://www.linkedin.com/company/segfaultconf" target="_blank">https://www.linkedin.com/company/segfaultconf</a></li>
-    </ul>
-
-
-<p>Do zobaczenia w Warszawie!
-</i></p>
 ]]></content>
   </entry>
   
