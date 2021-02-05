@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-02-01T19:06:02+01:00</updated>
+  <updated>2021-02-05T19:03:35+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Festiwal 4Developers]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/02/05/festiwal-4developers/"/>
+    <updated>2021-02-05T18:56:25+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/02/05/festiwal-4developers</id>
+    <content type="html"><![CDATA[<p>Jesteśmy partnerem festiwalu 4Developers. Polecamy Waszej uwadze i samą imprezę, i CFP.</p>
+
+<p><a href="https://cfp.4developers.org.pl/warszawa-2021/"><img class="center" src="http://zielona-gora-jug.github.io/images/4developers_online2.jpg"></a></p>
+
+<p><i>
+Cała branża #IT spotka się ponownie w jednym miejscu w cyberprzestrzeni! 🎆</p>
+
+<p>Kiedy? Już 24-27 maja na @4Developers! 👩‍💻👨‍💻</p>
+
+<p>4Developers2021 to:<br>
+☘️ Aż 14 ścieżek tematycznych i 4 dni Festiwalu!<br>
+☘️ Dostęp do nagrań jeszcze przez miesiąc po konferencji<br>
+☘️ Topowi eksperci na wirtualnej scenie i hot talki z pogranicza różnych języków programowania<br>
+☘️ #4Devowa rozrywka i networking - czyli konkursy z nagrodami, strefa partnerska, kanały do dyskusji i wiele więcej!<br></p>
+
+<p>Jako #Community Partner, zachęcamy Was do wzięcia udziału w tym świetnym wydarzeniu 👀, a także… do wysyłania zgłoszeń w ramach #CFP, które trwa do 15 lutego!⏰ Nie przegap świetnej okazji, by sprawdzić się na dużej scenie i podzielić wiedzą z otwartą publicznością Festiwalu! 🦸‍♂️📨</p>
+
+<p>RadaProgramowa czeka na prezentacje z zakresu:<br>
+▪️ .NET<br>
+▪️ Architektury aplikacji<br>
+▪️ Java<br>
+▪️ JavaScript<br>
+▪️ Frontend/UI<br>
+▪️ Mobile<br>
+▪️ PHP<br>
+▪️ DevOps<br>
+▪️ Testerska<br>
+▪️ Cloud<br>
+▪️ Machine Learning<br>
+▪️ Security<br>
+▪️ Soft Skills &amp; Business Relations<br></p>
+
+<p>Zgłoś się 👉<a href="https://cfp.4developers.org.pl/warszawa-2021" target="_blank">tutaj!</a></p>
+
+<p></i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Polish JUGs Together]]></title>
@@ -531,23 +574,6 @@ I am very passionate about knowledge sharing, so I am involved in conferences su
 będzie miało miejsce 9 marca w siedzibie firmy przy ul. Dąbrowskiego. Na wykonanie zadania uczestnicy będą mieli cały miesiąc. Do wygrania staż oraz nagrody rzeczowe (m.in. iPad).</p>
 
 <p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Luty 2020 - Lider techniczny]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/02/13/luty-2020-lider-techniczny/"/>
-    <updated>2020-02-13T19:00:25+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/02/13/luty-2020-lider-techniczny</id>
-    <content type="html"><![CDATA[<p>Kolejne spotkanie JUG już 26-ego lutego o godzine 19:00 w klubie WySPa. Tym razem tematem dnia będzie zagadnienie niejako „miękkie” – bycie liderem technicznym. Prelekcję na ten temat poprowadzi Paweł Nowak, a jej dokładny tytuł to „Lider techniczny – fakty, półprawdy i mity”.</p>
-
-<p><i>Część z nas stanęła lub stanie w pewnym momencie swojej kariery przed decyzją czy zostać liderem technicznym. Wielu odmawia natychmiast, bo tego „nie czują”. Wielu przyjmuje „awans”, bo nawet nie spodziewają się przed jakim wyzwaniem stają. W trakcie prezentacji przejdziemy przez wszystkie aspekty pracy lidera technicznego, ale trochę na odwrót: od pytania czy chcesz nim być przez zadania oraz problemy wiążące się z tym stanowiskiem. Kolejne etapy będą wyznaczać zasłyszane opinie odnoszące się do bycia technicznym szefem zespołu. To wszystko bez HR-owego slangu, coachingowego mumbo-jumbo, memów oraz inspirujących cytatów ze Steve’a Jobsa.</p>
-
-<p>A jeśli kogoś nie interesuje bycie leadem, to może warto posłuchać, żeby zrozumieć dlaczego ten człowiek tak się zachowuje? Lub żeby dowiedzieć się co w nim zmienić, aby pracowało się po prostu lepiej?</i></p>
-
-<p><b>Bio</b>: człowiek-orkiestra. Od 15 lat w branży, z czego 13 lat bezpośrednio przy programowaniu. Czasem programista (czasem Java, czasem C#, czasem PHP, czasem JavaScript), czasem analityk, czasem lider techniczny. Zawsze starający się dać z siebie jak najwięcej.</p>
-
-<p>Zapisy na <a href="https://www.meetup.com/Zielona-Gora-JUG/events/268684560/" target"_blank">Meetup.</a></p>
 ]]></content>
   </entry>
   
