@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-02-05T19:03:35+01:00</updated>
+  <updated>2021-03-24T19:23:49+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Festiwal 4Developers 2021]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/03/24/festiwal-4developers-2021/"/>
+    <updated>2021-03-24T19:20:57+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/03/24/festiwal-4developers-2021</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem majowego festiwalu 4Developers. Poniżej wiadomość od organizatorów.</p>
+
+<p><a href="https://tiny.pl/rk91d"><img class="center" src="http://zielona-gora-jug.github.io/images/4DEV_JUGZG.png"></a></p>
+
+<p><i></p>
+
+<p>Festiwal @4Developers zbliża się wielkimi krokami! ⭐️ Widzimy się #online w dniach 24-27 maja!</p>
+
+<p>W tegorocznej agendzie Festiwalu:</p>
+
+<p>💚 ponad 100 wykładów</p>
+
+<p>💚 14 ścieżek tematycznych</p>
+
+<p>💚 wielki powrót ścieżki #Security</p>
+
+<p>💚 nowość: ścieżka #Frontend / #UI</p>
+
+<p>💚 znani eksperci z nowymi tematami, a także świeża krew na #4Devowej scenie 🚀</p>
+
+<p>AGENDA na Was czeka! 👉 <a href="https://tiny.pl/rk91d">https://tiny.pl/rk91d</a> Jako #Community Partner mamy dla Was 15% zniżki na bilety! Wpisz 👉 JUGZG_AT_4DEV21 by w koszyku naliczył się ekstra rabat i zgarnij swój bilet na #Festiwal! 🔥 <a href="https://tiny.pl/rk919">https://tiny.pl/rk919</a>
+<i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Festiwal 4Developers]]></title>
@@ -560,20 +590,6 @@ I am very passionate about knowledge sharing, so I am involved in conferences su
     <content type="html"><![CDATA[<p>Wszystkich, którzy chcą przypomnieć sobie podstawowe wiadomości o byciu liderem technicznym, odsyłamy do <a href="http://zielona-gora-jug.github.io/files/Leadership.pdf" target="_blank">slajdów</a>. Prezentacja była dość długa, więc na pewno warto pochylić się nad nią jeszcze raz, żeby przypomnieć sobie najważniejsze punkty lub chociaż zapoznać się z literaturą.</p>
 
 <p>Spotkanie możecie ocenić przy pomocy <a href="https://tinyurl.com/wy9yqct" target="_blank">ankiety</a>. Dziękujemy za udział i zapraszamy do wyrażenia swojego zdania. Nagrody czekają.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Call of Code 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/02/24/call-of-code-2020/"/>
-    <updated>2020-02-24T20:05:41+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/02/24/call-of-code-2020</id>
-    <content type="html"><![CDATA[<p>Nasz wielokrotny sponsor, <a href="https://www.globallogic.com/pl/" target="_blank">GlobalLogic</a>, po raz kolejny organizuje konkurs programistyczny Call of Code.</p>
-
-<p>Szczegóły samego wydarzenia na <a href="https://www.facebook.com/events/131347084859437/" target="_blank">Facebook</a>, ale od razu podajemy, że rozpoczęcie konkursu
-będzie miało miejsce 9 marca w siedzibie firmy przy ul. Dąbrowskiego. Na wykonanie zadania uczestnicy będą mieli cały miesiąc. Do wygrania staż oraz nagrody rzeczowe (m.in. iPad).</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/global_logic.jpg" style="width: 50%;"></p>
 ]]></content>
   </entry>
   
