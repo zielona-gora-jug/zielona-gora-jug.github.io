@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-03-24T19:23:49+01:00</updated>
+  <updated>2021-04-12T20:06:04+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lubelskie Dni Informatyki]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/04/12/lubelskie-dni-informatyki/"/>
+    <updated>2021-04-12T19:57:00+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/04/12/lubelskie-dni-informatyki</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem Lubelskich Dni Informatyki. Tegoroczna edycja jest z oczywistych względów zdalna, więc wzięcie udziału będzie ułatwione mimo dzielącej nas odległości. Poniżej informacja od organizatorów.</p>
+
+<p><a href="https://www.ldi.org.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/ldi.png"></a></p>
+
+<p><i>
+@Lubelskie Dni Informatyki to największa konferencja z branży IT we wschodniej części Polski. Najbliższa edycja będzie już po raz XIII organizowana przez @Koło Naukowe Informatyków działające przy Wydziale Nauk Ścisłych i Nauk o Zdrowiu Katolickiego Uniwersytetu Lubelskiego Jana Pawła II.</p>
+
+<p>Wydarzenie co roku gromadzi rzesze entuzjastów informatyki. Ostatnia edycja LDI liczyła ponad 1250 zarejestrowanych uczestników. Konferencja skierowana jest do wszystkich miłośników nowych technologii z zakresu IT żądnych wiedzy i posiadających chęć zdobycia nowych umiejętności. Wśród uczestników nie zabraknie zarówno studentów dopiero rozpoczynających przygodę z IT, jak i już doświadczonych specjalistów. Tegoroczna edycja będzie obfitować w ponad 31 godzin prelekcji i warsztatów prowadzonych na żywo. Dodatkowo podczas zdalnych targów pracy będziecie mieli możliwość spotkać się z najlepszymi firmami IT z Lubelszczyzny i nie tylko.</p>
+
+<p>Każda edycja konferencji była bezpłatna i to pozostaje niezmienne. Z przyczyn epidemiologicznych tegoroczna edycja będzie pierwszą w historii LDI, która odbędzie się online. Aby zapewnić najlepsze odczucia czerpane z udziału w wydarzeniu, organizatorzy postanowili wykorzystać profesjonalną platformę posiadającą innowacyjne rozwiązania, która wszystkie elementy wydarzeń online koncentruje w jednym miejscu. Przygotujcie się na inspirujące warsztaty oraz ciekawe prelekcje prowadzone przez najlepszych prelegentów będących specjalistami w każdej z pięciu najpopularniejszych ścieżek technologicznych!</p>
+
+<p>Tegoroczna edycja Lubelskich Dni Informatyki odbędzie się w sobotę 29 maja. Aby być na bieżąco obserwujcie @Lubelskie Dni Informatyki w mediach społecznościowych i na stronie internetowej <a href="https://www.ldi.org.pl" target="_blank">www.ldi.org.pl</a>.</p>
+
+<p></i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Festiwal 4Developers 2021]]></title>
@@ -579,17 +601,6 @@ I am also working on making Kotlin one more programming language for JVM at Wix 
 I am very passionate about knowledge sharing, so I am involved in conferences such as Kotlin NIght Kyiv, Devoxx UA and one of the organizers of Rockstar Night dev club. As a speaker, I participated in JUG UA, Morning @ Lohika, IT Weekend, JEEConf, Voxxed Minsk, JFuture, Voxxed Ticino, Devoxx UA.</p>
 
 <p><b>Rejestracja</b>: <a href = "https://www.meetup.com/Zielona-Gora-JUG/events/269088441/" target="_blank">Meetup</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Slajdy o liderze technicznym]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/03/03/slajdy-o-liderze-technicznym/"/>
-    <updated>2020-03-03T20:02:49+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/03/03/slajdy-o-liderze-technicznym</id>
-    <content type="html"><![CDATA[<p>Wszystkich, którzy chcą przypomnieć sobie podstawowe wiadomości o byciu liderem technicznym, odsyłamy do <a href="http://zielona-gora-jug.github.io/files/Leadership.pdf" target="_blank">slajdów</a>. Prezentacja była dość długa, więc na pewno warto pochylić się nad nią jeszcze raz, żeby przypomnieć sobie najważniejsze punkty lub chociaż zapoznać się z literaturą.</p>
-
-<p>Spotkanie możecie ocenić przy pomocy <a href="https://tinyurl.com/wy9yqct" target="_blank">ankiety</a>. Dziękujemy za udział i zapraszamy do wyrażenia swojego zdania. Nagrody czekają.</p>
 ]]></content>
   </entry>
   
