@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-04-12T20:06:04+02:00</updated>
+  <updated>2021-08-05T19:11:50+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Segafult Unconference]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/08/05/segafult-unconference/"/>
+    <updated>2021-08-05T19:03:49+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/08/05/segafult-unconference</id>
+    <content type="html"><![CDATA[<p>Powoli wracają konferencje &ldquo;na żywo&rdquo;, a my jesteśmy ich partnerami! Poniżej informacja o Segfault Unconference w Krakowie, 6-ego i 7-ego września. Zapraszamy!</p>
+
+<p><a href="https://segfault.events/unconference2021/"><img class="center" src="http://zielona-gora-jug.github.io/images/Segfault_Unconference.png"></a></p>
+
+<p><i>
+Segfault wraca do gry! W znanej formule Segfault Unconference! Czas się spotkać!</p>
+
+<p>W dniach 6-7 września widzimy się w Krakowie podczas Segfault Unconference! Czas się spotkać na dobre.</p>
+
+<p>Segfault Unconference to dwa dni pełne inspiracji. Pierwszy dzień to prelekcje, które będą odpowiedziami na nurtujące Was pytania. To mnóstwo inspiracji i podpowiedzi nietypowych rozwiązań, na które czekacie. Drugi dzień to formuła Unconference, czyli wymiana doświadczeń oraz najlepsi prelegenci. To Wy wybieracie tematy! To czas na &ldquo;open space technology&rdquo; niekonferencję. Uzbrojeni w &ldquo;post it&rdquo; i pisaki, wspólnie nakreślimy agendę. Każde pytanie, które chcieliście zadać, każde pytanie, które do tej pory nie znalazło odpowiedzi, znajdzie się na tablicy pełnej karteczek i stanie się elementem agendy spotkania. Tego dnia, pod czujnym okiem zaproszonych gości, konferencyjnych wyjadaczy, ekspertów i przyjaciół będziemy dyskutować, podważać, dzielić się doświadczeniem i obalać status quo&hellip;</p>
+
+<p>Drugi dzień Segfault Unconference to przede wszystkim networking, nowe znajomości, ogrom wiedzy i doświadczenia, bez sztywnych ram konferencji.</p>
+
+<p>Czym w tym roku zaskoczy Segfault? Czy dowiemy się czym jest kryptonit i czego boją się programiści? Czy złożone systemy rozproszone można ujarzmić i co wspólnego z tym ma TLA+? A może chcecie dowiedzieć się jak komputery korzystają z Wikipedii i czym jest tajemniczy Query Service, od człowieka, który pracuje w Wikimedia? Przygotowaliśmy także historię niejednej refaktoryzacji systemu pewnej znanej sieci handlowej, rozmowy o wydajności, bazach danych i architekturze - wszystko na granicach technologii i systemów.</p>
+
+<p></i>
+Więcej informacji: <a href="https://segfault.events/unconference2021/" target="_blank">na stronie organizatora</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Lubelskie Dni Informatyki]]></title>
@@ -577,30 +602,6 @@ If you have a ticket to JDD 2020, you will receive an entry code to #online edit
 <p>Dziękujemy <a href="https://www.dataart.com.pl/" target="_blank">Dataart Wrocław</a> za umożliwienie nam udziału w prelekcji w tych wyjątkowych okolicznościach.</p>
 
 <p><a href="https://www.dataart.com.pl/" target="_blank"><img class="center" src="http://zielona-gora-jug.github.io/images/DataArt.png" style="width: 80%;"></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie marcowe 2020 - Mikroserwisy i Kotlin]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/03/03/spotkanie-marcowe-2020-mikroserwisy-i-kotlin/"/>
-    <updated>2020-03-03T20:04:10+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/03/03/spotkanie-marcowe-2020-mikroserwisy-i-kotlin</id>
-    <content type="html"><![CDATA[<p><b>Miejsce:</b> Klub WySPa, al. Wojska Polskiego<br>
-<b>Czas:</b> 19:00, środa 25 marca 2020.</p>
-
-<p>Kolejne spotkanie już pod koniec marca i będzie ono spotkaniem szczególnym, bo po angielsku. Wykład poprowadzi programistka z Kijowa, Marharyta Nedzelska, która odbywa dłuższe tournee po naszym kraju. Mamy również nowego sponsora miesiąca - <a href = "https://www.dataart.com.pl/" target="_blank">DataArt</a>. Jest to firma konsultingowa oraz dostawca rozwiązań technologicznych z siedzibą we Wrocławiu.</p>
-
-<p><a href="https://www.dataart.com.pl/" target="_blank"><img class="center" src="http://zielona-gora-jug.github.io/images/DataArt.png" style="width: 80%;"></a></p>
-
-<p><b>Building Microservices with Kotlin and gRPC</b></p>
-
-<p><i>Microservice architecture is now a huge trend. All big organizations with millions of users are doing microservices. This means they have lots of channels of communication between services and need to send and get much data. At some point, you can find yourself in a situation where your current approach doesn’t provide you with efficient communications, you pay more, wait for more, lose more etc. Maybe it’s time to look at gRPC… gRPC is asynchronous by its nature. But old api, java infrastructure and verbosity make people write lots of noise and break their beautiful minds to make things done. In Kotlin we have awesome coroutines concept. So async gRPC and coroutines could be a perfect match! Let’s discover if this is possible. In this talk, we’ll learn how to build microservices using gRPC with minimum pain. We’ ll discuss the pros and cons of this approach, what can be improved, what should be added.</i></p>
-
-<p><b>Bio:</b> I am a Software Engineer at Wix Engineering and Kyiv Kotlin user group leader. Interested in Kotlin, Scala, Microservices, Android, IoT and Machine Learning.
-I am also working on making Kotlin one more programming language for JVM at Wix and try to spread the light of Kotlin to other developers.
-I am very passionate about knowledge sharing, so I am involved in conferences such as Kotlin NIght Kyiv, Devoxx UA and one of the organizers of Rockstar Night dev club. As a speaker, I participated in JUG UA, Morning @ Lohika, IT Weekend, JEEConf, Voxxed Minsk, JFuture, Voxxed Ticino, Devoxx UA.</p>
-
-<p><b>Rejestracja</b>: <a href = "https://www.meetup.com/Zielona-Gora-JUG/events/269088441/" target="_blank">Meetup</a>.</p>
 ]]></content>
   </entry>
   
