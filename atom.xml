@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-08-05T19:11:50+02:00</updated>
+  <updated>2021-08-23T19:04:33+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Javeloper 2021]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/08/23/javeloper-2021/"/>
+    <updated>2021-08-23T19:00:47+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/08/23/javeloper-2021</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem nowej największej polskiej konferencji poświęconej Javie - Javeloper. Zgodnie z duchem czasu, konferencja odbywa się on-line, w trzeciej dekadzie września.
+Poniżej informacje od organizatorów.</p>
+
+<p><a href="https://javeloper.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/javeloper.png"></a></p>
+
+<p><i>
+    Zapraszamy na Javeloper 2021 (online) - największą polską konferencja poświęconą Java. W tym roku konferencja odbywa się w dniu 23.09.2021 roku w formie transmisji online. Skierowana jest do architektów, developerów, devopsów, specjalistów od bezpieczeństwa, specjalistów cloud i big data. Konferencja zapewnia najwyższy poziom wykładów prowadzonych przez największe polskie gwiazdy związane z Javą oraz z prelegentów wiodących firm zajmujących się Java w Polsce. Podczas konferencji na swoim wirtualnych stoiskach zaprezentują się jedynie uznane i innowacyjne firmy informatyczne, których obecność zwiększy rangę wydarzenia.</p>
+
+<p>W trakcie trwania konferencji odbędą się Wirtualne Targi Pracy Javeloper, na których interaktywnie nawiążesz kontakt z firmami.</p>
+
+<p>Rejestracja i udział w konferencji są w pełni bezpłatne. Link do rejestracji na wydarzenie: <a href="https://javeloper.pl/">https://javeloper.pl/</a></p>
+
+<p>Ze względu na sytuację panującą na świecie, konferencja odbędzie się w formie online. W konferencji weźmie udział ponad 2000 uczestników z całej Polski.</p>
+
+<p>Serdecznie zapraszamy do udziału wszystkich chętnych!
+    </i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Segafult Unconference]]></title>
@@ -589,19 +613,6 @@ If you have a ticket to JDD 2020, you will receive an entry code to #online edit
 <p>Wydarzenie startuje już w najbliższy piątek (3 kwietnia) i będzie trwało do niedzieli włącznie (5 kwietnia). Szczegóły na <a href="https://hackyeah.pl/" target="_blank">stronie organizatorów</a>.</p>
 
 <p><a href="https://hackyeah.pl/" target="_blank"><img class="center" src="http://zielona-gora-jug.github.io/images/hackyeah2020.jpg" style="width: 80%;"></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie marcowe 2020 - zmiana]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/03/17/spotkanie-marcowe-2020-zmiana/"/>
-    <updated>2020-03-17T20:23:19+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/03/17/spotkanie-marcowe-2020-zmiana</id>
-    <content type="html"><![CDATA[<p>W związku z zaistniałą sytuacją epidemiczną, spotkanie marcowe będzie miało wyłącznie miejsce on-line na <a href="https://www.youtube.com/watch?v=RcVON9pNFTY" target="_blank">YouTube</a>. Zmieniona jest data: będzie to czwartek 26 marca, o godzinie 18:00. Spotkanie będzie łączone z JUGami ze Śląska i Wrocławia.</p>
-
-<p>Dziękujemy <a href="https://www.dataart.com.pl/" target="_blank">Dataart Wrocław</a> za umożliwienie nam udziału w prelekcji w tych wyjątkowych okolicznościach.</p>
-
-<p><a href="https://www.dataart.com.pl/" target="_blank"><img class="center" src="http://zielona-gora-jug.github.io/images/DataArt.png" style="width: 80%;"></a></p>
 ]]></content>
   </entry>
   
