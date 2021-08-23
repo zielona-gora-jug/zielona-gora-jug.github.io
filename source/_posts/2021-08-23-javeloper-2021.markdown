@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Javeloper 2021"
+date: 2021-08-23 19:00:47 +0200
+comments: true
+categories: 
+---
+
+Zostaliśmy partnerem nowej największej polskiej konferencji poświęconej Javie - Javeloper. Zgodnie z duchem czasu, konferencja odbywa się on-line, w trzeciej dekadzie września.
+Poniżej informacje od organizatorów.
+
+[{% img center /images/javeloper.png %}](https://javeloper.pl/)
+
+<i>
+	Zapraszamy na Javeloper 2021 (online) - największą polską konferencja poświęconą Java. W tym roku konferencja odbywa się w dniu 23.09.2021 roku w formie transmisji online. Skierowana jest do architektów, developerów, devopsów, specjalistów od bezpieczeństwa, specjalistów cloud i big data. Konferencja zapewnia najwyższy poziom wykładów prowadzonych przez największe polskie gwiazdy związane z Javą oraz z prelegentów wiodących firm zajmujących się Java w Polsce. Podczas konferencji na swoim wirtualnych stoiskach zaprezentują się jedynie uznane i innowacyjne firmy informatyczne, których obecność zwiększy rangę wydarzenia.
+
+W trakcie trwania konferencji odbędą się Wirtualne Targi Pracy Javeloper, na których interaktywnie nawiążesz kontakt z firmami.
+
+Rejestracja i udział w konferencji są w pełni bezpłatne. Link do rejestracji na wydarzenie: https://javeloper.pl/ 
+
+Ze względu na sytuację panującą na świecie, konferencja odbędzie się w formie online. W konferencji weźmie udział ponad 2000 uczestników z całej Polski.
+
+Serdecznie zapraszamy do udziału wszystkich chętnych!
+	</i>
