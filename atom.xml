@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-08-23T19:04:33+02:00</updated>
+  <updated>2021-09-21T19:08:49+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,85 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[4DEV Live 2021]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/09/21/4dev-live-2021/"/>
+    <updated>2021-09-21T18:57:58+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/09/21/4dev-live-2021</id>
+    <content type="html"><![CDATA[<p>Mamy przyjemność przedstawić kolejną imprezę 4Developers. Tym razem jest to jedeń dzień i sześć ścieżek. Poniżej komunikat organizatorów.</p>
+
+<p><a href="https://4developers.org.pl/live-2021-pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/4dev2021.png"></a></p>
+
+<p><i></p>
+
+<p><b>
+    Po sukcesie wiosennej edycji, ekipa 4Developers wraca z kolejną konferencją
+online. W 4Developers Online 2021 wzięło udział 1500 uczestników oraz 80
+prelegentów, 21 firmy partnerskie wsparły ideę swoim zaangażowaniem, a
+ponad 60 Community i Media Partnerów pomogło w promocji inicjatywy. Także
+tym razem będziecie mogli usłyszeć najlepszych specjalistów z branż IT oraz
+poznać najbardziej rozwojowe trendy!
+    </b></p>
+
+
+
+
+<p><b>Jeden dzień, sześć bloków tematycznych, najlepsi eksperci - to wszystko bez
+    wychodzenia z domu!</b></p>
+
+
+
+
+<p>
+Tym razem na wirtualnej scenie cenieni specjaliści wystąpią z praktycznymi prelekcjami z
+zakresu .NET, JavaScript, Architektury Aplikacji, Golang, GameDev oraz Python!.
+Organizatorzy postawili na mocno praktyczne wykłady. W agendzie między innymi możemy
+znaleźć następujące nazwiska: <b>Kamil Stachowiak</b> z tematem „Drivery Architektoniczne -
+drogowskazy na drodze do sukcesu projektu.”, <b>Jessica Szarek</b> „PlayerPrefs vs serializacja
+czyli bezpieczny postęp w grze.” oraz <b>Kuba Waliszewski</b> „Azure DevOps in a secured
+World. How to build a safe Pipelines!”.</p>
+
+
+
+
+<p><b>Zachowany charakter Festiwalu i Q&A z prelegentami</b></p>
+
+
+<p>
+Pomimo zdalnej formy Festiwalu, organizatorzy 4Developers zrzeszają całą polską branżę
+technologiczną: programistów, architektów, testerów, koderów, team leaderów, managerów
+oraz wszystkich związanych z nowymi technologiami, zarówno profesjonalistów, jak i
+amatorów.</p>
+
+
+<p>
+Spodziewajcie się także licznych wirtualnych rozmów z prelegentami, organizatorami i
+uczestnikami. Ekipa Waszego Ulubionego Festiwalu IT zadba o utrzymanie luźnej atmosfery
+znanej ze stacjonarnych edycji.</p>
+
+
+<p>
+Warto pamiętać, że dostęp do nagrań będzie możliwy jeszcze przez miesiąc po zakończeniu
+konferencji,
+a
+dla
+chętnych
+organizatorzy
+przygotowali
+certyfikaty
+potwierdzające
+uczestnictwo w wydarzeniu.</p>
+
+
+<p></i></p>
+
+<p><p>
+Więcej informacji oraz szczegółową agendę znajdziecie na poniższych kanałach:<br>
+<b>Strona z agendą: <a href="https://4developers.org.pl/live-2021-pl/">https://4developers.org.pl/live-2021-pl/</a><br>
+    Strona rejestracji: <a href="https://eventory.cc/event/4dev-live-2021/tickets">https://eventory.cc/event/4dev-live-2021/tickets</a> </b><br></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Javeloper 2021]]></title>
@@ -600,19 +679,6 @@ If you have a ticket to JDD 2020, you will receive an entry code to #online edit
     <updated>2020-04-14T18:47:47+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2020/04/14/przerwa-pandemiczna</id>
     <content type="html"><![CDATA[<p>Z przykrością informujemy, że zawieszamy działalność naszego JUG-a na czas trwania pandemii. Spotkanie kwietniowe nie odbędzie się. O wznowieniu działalności poinformujemy gdy sytuacja się unormuje. Do zobaczenia!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[HackYeah 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/03/30/hackyeah-2020/"/>
-    <updated>2020-03-30T20:07:02+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/03/30/hackyeah-2020</id>
-    <content type="html"><![CDATA[<p>Jak co roku, zostaliśmy partnerem HackYeah. W związku z rozwojem pandemii COVID-19 tegoroczna edycja odbędzie się wyłącznie online. Jest to wydarzenie pro bono a jego celem jest walka ze skutkami pandemii. Udział jest oczywiście bezpłatny.</p>
-
-<p>Wydarzenie startuje już w najbliższy piątek (3 kwietnia) i będzie trwało do niedzieli włącznie (5 kwietnia). Szczegóły na <a href="https://hackyeah.pl/" target="_blank">stronie organizatorów</a>.</p>
-
-<p><a href="https://hackyeah.pl/" target="_blank"><img class="center" src="http://zielona-gora-jug.github.io/images/hackyeah2020.jpg" style="width: 80%;"></a></p>
 ]]></content>
   </entry>
   
