@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-09-21T19:08:49+02:00</updated>
+  <updated>2021-09-22T19:31:01+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JDD 2021]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/09/22/jdd-2021/"/>
+    <updated>2021-09-22T19:22:23+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/09/22/jdd-2021</id>
+    <content type="html"><![CDATA[<p>Powraca bardzo popularna konferencja, z którą współpracujemy od lat: JDD. Nadal jest to jednak wydarzenie online. Zainteresowani znajdą szczegóły (i kod zniżkowy 20%) w poniższym komunikacie organizatorów.</p>
+
+<p><a href="http://jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2021.jpg" width="900"></a></p>
+
+<p><i>
+The awesome 16th edition of The Coolest Conf on Java is coming soon ❗️</p>
+
+<p><b>We guarantee a 20% discount on your Standard ticket! Use a code: JUG_JDD2021 and get it cheaper! ❤️</b></p>
+
+<p>A specialist from over the world and experienced programmers community enthusiasts in Java Universe. 💡</p>
+
+<p>When? - 11-12th October of 2021🗓</p>
+
+<p>Where? - ONLINE! 💻</p>
+
+<p>Who will be the guests?<br>
+- Jean-Philippe Bempel - Datadog<br>
+- Brian Vermeer - Snyk<br>
+- Guillaume Laforge - Google Cloud<br>
+and many more…!</p>
+
+<p>To be on the date, follow ⬇️</p>
+
+<p>📍 <a href="http://jdd.org.pl/">http://jdd.org.pl/</a><br>
+📍 Facebook <a href="https://www.facebook.com/JDDconf">https://www.facebook.com/JDDconf</a><br>
+📍 Instagram <a href="https://www.instagram.com/jddconf/">https://www.instagram.com/jddconf/</a><br>
+📍 LinkedIn <a href="https://www.linkedin.com/showcase/jdd">https://www.linkedin.com/showcase/jdd</a><br>
+📍 Twitter <a href="https://twitter.com/jdd_krakow">https://twitter.com/jdd_krakow</a><br></p>
+
+<p>Stay tuned. The next speakers will be covered in the next few days! 😎</p>
+
+<p>👉 <a href="https://eventory.cc/event/jdd-2021/tickets">https://eventory.cc/event/jdd-2021/tickets</a> 👈
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[4DEV Live 2021]]></title>
@@ -670,15 +711,6 @@ You can expect:
 
 <p>Another great and important <a href="news:">news:</a>
 If you have a ticket to JDD 2020, you will receive an entry code to #online edition FOR FREE</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Przerwa pandemiczna]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/04/14/przerwa-pandemiczna/"/>
-    <updated>2020-04-14T18:47:47+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/04/14/przerwa-pandemiczna</id>
-    <content type="html"><![CDATA[<p>Z przykrością informujemy, że zawieszamy działalność naszego JUG-a na czas trwania pandemii. Spotkanie kwietniowe nie odbędzie się. O wznowieniu działalności poinformujemy gdy sytuacja się unormuje. Do zobaczenia!</p>
 ]]></content>
   </entry>
   
