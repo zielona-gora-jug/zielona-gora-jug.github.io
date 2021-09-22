@@ -1,0 +1,42 @@
+---
+layout: post
+title: "JDD 2021"
+date: 2021-09-22 19:22:23 +0200
+comments: true
+categories: 
+---
+
+Powraca bardzo popularna konferencja, z którą współpracujemy od lat: JDD. Nadal jest to jednak wydarzenie online. Zainteresowani znajdą szczegóły (i kod zniżkowy 20%) w poniższym komunikacie organizatorów.
+
+[{% img center /images/jdd2021.jpg 900 %}]( http://jdd.org.pl/)
+
+<i>
+The awesome 16th edition of The Coolest Conf on Java is coming soon ❗️
+
+<b>We guarantee a 20% discount on your Standard ticket! Use a code: JUG_JDD2021 and get it cheaper! ❤️</b>
+
+A specialist from over the world and experienced programmers community enthusiasts in Java Universe. 💡
+
+When? - 11-12th October of 2021🗓
+
+Where? - ONLINE! 💻
+
+Who will be the guests?<br>
+- Jean-Philippe Bempel - Datadog<br>
+- Brian Vermeer - Snyk<br>
+- Guillaume Laforge - Google Cloud<br>
+and many more…!
+
+To be on the date, follow ⬇️
+
+
+📍 http://jdd.org.pl/<br>
+📍 Facebook https://www.facebook.com/JDDconf<br>
+📍 Instagram https://www.instagram.com/jddconf/<br>
+📍 LinkedIn https://www.linkedin.com/showcase/jdd<br>
+📍 Twitter https://twitter.com/jdd_krakow<br>
+
+Stay tuned. The next speakers will be covered in the next few days! 😎
+
+👉 https://eventory.cc/event/jdd-2021/tickets 👈
+</i>
