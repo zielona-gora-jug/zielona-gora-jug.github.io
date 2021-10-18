@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Byte My Code 2021"
+date: 2021-10-18 18:45:27 +0200
+comments: true
+categories: 
+---
+
+Już za kilka dni jubileuszowa edycja Byte My Code - powered by UBS. Jeszcze możecie wziąć udział! Edycja on-line. Poniżej zachęta od organizatorów.
+
+[{% img center /images/bytemycode21.png 900 %}](https://bytemycode.pl)
+
+<i>
+ Nadszedł czas (kodowania)! 💚
+
+Już 23 października odbędzie się jubileuszowa, 5. edycja konferencji Byte My Code, powered by UBS w wersji online!  
+
+Zapraszamy nie tylko miłośników Javy, ale wszystkich inżynierów do wzięcia udziału w prelekcjach na temat Machine Learning, AI, Cloud, Data Science i Java Development, po których odbędą się zajęcia networkingowe, konkursy i spotkania online ze światowej sławy ekspertami IT! ❤️
+
+Tym razem na scenie online zobaczymy:<br>
+👉 Simmona Rittera - "Getting the Most from Modern Java" <br>
+👉 Adam Bien - "Jak zbudować świetny, serverless, cloud-native monolith"<br>
+👉 Edson Yanaga - "Coding That Sparks Joy With Quarkus"<br>
+👉 Aino Vonge Corry - "Czego architekt może się nauczyć z retrospektywnych porażek" <br>
+👉 Josh Long - "Kubernetes Native Java"<br>
+👉 Eberhard Wolf - "Software Architecture - Why I Do It Differently"<br>
+<b>Świętujmy razem 5 lat kodowania z Byte My Code!</b> 🔥 
+
+Zarejestruj się za darmo i dołącz do zielonego teamu! 👉 https://bytemycode.pl 👈
+</i>
