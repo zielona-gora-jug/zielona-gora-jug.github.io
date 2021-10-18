@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-09-22T19:31:01+02:00</updated>
+  <updated>2021-10-18T18:49:29+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Byte My Code 2021]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/10/18/byte-my-code-2021/"/>
+    <updated>2021-10-18T18:45:27+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/10/18/byte-my-code-2021</id>
+    <content type="html"><![CDATA[<p>Już za kilka dni jubileuszowa edycja Byte My Code - powered by UBS. Jeszcze możecie wziąć udział! Edycja on-line. Poniżej zachęta od organizatorów.</p>
+
+<p><a href="https://bytemycode.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/bytemycode21.png" width="900"></a></p>
+
+<p><i>
+ Nadszedł czas (kodowania)! 💚</p>
+
+<p>Już 23 października odbędzie się jubileuszowa, 5. edycja konferencji Byte My Code, powered by UBS w wersji online!</p>
+
+<p>Zapraszamy nie tylko miłośników Javy, ale wszystkich inżynierów do wzięcia udziału w prelekcjach na temat Machine Learning, AI, Cloud, Data Science i Java Development, po których odbędą się zajęcia networkingowe, konkursy i spotkania online ze światowej sławy ekspertami IT! ❤️</p>
+
+<p>Tym razem na scenie online zobaczymy:<br>
+👉 Simmona Rittera - &ldquo;Getting the Most from Modern Java&rdquo; <br>
+👉 Adam Bien - &ldquo;Jak zbudować świetny, serverless, cloud-native monolith&rdquo;<br>
+👉 Edson Yanaga - &ldquo;Coding That Sparks Joy With Quarkus&rdquo;<br>
+👉 Aino Vonge Corry - &ldquo;Czego architekt może się nauczyć z retrospektywnych porażek&rdquo; <br>
+👉 Josh Long - &ldquo;Kubernetes Native Java&rdquo;<br>
+👉 Eberhard Wolf - &ldquo;Software Architecture - Why I Do It Differently&rdquo;<br>
+<b>Świętujmy razem 5 lat kodowania z Byte My Code!</b> 🔥</p>
+
+<p>Zarejestruj się za darmo i dołącz do zielonego teamu! 👉 <a href="https://bytemycode.pl">https://bytemycode.pl</a> 👈
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JDD 2021]]></title>
@@ -679,38 +709,6 @@ Segfault uruchomiło nowy format dedykowany twórcom technologii: Segfault Maste
 <p>Pamiętaj, masz 24 godziny by zmienić świat.</p>
 
 <p>Czas, start!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JDD 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/06/01/jdd-2020/"/>
-    <updated>2020-06-01T19:08:13+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/06/01/jdd-2020</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem JDD 2020. Poniżej szczegóły tego wydarzenia.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2020.png" style="width: 80%;"></p>
-
-<p>@JDD organizes something special for you 🤩</p>
-
-<p>@JDD 2020 Online: The Coolest Conf on Java in the totally new formula! This time we gather #online, on the 4th of June 2020!⚡️And, as a Community Partner, we encourage you to join this terrific event!☺️ With our code 👾JDDforJUG👾 you get 15% off!</p>
-
-<p>This special edition of #JDD includes #Java track with several talks 👥
-You can expect:
-▪️ top experts including Nikolas Frankel, Andrzej Grzesik, Jakub Pilimon, Piotr Przybył, Dominik Przybysz, Jarek Ratajski
-▪️ experienced programmers
-▪️ and a lot of the hottest Java topics! 💥
-▪️ chats with fellow mates on JDD Discord channel: <a href="https://discord.com/invite/xZ9veun">https://discord.com/invite/xZ9veun</a></p>
-
-<p>The Schedule is available: <a href="https://jdd.org.pl/online/#schedule_online">https://jdd.org.pl/online/#schedule_online</a></p>
-
-<p>&nbsp;#JDD2020Online is a conference for (as always!) ALL Java enthusiasts: software engineers, developers, team leaders and other passionate people keen to broaden and share their knowledge 🧐🌏</p>
-
-<p>Grab your ticket here:
-&nbsp;⚡️ <a href="https://app.evenea.pl/event/jdd2020online">https://app.evenea.pl/event/jdd2020online</a> ⚡️</p>
-
-<p>Another great and important <a href="news:">news:</a>
-If you have a ticket to JDD 2020, you will receive an entry code to #online edition FOR FREE</p>
 ]]></content>
   </entry>
   
