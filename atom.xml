@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-10-18T18:49:29+02:00</updated>
+  <updated>2021-10-26T19:40:13+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[IT NonStop]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/10/26/it-nonstop/"/>
+    <updated>2021-10-26T19:36:34+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/10/26/it-nonstop</id>
+    <content type="html"><![CDATA[<p>Już 18 listopada zapraszamy Was serdecznie na konferencję online IT NonStop, której jesteśmy Partnerem. W tym roku organizatorzy stawiają na tematy związane ze Sztuczną Inteligencją, Uczeniem Maszynowym, Database &amp; Cloud. Rejestracja jest w pełni darmowa >>> <a href="https://it-nonstop.net/register-to-the-conference.">https://it-nonstop.net/register-to-the-conference.</a></p>
+
+<p>Więcej informacji i lista prelegentów dostępne są na  <a href="https://it-nonstop.net/.">https://it-nonstop.net/.</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Byte My Code 2021]]></title>
@@ -686,29 +697,6 @@ Segfault uruchomiło nowy format dedykowany twórcom technologii: Segfault Maste
 
 <p>Do zobaczenia online!
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hack4Change]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/06/01/hack4change/"/>
-    <updated>2020-06-01T19:08:40+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/06/01/hack4change</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem hackathonu Hack4Change. Poniżej więcej informacji o zawodach.</p>
-
-<p><img class="center" src="http://zielona-gora-jug.github.io/images/hack4change.png" style="width: 80%;"></p>
-
-<p>Hack4Change 24 godziny by zmienić świat. 🌍</p>
-
-<p>Hack4Change to 1 wspólna, wirtualna przestrzeń, 80 uczestników, 30 mentorów, 3 ścieżki tematyczne i tylko 24 godziny by zrobić coś dobrego i rozwinąć swoje umiejętności. Kiedy? Już 26/27 czerwca online! Podczas 24-godzinnego hackathonu wspólnie zrobimy co w naszej mocy, by pomóc naszej planecie.</p>
-
-<p>Celem Hack4Change jest stworzenie technologicznej społeczności, która będzie działać na rzecz ochrony środowiska i naszej planety. Wspólnie opracujemy prototypy urządzeń i aplikacji, a także podejmiemy walkę z zanieczyszczeniem środowiska, zmianami klimatycznymi oraz zagrożeniami związanymi z epidemią koronawirusa.</p>
-
-<p>Czy wiesz jak wiele można zmienić w ciągu jednej doby? Chcesz się przekonać? Weź udział w Hack4Change i zmieniaj świat!  Udział w wydarzeniu jest bezpłatny. Zarejestruj się tutaj 👉 <a href="https://hack4change.tech/">https://hack4change.tech/</a> 🙋‍♀️🙋‍♂️</p>
-
-<p>Pamiętaj, masz 24 godziny by zmienić świat.</p>
-
-<p>Czas, start!</p>
 ]]></content>
   </entry>
   
