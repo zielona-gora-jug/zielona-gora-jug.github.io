@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Wracamy po 18-tu miesiącach! A z nami wracają sprawdzeni prelegenci oraz partnerzy. Zapraszamy do klubu WySPa w środę 24-ego listopada o 19:00. Partnerem spotkania jest cinkiciarz.pl. Swoje nowe prezentacje przedstawią Marcin Stożek i Paweł Żalejko. Szczegóły poniżej!
+Wracamy po 18-tu miesiącach! A z nami wracają sprawdzeni prelegenci oraz partnerzy. Zapraszamy do klubu WySPa w środę 24-ego listopada o 19:00. Partnerem spotkania jest cinkciarz.pl. Swoje nowe prezentacje przedstawią Marcin Stożek i Paweł Żalejko. Szczegóły poniżej!
 
 [{% img center /images/cinkciarz.png 330 130 Cinkciarz.pl %}](http://www.cinkciarz.pl)
 
