@@ -1,0 +1,53 @@
+---
+layout: post
+title: "HackYeah '21"
+date: 2021-11-17 19:19:16 +0100
+comments: true
+categories: 
+---
+ 
+Już wkrótce kolejna edycja HackYeah - tym razem skupia się na zdrowiu psychicznym! Poniżej szczegóły. Oto kodzik od nas, żebyście mieli 50% taniej. 😊 Zielona_Góra_JUG_50
+
+[{% img center /images/hackyeah2021.jpg Logo %}](https://hackyeah.pl/)
+
+<i>
+<p><b>Największy hackathon w Europie powraca w wersji hybrydowej w ramach Internet Governance Forum Afterparty!</b></p>
+
+<p>HackYeah co roku przyciąga tłumy zafascynowanych uczestników. Jest to wydarzenie dla każdego, kto ma ochotę ulepszyć świat poprzez stworzenie kreatywnego rozwiązania bazującego na zaawansowanych technologiach.</p>
+
+<p><b>Czym jest hackathon?</b></p>
+
+<p>Najprościej ujmując, jest to maraton programowania skierowany do programistów, podczas którego stają przed zadaniem rozstrzygnięcia określonego problemu i stworzenia rozwiązania na dany temat.</p>
+
+<!-- more -->
+
+<p><b>Kiedy?</b></p>
+
+<p>Tegoroczna edycja <b>HackYeah powered by GovTech</b> odbędzie się w dniach <b>10-12 grudnia</b> w innowacyjnej formie hybrydowej. Uczestniczyć można stacjonarnie w Katowickim Spodku lub formie online, z dowolnego miejsca na świecie.</p>
+
+<p><b>Wyzwania</b></p>
+
+<p>Pierwsza kategoria otwarta, to obecnie bardzo ważny temat, jakim jest zdrowie psychiczne (Mental Health). Druga, zostanie wybrana przez społeczność HackYeah i ogłoszona w ich social mediach.</p>
+
+<p><b>Nagrody</b></p>
+
+<p>Główny Partner - Bank Gospodarstwa Krajowego przygotował dwa specjalne zadania o łącznej puli nagród <b>100 000 PLN</b>.</p>
+
+<p>A to nie koniec, bo kwota stale rośnie i przekroczyła już <b>ĆWIERĆ MILIONA ZŁOTYCH!</b></p>
+
+<p>Więcej Partnerów i szczegółowych informacji już niebawem.</p>
+
+<p><b>Kto może wziąć udział?</b></p>
+
+<p>Każdy, kto ma chęć stworzyć innowacyjne rozwiązanie, które przyniesie “lepsze jutro”. Wystarczy wybrać jedną z kategorii oferowanych przez organizatorów oraz Partnerów wydarzenia i walczyć o nagrody.</p>
+
+<p>Uczestnicy offline i online będą mieli dostęp do tych samych zadań i wyzwań.</p>
+
+<p><b>Bilety online są darmowe</b>, na miejscu kosztują <b>99 zł</b>, a cały zysk jest przeznaczony na cele charytatywne - wspieranie edukacji informatycznej dzieci z biednych rodzin.</p>
+
+<p>*Bilety na wydarzenie stacjonarne są ograniczone z powodu sytuacji epidemiologicznej, pula stale maleje.</p>
+
+<p>Więcej informacji na stronie: https://hackyeah.pl </p>
+
+<p>Bilety: https://eventory.cc/event/hackyeah-2021/tickets</p>
+</i>
