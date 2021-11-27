@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-11-17T19:27:17+01:00</updated>
+  <updated>2021-11-27T20:32:07+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,63 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Software is COOL]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/11/27/software-is-cool/"/>
+    <updated>2021-11-27T20:15:44+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/11/27/software-is-cool</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem wydarzenia organizowanego przez firmę <a href="https://www.dtpoland.com" target="_blank">DTP</a> - Software is Cool. Zaprosiła ona na wykład do Zielonej Góry znanego wychowawcę medalistów międzynarodowych
+olimpiad informatycznych prof. Krzysztofa Diksa z Uniwersytetu Warszawskiego, który rozwinie temat algorytmów grupowania w grafach. Wydarzenie (3 grudnia 2021, 12:00) będzie miało formę hybrydową:</p>
+
+<ul>
+    <li> <b>na żywo</b> z ograniczoną liczbą miejsc na auli UZ (Wydział Mechaniczny, bud. A-10, aula 044). Wymagana jest rejestracja. Przy wejściu sprawdzane będą certyfikaty szczepień/wyniki testów PCR.
+        <li><b>on-line</b> bez ograniczeń. Treść dostępna na żywo na kanale <a href="https://www.youtube.com/user/DTPLtd/featured" target="_blank"/>YouTube DTP</a>
+    </ul>
+
+
+<p><a href="https://www.dtpoland.com/events/software-is-cool-xmas-edition-3-dec-1200/"><img class="center" src="http://zielona-gora-jug.github.io/images/soft_cool.png" width="330"></a></p>
+
+<p>Więcej szczegółów na:</p>
+
+<ul>
+<li><a href="https://www.dtpoland.com/events/software-is-cool-xmas-edition-3-dec-1200/" target="_blank">strona firmowa DTP</a> 
+<li><a href="https://www.facebook.com/events/326308888953121?ref=newsfeed" target="_blank">Facebook, wydarzenie</a>  
+<li><a href="https://www.facebook.com/DTPLtd/photos/a.668364036631494/2528157590652120/" target="_blank">Facebook, post</a> 
+<li><a href="https://www.linkedin.com/events/softwareiscool-xmas-br-edition6869977557752700928/about/" target="_blank">Linkedin, wydarzenie</a> 
+</ul>
+
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Po spotkaniu listopadowym]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/11/27/po-spotkaniu-listopadowym/"/>
+    <updated>2021-11-27T19:52:02+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/11/27/po-spotkaniu-listopadowym</id>
+    <content type="html"><![CDATA[<p>W ostatnią środę, 24 XI, spotkaliśmy się, aby posłuchać dwóch prezentacji. Dziękujemy za liczne przybycie i wzajemne dbanie o siebie w tym trudnym czasie.</p>
+
+<p>Jeśli chcecie przypomnieć sobie, co działo się na scenie (lub coś Wam umknęło), poniżej znajdziecie:</p>
+
+<ul>
+    <li><a href="http://zielona-gora-jug.github.io/files/cdc.zip" target="_blank">kod</a> i <a href="https://p-zalejko.github.io/consumer-driver-contact-with-pact" target="_blank">prezentację</a> Pawła Żalejko: jest to przykładowa aplikacja wykorzystującą kontrakty. Sama prezentacja przypomni co to jest CDC,
+        dlaczego warto stosować kontrakty oraz co wyróżnia Pact.io.
+        <li> <a href="http://zielona-gora-jug.github.io/files/Observability.pdf" target="_blank">prezentację</a> Marcina Stożka omawiającą temat &#8220;obserwowalności&#8221;: co rozumie się pod tym terminem, dlaczego firmy pracują wspólnie nad
+            dostarczeniem odpowiedniego rozwiązania dla problemu śledzenia działania kodu, mimo tego że wydaje się być on rozwiązany. Wszystko poparte przykładem w działaniu.
+</ul>
+
+
+<p>Możecie również ocenić przebieg spotkania przy pomocy <a href="https://docs.google.com/forms/d/e/1FAIpQLScU_zhC5nDRLxGoCvlvbs6lqlc2KeKWBbjdfGh4saQCunEsFw/viewform" target="_blank">ankiety</a>.</p>
+
+<p>Dziękujemy <a href="http://www.cinkciarz.pl" target="_blank">cinkciarz.pl</a> za sponsorowanie tego spotkania!</p>
+
+<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
+
+<p>Wszystkich zapraszamy na spotkanie w styczniu!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[HackYeah '21]]></title>
@@ -690,68 +747,6 @@ Państwo. Głównym Partnerem wydarzenia jest <b>Bank Gospodarstwa Krajowego</b>
 międzynarodowych, które dostarczają wiedzę i mentorów do pomocy uczestnikom.
 Zapraszamy do współpracy media, firmy i organizacje, które mają pomysły na to, jak
 technologia może usprawnić szeroko pojętą ekologię i zdrowie.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pozitive Technologies 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/10/28/pozitive-technologies-2020/"/>
-    <updated>2020-10-28T17:35:14+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/10/28/pozitive-technologies-2020</id>
-    <content type="html"><![CDATA[<p>Otrzymaliśmy zaproszenie na drugą edycję koneferencji Pozitive Technologies odbywającej się w Poznaniu 19 listopada. Poniżej szczegóły.</p>
-
-<p><a href="https://pozitive.tech/"><img class="center" src="http://zielona-gora-jug.github.io/images/pozitive_technologies_2020.png" width="900" height="450" title="Logo" ></a></p>
-
-<p><i></p>
-
-<p>Nadchodzi 2. edycja konferencji POZITIVE TECHNOLOGIES</p>
-
-<p>Już za miesiąc, 19 listopada, odbędzie się druga edycja konferencji POZITIVE TECHNOLOGIES. W tym roku na uczestników wydarzenia organizowanego przez Miasto Poznań wspierane przez wielkopolskich liderów sektora IT, czekać będą prelekcje ponad 40 specjalistów, podzielone na 4 ścieżki tematyczne. Udział w konferencji jest bezpłatny. Rejestracji można dokonać na: <a href="https://pozitive.tech/" target="_blank">pozitive.tech</a></i></p>
-
-<!-- more -->
-
-
-<p><i>
-POZITIVE TECHNOLOGIES to jednodniowe wydarzenie przyciągające specjalistów i firmy z sektora IT. Jego celem jest integracja lokalnych środowisk skupionych wokół nowych technologii i promocja Poznania jako silnego ośrodka technologicznego na mapie Polski. W tym roku wydarzenie odbędzie się w całości online. Każdy uczestnik otrzyma unikalny dostęp do nowoczesnej platformy eventowej, na której będzie mógł śledzić wystąpienia na Scenie Głównej i wziąć udział w praktycznych wykładach prowadzonych w ramach 4 ścieżek tematycznych.</p>
-
-<ul>
-<li>Nowa rzeczywistość stworzyła przed nami szansę zwiększenia zasięgu POZITIVE TECHNOLOGIES. Rok temu kilkaset osób uczestniczyło w 1. edycji konferencji, zorganizowanej na terenie Międzynarodowych Targów Poznańskich. W tym roku spotkamy się w sieci, dzięki czemu mogą do nas dołączyć specjaliści nie tylko z całego kraju, ale także z zagranicy. To unikalna szansa na prezentację możliwości rozwoju zawodowego w sektorze IT w naszym regionie oraz zainteresowanie nim wysoko wykwalifikowanej kadry specjalistów, poszukiwanych przez firmy technologiczne – mówi Katarzyna Sobocińska, zastępczyni dyrektora w Biurze Obsługi Inwestorów Urzędu Miasta Poznania.</li>
-</ul>
-
-
-<p>W tym roku, w celu podkreślenia miejsca powstania idei konferencji, każdej z 4 ścieżek tematycznych nadano tytuł inspirowany nazwami poznańskich dzielnic. W sekcji Security – „GrunSec” – omówione zostaną najważniejsze kwestie dotyczące bezpieczeństwa sieci, danych i aplikacji. To okazja, by poznać najnowsze narzędzia i sposoby ochrony przed wirtualnymi zagrożeniami. W ramach ścieżki dedykowanej obszarowi Full Stack – „Jeżyce++” – uczestnicy poznają najnowsze trendy w Java i Java Script i praktyczne wskazówki dotyczące pracy z bibliotekami i wzorcami projektowymi. Ścieżka „PiątkOps”, adresowana jest do inżynierów DevOps, natomiast w sekcji WilData omówione zostaną najnowsze trendy i rozwiązania w obszarach Big Data, Machine Learning i Artificial Intelligence.</p>
-
-<p><b>Poznań stawia na technologie</b></p>
-
-<p>Nie bez przyczyny Miasto Poznań inwestuje w integrację i rozwój specjalistów IT. W stolicy Wielkopolski pracuje około 22 400 programistów, a 6 100 osób studiuje na poznańskich uczelniach kierunki związane z IT. O atrakcyjności Poznania świadczą wysokie miejsca w prestiżowych rankingach. Miasto zajęło 2. miejsce w zestawieniu najbardziej atrakcyjnych dla biznesu polskich miast przygotowanym przez magazyn „Forbes”, 8. miejsce w kategorii „Growth Clusters” w europejskim rankingu miast technologicznych „EMEA Tech Cities” opublikowanym</p>
-
-<p>przez CBRE oraz 3. Miejsce w rankingu najbardziej przyjaznych biznesowi miast średniej wielkości w Europie, opracowanym przez magazyn fDi (Financial Times Group).</p>
-
-<p>Głównym organizatorem POZITIVE TECHNOLOGIES 2020 jest Miasto Poznań, Biuro Obsługi Inwestorów. Partnerami konferencji, aktywnie uczestniczącymi w organizacji wydarzenia, są firmy sektora IT, działające w Poznaniu: Capgemini, Egnyte, GSK, Sonalake, Sollers Consulting.
-</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JDD 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/09/08/jdd-2020/"/>
-    <updated>2020-09-08T19:45:16+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/09/08/jdd-2020</id>
-    <content type="html"><![CDATA[<p><a href="https://4developers.org.pl/festiwal-2020/"><img class="center" src="http://zielona-gora-jug.github.io/images/JDD_2020.png"></a></p>
-
-<p><b>Wielkimi krokami zbliża się jubileuszowa 15 edycja jednej z największych konferencji o tematyce Java w Polsce. JDD po raz kolejny gromadzi Javowych ekspertów i aktywuje społeczności IT z całego kraju - tym razem online!</b></p>
-
-<p>W tym roku spotykamy się w dniach 12-14 października 2020 w sieci!</p>
-
-<p><b>Przygotuj się na spotkanie online z pełnymi zapału deweloperami i entuzjastami Javy.</b> JDD 2020 to trzydniowe wydarzenie, które odbędzie się sieci. Organizatorzy po raz kolejny zrzeszają miłośników Javy, jak to ma miejsce od 2006 roku.</p>
-
-<p>W tym roku na JDD znajdziemy tematy na różnych poziomach zaawansowania. Coś dla siebie znajdą zarówno junior, mid, jak i senior deweloperzy. Pośród morza tematów pojawią się: JVM (Java, Scala, Kotlin&hellip;), Agile, Functional Programming, Testing, TDD, BDD, Microservices, Docker, Kubernetes, Clean code, Cloud, AWS, design, DDD, Machine learning, AI, Future of Java, Functional Programming, Architecture, Getting Started.</p>
-
-<p>Więcej informacji o konferencji na <a href="https://jdd.org.pl/" target="blank">jdd.org.pl</a>.</p>
-
-<p><b>Spróbuj swoich sił jako Prelegent!</b></p>
-
-<p>Organizatorzy poszukują otwartych, charyzmatycznych osób, które pragną wystąpić na wirtualnej scenie i podzielić się swoją wiedzą na temat Javy. Wszystkie propozycje wystąpień, związane z tegoroczną tematyką JDD, są mile widzanie! Organizatorzy podkreślają, że Rada Programowa z chęcią rozważy zgłoszenia na różnych poziomach zaawansowania. Aplikować można przez formularz na stronie: <a href="https://jdd.org.pl/" target="blank">jdd.org.pl</a>.</p>
 ]]></content>
   </entry>
   
