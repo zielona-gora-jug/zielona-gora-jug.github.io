@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-11-27T20:32:07+01:00</updated>
+  <updated>2021-12-17T19:52:34+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fundacja NeuroN szuka pomocy]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2021/12/17/fundacja-neuron-szuka-pomocy/"/>
+    <updated>2021-12-17T19:47:07+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2021/12/17/fundacja-neuron-szuka-pomocy</id>
+    <content type="html"><![CDATA[<p>Fundacja NeuroN zwróciła się do nas z prośbą o pomoc. Sprawdźcie czy chcielibyście wziąć udział w poniższej inicjatywie.</p>
+
+<p><i>
+    W Polsce w ramach innowacji społecznych Fundacja NeuroN buduje pierwszą na świecie platforma dla dzieci i młodzieży, za pomocą której za realizację małych projektów społecznych będzie można zdobywać stypendia.Projekt ma na celu przeciwdziałanie depresji wśród najmłodszych przez aktywizację, a także wyrównywanie szans i rozwijanie kompetencji miękkich. Szkoły niestety nie dają możliwości praktycznego realizowania projektów, które mogą być bardzo różne:</p>
+
+<ol>
+<li>zebranie środków i posadzenie 30 drzew w wymierającym parku,</li>
+<li>zbiórka ubrań dla bezdomnych,</li>
+<li>stworzenie podcastu z osobami sławnymi, który zachęci do bycia eco,</li>
+<li>zorganizowanie warsztatów w szkole poruszających temat osób niewidomych i tego, jak można im pomóc etc.</li>
+</ol>
+
+
+<p>Projekt powstaje w oparciu o rozwiązania AWS z wykorzystaniem języków kodowania Java, .Net i React. Obecnie Fundacja NeuroN poszukuje 2 programistów programujących w języku Java.Projekt powstaje ze wsparciem materialnym AWS, Atlassian i Figma. Wśród realizatorów projektu jest też wielu specjalistów różnego zakresu, a wszyscy działają zdalnie z wykorzystaniem Slacka.</p>
+
+<!-- more -->
+
+
+<p>Za pomocą platformy dzieci i młodzież będą mogli:</p>
+
+<ol>
+<li>zdobywać stypendia i rozwijać kompetencje miękkie w oparciu o grywalizację.</li>
+<li>korzystać z darmowych narzędzi i komunikatora,</li>
+<li>pozyskiwać partnerów i współorganizatorów,</li>
+<li>otrzymywać darmowe wsparcie mentorów i szkolenia,</li>
+<li>gromadzić środki w ramach fundraisingu</li>
+<li>Wchodzić w partnerstwa z firmami, za pomocą tego rozwiązania firmy będą mogły wspierać młodzież i promować własne marki przez wskazywanie na bycie odpowiedzialnym społecznie – takim firmom znacznie obniży to koszty organizacji kampanii społeczno promocyjnych.</li>
+</ol>
+
+
+<p>Warto zaznaczyć, że projekt jest oparty o badania potrzeb, a także raporty przedsiębiorczości wśród młodzieży i zachowań młodzieży na rynku pracy.</p>
+
+<p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
+Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
+Kontakt: <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#110;&#x65;&#x75;&#114;&#x6f;&#x6e;&#x66;&#x6f;&#117;&#110;&#x64;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x40;&#x73;&#109;&#x61;&#114;&#116;&#x6f;&#97;&#x6b;&#112;&#x72;&#111;&#x6a;&#101;&#x63;&#x74;&#115;&#46;&#x63;&#x6f;&#x6d;">&#x6e;&#101;&#x75;&#x72;&#x6f;&#110;&#x66;&#x6f;&#x75;&#110;&#100;&#x61;&#116;&#x69;&#x6f;&#110;&#64;&#x73;&#x6d;&#97;&#x72;&#x74;&#x6f;&#x61;&#107;&#x70;&#x72;&#111;&#106;&#101;&#x63;&#x74;&#x73;&#x2e;&#x63;&#111;&#x6d;</a><br>
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Software is COOL]]></title>
@@ -686,67 +730,6 @@ Alexa Skills pomaga na wiele sposobów! Innovation@Amazon - niezwykły hackathon
 
 <p>Wszystkie osoby zainteresowane udziałem w hackathonie zachęcamy do zapoznania się ze szczegółowymi informacjami na stronie: <a href="https://innovation-amazon.com" target="_blank">innovation-amazon.com</a> oraz do rejestracji. 
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[HackYeah 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/10/28/hackyeah-2020/"/>
-    <updated>2020-10-28T17:46:40+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/10/28/hackyeah-2020</id>
-    <content type="html"><![CDATA[<p>W listopadzie kolejna edycja HackYeah - na celowniku tym razem zdrowie i zero waste!. Poniżej szczegóły.</p>
-
-<p><a href="https://hackyeah.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/hackyeah2020-2.jpg" title="Logo" ></a></p>
-
-<p><b>HackYeah 2020</b> to szósta edycja największego stacjonarnego hackathonu w Europie. Najbliższa edycja odbędzie się w sieci, w dniach 27-29 listopada 2020. Bilety są darmowe, a pula nagród w tym momencie wynosi <b>150 000 PLN</b>!</p>
-
-<p>Hackathon zrzesza osoby wyspecjalizowane w przeróżnych językach programowania, a jego celem jest poszukiwanie rozwiązań oraz narzędzi, które usprawnią codzienność zwykłych ludzi. Podczas każdej edycji, event skupia wokół siebie kreatywne umysły - osoby biorące udział w HackYeah! noszą w sobie prawdziwą chęć działania i faktycznej zmiany. Dzięki nieocenionym umiejętnościom i błyskotliwym pomysłom uczestników, każda kolejna edycja HackYeah! owocuje nieszablonowymi i praktycznymi rozwiązaniami, które wykorzystują najnowsze technologie do osiągania zamierzonych rezultatów.</p>
-
-<!-- more -->
-
-
-<p><b>Jakie zadania staną przed uczestnikami?  </b></p>
-
-<p>Podczas najbliższej edycji HackYeah! uczestnicy będą szukać rozwiązań w wielu kategoriach. Wśród nich pojawią się <b>kategorie otwarte</b>, w których można zgłaszać wszelkie pomysły związane z daną tematyką oraz <b>zadania partnerskie</b>, które będą dotyczyć konkretnych zagadnień, ustalonych przez Partnera danego zadania. Organizatorzy na chwilę obecną ujawnili, jakie są dwie kategorie otwarte. Podczas najbliższej edycji HackYeah! będą to:
-    • <b>Zero Waste</b> - kategoria wspierana merytorycznie przez WWF Polska, w której pula nagród wynosi 10 000 PLN
-    • <b>Zdrowie</b> - kategoria wspierana merytorycznie przez Fundację Rak&#8217;n&#8217;Roll Wygraj Życie!, w której pula sięga 10 000 PLN
-Wśród licznych zadań partnerskich pojawią się zadania od Głównego Partnera tej edycji - <b>Banku Gospodarstwa Krajowego</b>. Partnerzy hackathonu wciąż pracują nad kolejnymi zadaniami, natomiast pula nagród w tym momencie wynosi <b>150 000 PLN</b>. Organizatorzy zapowiedzieli, że wszelkimi nowościami będą się dzielić na stronie internetowej oraz w mediach społecznościowych:</p>
-
-<p><b>WWW</b>: <a href="https://hackyeah.pl/">https://hackyeah.pl/</a> <br>
-<b>Facebook</b>: <a href="https://www.facebook.com/HackYeahPL/">https://www.facebook.com/HackYeahPL/</a></p>
-
-<p><b>HackYeah! - dla kogo?</b></p>
-
-<p>Udział w wydarzeniu jest otwarty dla wszystkich chętnych: studentów, programistów, UXowców, project managerów, inżynierów, ekspertów baz danych, analityków czy gamerów. Uczestnicy w ciągu łącznie 40 godzin będą intensywnie pracować nad rozwiązaniami z zakresu szeroko pojętej <b>ekologii, zero waste, zdrowia</b> i innych. Niepodważalną zachętą dla uczestników jest szansa dalszego rozwoju swojego pomysłu i wdrożenia go w życie. Projekty biorące udział w konkursie mogą być zgłaszane indywidualnie lub w zespołach złożonych z maksymalnie 6 osób. Komunikacja pomiędzy uczestnikami, organizatorami, mentorami i jurorami odbywać się będzie na kanale <b>Discord</b>, do którego można dołączyć już dziś: <a href="https://discord.gg/6bs6cHk">https://discord.gg/6bs6cHk</a> Każdy biorący udział w hackathonie może liczyć na wsparcie od wyspecjalizowanych mentorów - dotyczy ono zarówno kwestii technicznych, jak i sposobów wdrażania pomysłów na rozwiązania poszczególnych zadań.</p>
-
-<p>-<i>Organizujemy HackYeah, ponieważ wierzymy, że to właśnie formuła hackathonu eksploruje w całości ogromny potencjał innowacyjnych pomysłów, który drzemie w społecznościach ze świata IT. Zachęcamy do udziału wszystkich tych, którzy mają pomysły oraz chęć i odwagę, by się nimi dzielić oraz wspólnie tworzyć wartościowe rozwiązania. Historia niejednokrotnie pokazała, że hackathon może zmieniać rzeczywistość na lepsze i to jest naszym celem.</i> - Jakub Kozioł, prezes PROIDEA Sp. z o.o.
-<i>Cieszę się, że sektor publiczny po raz kolejny zaprasza programistów do współpracy przy rozwiązywaniu wyzwań wagi państwowej. Każdy hackathon to czas, kiedy administracja i innowatorzy uczą się wiele od siebie nawzajem pracując nad pożytecznymi dla obywateli rozwiązaniami. HackYeah już wielokrotnie udowodniło, że podczas największego maratonu programowania w Europie ten efekt jest zwielokrotniony.</i> - Justyna Orłowska - Pełnomocnik Prezesa Rady Ministrów ds. GovTech</p>
-
-<p><b>Coś więcej niż hackathon </b></p>
-
-<p>Organizatorzy przekonują, że HackYeah! to więcej niż hackathon - to także wielki festiwal IT.
-Poza kodowaniem:
-    • to również niepowtarzalna okazja do wzięcia udziału w licznych i różnorodnych pod względem tematyki <b>webinariach</b>, które będą streamowane na żywo na Facebookowym profilu HackYeah! od 23 do 27 listopada;
-    • pojawi się nowość: <b>HackYeahTV!</b> - internetowa transmisja, podczas której będą emitowane najświeższe wiadomości dotyczące hackathonu, wywiady z partnerami i uczestnikami poprzednich edycji, webinaria tematyczne, playlisty  i różne atrakcje;
-    • organizatorzy zadbają o utrzymanie festiwalowej atmosfery znanej z pięciu poprzednich edycji hackathonu, tym razem przeniesionego do świata wirtualnego. Możecie spodziewać się rozgrywek online, wielu różnorodnych aktywności i konkursów, dzięki którym miło spędzicie czas podczas tego produktywnego weekendu;
-    • uczestnicy będą mogli wziąc udział w turnieju gamingowym;
-    • spodziewajcie się niekończących dyskusji  z setkami mentorów i uczestników. Można zawrzeć nowe przyjaźnie lub znaleźć partnerów biznesowych;
-    • to idealne miejsce na znalezienie pracy. Wystarczy rozpocząć rozmowę z wybranym Partnerem na jego wirtualnym stoisku lub kanale Discord, by otrzymać komplet informacji odnośnie aktualnie prowadzonych rekrutacji w firmie.</p>
-
-<p><b>Kto stoi za kulisami?</b></p>
-
-<p>Organizatorem wydarzenia jest <b>PROIDEA</b>- firma od lat organizująca wydarzenia kierowane
-do branży IT, pomysłodawca i producent HackYeah. Wydarzenie wspiera <b>GovTech Polska</b> -
-program funkcjonujący w Kancelarii Prezesa Rady Ministrów mający na celu angażowanie
-społeczności we wprowadzanie innowacji do sektora publicznego. Współpracuje z firmami
-technologicznymi, oraz obywatelami, aby wspólnie unowocześnić administrację publiczną
-oraz znaleźć sposoby na użycie technologii w realizacji zadań podejmowanych przez
-Państwo. Głównym Partnerem wydarzenia jest <b>Bank Gospodarstwa Krajowego</b>.</p>
-
-<p>Do inicjatywy dołączyło już wiele publicznych i prywatnych instytucji, zarówno polskich jak i
-międzynarodowych, które dostarczają wiedzę i mentorów do pomocy uczestnikom.
-Zapraszamy do współpracy media, firmy i organizacje, które mają pomysły na to, jak
-technologia może usprawnić szeroko pojętą ekologię i zdrowie.</p>
 ]]></content>
   </entry>
   
