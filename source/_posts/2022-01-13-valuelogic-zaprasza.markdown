@@ -7,7 +7,7 @@ categories:
 ---
 Nasze kolejne spotkanie odbędzie się 23-ego lutego. Tę dłuższą przerwę możecie sobie umilić biorąc udział w wydarzeniu organizowanym przez <a href="https://valuelogic.one">ValueLogic</a>!. Bliższe informacje o Full-Stack Day i komunikat organizatorów poniżej. <b>Uwaga</b>: biorąc udział wspierasz lokalne działania charytatywne. Wymagana rejestracja ze względów na okres pandemii.
 
-[{% img center /images/vl.png 330 %}](https://valuelogic.one/event/)
+[{% img center /images/vl2.png 330 %}](https://valuelogic.one/event/)
 
 <i>
 Halo Zielona Góra! Zespół ValueLogic zaprasza na Full-Stack Day. 
