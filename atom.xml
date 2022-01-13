@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2021-12-17T19:52:34+01:00</updated>
+  <updated>2022-01-13T17:07:16+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ValueLogic zaprasza]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/01/13/valuelogic-zaprasza/"/>
+    <updated>2022-01-13T16:55:40+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/01/13/valuelogic-zaprasza</id>
+    <content type="html"><![CDATA[<p>Nasze kolejne spotkanie odbędzie się 23-ego lutego. Tę dłuższą przerwę możecie sobie umilić biorąc udział w wydarzeniu organizowanym przez <a href="https://valuelogic.one">ValueLogic</a>!. Bliższe informacje o Full-Stack Day i komunikat organizatorów poniżej. <b>Uwaga</b>: biorąc udział wspierasz lokalne działania charytatywne. Wymagana rejestracja ze względów na okres pandemii.</p>
+
+<p><a href="https://valuelogic.one/event/"><img class="center" src="http://zielona-gora-jug.github.io/images/vl.png" width="330"></a></p>
+
+<p><i>
+Halo Zielona Góra! Zespół ValueLogic zaprasza na Full-Stack Day.</p>
+
+<p>27 stycznia, godzina 17.00,  browar Haust.</p>
+
+<p>To nasze pierwsze spotkanie w Zielonej Górze, najwyższy czas, bo mamy już tu swoich Ekspertów.</p>
+
+<p>To oni wpadli na pomysł, by spotkać się na żywo, zdobyć trochę świeżej wiedzy oraz podzielić się doświadczeniami.
+Będą konkretne tematy:</p>
+
+<ul>
+<li>React Web Application +  Serverless Backend na Google Cloud Platform 
+<li>React & Kotlin Application + Serverless Frontend na AWS
+</ul>
+
+
+<p>&hellip;+ Ożywiony Panel Dyskusyjny :)</p>
+
+<p>Szczegóły wydarzenia i rejestracja na <a href="https://valuelogic.one/event/">https://valuelogic.one/event/</a></p>
+
+<p>Ilość miejsc ograniczona, zatem nie zwlekaj, dołącz do nas:) Zapraszamy.
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Fundacja NeuroN szuka pomocy]]></title>
@@ -52,7 +86,7 @@
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#110;&#x65;&#x75;&#114;&#x6f;&#x6e;&#x66;&#x6f;&#117;&#110;&#x64;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#x40;&#x73;&#109;&#x61;&#114;&#116;&#x6f;&#97;&#x6b;&#112;&#x72;&#111;&#x6a;&#101;&#x63;&#x74;&#115;&#46;&#x63;&#x6f;&#x6d;">&#x6e;&#101;&#x75;&#x72;&#x6f;&#110;&#x66;&#x6f;&#x75;&#110;&#100;&#x61;&#116;&#x69;&#x6f;&#110;&#64;&#x73;&#x6d;&#97;&#x72;&#x74;&#x6f;&#x61;&#107;&#x70;&#x72;&#111;&#106;&#101;&#x63;&#x74;&#x73;&#x2e;&#x63;&#111;&#x6d;</a><br>
+Kontakt: <a href="&#x6d;&#x61;&#x69;&#108;&#116;&#111;&#x3a;&#x6e;&#101;&#117;&#114;&#111;&#x6e;&#102;&#x6f;&#x75;&#110;&#x64;&#97;&#x74;&#x69;&#x6f;&#110;&#x40;&#115;&#109;&#97;&#x72;&#x74;&#x6f;&#97;&#107;&#112;&#114;&#x6f;&#x6a;&#101;&#99;&#116;&#115;&#46;&#99;&#111;&#x6d;">&#x6e;&#x65;&#x75;&#x72;&#111;&#x6e;&#102;&#x6f;&#x75;&#110;&#x64;&#x61;&#x74;&#x69;&#111;&#110;&#64;&#115;&#x6d;&#97;&#114;&#116;&#x6f;&#97;&#107;&#x70;&#114;&#x6f;&#106;&#101;&#99;&#x74;&#x73;&#x2e;&#99;&#x6f;&#x6d;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -689,46 +723,6 @@ Do wyboru 2 kategorie otwarte:<br>
 <p>Niebawem jeszcze więcej zadań i nagród - sprawdzaj na <a href="https://hackyeah.pl/">https://hackyeah.pl/</a></p>
 
 <p>Zarejestruj się [ZA DARMO] 🔥 już dziś 👉 <a href="https://tiny.pl/7pv28">https://tiny.pl/7pv28</a><br/>
-</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Innovation@Amazon 2020]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/10/30/innovation-at-amazon-2020/"/>
-    <updated>2020-10-30T20:03:44+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/10/30/innovation-at-amazon-2020</id>
-    <content type="html"><![CDATA[<p>Otrzymaliśmy kolejne zaproszenie na hackathon. Tym razem pochodzi od firmy Amazon, a jego celem jest wykorzystanie Alexy do rozwiązywania poważnych problemów społecznych. Oddajmy głos organizatorom.</p>
-
-<p><a href="https://innovation-amazon.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/alexa_2020.jpg" width="500" height="500" title="Logo" ></a></p>
-
-<p><i>
-Alexa Skills pomaga na wiele sposobów! Innovation@Amazon - niezwykły hackathon online</p>
-
-<p>Już  <b>6-8 listopada</b> odbędzie się <b>Innovation@Amazon Online Hackathon</b>, wyjątkowe wydarzenie, podczas którego wykorzystamy technologię, aby zmienić życie wielu osób na lepsze. Uczestnicy będą pracować nad uwolnieniem potencjału Amazon Alexa, a ich głównym celem będzie stworzenie kreatywnych rozwiązań odpowiadających na ważne społeczne problemy.
-</i></p>
-
-<!-- more -->
-
-
-<p><i>
-<b>Opracuj nową aplikację lub prototyp Alexa Skills</b></p>
-
-<p>Alexa to oparta na chmurze usługa głosowa Amazon, która działa w oparciu o zestaw wbudowanych funkcji - umiejętności (skills). Klienci mogą uzyskać do nich dostęp, zadając pytania lub wydając polecenia Alexie.<b> Alexa Skills Kit</b> pozwala nauczyć Alexę nowych umiejętności, zapewniających użytkownikom wiele różnych możliwości.</p>
-
-<p>Podczas hackathonu uczestnicy skupią się na budowaniu Alexa Skills pomagających w rozwiązywaniu <b>ważnych społecznie problemów</b>, z którymi zmagają się osoby starsze, a także osoby z dysfunkcjami wzroku, ruchowymi, neurorozwojowymi, neurologicznymi (w tym demencją) oraz chorobami przewlekłymi. Są to jedynie sugestie, ponieważ jury weźmie pod uwagę każde innowacyjne rozwiązanie, które pozytywnie wpływa na dostępność technologii.</p>
-
-<p><b>Bez barier dzięki wydarzeniu online</b></p>
-
-<p>Hackathon odbędzie się <b>online</b>, co daje mu nieograniczony, międzynarodowy zasięg. Dodatkowo, zostanie on poprzedzony cyklem <b>webinarów</b> prowadzonych przez ekspertów Amazon, poruszających tematy związane z budowaniem nowoczesnych i innowacyjnych rozwiązań technologicznych. Wydarzenie jest organizowane przez <b>Centrum Rozwoju Technologii Amazon w Gdańsku</b>. </p>
-
-<p><b>Przed uczestnikami dwa intensywne dni kodowania</b> - mogą pracować samodzielnie, dołączyć z zespołem lub spotkać jego członków podczas hackathonu. Na autorów najlepszych rozwiązań czekają nagrody, w tym urządzenia Alexa i kredyty AWS. Jury oceni nadesłane aplikacje pod kątem jakości projektu, kreatywności, designu, funkcjonalności i wpływu na społeczeństwo.</p>
-
-<p>Wydarzenie wspiera <b>Fundacja Widzialni</b>, której celem jest przeciwdziałanie wykluczeniu cyfrowemu i społecznemu. Ich działania skupiają się na zapewnieniu umożliwienia swobodnego dostępu do zasobów internetowych wszystkim obywatelom niezależnie od wieku, poziomu sprawności, zamożności oraz posiadanego sprzętu i oprogramowania.</p>
-
-<p><b>Dołącz do hackathonu i pomóż osobom niepełnosprawnym</b></p>
-
-<p>Wszystkie osoby zainteresowane udziałem w hackathonie zachęcamy do zapoznania się ze szczegółowymi informacjami na stronie: <a href="https://innovation-amazon.com" target="_blank">innovation-amazon.com</a> oraz do rejestracji. 
 </i></p>
 ]]></content>
   </entry>
