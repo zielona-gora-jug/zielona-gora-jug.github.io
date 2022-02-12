@@ -1,0 +1,49 @@
+---
+layout: post
+title: "4Developers 2022"
+date: 2022-02-12 18:17:20 +0100
+comments: true
+categories: 
+---
+Ponownie zapraszamy na festiwal <a href="https://4developers.org.pl/4dev-2022/" target="_blank">4Developers '22</a>. Tegoroczna edycja odbędzie się w kwietniu, a Wy macie jeszcze szansę dołączyć do grona prelegentów! Poniżej szczegóły od organizatorów.
+
+[{% img center /images/4dev2022.png 330 %}](https://4developers.org.pl/4dev-2022/)
+
+<i>
+Zostań Prelegentem na @4Developers i podziel się swoją wiedzą! 🧠  Dlaczego warto?
+
+<ul style="list-style-type: none">
+<li>🍀 Zbudujesz swój wizerunek w branży.
+<li>🍀 Dobre wystąpienie przyspieszy rozwój Twojej kariery.
+<li>🍀 Zdobędziesz ciekawe i cenne doświadczenie.
+<li>🍀 Dotrzesz do jednego z największych community programistycznych w tej części Europy. 
+<li>🍀 Wystąpisz na jednej z największych i najstarszych konferencji w naszym kraju!
+</ul>
+
+Jeśli chcesz spróbować, wirtualna scena #4Developers jest idealnym miejscem! 
+To największy festiwal programistyczny w Polsce. 
+
+<!-- more -->
+
+Rada Programowa czeka na Twoją propozycję wystąpienia w ramach ścieżek:
+<ul style="list-style-type: square">
+<li>Architektury Aplikacji 
+<li>DevOps 
+<li>Cloud 
+<li>Java 
+<li>JavaScript 
+<li>Frontend/UI 
+<li>Testerska 
+<li>GameDev 
+<li>PHP 
+<li>SoftSkills & Business Relations 
+<li>Security 
+<li>.NET 
+<li>Machine Learning 
+<li>Mobile
+</ul>
+
+Zgłoszenia będą przyjmowane do 28 lutego! 
+Nie pozwól, by Twoja szansa uciekła Ci sprzed nosa! 
+Wyślij #CFP:  https://tiny.pl/919b4
+</i>
