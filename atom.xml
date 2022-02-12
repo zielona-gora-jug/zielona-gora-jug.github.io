@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-01-21T19:08:56+01:00</updated>
+  <updated>2022-02-12T18:28:02+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,60 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[4Developers 2022]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/02/12/4developers-2022/"/>
+    <updated>2022-02-12T18:17:20+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/02/12/4developers-2022</id>
+    <content type="html"><![CDATA[<p>Ponownie zapraszamy na festiwal <a href="https://4developers.org.pl/4dev-2022/" target="_blank">4Developers &lsquo;22</a>. Tegoroczna edycja odbędzie się w kwietniu, a Wy macie jeszcze szansę dołączyć do grona prelegentów! Poniżej szczegóły od organizatorów.</p>
+
+<p><a href="https://4developers.org.pl/4dev-2022/"><img class="center" src="http://zielona-gora-jug.github.io/images/4dev2022.png" width="330"></a></p>
+
+<p><i>
+Zostań Prelegentem na @4Developers i podziel się swoją wiedzą! 🧠  Dlaczego warto?</p>
+
+<ul style="list-style-type: none">
+<li>🍀 Zbudujesz swój wizerunek w branży.
+<li>🍀 Dobre wystąpienie przyspieszy rozwój Twojej kariery.
+<li>🍀 Zdobędziesz ciekawe i cenne doświadczenie.
+<li>🍀 Dotrzesz do jednego z największych community programistycznych w tej części Europy. 
+<li>🍀 Wystąpisz na jednej z największych i najstarszych konferencji w naszym kraju!
+</ul>
+
+
+<p>Jeśli chcesz spróbować, wirtualna scena #4Developers jest idealnym miejscem!
+To największy festiwal programistyczny w Polsce.</p>
+
+<!-- more -->
+
+
+<p>Rada Programowa czeka na Twoją propozycję wystąpienia w ramach ścieżek:</p>
+
+<ul style="list-style-type: square">
+<li>Architektury Aplikacji 
+<li>DevOps 
+<li>Cloud 
+<li>Java 
+<li>JavaScript 
+<li>Frontend/UI 
+<li>Testerska 
+<li>GameDev 
+<li>PHP 
+<li>SoftSkills & Business Relations 
+<li>Security 
+<li>.NET 
+<li>Machine Learning 
+<li>Mobile
+</ul>
+
+
+<p>Zgłoszenia będą przyjmowane do 28 lutego!
+Nie pozwól, by Twoja szansa uciekła Ci sprzed nosa!
+Wyślij #CFP:  <a href="https://tiny.pl/919b4">https://tiny.pl/919b4</a>
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[TypeVille]]></title>
@@ -114,7 +168,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x6e;&#x65;&#117;&#114;&#111;&#110;&#102;&#x6f;&#x75;&#110;&#x64;&#97;&#x74;&#105;&#x6f;&#x6e;&#x40;&#x73;&#x6d;&#x61;&#x72;&#x74;&#x6f;&#97;&#x6b;&#112;&#x72;&#x6f;&#x6a;&#101;&#x63;&#116;&#115;&#x2e;&#x63;&#111;&#109;">&#x6e;&#x65;&#x75;&#x72;&#111;&#x6e;&#x66;&#111;&#117;&#110;&#x64;&#97;&#x74;&#105;&#x6f;&#110;&#64;&#115;&#x6d;&#97;&#x72;&#116;&#x6f;&#97;&#x6b;&#112;&#114;&#x6f;&#x6a;&#101;&#x63;&#116;&#x73;&#46;&#99;&#x6f;&#x6d;</a><br>
+Kontakt: <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#x6e;&#x65;&#117;&#x72;&#x6f;&#110;&#102;&#111;&#117;&#110;&#x64;&#97;&#x74;&#x69;&#x6f;&#110;&#x40;&#115;&#x6d;&#x61;&#x72;&#116;&#111;&#97;&#107;&#x70;&#114;&#x6f;&#x6a;&#x65;&#99;&#116;&#x73;&#46;&#x63;&#111;&#109;">&#x6e;&#101;&#x75;&#x72;&#x6f;&#x6e;&#102;&#x6f;&#117;&#x6e;&#100;&#97;&#116;&#x69;&#x6f;&#110;&#64;&#x73;&#109;&#x61;&#114;&#x74;&#111;&#x61;&#x6b;&#112;&#114;&#111;&#x6a;&#101;&#99;&#116;&#x73;&#x2e;&#x63;&#111;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -697,17 +751,6 @@ Dzięki możliwościom networkingu online uczestnicy będą mogli nawiązać rel
 
 <p>Głównym organizatorem POZITIVE TECHNOLOGIES 2020 jest Miasto Poznań, Biuro Obsługi Inwestorów. Partnerami konferencji, aktywnie uczestniczącymi w organizacji wydarzenia, są firmy sektora IT, działające w Poznaniu: Capgemini Software Solutions Center, Allegro Tech, Egnyte, GSK Poznań Tech Hub, Sonalake, Sollers Consulting. Sponsorami są: BAE SYSTEMS, beyond.pl, F-Secure, GFT, Merixstudio oraz Next IT
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Code{sun}day 25]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2020/11/16/code%7Bsun%7Dday/"/>
-    <updated>2020-11-16T20:33:39+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2020/11/16/code{sun}day</id>
-    <content type="html"><![CDATA[<p>Objęliśmy patronat nad warsztatami: <b>CODE{sun}DAY 25</b>, z których cały dochód przeznaczony jest na schronisko dla zwierząt. W trakcie 7 godzinnego spotkania, podczas którego uczestnicy będą mieli okazję sprawdzić swoje predyspozycje oraz przekonają się jak wygląda zdalna praca z trenerem, odbędą się 3 warsztaty: z języków Python, Java oraz z HTML. Poziom dla bardzo początkujących.</p>
-
-<p>Zgodnie z duchem czasu zajęcia odbędą się on-line, 06.12.2020 r. od 10:00 - 17:00. Zapisy: <a href="https://app.evenea.pl/event/codesunday25/" target="_blank">na Evenea</a>. Więcej informacji na <a href="https://www.facebook.com/events/2702176173434200" target="_blank">FB</a>.</p>
 ]]></content>
   </entry>
   
