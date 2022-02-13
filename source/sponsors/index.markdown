@@ -19,3 +19,4 @@ footer: true
 [{% img left /images/wiea.png 310 110 Wydział Informatyki, Elektrotechniki i Automatyki UZ %}](http://weit.uz.zgora.pl/)
 [{% img left /images/metapack.jpg 310 110 MetaPack %}](http://metapack.com/)
 [{% img left /images/sygnity.jpg 310 110 Sygnity Business Solutions S.A. %}](http://www.sygnitysbs.pl/)
+[{% img left /images/sportano.jpg 310 110 Sportano %}](https://sportano.pl)
