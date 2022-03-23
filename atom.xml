@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-03-15T19:49:57+01:00</updated>
+  <updated>2022-03-23T07:56:19+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Software is Cool - wiosna 2022]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/03/23/software-is-cool-wiosna-2022/"/>
+    <updated>2022-03-23T07:31:40+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/03/23/software-is-cool-wiosna-2022</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem kolejnego wydarzenia organizowanego przez firmę <a href="https://www.dtpoland.com" target="_blank">DTP</a> - Software is Cool. Tym razem, oprócz wychowawcy medalistów międzynarodowych
+olimpiad informatycznych prof. Krzysztofa Diksa z Uniwersytetu Warszawskiego, zaprosiła ona na wykład swojego pracownika, Krzysztofa Ciebierę. Prof. Diks opowie o słynnych informatykach z Polski i Ukrainy, a Krzysztof - o tym, czy maszyny zastąpią programistów. Wydarzenie (29 marca 2022, 14:00) będzie miało formę hybrydową:</p>
+
+<ul>
+    <li> <b>na żywo</b> z ograniczoną liczbą miejsc na auli UZ,
+        <li><b>on-line</b> bez ograniczeń. Treść dostępna na żywo na kanale <a href="https://www.youtube.com/user/DTPLtd/featured" target="_blank"/>YouTube DTP</a>
+    </ul>
+
+
+<p><a href="https://www.dtpoland.com/newsroom/software-is-cool-spring-2022/"><img class="center" src="http://zielona-gora-jug.github.io/images/soft_cool2.png" width="330"></a></p>
+
+<p>Więcej szczegółów na:</p>
+
+<ul>
+<li><a href="https://www.dtpoland.com/newsroom/software-is-cool-spring-2022/" target="_blank">strona firmowa DTP</a> 
+<li><a href="https://www.facebook.com/events/498835651691112/?ref=newsfeed" target="_blank">Facebook, wydarzenie</a> 
+<li><a href="https://www.linkedin.com/events/softwareiscool-vol-46910223041348141057/about/" target="_blank">Linkedin, wydarzenie</a> 
+</ul>
+
+
+<p>Zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nowy termin spotkania lutowego]]></title>
@@ -210,7 +239,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#x6e;&#x65;&#117;&#114;&#x6f;&#x6e;&#102;&#111;&#x75;&#110;&#x64;&#97;&#116;&#105;&#111;&#x6e;&#x40;&#115;&#x6d;&#97;&#114;&#x74;&#111;&#97;&#107;&#x70;&#x72;&#x6f;&#106;&#x65;&#x63;&#116;&#115;&#x2e;&#99;&#x6f;&#109;">&#x6e;&#x65;&#117;&#x72;&#x6f;&#110;&#x66;&#x6f;&#117;&#110;&#100;&#97;&#x74;&#105;&#x6f;&#110;&#x40;&#x73;&#109;&#97;&#114;&#x74;&#x6f;&#x61;&#107;&#x70;&#114;&#111;&#x6a;&#x65;&#99;&#116;&#x73;&#46;&#x63;&#111;&#109;</a><br>
+Kontakt: <a href="&#109;&#x61;&#x69;&#108;&#116;&#111;&#58;&#110;&#101;&#x75;&#114;&#111;&#110;&#x66;&#x6f;&#117;&#x6e;&#x64;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#64;&#x73;&#109;&#x61;&#x72;&#116;&#x6f;&#97;&#107;&#112;&#x72;&#111;&#x6a;&#101;&#x63;&#x74;&#115;&#46;&#x63;&#111;&#109;">&#110;&#101;&#x75;&#114;&#x6f;&#110;&#x66;&#111;&#x75;&#x6e;&#100;&#x61;&#x74;&#105;&#111;&#x6e;&#x40;&#115;&#x6d;&#x61;&#114;&#x74;&#111;&#97;&#107;&#x70;&#114;&#x6f;&#x6a;&#101;&#x63;&#x74;&#115;&#46;&#x63;&#111;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -661,49 +690,6 @@ Więcej informacji: <a href="https://segfault.events/unconference2021/" target="
 
 <p>AGENDA na Was czeka! 👉 <a href="https://tiny.pl/rk91d">https://tiny.pl/rk91d</a> Jako #Community Partner mamy dla Was 15% zniżki na bilety! Wpisz 👉 JUGZG_AT_4DEV21 by w koszyku naliczył się ekstra rabat i zgarnij swój bilet na #Festiwal! 🔥 <a href="https://tiny.pl/rk919">https://tiny.pl/rk919</a>
 <i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Festiwal 4Developers]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2021/02/05/festiwal-4developers/"/>
-    <updated>2021-02-05T18:56:25+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2021/02/05/festiwal-4developers</id>
-    <content type="html"><![CDATA[<p>Jesteśmy partnerem festiwalu 4Developers. Polecamy Waszej uwadze i samą imprezę, i CFP.</p>
-
-<p><a href="https://cfp.4developers.org.pl/warszawa-2021/"><img class="center" src="http://zielona-gora-jug.github.io/images/4developers_online2.jpg"></a></p>
-
-<p><i>
-Cała branża #IT spotka się ponownie w jednym miejscu w cyberprzestrzeni! 🎆</p>
-
-<p>Kiedy? Już 24-27 maja na @4Developers! 👩‍💻👨‍💻</p>
-
-<p>4Developers2021 to:<br>
-☘️ Aż 14 ścieżek tematycznych i 4 dni Festiwalu!<br>
-☘️ Dostęp do nagrań jeszcze przez miesiąc po konferencji<br>
-☘️ Topowi eksperci na wirtualnej scenie i hot talki z pogranicza różnych języków programowania<br>
-☘️ #4Devowa rozrywka i networking - czyli konkursy z nagrodami, strefa partnerska, kanały do dyskusji i wiele więcej!<br></p>
-
-<p>Jako #Community Partner, zachęcamy Was do wzięcia udziału w tym świetnym wydarzeniu 👀, a także… do wysyłania zgłoszeń w ramach #CFP, które trwa do 15 lutego!⏰ Nie przegap świetnej okazji, by sprawdzić się na dużej scenie i podzielić wiedzą z otwartą publicznością Festiwalu! 🦸‍♂️📨</p>
-
-<p>RadaProgramowa czeka na prezentacje z zakresu:<br>
-▪️ .NET<br>
-▪️ Architektury aplikacji<br>
-▪️ Java<br>
-▪️ JavaScript<br>
-▪️ Frontend/UI<br>
-▪️ Mobile<br>
-▪️ PHP<br>
-▪️ DevOps<br>
-▪️ Testerska<br>
-▪️ Cloud<br>
-▪️ Machine Learning<br>
-▪️ Security<br>
-▪️ Soft Skills &amp; Business Relations<br></p>
-
-<p>Zgłoś się 👉<a href="https://cfp.4developers.org.pl/warszawa-2021" target="_blank">tutaj!</a></p>
-
-<p></i></p>
 ]]></content>
   </entry>
   
