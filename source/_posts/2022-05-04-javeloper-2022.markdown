@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Javeloper 2022"
+date: 2022-05-04 18:28:34 +0200
+comments: true
+categories: 
+---
+
+Nasze kolejne spotkanie odbędzie się 25-ego maja. W międzyczasie zapraszamy na bezpłatną konferencję Javeloper. Poniżej słowo od organizatorów.
+
+[{% img center /images/javeloper22.png 330 %}](https://javeloper.pl/)
+
+<i>
+Javeloper 2022 (online) to największa polska konferencja poświęcona Java. W tym roku konferencja odbywa się w dniu 12.05.2022 roku w formie transmisji online. Skierowana jest do architektów, developerów, devopsów, specjalistów od bezpieczeństwa, specjalistów cloud i big data. Konferencja zapewnia najwyższy poziom wykładów prowadzonych przez największe polskie gwiazdy związane z Javą oraz z prelegentów wiodących firm zajmujących się Java w Polsce. Podczas konferencji na swoim wirtualnych stoiskach zaprezentują się jedynie uznane i innowacyjne firmy informatyczne, których obecność zwiększa rangę wydarzenia.
+
+W trakcie trwania konferencji odbędą się Wirtualne Targi Pracy Javeloper, na których interaktywnie nawiążesz kontakt z firmami.
+
+<b>Rejestracja i udział w konferencji są w pełni bezpłatne. Link do rejestracji na wydarzenie: <a href="https://www.javeloper.pl" target="_blank">www.javeloper.pl</a></b> 
+
+Ze względu na sytuację panującą na świecie, konferencja odbędzie się w formie online. Spodziewamy się ponad 2000 uczestników z całej polski! Serdecznie zapraszamy do udziału wszystkich chętnych! 
+
+</i>
