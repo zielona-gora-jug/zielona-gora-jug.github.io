@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-03-23T07:56:19+01:00</updated>
+  <updated>2022-05-04T18:42:47+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Javeloper 2022]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/05/04/javeloper-2022/"/>
+    <updated>2022-05-04T18:28:34+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/05/04/javeloper-2022</id>
+    <content type="html"><![CDATA[<p>Nasze kolejne spotkanie odbędzie się 25-ego maja. W międzyczasie zapraszamy na bezpłatną konferencję Javeloper. Poniżej słowo od organizatorów.</p>
+
+<p><a href="https://javeloper.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/javeloper22.png" width="330"></a></p>
+
+<p><i>
+Javeloper 2022 (online) to największa polska konferencja poświęcona Java. W tym roku konferencja odbywa się w dniu 12.05.2022 roku w formie transmisji online. Skierowana jest do architektów, developerów, devopsów, specjalistów od bezpieczeństwa, specjalistów cloud i big data. Konferencja zapewnia najwyższy poziom wykładów prowadzonych przez największe polskie gwiazdy związane z Javą oraz z prelegentów wiodących firm zajmujących się Java w Polsce. Podczas konferencji na swoim wirtualnych stoiskach zaprezentują się jedynie uznane i innowacyjne firmy informatyczne, których obecność zwiększa rangę wydarzenia.</p>
+
+<p>W trakcie trwania konferencji odbędą się Wirtualne Targi Pracy Javeloper, na których interaktywnie nawiążesz kontakt z firmami.</p>
+
+<p><b>Rejestracja i udział w konferencji są w pełni bezpłatne. Link do rejestracji na wydarzenie: <a href="https://www.javeloper.pl" target="_blank">www.javeloper.pl</a></b></p>
+
+<p>Ze względu na sytuację panującą na świecie, konferencja odbędzie się w formie online. Spodziewamy się ponad 2000 uczestników z całej polski! Serdecznie zapraszamy do udziału wszystkich chętnych!</p>
+
+<p></i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Software is Cool - wiosna 2022]]></title>
@@ -239,7 +261,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#109;&#x61;&#x69;&#108;&#116;&#111;&#58;&#110;&#101;&#x75;&#114;&#111;&#110;&#x66;&#x6f;&#117;&#x6e;&#x64;&#x61;&#x74;&#x69;&#x6f;&#x6e;&#64;&#x73;&#109;&#x61;&#x72;&#116;&#x6f;&#97;&#107;&#112;&#x72;&#111;&#x6a;&#101;&#x63;&#x74;&#115;&#46;&#x63;&#111;&#109;">&#110;&#101;&#x75;&#114;&#x6f;&#110;&#x66;&#111;&#x75;&#x6e;&#100;&#x61;&#x74;&#105;&#111;&#x6e;&#x40;&#115;&#x6d;&#x61;&#114;&#x74;&#111;&#97;&#107;&#x70;&#114;&#x6f;&#x6a;&#101;&#x63;&#x74;&#115;&#46;&#x63;&#111;&#109;</a><br>
+Kontakt: <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x6e;&#x65;&#117;&#x72;&#111;&#110;&#102;&#111;&#x75;&#110;&#100;&#97;&#x74;&#105;&#111;&#x6e;&#64;&#x73;&#109;&#97;&#x72;&#116;&#111;&#x61;&#107;&#112;&#114;&#x6f;&#x6a;&#101;&#x63;&#x74;&#x73;&#46;&#99;&#x6f;&#109;">&#110;&#101;&#117;&#x72;&#111;&#110;&#102;&#111;&#117;&#x6e;&#100;&#x61;&#116;&#105;&#111;&#110;&#64;&#x73;&#x6d;&#97;&#x72;&#116;&#111;&#x61;&#x6b;&#x70;&#x72;&#x6f;&#x6a;&#101;&#99;&#116;&#115;&#46;&#x63;&#x6f;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -660,36 +682,6 @@ Więcej informacji: <a href="https://segfault.events/unconference2021/" target="
 <p>Tegoroczna edycja Lubelskich Dni Informatyki odbędzie się w sobotę 29 maja. Aby być na bieżąco obserwujcie @Lubelskie Dni Informatyki w mediach społecznościowych i na stronie internetowej <a href="https://www.ldi.org.pl" target="_blank">www.ldi.org.pl</a>.</p>
 
 <p></i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Festiwal 4Developers 2021]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2021/03/24/festiwal-4developers-2021/"/>
-    <updated>2021-03-24T19:20:57+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2021/03/24/festiwal-4developers-2021</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem majowego festiwalu 4Developers. Poniżej wiadomość od organizatorów.</p>
-
-<p><a href="https://tiny.pl/rk91d"><img class="center" src="http://zielona-gora-jug.github.io/images/4DEV_JUGZG.png"></a></p>
-
-<p><i></p>
-
-<p>Festiwal @4Developers zbliża się wielkimi krokami! ⭐️ Widzimy się #online w dniach 24-27 maja!</p>
-
-<p>W tegorocznej agendzie Festiwalu:</p>
-
-<p>💚 ponad 100 wykładów</p>
-
-<p>💚 14 ścieżek tematycznych</p>
-
-<p>💚 wielki powrót ścieżki #Security</p>
-
-<p>💚 nowość: ścieżka #Frontend / #UI</p>
-
-<p>💚 znani eksperci z nowymi tematami, a także świeża krew na #4Devowej scenie 🚀</p>
-
-<p>AGENDA na Was czeka! 👉 <a href="https://tiny.pl/rk91d">https://tiny.pl/rk91d</a> Jako #Community Partner mamy dla Was 15% zniżki na bilety! Wpisz 👉 JUGZG_AT_4DEV21 by w koszyku naliczył się ekstra rabat i zgarnij swój bilet na #Festiwal! 🔥 <a href="https://tiny.pl/rk919">https://tiny.pl/rk919</a>
-<i></p>
 ]]></content>
   </entry>
   
