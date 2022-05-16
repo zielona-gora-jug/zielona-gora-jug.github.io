@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Sponsorzy - Zielona Góra JUG</title>
+  <title>Spotkanie majowe - CQRS i EventSourcing oraz rozumienie domen - Zielona Góra JUG</title>
   <meta name="author" content="Zielona Góra JUG">
 
   
-  <meta name="description" content=" Sponsorzy Tweet ">
+  <meta name="description" content="Wraz ze spotkaniem majowym w gronie naszych sponsorów witamy firmę Avenga! Na spotkaniu wystąpi jej reprezentat a zarazem nasz były współorganizator &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://zielona-gora-jug.github.io/sponsors">
+  <link rel="canonical" href="http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Zielona Góra JUG" type="application/atom+xml">
@@ -85,48 +85,100 @@
   <div id="main">
     <div id="content">
       <div>
-<article role="article">
+<article class="hentry" role="article">
   
   <header>
-    <h1 class="entry-title">Sponsorzy</h1>
     
-  </header>
-  
-  <p><a href="http://www.astec.net/pl/"><img class="left" src="/images/astec.png" width="242" height="85" title="Astec" ></a>
-<a href="http://fluidagency.pl/"><img class="left" src="/images/fluid.png" title="Fluid" ></a>
-<a href="https://www.globallogic.com/"><img class="left" src="/images/global_logic.jpg" width="260" height="83" title="GlobalLogic" ></a>
-<a href="http://softwaremill.com/"><img class="left" src="/images/softwaremill.png" title="SoftwareMill" ></a>
-<a href="http://streamsoft.pl/"><img class="left" src="/images/streamsoft2019.png" title="Streamsoft" ></a>
-<a href="http://oreilly.com"><img class="left" src="/images/oreilly.gif" title="O'Reilly" ></a>
-<a href="http://jetbrains.com"><img class="left" src="/images/jetbrains.png" title="JetBrains" ></a>
-<a href="http://cinkciarz.pl"><img class="left" src="/images/cinkciarz.png" title="Cinkciarz.pl - Kantor Internetowy" ></a>
-<a href="http://manning.com/"><img class="left" src="/images/manning.jpg" title="Manning Publications" ></a>
-<a href="http://nofluffjobs.com/"><img class="left" src="/images/nofluffjobs.jpg" width="468" height="102" title="nofluffjobs - oferty pracy dla specjalistów IT" alt="nofluffjobs - oferty pracy dla informatyków"></a>
-<a href="http://adbglobal.com/"><img class="left" src="/images/adb.jpg" width="350" height="100" title="Advanced Digital Broadcast" ></a>
-<a href="http://fibaro.com/"><img class="left" src="/images/fibaro.jpg" width="350" height="100" title="Fibaro" ></a>
-<a href="http://ocadotechnology.com/"><img class="left" src="/images/ocado.png" width="350" height="150" title="Ocado Technology" ></a>
-<a href="http://weit.uz.zgora.pl/"><img class="left" src="/images/wiea.png" width="310" height="110" title="Wydział Informatyki, Elektrotechniki i Automatyki UZ" ></a>
-<a href="http://metapack.com/"><img class="left" src="/images/metapack.jpg" width="310" height="110" title="MetaPack" ></a>
-<a href="http://www.sygnitysbs.pl/"><img class="left" src="/images/sygnity.jpg" width="310" height="110" title="Sygnity Business Solutions S.A." ></a>
-<a href="https://sportano.pl"><img class="left" src="/images/sportano.jpg" width="310" height="110" title="Sportano" ></a>
-<a href="https://avenga.com"><img class="left" src="/images/Avenga.jpg" width="310" height="110" title="Avenga" ></a></p>
+      <h1 class="entry-title">Spotkanie majowe - CQRS i EventSourcing oraz rozumienie domen</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
 
   
-    <footer>
+
+
+<time datetime="2022-05-16T20:22:56+02:00" pubdate data-updated="true">May 16<sup>th</sup>, 2022</time>
+        
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://zielona-gora-jug.github.io">Komentarze</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Wraz ze spotkaniem majowym w gronie naszych sponsorów witamy firmę <a href="https://www.avenga.com/pl/o-avenga/o-nas/" target="_blank"><b>Avenga</b></a>! Na spotkaniu wystąpi jej reprezentat a zarazem nasz były współorganizator - <b>Dawid Maksylewicz</b>. Tematy będą dwa - jeden duży techniczny i drugi - mniejszy - z elementami miękkimi. Pora stała, miejsce również - klub WySPa przy ul. Wojska Polskiego, godz. 19:00, środa 25 maja. Serdecznie zapraszamy!</p>
+
+<p><a href="https://www.avenga.com/pl/o-avenga/o-nas/"><img class="center" src="/images/Avenga.jpg" width="330" height="130" title="Avenga" ></a></p>
+
+<p><b>Wprowadzenie do wzorców architektonicznych CQRS i EventSourcing</b></p>
+
+<p>Monolit, trzy warstwy, CRUD, architektoniczny klasyk, gdzie ten sam model używany jest do zapisu oraz odczytu danych. Proste do zaimplementowania, łatwe do utrzymania. Czy równie łatwe przy złożonych systemach, rozproszonych? Jakie dostrzegamy wyzwania, jakie są możliwe rozwiązania przy tego typu skomplikowanej architekturze? Podczas prezentacji, będzie okazja porozmawiać o dwóch wzorcach, które silnie związane są z systemami opartymi o zdarzenia. Przyjrzymy się przykładowej implementacji, wspomnianych wzorców, przy wykorzystaniu framework&#8217;a Axon.</p>
+
+<p><b>Crunching domain like a pro</b></p>
+
+<p>W codziennej pracy koncentrujemy się na kodzie. Ale co począć, gdy przychodzi nam rozmawiać z biznesem i rozgryzać nieznaną nam domenę i procesy? Na tej prezentacji dowiesz się jak zmierzyć się z tym zadaniem jak profesjonalista.</p>
+
+<p><b>Dawid Maksylewicz</b> - ex-ZG-JUG co-lead, starszy inżynier oprogramowania. Od sześciu lat związany z firmą Avenga, gdzie na codzień implementuje złożone techniczne jak i domenowo systemy dla branży biotechnologicznej. Zainteresowany EDA, DDD, CRQS, EventSourcing.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
       
-      
-        <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://zielona-gora-jug.github.io/sponsors/index.html" data-via="" data-counturl="http://zielona-gora-jug.github.io/sponsors/index.html" >Tweet</a>
+
+<span class="byline author vcard">Autor: <span class="fn">Zielona Góra JUG</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2022-05-16T20:22:56+02:00" pubdate data-updated="true">May 16<sup>th</sup>, 2022</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing/" data-via="" data-counturl="http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing/" >Tweet</a>
   
   
   
 </div>
 
+    
+    <p class="meta">
       
-    </footer>
-  
+        <a class="basic-alignment left" href="/blog/2022/05/04/javeloper-2022/" title="Previous Post: Javeloper 2022">&laquo; Javeloper 2022</a>
+      
+      
+    </p>
+  </footer>
 </article>
+
+  <section>
+    <h1>Komentarze</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
 
 </div>
 
@@ -151,7 +203,10 @@
       var disqus_shortname = 'zgjug';
       
         
-        var disqus_script = 'count.js';
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing/';
+        var disqus_url = 'http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing/';
+        var disqus_script = 'embed.js';
       
     (function () {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;

@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-05-04T18:42:47+02:00</updated>
+  <updated>2022-05-16T20:32:40+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie majowe - CQRS i EventSourcing oraz rozumienie domen]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing/"/>
+    <updated>2022-05-16T20:22:56+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing</id>
+    <content type="html"><![CDATA[<p>Wraz ze spotkaniem majowym w gronie naszych sponsorów witamy firmę <a href="https://www.avenga.com/pl/o-avenga/o-nas/" target="_blank"><b>Avenga</b></a>! Na spotkaniu wystąpi jej reprezentat a zarazem nasz były współorganizator - <b>Dawid Maksylewicz</b>. Tematy będą dwa - jeden duży techniczny i drugi - mniejszy - z elementami miękkimi. Pora stała, miejsce również - klub WySPa przy ul. Wojska Polskiego, godz. 19:00, środa 25 maja. Serdecznie zapraszamy!</p>
+
+<p><a href="https://www.avenga.com/pl/o-avenga/o-nas/"><img class="center" src="http://zielona-gora-jug.github.io/images/Avenga.jpg" width="330" height="130" title="Avenga" ></a></p>
+
+<p><b>Wprowadzenie do wzorców architektonicznych CQRS i EventSourcing</b></p>
+
+<p>Monolit, trzy warstwy, CRUD, architektoniczny klasyk, gdzie ten sam model używany jest do zapisu oraz odczytu danych. Proste do zaimplementowania, łatwe do utrzymania. Czy równie łatwe przy złożonych systemach, rozproszonych? Jakie dostrzegamy wyzwania, jakie są możliwe rozwiązania przy tego typu skomplikowanej architekturze? Podczas prezentacji, będzie okazja porozmawiać o dwóch wzorcach, które silnie związane są z systemami opartymi o zdarzenia. Przyjrzymy się przykładowej implementacji, wspomnianych wzorców, przy wykorzystaniu framework&#8217;a Axon.</p>
+
+<p><b>Crunching domain like a pro</b></p>
+
+<p>W codziennej pracy koncentrujemy się na kodzie. Ale co począć, gdy przychodzi nam rozmawiać z biznesem i rozgryzać nieznaną nam domenę i procesy? Na tej prezentacji dowiesz się jak zmierzyć się z tym zadaniem jak profesjonalista.</p>
+
+<p><b>Dawid Maksylewicz</b> - ex-ZG-JUG co-lead, starszy inżynier oprogramowania. Od sześciu lat związany z firmą Avenga, gdzie na codzień implementuje złożone techniczne jak i domenowo systemy dla branży biotechnologicznej. Zainteresowany EDA, DDD, CRQS, EventSourcing.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Javeloper 2022]]></title>
@@ -261,7 +282,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x6e;&#x65;&#117;&#x72;&#111;&#110;&#102;&#111;&#x75;&#110;&#100;&#97;&#x74;&#105;&#111;&#x6e;&#64;&#x73;&#109;&#97;&#x72;&#116;&#111;&#x61;&#107;&#112;&#114;&#x6f;&#x6a;&#101;&#x63;&#x74;&#x73;&#46;&#99;&#x6f;&#109;">&#110;&#101;&#117;&#x72;&#111;&#110;&#102;&#111;&#117;&#x6e;&#100;&#x61;&#116;&#105;&#111;&#110;&#64;&#x73;&#x6d;&#97;&#x72;&#116;&#111;&#x61;&#x6b;&#x70;&#x72;&#x6f;&#x6a;&#101;&#99;&#116;&#115;&#46;&#x63;&#x6f;&#109;</a><br>
+Kontakt: <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#x6e;&#101;&#x75;&#x72;&#x6f;&#110;&#102;&#x6f;&#x75;&#x6e;&#100;&#97;&#116;&#105;&#111;&#110;&#x40;&#x73;&#109;&#x61;&#x72;&#x74;&#111;&#x61;&#x6b;&#112;&#114;&#x6f;&#x6a;&#x65;&#99;&#116;&#x73;&#x2e;&#x63;&#111;&#109;">&#x6e;&#x65;&#x75;&#x72;&#x6f;&#x6e;&#x66;&#111;&#117;&#x6e;&#x64;&#x61;&#x74;&#105;&#111;&#x6e;&#64;&#x73;&#109;&#97;&#114;&#x74;&#x6f;&#x61;&#107;&#112;&#114;&#x6f;&#x6a;&#101;&#x63;&#x74;&#115;&#46;&#99;&#x6f;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -660,28 +681,6 @@ Segfault wraca do gry! W znanej formule Segfault Unconference! Czas się spotka�
 
 <p></i>
 Więcej informacji: <a href="https://segfault.events/unconference2021/" target="_blank">na stronie organizatora</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Lubelskie Dni Informatyki]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2021/04/12/lubelskie-dni-informatyki/"/>
-    <updated>2021-04-12T19:57:00+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2021/04/12/lubelskie-dni-informatyki</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem Lubelskich Dni Informatyki. Tegoroczna edycja jest z oczywistych względów zdalna, więc wzięcie udziału będzie ułatwione mimo dzielącej nas odległości. Poniżej informacja od organizatorów.</p>
-
-<p><a href="https://www.ldi.org.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/ldi.png"></a></p>
-
-<p><i>
-@Lubelskie Dni Informatyki to największa konferencja z branży IT we wschodniej części Polski. Najbliższa edycja będzie już po raz XIII organizowana przez @Koło Naukowe Informatyków działające przy Wydziale Nauk Ścisłych i Nauk o Zdrowiu Katolickiego Uniwersytetu Lubelskiego Jana Pawła II.</p>
-
-<p>Wydarzenie co roku gromadzi rzesze entuzjastów informatyki. Ostatnia edycja LDI liczyła ponad 1250 zarejestrowanych uczestników. Konferencja skierowana jest do wszystkich miłośników nowych technologii z zakresu IT żądnych wiedzy i posiadających chęć zdobycia nowych umiejętności. Wśród uczestników nie zabraknie zarówno studentów dopiero rozpoczynających przygodę z IT, jak i już doświadczonych specjalistów. Tegoroczna edycja będzie obfitować w ponad 31 godzin prelekcji i warsztatów prowadzonych na żywo. Dodatkowo podczas zdalnych targów pracy będziecie mieli możliwość spotkać się z najlepszymi firmami IT z Lubelszczyzny i nie tylko.</p>
-
-<p>Każda edycja konferencji była bezpłatna i to pozostaje niezmienne. Z przyczyn epidemiologicznych tegoroczna edycja będzie pierwszą w historii LDI, która odbędzie się online. Aby zapewnić najlepsze odczucia czerpane z udziału w wydarzeniu, organizatorzy postanowili wykorzystać profesjonalną platformę posiadającą innowacyjne rozwiązania, która wszystkie elementy wydarzeń online koncentruje w jednym miejscu. Przygotujcie się na inspirujące warsztaty oraz ciekawe prelekcje prowadzone przez najlepszych prelegentów będących specjalistami w każdej z pięciu najpopularniejszych ścieżek technologicznych!</p>
-
-<p>Tegoroczna edycja Lubelskich Dni Informatyki odbędzie się w sobotę 29 maja. Aby być na bieżąco obserwujcie @Lubelskie Dni Informatyki w mediach społecznościowych i na stronie internetowej <a href="https://www.ldi.org.pl" target="_blank">www.ldi.org.pl</a>.</p>
-
-<p></i></p>
 ]]></content>
   </entry>
   
