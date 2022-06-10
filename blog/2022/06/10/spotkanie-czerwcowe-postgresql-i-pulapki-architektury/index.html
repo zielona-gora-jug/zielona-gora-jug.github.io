@@ -1,0 +1,248 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Spotkanie czerwcowe - PostgreSQL i pułapki architektury - Zielona Góra JUG</title>
+  <meta name="author" content="Zielona Góra JUG">
+
+  
+  <meta name="description" content="Sezon 2021/2022 zamkniemy 22 czerwca spotkaniem w klubie WySPa. Rozpoczniemy o 19:00 a sponsorem będzie DTP - innowacyjny Software &amp; Hardware dla &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://zielona-gora-jug.github.io/blog/2022/06/10/spotkanie-czerwcowe-postgresql-i-pulapki-architektury">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Zielona Góra JUG" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-61988132-1']);
+    //_gaq.push(['_setDomainName','github.io']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+	<h1 class="header">
+  		<a class="logo" href="/"></a>
+  		<div class="title">Zielona Góra JUG</div>
+  	</h1>
+</hgroup>
+
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:zielona-gora-jug.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Szukaj"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archiwum</a></li>
+  <li><a href="http://jug.zgora.pl/forum" target="_blank">Grupa dyskusyjna</a></li>
+  <li><a href="http://jug.zgora.pl/meetup" target="_blank">Meetup</a></li>
+  <li><a href="https://github.com/zielona-gora-jug" target="_blank">GitHub</a></li>
+  <li><a href="/sponsors/">Sponsorzy</a></li>
+  <li><a href="/leaders/">Kontakt</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Spotkanie czerwcowe - PostgreSQL i pułapki architektury</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2022-06-10T20:59:14+02:00" pubdate data-updated="true">Jun 10<sup>th</sup>, 2022</time>
+        
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://zielona-gora-jug.github.io">Komentarze</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Sezon 2021/2022 zamkniemy 22 czerwca spotkaniem w klubie WySPa. Rozpoczniemy o 19:00 a sponsorem będzie <a href="https://dtpoland.com/" target="_blank">DTP</a> - innowacyjny Software &amp; Hardware dla Industry 4.0,  część Friedhelm Loh Group. W programie dwie prezentacje: jedna o PostgreSQL (&ldquo;<b>Do czego nadaje się PostgreSQL?</b>&rdquo;), a druga - o pułapkach architektury chmurowej (&ldquo;<b>Pułapki architektoniczne aplikacji chmurowej IoT</b>&rdquo;). Obydwie poprowadzą pracownicy sponsora. Będą to Krzysztof Ciebiera i Paweł Nowak.</p>
+
+<p>Zgodnie z naszą tradycją spotkanie kończące sezon może zakończyć się niespodzianką ;). Zalecana rejestracja <a href="https://www.meetup.com/zielona-gora-jug/events/286494553/" target="_blank">na Meetup</a>.</p>
+
+<p><a href="https://dtpoland.com/"><img class="center" src="/images/dtp.png" title="DTPoland" ></a></p>
+
+<!-- more -->
+
+
+<p><b>Do czego nadaje się PostgreSQL? - Krzysztof Ciebiera</b></p>
+
+<p>SQLowe bazy danych niedługo będą świętować 50-lecie. Czy ich rozwój zatrzymał się w XX wieku? Czy warto używać ich w nowych projektach? Co można uzyskać przy wykorzystaniu Postgresa? Postaram się częściowo odpowiedzieć na te pytania pokazując kierunki zmian, które zaszły w PostgreSQLu w ciągu ostatnich kilku lat.</p>
+
+<p><b>O prelegencie</b>: Absolwent informatyki na Uniwersytecie Warszawskim. Pracownik NoMagic Lab na UW i DTP w Zielonej Górze. Główny programista w Państwowej Komisji Wyborczej w latach 2015-2018. Specjalista Baz Danych - jego kurs z zaawansowanych baz danych jest dostępny <a href="https://www.youtube.com/watch?v=6960KZKd2iY" target="_blank">YouTube</a>. Współautor patentów i publikacji naukowych z zakresu uczenia maszynowego. W wolnym czasie jeździ pod namiot, najchętniej w Beskid Żywiecki.</p>
+
+<p><b>Pułapki architektoniczne aplikacji chmurowej IoT - Paweł Nowak</b></p>
+
+<p>Może się wydawać, że przy dzisiejszej obfitości narzędzi i rozwiązań oraz tonach tutoriali i książek, pisanie aplikacji chmurowej nie było nigdy łatwiejsze. Skąd zatem biorą się projekty, które ani nie mieszczą się w budżecie, ani nie błyszczą jakością? Gdzie tak naprawdę czai się niebezpieczeństwo i gdzie znajdziemu błędy w myśleniu developerów o chmurze? Czy udział komponentu IoT dorzuca nowe problemy? W tej prezentacji znajdziecie kilka z życia wziętych uwag, które być może pozwolą Wam na zaoszczędzeniu paru roboczotygodni i opakowań melisy.</p>
+
+<p><b>O prelegencie</b>: Od 17 lat w branży, z czego 15 lat w developerce. Czasem programista (czasem Java, czasem C#, czasem PHP, czasem JavaScript), czasem analityk, czasem lider techniczny. Zawsze starający się dać z siebie jak najwięcej. W wolnych chwilach walczy z backlogiem na półce z książkami i na playliście nowości rockowych. Miłośnik mikrowypraw: na dwóch kołach na nizinie lub na dwóch nogach w górach.</p>
+
+<p><b>O sponsorze:</b> DTP (Digital Technology Poland) tworzy innowacyjny Software &amp; Hardware dla Industry 4.0. Firma skupia się na zagadnieniach związanych z aplikacjami chmurowymi, sztuczną inteligencją, elektroniką, automatyką, robotyką, Big Data, IoT i embedded. Zatrudnia już ponad 140 ekspertów gotowych zrealizować projekt od pomysłu do finalnego produktu. DTP jest częścią Friedhelm Loh Group, właściciela dużych spółek technologicznych m.in. Rittal i Eplan, posiadającego już blisko 100 oddziałów na całym świecie.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Autor: <span class="fn">Zielona Góra JUG</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2022-06-10T20:59:14+02:00" pubdate data-updated="true">Jun 10<sup>th</sup>, 2022</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://zielona-gora-jug.github.io/blog/2022/06/10/spotkanie-czerwcowe-postgresql-i-pulapki-architektury/" data-via="" data-counturl="http://zielona-gora-jug.github.io/blog/2022/06/10/spotkanie-czerwcowe-postgresql-i-pulapki-architektury/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing/" title="Previous Post: Spotkanie majowe - CQRS i EventSourcing oraz rozumienie domen">&laquo; Spotkanie majowe - CQRS i EventSourcing oraz rozumienie domen</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Komentarze</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2022 - Zielona Góra JUG -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'zgjug';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://zielona-gora-jug.github.io/blog/2022/06/10/spotkanie-czerwcowe-postgresql-i-pulapki-architektury/';
+        var disqus_url = 'http://zielona-gora-jug.github.io/blog/2022/06/10/spotkanie-czerwcowe-postgresql-i-pulapki-architektury/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-05-16T20:43:08+02:00</updated>
+  <updated>2022-06-10T21:21:57+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie czerwcowe - PostgreSQL i pułapki architektury]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/06/10/spotkanie-czerwcowe-postgresql-i-pulapki-architektury/"/>
+    <updated>2022-06-10T20:59:14+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/06/10/spotkanie-czerwcowe-postgresql-i-pulapki-architektury</id>
+    <content type="html"><![CDATA[<p>Sezon 2021/2022 zamkniemy 22 czerwca spotkaniem w klubie WySPa. Rozpoczniemy o 19:00 a sponsorem będzie <a href="https://dtpoland.com/" target="_blank">DTP</a> - innowacyjny Software &amp; Hardware dla Industry 4.0,  część Friedhelm Loh Group. W programie dwie prezentacje: jedna o PostgreSQL (&ldquo;<b>Do czego nadaje się PostgreSQL?</b>&rdquo;), a druga - o pułapkach architektury chmurowej (&ldquo;<b>Pułapki architektoniczne aplikacji chmurowej IoT</b>&rdquo;). Obydwie poprowadzą pracownicy sponsora. Będą to Krzysztof Ciebiera i Paweł Nowak.</p>
+
+<p>Zgodnie z naszą tradycją spotkanie kończące sezon może zakończyć się niespodzianką ;). Zalecana rejestracja <a href="https://www.meetup.com/zielona-gora-jug/events/286494553/" target="_blank">na Meetup</a>.</p>
+
+<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtp.png" title="DTPoland" ></a></p>
+
+<!-- more -->
+
+
+<p><b>Do czego nadaje się PostgreSQL? - Krzysztof Ciebiera</b></p>
+
+<p>SQLowe bazy danych niedługo będą świętować 50-lecie. Czy ich rozwój zatrzymał się w XX wieku? Czy warto używać ich w nowych projektach? Co można uzyskać przy wykorzystaniu Postgresa? Postaram się częściowo odpowiedzieć na te pytania pokazując kierunki zmian, które zaszły w PostgreSQLu w ciągu ostatnich kilku lat.</p>
+
+<p><b>O prelegencie</b>: Absolwent informatyki na Uniwersytecie Warszawskim. Pracownik NoMagic Lab na UW i DTP w Zielonej Górze. Główny programista w Państwowej Komisji Wyborczej w latach 2015-2018. Specjalista Baz Danych - jego kurs z zaawansowanych baz danych jest dostępny <a href="https://www.youtube.com/watch?v=6960KZKd2iY" target="_blank">YouTube</a>. Współautor patentów i publikacji naukowych z zakresu uczenia maszynowego. W wolnym czasie jeździ pod namiot, najchętniej w Beskid Żywiecki.</p>
+
+<p><b>Pułapki architektoniczne aplikacji chmurowej IoT - Paweł Nowak</b></p>
+
+<p>Może się wydawać, że przy dzisiejszej obfitości narzędzi i rozwiązań oraz tonach tutoriali i książek, pisanie aplikacji chmurowej nie było nigdy łatwiejsze. Skąd zatem biorą się projekty, które ani nie mieszczą się w budżecie, ani nie błyszczą jakością? Gdzie tak naprawdę czai się niebezpieczeństwo i gdzie znajdziemu błędy w myśleniu developerów o chmurze? Czy udział komponentu IoT dorzuca nowe problemy? W tej prezentacji znajdziecie kilka z życia wziętych uwag, które być może pozwolą Wam na zaoszczędzeniu paru roboczotygodni i opakowań melisy.</p>
+
+<p><b>O prelegencie</b>: Od 17 lat w branży, z czego 15 lat w developerce. Czasem programista (czasem Java, czasem C#, czasem PHP, czasem JavaScript), czasem analityk, czasem lider techniczny. Zawsze starający się dać z siebie jak najwięcej. W wolnych chwilach walczy z backlogiem na półce z książkami i na playliście nowości rockowych. Miłośnik mikrowypraw: na dwóch kołach na nizinie lub na dwóch nogach w górach.</p>
+
+<p><b>O sponsorze:</b> DTP (Digital Technology Poland) tworzy innowacyjny Software &amp; Hardware dla Industry 4.0. Firma skupia się na zagadnieniach związanych z aplikacjami chmurowymi, sztuczną inteligencją, elektroniką, automatyką, robotyką, Big Data, IoT i embedded. Zatrudnia już ponad 140 ekspertów gotowych zrealizować projekt od pomysłu do finalnego produktu. DTP jest częścią Friedhelm Loh Group, właściciela dużych spółek technologicznych m.in. Rittal i Eplan, posiadającego już blisko 100 oddziałów na całym świecie.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie majowe - CQRS i EventSourcing oraz rozumienie domen]]></title>
@@ -282,7 +312,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#110;&#101;&#x75;&#114;&#x6f;&#110;&#x66;&#x6f;&#117;&#110;&#x64;&#x61;&#x74;&#105;&#111;&#110;&#64;&#x73;&#x6d;&#97;&#x72;&#116;&#111;&#97;&#x6b;&#112;&#x72;&#111;&#106;&#x65;&#x63;&#116;&#x73;&#46;&#x63;&#x6f;&#109;">&#110;&#101;&#x75;&#114;&#x6f;&#110;&#x66;&#x6f;&#117;&#x6e;&#100;&#x61;&#x74;&#105;&#111;&#x6e;&#x40;&#115;&#109;&#x61;&#114;&#x74;&#111;&#x61;&#107;&#112;&#x72;&#x6f;&#x6a;&#101;&#x63;&#x74;&#115;&#46;&#99;&#x6f;&#x6d;</a><br>
+Kontakt: <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#110;&#101;&#117;&#x72;&#111;&#110;&#102;&#111;&#x75;&#110;&#100;&#97;&#116;&#x69;&#x6f;&#110;&#x40;&#x73;&#109;&#97;&#x72;&#116;&#x6f;&#x61;&#x6b;&#112;&#114;&#111;&#106;&#101;&#x63;&#116;&#115;&#x2e;&#99;&#111;&#109;">&#110;&#101;&#x75;&#114;&#111;&#x6e;&#102;&#111;&#117;&#110;&#x64;&#x61;&#116;&#105;&#x6f;&#x6e;&#x40;&#115;&#109;&#97;&#x72;&#116;&#111;&#x61;&#x6b;&#x70;&#114;&#111;&#x6a;&#101;&#99;&#x74;&#x73;&#x2e;&#99;&#x6f;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -656,31 +686,6 @@ Poniżej informacje od organizatorów.</p>
 
 <p>Serdecznie zapraszamy do udziału wszystkich chętnych!
     </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Segafult Unconference]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2021/08/05/segafult-unconference/"/>
-    <updated>2021-08-05T19:03:49+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2021/08/05/segafult-unconference</id>
-    <content type="html"><![CDATA[<p>Powoli wracają konferencje &ldquo;na żywo&rdquo;, a my jesteśmy ich partnerami! Poniżej informacja o Segfault Unconference w Krakowie, 6-ego i 7-ego września. Zapraszamy!</p>
-
-<p><a href="https://segfault.events/unconference2021/"><img class="center" src="http://zielona-gora-jug.github.io/images/Segfault_Unconference.png"></a></p>
-
-<p><i>
-Segfault wraca do gry! W znanej formule Segfault Unconference! Czas się spotkać!</p>
-
-<p>W dniach 6-7 września widzimy się w Krakowie podczas Segfault Unconference! Czas się spotkać na dobre.</p>
-
-<p>Segfault Unconference to dwa dni pełne inspiracji. Pierwszy dzień to prelekcje, które będą odpowiedziami na nurtujące Was pytania. To mnóstwo inspiracji i podpowiedzi nietypowych rozwiązań, na które czekacie. Drugi dzień to formuła Unconference, czyli wymiana doświadczeń oraz najlepsi prelegenci. To Wy wybieracie tematy! To czas na &ldquo;open space technology&rdquo; niekonferencję. Uzbrojeni w &ldquo;post it&rdquo; i pisaki, wspólnie nakreślimy agendę. Każde pytanie, które chcieliście zadać, każde pytanie, które do tej pory nie znalazło odpowiedzi, znajdzie się na tablicy pełnej karteczek i stanie się elementem agendy spotkania. Tego dnia, pod czujnym okiem zaproszonych gości, konferencyjnych wyjadaczy, ekspertów i przyjaciół będziemy dyskutować, podważać, dzielić się doświadczeniem i obalać status quo&hellip;</p>
-
-<p>Drugi dzień Segfault Unconference to przede wszystkim networking, nowe znajomości, ogrom wiedzy i doświadczenia, bez sztywnych ram konferencji.</p>
-
-<p>Czym w tym roku zaskoczy Segfault? Czy dowiemy się czym jest kryptonit i czego boją się programiści? Czy złożone systemy rozproszone można ujarzmić i co wspólnego z tym ma TLA+? A może chcecie dowiedzieć się jak komputery korzystają z Wikipedii i czym jest tajemniczy Query Service, od człowieka, który pracuje w Wikimedia? Przygotowaliśmy także historię niejednej refaktoryzacji systemu pewnej znanej sieci handlowej, rozmowy o wydajności, bazach danych i architekturze - wszystko na granicach technologii i systemów.</p>
-
-<p></i>
-Więcej informacji: <a href="https://segfault.events/unconference2021/" target="_blank">na stronie organizatora</a>.</p>
 ]]></content>
   </entry>
   
