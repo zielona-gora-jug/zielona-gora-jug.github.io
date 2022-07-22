@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-07-15T19:30:08+02:00</updated>
+  <updated>2022-07-22T19:45:28+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CloudBuilders]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/07/22/cloudbuilders/"/>
+    <updated>2022-07-22T19:42:37+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/07/22/cloudbuilders</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem konfrencji organizowanej przez Cloud Builders. 23 sierpnia organizują konferencję, z której wszelki dochód będzie przekazany na wsparcie Ukrainy. Zapraszamy do wzięcia udziału! Poniżej wiadomość od organizatorów.</p>
+
+<p><a href="https://www.cloud-builders.tech"><img class="center" src="http://zielona-gora-jug.github.io/images/CloudBuilders.png" width="350" height="350"></a></p>
+
+<p><i>
+👋 Hey! Let me invite you to Java Conf from Cloud Builders with 18 deep-dive Java talks!</p>
+
+<p>Featured global speakers will be talking about Kube-native development practices with Quarkus, Deploying to the cloud with GitHub Actions, Java after Eleven, Superfast JVM startup, Java Optimisation, testcontainers, Project Loom, Apache Pulsar to name a few.</p>
+
+<p>Where and when? Online on August 23.</p>
+
+<p>👉Join the conference for free OR get a charity ticket: <a href="https://www.cloud-builders.tech">https://www.cloud-builders.tech</a></p>
+
+<p>💙💛All profits from ticket sales will go to Ukrainian charity funds “Voices of Children”, “Razom”, “Nova Ukraine” and “Sirius”.</p>
+
+<p>Join us and let’s build together!
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JDD 2022]]></title>
@@ -326,7 +351,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#x3a;&#x6e;&#x65;&#x75;&#114;&#x6f;&#x6e;&#x66;&#x6f;&#117;&#110;&#x64;&#97;&#x74;&#105;&#111;&#110;&#x40;&#x73;&#109;&#97;&#x72;&#x74;&#x6f;&#97;&#x6b;&#112;&#x72;&#111;&#x6a;&#101;&#x63;&#116;&#x73;&#46;&#x63;&#111;&#109;">&#110;&#x65;&#117;&#114;&#x6f;&#x6e;&#x66;&#x6f;&#x75;&#x6e;&#x64;&#x61;&#x74;&#x69;&#111;&#110;&#64;&#115;&#109;&#x61;&#114;&#116;&#111;&#97;&#107;&#112;&#114;&#111;&#x6a;&#101;&#99;&#x74;&#115;&#x2e;&#x63;&#x6f;&#109;</a><br>
+Kontakt: <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x6e;&#x65;&#117;&#x72;&#111;&#110;&#x66;&#x6f;&#117;&#x6e;&#x64;&#97;&#116;&#105;&#111;&#x6e;&#64;&#x73;&#x6d;&#x61;&#x72;&#x74;&#x6f;&#x61;&#x6b;&#x70;&#114;&#x6f;&#x6a;&#101;&#x63;&#116;&#x73;&#x2e;&#99;&#x6f;&#109;">&#x6e;&#101;&#117;&#114;&#x6f;&#110;&#102;&#x6f;&#117;&#110;&#100;&#x61;&#x74;&#x69;&#111;&#110;&#64;&#115;&#x6d;&#97;&#114;&#x74;&#x6f;&#97;&#107;&#x70;&#x72;&#111;&#x6a;&#x65;&#99;&#116;&#x73;&#46;&#x63;&#x6f;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -597,85 +622,6 @@ and many more…!</p>
 
 <p>👉 <a href="https://eventory.cc/event/jdd-2021/tickets">https://eventory.cc/event/jdd-2021/tickets</a> 👈
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[4DEV Live 2021]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2021/09/21/4dev-live-2021/"/>
-    <updated>2021-09-21T18:57:58+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2021/09/21/4dev-live-2021</id>
-    <content type="html"><![CDATA[<p>Mamy przyjemność przedstawić kolejną imprezę 4Developers. Tym razem jest to jedeń dzień i sześć ścieżek. Poniżej komunikat organizatorów.</p>
-
-<p><a href="https://4developers.org.pl/live-2021-pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/4dev2021.png"></a></p>
-
-<p><i></p>
-
-<p><b>
-    Po sukcesie wiosennej edycji, ekipa 4Developers wraca z kolejną konferencją
-online. W 4Developers Online 2021 wzięło udział 1500 uczestników oraz 80
-prelegentów, 21 firmy partnerskie wsparły ideę swoim zaangażowaniem, a
-ponad 60 Community i Media Partnerów pomogło w promocji inicjatywy. Także
-tym razem będziecie mogli usłyszeć najlepszych specjalistów z branż IT oraz
-poznać najbardziej rozwojowe trendy!
-    </b></p>
-
-
-
-
-<p><b>Jeden dzień, sześć bloków tematycznych, najlepsi eksperci - to wszystko bez
-    wychodzenia z domu!</b></p>
-
-
-
-
-<p>
-Tym razem na wirtualnej scenie cenieni specjaliści wystąpią z praktycznymi prelekcjami z
-zakresu .NET, JavaScript, Architektury Aplikacji, Golang, GameDev oraz Python!.
-Organizatorzy postawili na mocno praktyczne wykłady. W agendzie między innymi możemy
-znaleźć następujące nazwiska: <b>Kamil Stachowiak</b> z tematem „Drivery Architektoniczne -
-drogowskazy na drodze do sukcesu projektu.”, <b>Jessica Szarek</b> „PlayerPrefs vs serializacja
-czyli bezpieczny postęp w grze.” oraz <b>Kuba Waliszewski</b> „Azure DevOps in a secured
-World. How to build a safe Pipelines!”.</p>
-
-
-
-
-<p><b>Zachowany charakter Festiwalu i Q&A z prelegentami</b></p>
-
-
-<p>
-Pomimo zdalnej formy Festiwalu, organizatorzy 4Developers zrzeszają całą polską branżę
-technologiczną: programistów, architektów, testerów, koderów, team leaderów, managerów
-oraz wszystkich związanych z nowymi technologiami, zarówno profesjonalistów, jak i
-amatorów.</p>
-
-
-<p>
-Spodziewajcie się także licznych wirtualnych rozmów z prelegentami, organizatorami i
-uczestnikami. Ekipa Waszego Ulubionego Festiwalu IT zadba o utrzymanie luźnej atmosfery
-znanej ze stacjonarnych edycji.</p>
-
-
-<p>
-Warto pamiętać, że dostęp do nagrań będzie możliwy jeszcze przez miesiąc po zakończeniu
-konferencji,
-a
-dla
-chętnych
-organizatorzy
-przygotowali
-certyfikaty
-potwierdzające
-uczestnictwo w wydarzeniu.</p>
-
-
-<p></i></p>
-
-<p><p>
-Więcej informacji oraz szczegółową agendę znajdziecie na poniższych kanałach:<br>
-<b>Strona z agendą: <a href="https://4developers.org.pl/live-2021-pl/">https://4developers.org.pl/live-2021-pl/</a><br>
-    Strona rejestracji: <a href="https://eventory.cc/event/4dev-live-2021/tickets">https://eventory.cc/event/4dev-live-2021/tickets</a> </b><br></p>
 ]]></content>
   </entry>
   
