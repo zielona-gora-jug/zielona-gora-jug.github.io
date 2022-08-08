@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Ya!vaConf"
+date: 2022-08-08 19:18:30 +0200
+comments: true
+categories: 
+---
+
+W imieniu ogranizatorów konferencji, zapraszamy an drugą edycję <a href="https://yavaconf.com/" target="_blank">Ya!VaConf</a>. Wydarzenie wpełni poświęcone technologii Java i obszarom z nią związanym.
+Gdzie: 27.09 online & 28.09 offline - Warszawa, bilety od 99 PLN.
+
+<p style="background-color: black">
+[{% img center /images/yavaconf.svg Ya!VaConf %}](https://yavaconf.com/)
+</p>
+
+Na Ya!vaConf posłuchasz ponad pięćdziesięciu prezentacji m.in. z zakresu:
+ 
+- Java & JVM languages;
+- Software Architecture;
+- IT Security;
+- DevOps & Cloud;
+- Mobile;
+- Testing.
+ 
+Agenda zostanie ogłoszona wkrótce, szczegóły są dostępne na stronie: https://yavaconf.com
