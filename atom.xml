@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-07-22T19:45:28+02:00</updated>
+  <updated>2022-08-08T19:23:42+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ya!vaConf]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/08/08/yavaconf/"/>
+    <updated>2022-08-08T19:18:30+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/08/08/yavaconf</id>
+    <content type="html"><![CDATA[<p>W imieniu ogranizatorów konferencji, zapraszamy an drugą edycję <a href="https://yavaconf.com/" target="_blank">Ya!VaConf</a>. Wydarzenie wpełni poświęcone technologii Java i obszarom z nią związanym.
+Gdzie: 27.09 online &amp; 28.09 offline - Warszawa, bilety od 99 PLN.</p>
+
+<p style="background-color: black">
+[<img class="center" src="http://zielona-gora-jug.github.io/images/yavaconf.svg" title="Ya!VaConf" >](https://yavaconf.com/)
+</p>
+
+
+<p>Na Ya!vaConf posłuchasz ponad pięćdziesięciu prezentacji m.in. z zakresu:</p>
+
+<ul>
+<li>Java &amp; JVM languages;</li>
+<li>Software Architecture;</li>
+<li>IT Security;</li>
+<li>DevOps &amp; Cloud;</li>
+<li>Mobile;</li>
+<li>Testing.</li>
+</ul>
+
+
+<p>Agenda zostanie ogłoszona wkrótce, szczegóły są dostępne na stronie: <a href="https://yavaconf.com">https://yavaconf.com</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CloudBuilders]]></title>
@@ -351,7 +380,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x6e;&#x65;&#117;&#x72;&#111;&#110;&#x66;&#x6f;&#117;&#x6e;&#x64;&#97;&#116;&#105;&#111;&#x6e;&#64;&#x73;&#x6d;&#x61;&#x72;&#x74;&#x6f;&#x61;&#x6b;&#x70;&#114;&#x6f;&#x6a;&#101;&#x63;&#116;&#x73;&#x2e;&#99;&#x6f;&#109;">&#x6e;&#101;&#117;&#114;&#x6f;&#110;&#102;&#x6f;&#117;&#110;&#100;&#x61;&#x74;&#x69;&#111;&#110;&#64;&#115;&#x6d;&#97;&#114;&#x74;&#x6f;&#97;&#107;&#x70;&#x72;&#111;&#x6a;&#x65;&#99;&#116;&#x73;&#46;&#x63;&#x6f;&#109;</a><br>
+Kontakt: <a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#x6e;&#101;&#117;&#114;&#x6f;&#x6e;&#102;&#x6f;&#x75;&#110;&#x64;&#x61;&#116;&#x69;&#x6f;&#x6e;&#64;&#x73;&#109;&#97;&#x72;&#116;&#111;&#97;&#x6b;&#x70;&#114;&#111;&#106;&#101;&#99;&#x74;&#115;&#46;&#99;&#x6f;&#109;">&#110;&#101;&#x75;&#114;&#x6f;&#110;&#102;&#x6f;&#x75;&#x6e;&#x64;&#x61;&#x74;&#x69;&#111;&#110;&#x40;&#115;&#x6d;&#97;&#114;&#x74;&#x6f;&#97;&#107;&#112;&#114;&#111;&#106;&#x65;&#99;&#x74;&#x73;&#x2e;&#x63;&#111;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -580,47 +609,6 @@ olimpiad informatycznych prof. Krzysztofa Diksa z Uniwersytetu Warszawskiego, kt
 <b>Świętujmy razem 5 lat kodowania z Byte My Code!</b> 🔥</p>
 
 <p>Zarejestruj się za darmo i dołącz do zielonego teamu! 👉 <a href="https://bytemycode.pl">https://bytemycode.pl</a> 👈
-</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JDD 2021]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2021/09/22/jdd-2021/"/>
-    <updated>2021-09-22T19:22:23+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2021/09/22/jdd-2021</id>
-    <content type="html"><![CDATA[<p>Powraca bardzo popularna konferencja, z którą współpracujemy od lat: JDD. Nadal jest to jednak wydarzenie online. Zainteresowani znajdą szczegóły (i kod zniżkowy 20%) w poniższym komunikacie organizatorów.</p>
-
-<p><a href="http://jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2021.jpg" width="900"></a></p>
-
-<p><i>
-The awesome 16th edition of The Coolest Conf on Java is coming soon ❗️</p>
-
-<p><b>We guarantee a 20% discount on your Standard ticket! Use a code: JUG_JDD2021 and get it cheaper! ❤️</b></p>
-
-<p>A specialist from over the world and experienced programmers community enthusiasts in Java Universe. 💡</p>
-
-<p>When? - 11-12th October of 2021🗓</p>
-
-<p>Where? - ONLINE! 💻</p>
-
-<p>Who will be the guests?<br>
-- Jean-Philippe Bempel - Datadog<br>
-- Brian Vermeer - Snyk<br>
-- Guillaume Laforge - Google Cloud<br>
-and many more…!</p>
-
-<p>To be on the date, follow ⬇️</p>
-
-<p>📍 <a href="http://jdd.org.pl/">http://jdd.org.pl/</a><br>
-📍 Facebook <a href="https://www.facebook.com/JDDconf">https://www.facebook.com/JDDconf</a><br>
-📍 Instagram <a href="https://www.instagram.com/jddconf/">https://www.instagram.com/jddconf/</a><br>
-📍 LinkedIn <a href="https://www.linkedin.com/showcase/jdd">https://www.linkedin.com/showcase/jdd</a><br>
-📍 Twitter <a href="https://twitter.com/jdd_krakow">https://twitter.com/jdd_krakow</a><br></p>
-
-<p>Stay tuned. The next speakers will be covered in the next few days! 😎</p>
-
-<p>👉 <a href="https://eventory.cc/event/jdd-2021/tickets">https://eventory.cc/event/jdd-2021/tickets</a> 👈
 </i></p>
 ]]></content>
   </entry>
