@@ -1,0 +1,30 @@
+---
+layout: post
+title: "4Developers 2022"
+date: 2022-09-04 16:12:36 +0200
+comments: true
+categories: 
+---
+
+Zostaliśmy partnerem lokalnych edycji <a href="https://4developers.org.pl" target="_blank">Interdyscyplinarnego Festiwalu IT @4Developers</a>. Jest ich cztery, odbywają się w różnych terminach, a w poniższej wiadomości od organizatorów znajdziecie kod na zniżkę ;)
+
+<a href="https://4developers.org.pl" target="_blank"><img src="/images/4developers_2022.jpg" width="500px" height="500px" alt="4Developers" class="center"></a>
+
+<i>
+Już na jesieni 🍂 spotykamy się podczas lokalnych edycji Największego Interdyscyplinarnego Festiwalu IT @4Developers:
+<ul>
+	<li>w Katowicach 11.10.22 <a href="https://4developers.org.pl" target="_blank">https://tiny.pl/9sz3x</a>
+	<li>w Poznaniu 27.10.22 <a href="https://4developers.org.pl" target="_blank">https://tiny.pl/9sz37</a>
+	<li>we Wrocławiu 08.11.22 <a href="https://4developers.org.pl" target="_blank">https://tiny.pl/9sz3r</a> oraz
+	<li>w Łodzi 29.11.22 <a href="https://4developers.org.pl" target="_blank">https://tiny.pl/9396k</a>
+</ul>
+	
+Organizator przygotował dla Was 10% zniżkę na hasło: ZG_4DEV10. Lokalne edycje #4Developers, to:
+<ul style="list-style-type: none; padding: 0;">
+	<li>➡ różnorodność tematów
+	<li>➡ odpowiedni do regionu dobór ścieżek tematycznych
+	<li>➡ kameralny charakter, który sprzyja budowaniu sieci kontaktów
+</ul>
+
+Więcej informacji: https://4developers.org.pl
+</i>

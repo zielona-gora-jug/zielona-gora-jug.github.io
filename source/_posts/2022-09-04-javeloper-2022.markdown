@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Javeloper 2022"
+date: 2022-09-04 16:32:02 +0200
+comments: true
+categories: 
+---
+Zapraszamy na kolejną edycję <a href="https://javeloper.pl/" target="_blank">Javeloper 2022</a>. Przypominamy, że konferencja jest bezpłatna i oferuje aż cztery ścieżki tematyczne, więc każdy znajdzie coś dla siebie. Poniżej notka od organizatorów.
+
+<a href="https://javeloper.pl/" target="_blank"><img src="/images/javeloper22.jpg" width="500px" height="500px" alt="Javeloper" class="center"></a>
+
+<i>
+	👉 Bilety bezpłatne: https://javeloper.pl/ 
+
+Już 29.09.2022 📆 odbędzie się największa konferencja poświęcona Java ,☁ czyli Javeloper 2022 (online) Autumn Edition🔥⏱ Nie zwlekajcie ⏳ i zarejestrujcie się już dziś. 
+
+🎖 Podczas konferencji wystąpią na największe polskie gwiazdy ze świata Java. 
+👊 4 ścieżki tematyczne 
+
+<ul style="list-style-type: none; padding: 0;">
+<li>✅ Architekt,
+<li>✅ DevOps,
+<li>✅ Developer, 
+<li>✅ Cloud / Big Data.
+</ul>
+</i>
