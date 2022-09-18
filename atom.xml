@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-09-13T20:14:04+02:00</updated>
+  <updated>2022-09-18T19:19:26+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,55 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ByteMyCode 2022]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/09/18/byte-my-code-2022/"/>
+    <updated>2022-09-18T18:52:15+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/09/18/byte-my-code-2022</id>
+    <content type="html"><![CDATA[<p>Waszej uwadze polecamy tegoroczną edycję ByteMyCode. Wydarzenie odbędzie się 27 października w Krakowie. Poniżej wiadomość od organizatorów.</p>
+
+<p><a href="https://bit.ly/3xjYmzQ"><img class="center" src="http://zielona-gora-jug.github.io/images/BMC_logo_1.png" width="330" height="130" title="ByteMyCode" ></a></p>
+
+<p>Konferencja ByteMyCode powraca na żywo! Najlepsi specjaliści świata IT w jednym miejscu – Kraków, 27 października 2022</p>
+
+<p><b>Tegoroczna, szósta już edycja konferencji ByteMyCode powered by UBS, odbędzie się w formie stacjonarnej. Uczestnicy ponownie będą mieli szansę zdobyć wiedzę bezpośrednio od międzynarodowych ekspertów podczas technicznych wykładów i sesji Q&amp;A.</b></p>
+
+<p><b>ByteMyCode</b> to wydarzenie gromadzące programistów, architektów, testerów, inżynierów DevOps i wszystkich entuzjastów nowych technologii. <b>27 października 2022</b> masz szansę dołączyć do kilkuset specjalistów, którzy zgromadzą się w Muzeum Sztuki i Techniki Japońskiej <b>Manggha w Krakowie</b>.</p>
+
+<!-- more -->
+
+
+<p><b>Poznaj tematykę tegorocznej edycji</b></p>
+
+<p>Od zawsze najważniejsze w konferencji ByteMyCode są wartościowe wykłady. Każdego roku skrupulatnie dobieramy ich tematykę, by odzwierciedlała ona bieżące trendy i kluczowe zagadnienia ze świata IT. W tym roku już po raz szósty zbudowaliśmy agendę konferencji przepełnioną najważniejszymi tematami przygotowanymi przez prelegentów o międzynarodowej renomie.</p>
+
+<p>Na scenie <b>BMC 6.0</b> wystąpią między innymi:</p>
+
+<ul>
+<li><b>Mary Grygleski</b> - Java Champion! Aktywnie wspiera społeczność technologiczną w USA, obecnie pełniąc funkcję prezeski Chicago Java Users Group (CJUG) i współorganizatorki kilku meetupów. Podczas ByteMyCode przedstawi temat <b>&#8220;Cloud Native Event Streaming using Apache Pulsar&#8221;</b>.
+<li><b>Sławomir Sobótka</b> - właściciel firmy szkoleniowo-doradczej Bottega IT Minds, a także inwestor i CTO w kilku startupach. W ciągu 17 lat pracy w branży IT pełnił rolę programisty, architekta, lidera zespołu, mentora i trenera. W codziennej pracy integruje: Domain Driven Design, wzorce, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek. Podczas ByteMyCode poruszy temat <b>“Tajniki destylacji kontekstów dla modeli domenowych - jak analiza przekłada się na dobre granice modułów”</b>.
+<li><b>Jakub Pilimon</b> - Spring Developer Advocate, bloger, zapalony programista i trener. Uwielbia zajmować się złożonymi projektami za pomocą Domain Driven Design, Test Driven Development i Spring. Prawdziwy maniak mikroserwisów, dla którego architektura również jest bardzo ważna. Podczas BMC 6.0 opowie o <b>&#8220;Clean Code: Eternal Principles&#8221;</b>.
+</ul>
+
+
+<p><b>Rozwiń swoją wiedzę i wesprzyj szczytny cel. Wspólnie pomagamy Fundacji Hearty!</b></p>
+
+<p>BMC 6.0 to konferencja pełna burzliwych dyskusji i innowacyjnych pomysłów, z ogromem zabawy i networkingu, perspektyw rekrutacyjnych oraz szans na nowe projekty. Biorąc udział w konferencji wiele zyskujesz, ale jednocześnie możesz dać coś innym - cały dochód ze sprzedaży biletów ByteMyCode jest przeznaczony na wsparcie działań Fundacji Hearty, która zapewnia edukację przyszłości dzieciom i młodzieży z niepełnosprawnościami, podopiecznym domów dziecka oraz uczniom z małych miejscowości.</p>
+
+<p><b>Nie czekaj – zarejestruj się już dziś!</b></p>
+
+<p>Więcej informacji o konferencji i rejestracja: <a href="https://bit.ly/3qysYtv">https://bit.ly/3qysYtv</a></p>
+
+<p>Aby być na bieżąco, koniecznie obserwuj wydarzenie w mediach społecznościowych:</p>
+
+<ul>
+    <li><a href="https://www.facebook.com/ByteMyCodeConf" target="_blank">https://www.facebook.com/ByteMyCodeConf</a>
+    <li><a href="https://www.linkedin.com/company/bytemycode/" target="_blank">https://www.linkedin.com/company/bytemycode/</a>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Otwarcie sezonu 2022/23]]></title>
@@ -464,7 +513,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#x3a;&#110;&#101;&#x75;&#114;&#111;&#x6e;&#102;&#111;&#117;&#x6e;&#100;&#x61;&#x74;&#105;&#111;&#x6e;&#64;&#x73;&#109;&#x61;&#114;&#x74;&#111;&#97;&#x6b;&#112;&#114;&#x6f;&#106;&#101;&#x63;&#116;&#x73;&#46;&#99;&#x6f;&#109;">&#x6e;&#101;&#117;&#114;&#111;&#x6e;&#102;&#111;&#117;&#x6e;&#x64;&#x61;&#x74;&#105;&#x6f;&#110;&#64;&#x73;&#109;&#97;&#114;&#x74;&#111;&#97;&#107;&#x70;&#x72;&#x6f;&#x6a;&#x65;&#x63;&#116;&#x73;&#x2e;&#x63;&#x6f;&#109;</a><br>
+Kontakt: <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#x6e;&#101;&#117;&#x72;&#111;&#x6e;&#x66;&#111;&#117;&#110;&#x64;&#x61;&#116;&#105;&#111;&#x6e;&#64;&#x73;&#109;&#x61;&#x72;&#116;&#111;&#x61;&#x6b;&#x70;&#x72;&#x6f;&#x6a;&#x65;&#x63;&#116;&#x73;&#x2e;&#99;&#x6f;&#x6d;">&#x6e;&#x65;&#x75;&#x72;&#x6f;&#110;&#102;&#x6f;&#x75;&#x6e;&#x64;&#97;&#x74;&#105;&#x6f;&#110;&#64;&#115;&#x6d;&#97;&#114;&#x74;&#x6f;&#x61;&#107;&#x70;&#114;&#111;&#x6a;&#x65;&#x63;&#x74;&#115;&#46;&#99;&#x6f;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -523,119 +572,6 @@ olimpiad informatycznych prof. Krzysztofa Diksa z Uniwersytetu Warszawskiego, kt
 <p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
 
 <p>Wszystkich zapraszamy na spotkanie w styczniu!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[HackYeah '21]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2021/11/17/hackyeah-21/"/>
-    <updated>2021-11-17T19:19:16+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2021/11/17/hackyeah-21</id>
-    <content type="html"><![CDATA[<p>Już wkrótce kolejna edycja HackYeah - tym razem skupia się na zdrowiu psychicznym! Poniżej szczegóły. Oto kodzik od nas, żebyście mieli 50% taniej. 😊 Zielona_Góra_JUG_50</p>
-
-<p><a href="https://hackyeah.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/hackyeah2021.jpg" title="Logo" ></a></p>
-
-<p><i></p>
-
-<p><b>Największy hackathon w Europie powraca w wersji hybrydowej w ramach Internet Governance Forum Afterparty!</b></p>
-
-
-
-
-<p>HackYeah co roku przyciąga tłumy zafascynowanych uczestników. Jest to wydarzenie dla każdego, kto ma ochotę ulepszyć świat poprzez stworzenie kreatywnego rozwiązania bazującego na zaawansowanych technologiach.</p>
-
-
-
-
-<p><b>Czym jest hackathon?</b></p>
-
-
-
-
-<p>Najprościej ujmując, jest to maraton programowania skierowany do programistów, podczas którego stają przed zadaniem rozstrzygnięcia określonego problemu i stworzenia rozwiązania na dany temat.</p>
-
-
-
-
-<!-- more -->
-
-
-
-
-<p><b>Kiedy?</b></p>
-
-
-
-
-<p>Tegoroczna edycja <b>HackYeah powered by GovTech</b> odbędzie się w dniach <b>10-12 grudnia</b> w innowacyjnej formie hybrydowej. Uczestniczyć można stacjonarnie w Katowickim Spodku lub formie online, z dowolnego miejsca na świecie.</p>
-
-
-
-
-<p><b>Wyzwania</b></p>
-
-
-
-
-<p>Pierwsza kategoria otwarta, to obecnie bardzo ważny temat, jakim jest zdrowie psychiczne (Mental Health). Druga, zostanie wybrana przez społeczność HackYeah i ogłoszona w ich social mediach.</p>
-
-
-
-
-<p><b>Nagrody</b></p>
-
-
-
-
-<p>Główny Partner - Bank Gospodarstwa Krajowego przygotował dwa specjalne zadania o łącznej puli nagród <b>100 000 PLN</b>.</p>
-
-
-
-
-<p>A to nie koniec, bo kwota stale rośnie i przekroczyła już <b>ĆWIERĆ MILIONA ZŁOTYCH!</b></p>
-
-
-
-
-<p>Więcej Partnerów i szczegółowych informacji już niebawem.</p>
-
-
-
-
-<p><b>Kto może wziąć udział?</b></p>
-
-
-
-
-<p>Każdy, kto ma chęć stworzyć innowacyjne rozwiązanie, które przyniesie “lepsze jutro”. Wystarczy wybrać jedną z kategorii oferowanych przez organizatorów oraz Partnerów wydarzenia i walczyć o nagrody.</p>
-
-
-
-
-<p>Uczestnicy offline i online będą mieli dostęp do tych samych zadań i wyzwań.</p>
-
-
-
-
-<p><b>Bilety online są darmowe</b>, na miejscu kosztują <b>99 zł</b>, a cały zysk jest przeznaczony na cele charytatywne - wspieranie edukacji informatycznej dzieci z biednych rodzin.</p>
-
-
-
-
-<p>*Bilety na wydarzenie stacjonarne są ograniczone z powodu sytuacji epidemiologicznej, pula stale maleje.</p>
-
-
-
-
-<p>Więcej informacji na stronie: https://hackyeah.pl </p>
-
-
-
-
-<p>Bilety: https://eventory.cc/event/hackyeah-2021/tickets</p>
-
-
-<p></i></p>
 ]]></content>
   </entry>
   
