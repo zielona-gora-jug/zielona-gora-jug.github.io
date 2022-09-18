@@ -1,0 +1,46 @@
+---
+layout: post
+title: "ByteMyCode 2022"
+date: 2022-09-18 18:52:15 +0200
+comments: true
+categories: 
+---
+
+Waszej uwadze polecamy tegoroczną edycję ByteMyCode. Wydarzenie odbędzie się 27 października w Krakowie. Poniżej wiadomość od organizatorów.
+
+
+[{% img center /images/BMC_logo_1.png 330 130 ByteMyCode %}](https://bit.ly/3xjYmzQ)
+
+Konferencja ByteMyCode powraca na żywo! Najlepsi specjaliści świata IT w jednym miejscu – Kraków, 27 października 2022
+
+<b>Tegoroczna, szósta już edycja konferencji ByteMyCode powered by UBS, odbędzie się w formie stacjonarnej. Uczestnicy ponownie będą mieli szansę zdobyć wiedzę bezpośrednio od międzynarodowych ekspertów podczas technicznych wykładów i sesji Q&A.</b>
+ 
+<b>ByteMyCode</b> to wydarzenie gromadzące programistów, architektów, testerów, inżynierów DevOps i wszystkich entuzjastów nowych technologii. <b>27 października 2022</b> masz szansę dołączyć do kilkuset specjalistów, którzy zgromadzą się w Muzeum Sztuki i Techniki Japońskiej <b>Manggha w Krakowie</b>.
+
+<!-- more -->
+
+<b>Poznaj tematykę tegorocznej edycji</b>
+ 
+Od zawsze najważniejsze w konferencji ByteMyCode są wartościowe wykłady. Każdego roku skrupulatnie dobieramy ich tematykę, by odzwierciedlała ona bieżące trendy i kluczowe zagadnienia ze świata IT. W tym roku już po raz szósty zbudowaliśmy agendę konferencji przepełnioną najważniejszymi tematami przygotowanymi przez prelegentów o międzynarodowej renomie. 
+ 
+Na scenie <b>BMC 6.0</b> wystąpią między innymi:
+ 
+<ul>
+<li><b>Mary Grygleski</b> - Java Champion! Aktywnie wspiera społeczność technologiczną w USA, obecnie pełniąc funkcję prezeski Chicago Java Users Group (CJUG) i współorganizatorki kilku meetupów. Podczas ByteMyCode przedstawi temat <b>"Cloud Native Event Streaming using Apache Pulsar"</b>.
+<li><b>Sławomir Sobótka</b> - właściciel firmy szkoleniowo-doradczej Bottega IT Minds, a także inwestor i CTO w kilku startupach. W ciągu 17 lat pracy w branży IT pełnił rolę programisty, architekta, lidera zespołu, mentora i trenera. W codziennej pracy integruje: Domain Driven Design, wzorce, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek. Podczas ByteMyCode poruszy temat <b>“Tajniki destylacji kontekstów dla modeli domenowych - jak analiza przekłada się na dobre granice modułów”</b>.
+<li><b>Jakub Pilimon</b> - Spring Developer Advocate, bloger, zapalony programista i trener. Uwielbia zajmować się złożonymi projektami za pomocą Domain Driven Design, Test Driven Development i Spring. Prawdziwy maniak mikroserwisów, dla którego architektura również jest bardzo ważna. Podczas BMC 6.0 opowie o <b>"Clean Code: Eternal Principles"</b>.
+</ul>
+
+<b>Rozwiń swoją wiedzę i wesprzyj szczytny cel. Wspólnie pomagamy Fundacji Hearty!</b>
+ 
+BMC 6.0 to konferencja pełna burzliwych dyskusji i innowacyjnych pomysłów, z ogromem zabawy i networkingu, perspektyw rekrutacyjnych oraz szans na nowe projekty. Biorąc udział w konferencji wiele zyskujesz, ale jednocześnie możesz dać coś innym - cały dochód ze sprzedaży biletów ByteMyCode jest przeznaczony na wsparcie działań Fundacji Hearty, która zapewnia edukację przyszłości dzieciom i młodzieży z niepełnosprawnościami, podopiecznym domów dziecka oraz uczniom z małych miejscowości. 
+ 
+<b>Nie czekaj – zarejestruj się już dziś!</b>
+ 
+Więcej informacji o konferencji i rejestracja: https://bit.ly/3qysYtv 
+ 
+Aby być na bieżąco, koniecznie obserwuj wydarzenie w mediach społecznościowych:
+<ul>
+	<li><a href="https://www.facebook.com/ByteMyCodeConf" target="_blank">https://www.facebook.com/ByteMyCodeConf</a>
+	<li><a href="https://www.linkedin.com/company/bytemycode/" target="_blank">https://www.linkedin.com/company/bytemycode/</a>
+</ul>
