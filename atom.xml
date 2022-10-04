@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-09-18T19:19:26+02:00</updated>
+  <updated>2022-10-04T21:36:50+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[AWS Pop-up Hub]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/10/04/aws-pop-up-hub/"/>
+    <updated>2022-10-04T21:30:49+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/10/04/aws-pop-up-hub</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem medialnym wydarzenia AWS Pop-up Hub. Zapraszamy tym bardziej, że bezpłatnie możecie zapoznać się z wieloma nowymi technologiami! Poniżej słowo od organizatorów:</p>
+
+<p><a href="https://www.aws-hub.pl/pl"><img class="center" src="http://zielona-gora-jug.github.io/images/aws.jpg" width="400" height="400" title="AWS" ></a></p>
+
+<p><i>
+AWS ma przyjemność zaprosić Cię na 5-dniowy Hub, który odbędzie się w Warszawie 10-14 października.</p>
+
+<p>Otrzymasz szansę uczestniczenia w ponad 20 sesjach, ponad 6 warsztatach projektowych, Szkoleniach i Laboratoriach Certyfikacyjnych oraz w indywidualnych spotkaniach z naszymi ekspertami.
+Tym razem skupimy się na następujących tematach:</p>
+
+<ul>
+<li>Innowacje z Cloud: Data, Ml, Al;</li>
+<li>Modern Cloud Operations;</li>
+<li>Modern Cloud Application Development.</li>
+</ul>
+
+
+<p>Udział w wydarzeniu jest bezpłatny!</p>
+
+<p>Dowiedz się więcej o datach i możliwościach:
+<a href="https://www.aws-hub.pl/pl">https://www.aws-hub.pl/pl</a>
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ByteMyCode 2022]]></title>
@@ -513,7 +543,7 @@ Będą konkretne tematy:</p>
 
 <p>Social media: <a href="https://www.facebook.com/sopacorn">https://www.facebook.com/sopacorn</a><br>
 Blog projektowy: <a href="https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP">https://confluence.smartoakprojects.com/pages/viewrecentblogposts.action?key=OSOP</a><br>
-Kontakt: <a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#x6e;&#101;&#117;&#x72;&#111;&#x6e;&#x66;&#111;&#117;&#110;&#x64;&#x61;&#116;&#105;&#111;&#x6e;&#64;&#x73;&#109;&#x61;&#x72;&#116;&#111;&#x61;&#x6b;&#x70;&#x72;&#x6f;&#x6a;&#x65;&#x63;&#116;&#x73;&#x2e;&#99;&#x6f;&#x6d;">&#x6e;&#x65;&#x75;&#x72;&#x6f;&#110;&#102;&#x6f;&#x75;&#x6e;&#x64;&#97;&#x74;&#105;&#x6f;&#110;&#64;&#115;&#x6d;&#97;&#114;&#x74;&#x6f;&#x61;&#107;&#x70;&#114;&#111;&#x6a;&#x65;&#x63;&#x74;&#115;&#46;&#99;&#x6f;&#109;</a><br>
+Kontakt: <a href="&#109;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#110;&#x65;&#117;&#x72;&#111;&#110;&#x66;&#x6f;&#x75;&#110;&#100;&#x61;&#116;&#105;&#x6f;&#110;&#64;&#115;&#109;&#97;&#114;&#116;&#111;&#97;&#107;&#112;&#x72;&#x6f;&#106;&#101;&#x63;&#116;&#x73;&#x2e;&#x63;&#x6f;&#109;">&#x6e;&#101;&#x75;&#x72;&#x6f;&#110;&#x66;&#x6f;&#x75;&#x6e;&#x64;&#97;&#116;&#x69;&#111;&#110;&#64;&#x73;&#x6d;&#97;&#114;&#116;&#111;&#97;&#107;&#x70;&#x72;&#x6f;&#106;&#101;&#x63;&#x74;&#115;&#46;&#x63;&#x6f;&#109;</a><br>
 </i></p>
 ]]></content>
   </entry>
@@ -545,33 +575,6 @@ olimpiad informatycznych prof. Krzysztofa Diksa z Uniwersytetu Warszawskiego, kt
 
 
 <p>Zapraszamy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Po spotkaniu listopadowym]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2021/11/27/po-spotkaniu-listopadowym/"/>
-    <updated>2021-11-27T19:52:02+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2021/11/27/po-spotkaniu-listopadowym</id>
-    <content type="html"><![CDATA[<p>W ostatnią środę, 24 XI, spotkaliśmy się, aby posłuchać dwóch prezentacji. Dziękujemy za liczne przybycie i wzajemne dbanie o siebie w tym trudnym czasie.</p>
-
-<p>Jeśli chcecie przypomnieć sobie, co działo się na scenie (lub coś Wam umknęło), poniżej znajdziecie:</p>
-
-<ul>
-    <li><a href="http://zielona-gora-jug.github.io/files/cdc.zip" target="_blank">kod</a> i <a href="https://p-zalejko.github.io/consumer-driver-contact-with-pact" target="_blank">prezentację</a> Pawła Żalejko: jest to przykładowa aplikacja wykorzystującą kontrakty. Sama prezentacja przypomni co to jest CDC,
-        dlaczego warto stosować kontrakty oraz co wyróżnia Pact.io.
-        <li> <a href="http://zielona-gora-jug.github.io/files/Observability.pdf" target="_blank">prezentację</a> Marcina Stożka omawiającą temat &#8220;obserwowalności&#8221;: co rozumie się pod tym terminem, dlaczego firmy pracują wspólnie nad
-            dostarczeniem odpowiedniego rozwiązania dla problemu śledzenia działania kodu, mimo tego że wydaje się być on rozwiązany. Wszystko poparte przykładem w działaniu.
-</ul>
-
-
-<p>Możecie również ocenić przebieg spotkania przy pomocy <a href="https://docs.google.com/forms/d/e/1FAIpQLScU_zhC5nDRLxGoCvlvbs6lqlc2KeKWBbjdfGh4saQCunEsFw/viewform" target="_blank">ankiety</a>.</p>
-
-<p>Dziękujemy <a href="http://www.cinkciarz.pl" target="_blank">cinkciarz.pl</a> za sponsorowanie tego spotkania!</p>
-
-<p><a href="http://www.cinkciarz.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/cinkciarz.png" width="330" height="130" title="Cinkciarz.pl" ></a></p>
-
-<p>Wszystkich zapraszamy na spotkanie w styczniu!</p>
 ]]></content>
   </entry>
   
