@@ -36,5 +36,7 @@ footer: true
 </tr>
 <tr>
 <td style="text-align:center">[{% img left /images/Avenga.jpg 310 110 Avenga %}](https://avenga.com)</td>
+<td style="text-align:center">[{% img left /images/ee.png 400 200 Ekoenergetyka %}](https://ekoenergetyka.com.pl/)</td>
+	
 </tr>
 <table>
