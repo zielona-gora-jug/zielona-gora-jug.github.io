@@ -1,0 +1,23 @@
+---
+layout: post
+title: "HackYeah! 2022"
+date: 2022-11-02 19:53:17 +0100
+comments: true
+categories: 
+---
+
+Zostaliśmy partnerem medialnym <a href="https://hackyeah.pl">HackYeah</a>! Z tej okazji mamy dla Was darmowe bilety (do wyczerpania zapasów) na hasło <b>ZGJ_HY10</b>.
+
+[{% img center /images/HackYeah2022.png 450 450 HackYeah! %}](https://hackyeah.pl)
+
+W tym roku na uczestników czekają dwa zadania otwarte:<br>
+➡ #LessWaste<br>
+➡ #IoT — Internet of Things <br><br> 
+A to nie wszystko! Aby być na bieżąco, śledźcie ich stronę. <br>
+👉 https://hackyeah.pl  <br>
+💰 Pula nagród wynosi 250 000 zł i rośnie jak szalona! 💸 <br><br>
+Nie może Was zabraknąć! <br>
+⏰ Kiedy? 19-20.11.22 <br>
+🗺 Gdzie? Kraków, Tauron Arena<br> 
+❗ Dochód z biletów zostanie przekazany na cele charytatywne. <br><br>
+Bilety 👉https://eventory.cc/event/hackyeah-2022/tickets 
