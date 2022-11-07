@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-11-02T20:08:35+01:00</updated>
+  <updated>2022-11-07T20:21:03+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe '22]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2022/11/07/spotkanie-listopadowe-22/"/>
+    <updated>2022-11-07T19:54:58+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2022/11/07/spotkanie-listopadowe-22</id>
+    <content type="html"><![CDATA[<p>Nasze kolejne spotkanie będzie sponsorowane przez firmę <a href="https://dtpoland.com/" target="_blank">DTP</a>, a wszyscy biorący w nim udział będą mieli okazję wysłuchać dwóch wykładów. Pierwszy poprowadzi Marcin Stożek, a drugi - Paweł Nowak, pracownik sponsora. Obydwa tematy od praktyków dla praktyków! Będzie coś dla tych, którzy debugują swoje aplikacje, jak i tych, którzy opracowują architekturę całych systemów. Czas: 19:30, 23 listopada, środa. Miejsce: klub WySPa, al. Wojska Polskiego 65, Zielona Góra.</p>
+
+<p>Oprócz porządnej dawki wiedzy - standardowy networking pospotkaniowy. Serdecznie zapraszamy. Rejestracja na <a href="https://www.meetup.com/zielona-gora-jug/events/289608641/" target="_blank">Meetup!</a></p>
+
+<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtp.png" width="450" height="450" title="DTPoland" ></a></p>
+
+<p><b>OpenTelemetry - Marcin Stożek</b></p>
+
+<p>OpenTelemetry, projekt standaryzujący zbieranie logów, metryk oraz trejsów coraz częściej pojawia się podczas dyskusji o obserwowalności naszych aplikacji. Podczas prezentacji dowiesz się czym jest OpenTelemetry oraz jak za jego pomocą tworzyć skorelowane ze sobą logi, metryki i trejsy w Javie.</p>
+
+<p><b>Wzorzec SCS w budowaniu złożonych aplikacji webowych - Paweł Nowak</b></p>
+
+<p>Od wielu lat branża zmaga się ze złożonością powstających rozwiązań software&#8217;owych. Mikroserwisy miały swoje pięć minut, ale i one nie poradziły sobie ze wszystkimi problemami. W dzisiejszej prezentacji pokażę wzorzec samowystarczalnej usługi (self-contained system), który z powodzeniem stosujemy w pracy nad złożonym systemem webowym. Stosując kilka jego zasad możemy ułatwić życie wszystkim uczestnikom projektu: od programisty po PM-a.</p>
+
+<p><b>O sponsorze</b>: DTP (Digital Technology Poland) tworzy innowacyjny Software &amp; Hardware dla branży Industry 4.0. Firma rozwija aplikacje chmurowe i dodatkowo skupia się na zagadnieniach związanych ze sztuczną inteligencją, Big Data, IoT i systemami embedded oraz robotyką, elektroniką i automatyką.</p>
+
+<!-- more -->
+
+
+<p>DTP jest częścią niemieckiej Friedhelm Loh Group zatrudniającej prawie 12 tysięcy pracowników w 100 oddziałach na całym świecie. Spółka ściśle współpracuje ze spółkami w macierzystej grupie (m.in. Rittal, EPLAN i German Edge Cloud) oraz z jej klientami.</p>
+
+<p>DTP zatrudnia w Zielonej Górze, Poznaniu i Warszawie już niemal 200 ekspertów gotowych zrealizować projekt od pomysłu do finalnego produktu. Za rok spółka będzie świętować 10 lat na rynku nowoczesnych technologii.</p>
+
+<p>Więcej znajdziecie pod: <a href="https://www.dtpoland.com/career/">https://www.dtpoland.com/career/</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[HackYeah! 2022]]></title>
@@ -508,40 +540,6 @@ TypeVille to następca Scalara jednego z największych wydarzeń poświęconych 
 
 
 <p>Szczegóły: <a href="https://www.typeville.io/">https://www.typeville.io/</a>
-</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ValueLogic zaprasza]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/01/13/valuelogic-zaprasza/"/>
-    <updated>2022-01-13T16:55:40+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/01/13/valuelogic-zaprasza</id>
-    <content type="html"><![CDATA[<p>Nasze kolejne spotkanie odbędzie się 23-ego lutego. Tę dłuższą przerwę możecie sobie umilić biorąc udział w wydarzeniu organizowanym przez <a href="https://valuelogic.one">ValueLogic</a>!. Bliższe informacje o Full-Stack Day i komunikat organizatorów poniżej. <b>Uwaga</b>: biorąc udział wspierasz lokalne działania charytatywne. Wymagana rejestracja ze względów na okres pandemii.</p>
-
-<p><a href="https://valuelogic.one/event/"><img class="center" src="http://zielona-gora-jug.github.io/images/vl2.png" width="330"></a></p>
-
-<p><i>
-Halo Zielona Góra! Zespół ValueLogic zaprasza na Full-Stack Day.</p>
-
-<p>27 stycznia, godzina 17.00,  browar Haust.</p>
-
-<p>To nasze pierwsze spotkanie w Zielonej Górze, najwyższy czas, bo mamy już tu swoich Ekspertów.</p>
-
-<p>To oni wpadli na pomysł, by spotkać się na żywo, zdobyć trochę świeżej wiedzy oraz podzielić się doświadczeniami.
-Będą konkretne tematy:</p>
-
-<ul>
-<li>React Web Application +  Serverless Backend na Google Cloud Platform 
-<li>React & Kotlin Application + Serverless Frontend na AWS
-</ul>
-
-
-<p>&hellip;+ Ożywiony Panel Dyskusyjny :)</p>
-
-<p>Szczegóły wydarzenia i rejestracja na <a href="https://valuelogic.one/event/">https://valuelogic.one/event/</a></p>
-
-<p>Ilość miejsc ograniczona, zatem nie zwlekaj, dołącz do nas:) Zapraszamy.
 </i></p>
 ]]></content>
   </entry>
