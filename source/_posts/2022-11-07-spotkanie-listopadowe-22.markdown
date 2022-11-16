@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-Nasze kolejne spotkanie będzie sponsorowane przez firmę <a href="https://dtpoland.com/" target="_blank">DTP</a>, a wszyscy biorący w nim udział będą mieli okazję wysłuchać dwóch wykładów. Pierwszy poprowadzi Marcin Stożek, a drugi - Paweł Nowak, pracownik sponsora. Obydwa tematy od praktyków dla praktyków! Będzie coś dla tych, którzy debugują swoje aplikacje, jak i tych, którzy opracowują architekturę całych systemów. Czas: 19:30, 23 listopada, środa. Miejsce: klub WySPa, al. Wojska Polskiego 65, Zielona Góra.
+Nasze kolejne spotkanie będzie sponsorowane przez firmę <a href="https://dtpoland.com/" target="_blank">DTP</a>, a wszyscy biorący w nim udział będą mieli okazję wysłuchać dwóch wykładów. Pierwszy poprowadzi Marcin Stożek, a drugi - Paweł Nowak, pracownik sponsora. Obydwa tematy od praktyków dla praktyków! Będzie coś dla tych, którzy debugują swoje aplikacje, jak i tych, którzy opracowują architekturę całych systemów. Czas: 19:00, 23 listopada, środa. Miejsce: klub WySPa, al. Wojska Polskiego 65, Zielona Góra.
 
 Oprócz porządnej dawki wiedzy - standardowy networking pospotkaniowy. Serdecznie zapraszamy. Rejestracja na <a href="https://www.meetup.com/zielona-gora-jug/events/289608641/" target="_blank">Meetup!</a>
 
