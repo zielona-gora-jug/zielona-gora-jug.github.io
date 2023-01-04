@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2022-11-16T19:37:40+01:00</updated>
+  <updated>2023-01-04T19:56:08+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie styczniowe '23 - GitOps]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/01/04/spotkanie-styczniowe-23-gitops/"/>
+    <updated>2023-01-04T19:50:36+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/01/04/spotkanie-styczniowe-23-gitops</id>
+    <content type="html"><![CDATA[<p>nowy rok zaczynamy <b>18 stycznia</b> (tak, środa, ale nie ostatnia środa miesiąca) w klubie WySPa o 19:00. Tematem dnia jest GitOps, a prelegent przyjedzie do nas z Gliwic.</p>
+
+<p><b>Grzegorz Kocur</b>, bo o nim mowa, jest liderem DevOps w SoftwareMill. Przez ostatnie dwadzieścia lat stworzył dużo wspaniałego softu dla różnych organizacji. Zawzięcie używa Kubernetesa i promuje kulturę DevOps, po czym biega i uprawia ogródek.</p>
+
+<p>18-ego stycznia odpowie na pytanie <b>Czym jest GitOps?</b> Według niego samego: &ldquo;Brzmi jak połączenie wody z ogniem, przecież git jest dla programistów. Co prawda teraz wszystko jest <i>as a code</i>, ale żeby zaraz nowe słowo wymyślać? Jednak GitOps to coś więcej, szczególnie w połączeniu z Kubernetes. Pozwala na posiadanie jednego Źródła Prawdy. Miejsca, które dokumentuje bieżący stan systemu, ale również jego historię! I to wszystko przy pomocy narzędzi, które każdy developer zna na wylot. Jednym z narzędzi, które realizują podejście GitOps jest Flux - wspaniałe narzędzie, dzięki któremu ostatnią rzeczą którą musimy zrobić żeby wykonać deployment jest <i>git push</i>. Ba, czasem nawet Flux może to zrobić za nas! Podczas prezentacji postaram się opowiedzieć czym właściwie jest GitOps, o jego najważniejszych cechach i o tym jak może nam ułatwić życie. Opowiem też czym jest Flux, jak działa i go użyć praktycznie.&rdquo;</p>
+
+<p><b>UWAGA:</b> W tym miesiącu nie mamy sponsora, więc prosimy o wsparcie goszczący nas lokal poprzez zakup napojów we własnym zakresie.</p>
+
+<p>Zapraszamy! <a href="https://www.meetup.com/zielona-gora-jug/events/290719274/" target="_blank">Zapisy na Meetup.</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie listopadowe '22]]></title>
@@ -512,34 +529,6 @@ To największy festiwal programistyczny w Polsce.</p>
 <p>Zgłoszenia będą przyjmowane do 28 lutego!
 Nie pozwól, by Twoja szansa uciekła Ci sprzed nosa!
 Wyślij #CFP:  <a href="https://tiny.pl/919b4">https://tiny.pl/919b4</a>
-</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TypeVille]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/01/21/typeville/"/>
-    <updated>2022-01-21T19:00:42+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/01/21/typeville</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem <a href="https://www.typeville.io/" target="_blank">TypeVille</a> - konferencji organizowanej przez <a href="https://softwaremill.com/" target="_blank">SoftwareMill</a> w górach. Wśród prelegentów jest Magda Stożek. Serdecznie zapraszamy!</p>
-
-<p><a href="https://www.typeville.io/"><img class="center" src="http://zielona-gora-jug.github.io/images/typeville.png" width="330"></a></p>
-
-<p><i>
-TypeVille to następca Scalara jednego z największych wydarzeń poświęconych Scali w Europie. Ten 3-dniowy event all-inclusive dla programistów z całego świata odbędzie się 20-22.04.2022 w Krynicy-Zdrój (Hotel Czarny Potok). Tematem przewodnim jest Type Safety w 6 różnych językach programowania: Scali, Javie, Kotlinie, Haskellu, Rust i TypeScript. Stawiamy na prawdziwe spotkanie, gdzie jest czas i warunki, by naprawdę się poznać, wymienić doświadczeniami i zagłębić w dyskusje.</p>
-
-<p>TypeVille 2022 w skrócie:</p>
-
-<ul>
-<li>3 dni konferencji all-inclusive dla programistów z całego świata
-<li>2 dni technicznych prezentacji
-<li>200 programistów, ekspertów w 6 językach programowania: Scala, Java, Haskell, Rust, Kotlin, TypeScript
-<li>Wyjątkowa lokalizacja - Krynica-Zdrój (Hotel Czarny Potok)
-<li>Czas na outdoorowe aktywności networkingowe
-</ul>
-
-
-<p>Szczegóły: <a href="https://www.typeville.io/">https://www.typeville.io/</a>
 </i></p>
 ]]></content>
   </entry>
