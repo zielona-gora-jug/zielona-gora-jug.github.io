@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2023/01/20/hackathon-cuvalley/</loc>
+    <lastmod>2023-01-20T19:12:25+01:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2023/01/04/spotkanie-styczniowe-23-gitops/</loc>
     <lastmod>2023-01-04T19:50:36+01:00</lastmod>
   </url>

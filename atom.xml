@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-01-15T22:01:23+01:00</updated>
+  <updated>2023-01-20T19:27:59+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hackathon CuValley]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/01/20/hackathon-cuvalley/"/>
+    <updated>2023-01-20T19:12:25+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/01/20/hackathon-cuvalley</id>
+    <content type="html"><![CDATA[<p>To już ostatni moment na rejestrację Waszego udziału w największym hackathonie przemysłowym w Polsce CuValleyHack! Jako CommunityPartner tego wydarzenia gorąco zachęcamy Was do udziału.</p>
+
+<p><a href="https://www.cuvalley.com"><img class="center" src="http://zielona-gora-jug.github.io/images/cuvalley.jpg"></a></p>
+
+<p>Aby dołączyć do wydarzenia i zmierzyć się z wybranym zadaniem należy wypełnić formularz rejestracyjny na stronie <a href="https://www.cuvalley.com" target="_blank">CuValleyHack</a>. Pierwszych 160 potwierdzonych uczestników, którzy zapiszą się na wydarzenie do 20 stycznia otrzyma atrakcyjny GiftPack.</p>
+
+<p>Uczestnicy CuValley Hack mogą pracować nad pomysłami w pojedynkę lub z zespołem (max. 5 osób). Osoby/drużyny z najlepszymi projektami w danej kategorii wystąpią na wirtualnej scenie i wezmą udział w sesji Q&amp;A na żywo.</p>
+
+<p>Czeka na Was:</p>
+
+<ul>
+<li>&#9200; 40 godzin kodowania
+<li>&#128202; Praca na realnych danych przemysłowych
+<li>&#128170; Wsparcie ponad 20 osobowego grona Mentorów
+<li>&#9874; Szansa na współpracę z #KGHM przy wdrożeniu Waszego projektu
+<li>&#128483; Ciekawe prelekcje
+<li>&#127873; Konkursy z nagrodami
+<li>&#128176; Łączna pula nagród to 127 500PLN
+</ul>
+
+
+<p>Po więcej informacji i rejestrację zapraszamy na stronę <a href="https://www.cuvalley.com" target="_blank">www.cuvalley.com</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie styczniowe '23 - GitOps]]></title>
@@ -480,60 +510,6 @@ l Podczas drugiej części prezentacji opowiemy o
 - nieoczywistych zastosowaniach testów automatycznych dedykowanych do testowania aplikacji od strony interfejsu użytkownika.</i></p>
 
 <p><b>Mimo powrotu do w miarę regularnych spotkań, prosimy o zachowanie rozwagi z powodu trwającej pandemii i stosowanie się od ogólnie obowiązujących regulacji. Dbajmy o zdrowie nie tylko swoje, ale także innych uczestników, współpracowników oraz naszych bliskich. Jeśli masz wątpliwości dotyczące swojego stanu zdrowia lub miałeś ostatnio kontakt z osobą mogącą być chorą - rozważ pozostanie w domu. Pamiętaj o środkach ograniczających transmisję wirusów i sposobach na uniknięcie zakażenia.</b></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[4Developers 2022]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/02/12/4developers-2022/"/>
-    <updated>2022-02-12T18:17:20+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/02/12/4developers-2022</id>
-    <content type="html"><![CDATA[<p>Ponownie zapraszamy na festiwal <a href="https://4developers.org.pl/4dev-2022/" target="_blank">4Developers &lsquo;22</a>. Tegoroczna edycja odbędzie się w kwietniu, a Wy macie jeszcze szansę dołączyć do grona prelegentów! Poniżej szczegóły od organizatorów.</p>
-
-<p><a href="https://4developers.org.pl/4dev-2022/"><img class="center" src="http://zielona-gora-jug.github.io/images/4dev2022.png" width="330"></a></p>
-
-<p><i>
-Zostań Prelegentem na @4Developers i podziel się swoją wiedzą! 🧠  Dlaczego warto?</p>
-
-<ul style="list-style-type: none">
-<li>🍀 Zbudujesz swój wizerunek w branży.
-<li>🍀 Dobre wystąpienie przyspieszy rozwój Twojej kariery.
-<li>🍀 Zdobędziesz ciekawe i cenne doświadczenie.
-<li>🍀 Dotrzesz do jednego z największych community programistycznych w tej części Europy. 
-<li>🍀 Wystąpisz na jednej z największych i najstarszych konferencji w naszym kraju!
-</ul>
-
-
-<p>Jeśli chcesz spróbować, wirtualna scena #4Developers jest idealnym miejscem!
-To największy festiwal programistyczny w Polsce.</p>
-
-<!-- more -->
-
-
-<p>Rada Programowa czeka na Twoją propozycję wystąpienia w ramach ścieżek:</p>
-
-<ul style="list-style-type: square">
-<li>Architektury Aplikacji 
-<li>DevOps 
-<li>Cloud 
-<li>Java 
-<li>JavaScript 
-<li>Frontend/UI 
-<li>Testerska 
-<li>GameDev 
-<li>PHP 
-<li>SoftSkills & Business Relations 
-<li>Security 
-<li>.NET 
-<li>Machine Learning 
-<li>Mobile
-</ul>
-
-
-<p>Zgłoszenia będą przyjmowane do 28 lutego!
-Nie pozwól, by Twoja szansa uciekła Ci sprzed nosa!
-Wyślij #CFP:  <a href="https://tiny.pl/919b4">https://tiny.pl/919b4</a>
-</i></p>
 ]]></content>
   </entry>
   
