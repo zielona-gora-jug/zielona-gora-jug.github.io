@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-01-20T19:27:59+01:00</updated>
+  <updated>2023-01-28T15:59:40+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[4Developers 2023 - CFP]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/01/28/4developers-2023-cfp/"/>
+    <updated>2023-01-28T15:48:36+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/01/28/4developers-2023-cfp</id>
+    <content type="html"><![CDATA[<p>Po raz kolejny zostaliśmy partnerami 4Developers i po raz kolejny zachęcamy Was do występu na tej konferencji. Konferencja poszukuje prelegentów. Szczegóły poniżej.</p>
+
+<p><a href="https://4developers.org.pl/4developers-2023/"><img class="center" src="http://zielona-gora-jug.github.io/images/CFP_4DEV23.png" width="1000" height="500" title="4Developers" ></a></p>
+
+<p><i>
+Chcesz mieć realny wpływ na rozwój branży IT? Zostań prelegentem 4Developers! Co zyskasz?
+    <ul style="list-style: none">
+        <li>✅ wyjątkowy wpis do CV, który potwierdzi Twoje umiejętności miękkie</li>
+<li>✅  znajomości, które nadadzą nowego tempa Twojej karierze
+<li>✅  wymienisz know-how z innymi uczestnikami
+<li>✅  zaprezentujesz wyniki swoich prac
+<li>✅  zdobędziesz niezastąpione doświadczenie
+        </ul>
+    <p>
+Rada Programowa czeka na zgłoszenia w ramach 13 ścieżek tematycznych:
+.NET, Architektury Aplikacji, Java, JavaScript, Frontend/UI, DevOps, Testing &amp; QA, Cloud, Machine Learning / AI, PHP, Security, Python oraz Soft Skills &amp; Business Relations.</p>
+
+<p>📩 Formularz zgłoszeniowy:
+👉 <a href="https://cfp.4developers.org.pl/cfp-4developers-2023/">https://cfp.4developers.org.pl/cfp-4developers-2023/</a></p>
+
+<p>Więcej informacji 👉 <a href="https://4developers.org.pl/4developers-2023/">https://4developers.org.pl/4developers-2023/</a>  <br/>
+</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hackathon CuValley]]></title>
@@ -488,28 +518,6 @@ olimpiad informatycznych prof. Krzysztofa Diksa z Uniwersytetu Warszawskiego, za
     <updated>2022-02-22T21:29:19+01:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2022/02/22/spotkanie-lutowe-odwolane</id>
     <content type="html"><![CDATA[<p>Niestety, z powodów niezależnych od nas, musimy odwołać lutowe spotkanie. Powrócimy w marcu wraz ze <a href="https://sportano.pl" target="_blank">Sportano</a> i zapowiadanym tematem. Dokładny termin podamy wkrótce. Nasłuchujcie na naszych kanałach!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie lutowe '22]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/02/13/spotkanie-lutowe-22/"/>
-    <updated>2022-02-13T11:40:18+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/02/13/spotkanie-lutowe-22</id>
-    <content type="html"><![CDATA[<p>Nasze kolejne spotkanie już 23 lutego o 19:00 w klubie WySPa! Do grona naszych sponsorów dołącza <a href="https://sportano.pl" target="_blank"><b>Sportano</b></a>. To nowoczesny multibrand, który w jednym miejscu skupia najlepsze marki i topowe produkty z niemal wszystkich dyscyplin sportowych. Przyciąga najlepszych ekspertów w dziedzinie IT, tworząc nową jakość na europejskim rynku e-commerce wykorzystując najnowocześniejsze technologie. Dowodem na to będzie prezentacja z naszego lutowego spotkania: &ldquo;<b>Architektura rozproszona i technologie w platformach e-commerce&#8217;owych oraz automatyzacja w procesach zapewniania jakości</b>&rdquo;. Poprowadzą ją <b>Grzegorz Kupidura</b>, CTO, oraz <b>Wojciech Miodek</b>, Quality Lead - oboje <a href="https://sportano.pl" target="_blank">Sportano</a>.</p>
-
-<p><a href="http://www.sportano.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/sportano.jpg" width="330" height="130" title="Sportano" ></a></p>
-
-<p>Oto co powiedzieli o swojej prezentacji: &ldquo;<i>W pierwszej części prezentacji przedstawimy platformę e-commerce&#8217;ową jako system w architekturze rozproszonej skupiając się na:
-- budowie, złożoności i technologiach w nowoczesnych platformach e-commerce&#8217;owych
-- integracjach zbudowanych w oparciu o mikroserwisy, cache oraz kolejki, ale też monolity i systemy przemysłowe
-- rozwiązaniach zapewniających optymalną wydajność platformy oferującej szeroką gamę produktów przy dużym ruchu klientów
-l Podczas drugiej części prezentacji opowiemy o
-- strategii automatyzacji testów dla platformy e-commerce&#8217;owej składającej się z komponentów opartych na różnych technologiach
-- frameworkach wybranych do implementacji automatyzacji testów (m.in. Selenium, RestAssured)
-- nieoczywistych zastosowaniach testów automatycznych dedykowanych do testowania aplikacji od strony interfejsu użytkownika.</i></p>
-
-<p><b>Mimo powrotu do w miarę regularnych spotkań, prosimy o zachowanie rozwagi z powodu trwającej pandemii i stosowanie się od ogólnie obowiązujących regulacji. Dbajmy o zdrowie nie tylko swoje, ale także innych uczestników, współpracowników oraz naszych bliskich. Jeśli masz wątpliwości dotyczące swojego stanu zdrowia lub miałeś ostatnio kontakt z osobą mogącą być chorą - rozważ pozostanie w domu. Pamiętaj o środkach ograniczających transmisję wirusów i sposobach na uniknięcie zakażenia.</b></p>
 ]]></content>
   </entry>
   
