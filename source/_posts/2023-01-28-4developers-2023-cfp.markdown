@@ -1,0 +1,31 @@
+---
+layout: post
+title: "4Developers 2023 - CFP"
+date: 2023-01-28 15:48:36 +0100
+comments: true
+categories: 
+---
+Po raz kolejny zostaliśmy partnerami 4Developers i po raz kolejny zachęcamy Was do występu na tej konferencji. Konferencja poszukuje prelegentów. Szczegóły poniżej.
+
+[{% img center /images/CFP_4DEV23.png 1000 500 4Developers %}](https://4developers.org.pl/4developers-2023/)
+
+<i>
+Chcesz mieć realny wpływ na rozwój branży IT? Zostań prelegentem 4Developers! Co zyskasz?
+	<ul style="list-style: none">
+		<li>✅ wyjątkowy wpis do CV, który potwierdzi Twoje umiejętności miękkie</li>
+<li>✅  znajomości, które nadadzą nowego tempa Twojej karierze
+<li>✅  wymienisz know-how z innymi uczestnikami 
+<li>✅  zaprezentujesz wyniki swoich prac
+<li>✅  zdobędziesz niezastąpione doświadczenie 
+		</ul>
+	<p>
+Rada Programowa czeka na zgłoszenia w ramach 13 ścieżek tematycznych:
+.NET, Architektury Aplikacji, Java, JavaScript, Frontend/UI, DevOps, Testing & QA, Cloud, Machine Learning / AI, PHP, Security, Python oraz Soft Skills & Business Relations. 
+
+
+📩 Formularz zgłoszeniowy:
+👉 https://cfp.4developers.org.pl/cfp-4developers-2023/
+
+
+Więcej informacji 👉 https://4developers.org.pl/4developers-2023/    
+</i>
