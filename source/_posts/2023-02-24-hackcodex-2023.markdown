@@ -1,0 +1,49 @@
+---
+layout: post
+title: "HackCodeX 2023"
+date: 2023-02-24 19:12:37 +0100
+comments: true
+categories: 
+---
+
+Po raz kolejny zostaliśmy partnerami medialnymi łotewskiego <a href="https://www.hackcodex.eu/" target="_blank">HackCodeX</a>. Gdyby ktoś z Was chciałby wybrać się do Rygi, może już planować wyjazd w czerwcu.
+
+[{% img center /images/hackcodex23.jpg 600 300 HackCodeX %}](https://www.hackcodex.eu/)
+
+<i>
+HackCodeX is an on-site weekend-long hackathon where programmers, designers, and tech enthusiasts collaborate on exciting challenges and compete for the main prize. It's partly a laid-back party, partly race-the-clock intense competition to find the most talented coding team of them all! It has something for every skill set and will provide a unique opportunity to work and interact with hundreds of developers from Europe.
+</i>    
+
+<!-- more -->
+
+  🤔** How to apply?**
+
+<i>    
+The only acceptance criteria set in stone is that you have to be a techie in one way or another – whether a coding wizard, a designer with an itch for techy stuff, or a business mind looking for new tech-related experiences. You can apply with a team or individually; then, we will find you the best teammates on the spot! Apply here till May 22: [https://www.hackcodex.eu/](https://www.hackcodex.eu/).
+</i> 
+
+ 💾** Sign me up, but what is the challenge?**
+
+<i>
+The challenges will be given by HackCodeX partners – leading companies of the region. The challenges may vary from crypto currencies to optimization of mail systems or creating a virtual reality guide to space. The final challenges will be revealed shortly before the hackathon.
+</i>
+
+ 🏆** Prizes**
+
+<i>
+The main prize for the hackathon-winning team is 10 000€, powered by HackCodeX partners Ubiquity! In addition to the main prize, the challenge partners give out individual awards to the best ideas in each challenge. Challenge prizes typically range from the company's products to monetary rewards.
+</i>
+
+ 💳** Does it cost to attend?**
+
+<i>
+The event is free of charge for all participants. Moreover, we will ensure best deals near the venue for accommodation, but food & drinks will be available on site! That's what makes it so amazing! Anyone can apply, including programmers, designers, students, entrepreneurs, and everyone with interest in technology. Each participant will get a chance to show off their skills and play around with exciting new technologies.
+</i>
+
+  🛏️** Where does it take place?**
+
+<i>
+The hacking, coding, networking and sleeping (if any) will happen in Hanzas Perons, Riga, Latvia from June 3 to June 5, 2023.
+    
+More information can be found on the official HackCodeX website: <a href="https://www.hackcodex.eu/" target="_blank">https://www.hackcodex.eu/</a>
+</i>
