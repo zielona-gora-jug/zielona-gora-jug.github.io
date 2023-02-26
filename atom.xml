@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-02-25T17:34:54+01:00</updated>
+  <updated>2023-02-26T16:08:16+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,43 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CodeFrenzy]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/02/26/codefrenzy/"/>
+    <updated>2023-02-26T16:00:31+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/02/26/codefrenzy</id>
+    <content type="html"><![CDATA[<p>W marcu startuje <a href="https://codefrenzy.pl/" target="_blank">CodeFrenzy</a>, darmowa konferencja online dla całej społeczności IT. 🙌</p>
+
+<p>W ramach wydarzenia możecie wziąć udział w kilkudziesięciu wykładach i panelach dyskusyjnych z różnych dziedzin IT. Jeden dzień będzie poświęcony w całości tematyce Java, a na wirtualnej scenie wystąpią między innymi Andrzej Grzesik i Roberto Cortez. Jako partner społecznościowy chcemy gorąco zachęcić Was do udziału.</p>
+
+<p>🗓 Konferencja odbywa się w dniach 27-31.03.2023 - rejestracja jest bezpłatna!</p>
+
+<p>Szczegóły i rejestracja 👉 <a href="http://bit.ly/3xInzn9">http://bit.ly/3xInzn9</a></p>
+
+<p><a href="https://codefrenzy.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/CF.jpg" width="600" height="600" title="CodeFrenzy" ></a></p>
+
+<!-- more -->
+
+
+<p><b>
+Tydzień z najlepszymi ekspertami z branży IT - za darmo i bez wychodzenia z domu. Kilkadziesiąt wykładów i panele dyskusyjne pięciu obszarach: Network, Security, DevOps, Java i Developers. Odbierz darmowy bilet na CodeFrenzy i poczuj klimat interdyscyplinarnego kodowania!</b></p>
+
+<p>CodeFrenzy to wirtualna konferencja integrująca społeczność programistyczną. Od 27 do 31 marca 2023 programiści, sieciowcy, testerzy, devopsi, hakerzy i wszystkie inne osoby związane z IT będą mogły wziąć udział w prezentacjach i sesjach Q&amp;A na żywo z najlepszymi prelegentami polskiej oraz międzynarodowej sceny technologicznej.</p>
+
+<p><b>5 dni i bogate spektrum tematów</b></p>
+
+<p>Program wydarzenia obejmuje tematy z zakresu ICT, cyberbezpieczeństwa, kultury DevOps, języka Java oraz innych popularnych zagadnień programistycznych.  Na wirtualnej scenie pojawią się eksperci reprezentujący konferencje organizowane przez PROIDEA: PLNOG, Oh My H@ck, CONFidence, 4Developers, DevOpsDays oraz JDD.</p>
+
+<p>Udział w CodeFrenzy potwierdzili już między innymi: <b>Łukasz Bromirski (Cisco), Adam Haertle (Zaufana Trzecia Strona), Piotr Godowski (IBM), Damian Mazurek (Chmurowisko) i Dominika Zając (Qualtrics).</b></p>
+
+<p><b>Konferencja na miarę uczestnika</b></p>
+
+<p>W ramach bezpłatnego biletu uczestnicy otrzymają dostęp do live streamingu wykładów, a po zakończeniu konferencji również do nagrań. W połączeniu z formułą online jest to bardzo elastyczne rozwiązanie - można dostosować udział w konferencji do swojego planu dnia, a wszystkie prezentacje, do których nie udało się dołączyć na żywo, obejrzeć w dogodnym terminie.</p>
+
+<p>Kolejny atut? Możliwość wzięcia udziału nie tylko w wykładach z dziedzin, którymi zajmujemy się na co dzień, ale również spoza zakresu specjalizacji. Brak opłaty otwiera drogę do swobodnego przetestowania ciekawie brzmiących tematów i zagadnień. Być może to właśnie tutaj uczestnicy odkryją nowe ścieżki kariery lub wypróbują rozwiązania, które do tej pory wydawały im się tylko modnymi buzzwordami.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cloud Builders 2023]]></title>
@@ -570,28 +607,6 @@ doświadczeniem - nie może Was zabraknąć! Jako Community Partner zapraszamy d
 <p>W codziennej pracy koncentrujemy się na kodzie. Ale co począć, gdy przychodzi nam rozmawiać z biznesem i rozgryzać nieznaną nam domenę i procesy? Na tej prezentacji dowiesz się jak zmierzyć się z tym zadaniem jak profesjonalista.</p>
 
 <p><b>Dawid Maksylewicz</b> - ex-ZG-JUG co-lead, starszy inżynier oprogramowania. Od sześciu lat związany z firmą Avenga, gdzie na codzień implementuje złożone techniczne jak i domenowo systemy dla branży biotechnologicznej. Zainteresowany EDA, DDD, CRQS, EventSourcing.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Javeloper 2022]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/05/04/javeloper-2022/"/>
-    <updated>2022-05-04T18:28:34+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/05/04/javeloper-2022</id>
-    <content type="html"><![CDATA[<p>Nasze kolejne spotkanie odbędzie się 25-ego maja. W międzyczasie zapraszamy na bezpłatną konferencję Javeloper. Poniżej słowo od organizatorów.</p>
-
-<p><a href="https://javeloper.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/javeloper22.png" width="330"></a></p>
-
-<p><i>
-Javeloper 2022 (online) to największa polska konferencja poświęcona Java. W tym roku konferencja odbywa się w dniu 12.05.2022 roku w formie transmisji online. Skierowana jest do architektów, developerów, devopsów, specjalistów od bezpieczeństwa, specjalistów cloud i big data. Konferencja zapewnia najwyższy poziom wykładów prowadzonych przez największe polskie gwiazdy związane z Javą oraz z prelegentów wiodących firm zajmujących się Java w Polsce. Podczas konferencji na swoim wirtualnych stoiskach zaprezentują się jedynie uznane i innowacyjne firmy informatyczne, których obecność zwiększa rangę wydarzenia.</p>
-
-<p>W trakcie trwania konferencji odbędą się Wirtualne Targi Pracy Javeloper, na których interaktywnie nawiążesz kontakt z firmami.</p>
-
-<p><b>Rejestracja i udział w konferencji są w pełni bezpłatne. Link do rejestracji na wydarzenie: <a href="https://www.javeloper.pl" target="_blank">www.javeloper.pl</a></b></p>
-
-<p>Ze względu na sytuację panującą na świecie, konferencja odbędzie się w formie online. Spodziewamy się ponad 2000 uczestników z całej polski! Serdecznie zapraszamy do udziału wszystkich chętnych!</p>
-
-<p></i></p>
 ]]></content>
   </entry>
   
