@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-02-26T16:08:16+01:00</updated>
+  <updated>2023-03-10T20:06:36+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Women TechStyle Summit]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/03/10/women-techstyle-summit/"/>
+    <updated>2023-03-10T19:56:33+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/03/10/women-techstyle-summit</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem konferencji <a href="https://www.womentechstyle.pl">Women TechStyle Summit 2023</a>. To konferencja on-line poświęcona udziałowi kobiet w branży IT: zarówno ekspertkom, jak i tym, które dopiero rozpoczynają swoją karierę. Poniżej zaproszenie od organizatorek.</p>
+
+<p><a href="https://www.womentechstyle.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/womentech.png" width="600" height="450" title="WomenTech" ></a></p>
+
+<p><i><b>Women TechStyle Summit 2023 Summit (online)</b> to jedna z największych polskich konferencji poświęconych kobietom w branży IT . W tym roku konferencja odbywa się w dniu <b>23 marca 2023 r.</b> w formie transmisji online. Skierowana jest specjalistek z branży IT oraz osób, które dopiero chciałyby rozpocząć karierę branży IT. Konferencja zapewnia niesamowite emocje związane z występami niesamowitych prelegentek z wiodących firm IT w Polsce i na świecie. Podczas konferencji na swoich wirtualnych stoiskach zaprezentują się jedynie uznane i innowacyjne firmy informatyczne, których obecność zwiększa rangę wydarzenia. W trakcie trwania konferencji odbędą się <b>Wirtualne Targi Pracy IT</b>, na których interaktywnie nawiążesz kontakt z firmami.</p>
+
+<p>W dniu 23 marca 2023 r. wygodnie ze swojego domu lub biura możesz w pełni bezpłatnie uczestniczyć w największym cyfrowym wydarzeniu poświęconych kobietom w branży IT w Polsce.</p>
+
+<p><b>Rejestracja i udział w konferencji są w pełni bezpłatne. Link do rejestracji na wydarzenie:</b> <a href="https://app.evenea.pl/event/womentechstylesummit2023/">https://app.evenea.pl/event/womentechstylesummit2023/</a></p>
+
+<p>Ze względu na sytuację panującą na świecie, konferencja odbędzie się w formie online. Spodziewamy się ponad <b>1000 uczestniczek i uczestników z całej Polski</b>!</p>
+
+<p>Serdecznie zapraszamy do udziału wszystkich chętnych!</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[CodeFrenzy]]></title>
@@ -586,27 +607,6 @@ doświadczeniem - nie może Was zabraknąć! Jako Community Partner zapraszamy d
 <p><b>O prelegencie</b>: Od 17 lat w branży, z czego 15 lat w developerce. Czasem programista (czasem Java, czasem C#, czasem PHP, czasem JavaScript), czasem analityk, czasem lider techniczny. Zawsze starający się dać z siebie jak najwięcej. W wolnych chwilach walczy z backlogiem na półce z książkami i na playliście nowości rockowych. Miłośnik mikrowypraw: na dwóch kołach na nizinie lub na dwóch nogach w górach.</p>
 
 <p><b>O sponsorze:</b> DTP (Digital Technology Poland) tworzy innowacyjny Software &amp; Hardware dla Industry 4.0. Firma skupia się na zagadnieniach związanych z aplikacjami chmurowymi, sztuczną inteligencją, elektroniką, automatyką, robotyką, Big Data, IoT i embedded. Zatrudnia już ponad 140 ekspertów gotowych zrealizować projekt od pomysłu do finalnego produktu. DTP jest częścią Friedhelm Loh Group, właściciela dużych spółek technologicznych m.in. Rittal i Eplan, posiadającego już blisko 100 oddziałów na całym świecie.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie majowe - CQRS i EventSourcing oraz rozumienie domen]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing/"/>
-    <updated>2022-05-16T20:22:56+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/05/16/spotkanie-majowe-cqrs-i-eventsourcing</id>
-    <content type="html"><![CDATA[<p>Wraz ze spotkaniem majowym w gronie naszych sponsorów witamy firmę <a href="https://www.avenga.com/pl/o-avenga/o-nas/" target="_blank"><b>Avenga</b></a>! Na spotkaniu wystąpi jej reprezentat a zarazem nasz były współorganizator - <b>Dawid Maksylewicz</b>. Tematy będą dwa - jeden duży techniczny i drugi - mniejszy - z elementami miękkimi. Pora stała, miejsce również - klub WySPa przy ul. Wojska Polskiego, godz. 19:00, środa 25 maja. Serdecznie zapraszamy!</p>
-
-<p><a href="https://www.avenga.com/pl/o-avenga/o-nas/"><img class="center" src="http://zielona-gora-jug.github.io/images/Avenga.jpg" width="330" height="130" title="Avenga" ></a></p>
-
-<p><b>Wprowadzenie do wzorców architektonicznych CQRS i EventSourcing</b></p>
-
-<p>Monolit, trzy warstwy, CRUD, architektoniczny klasyk, gdzie ten sam model używany jest do zapisu oraz odczytu danych. Proste do zaimplementowania, łatwe do utrzymania. Czy równie łatwe przy złożonych systemach, rozproszonych? Jakie dostrzegamy wyzwania, jakie są możliwe rozwiązania przy tego typu skomplikowanej architekturze? Podczas prezentacji, będzie okazja porozmawiać o dwóch wzorcach, które silnie związane są z systemami opartymi o zdarzenia. Przyjrzymy się przykładowej implementacji, wspomnianych wzorców, przy wykorzystaniu framework&#8217;a Axon.</p>
-
-<p><b>Crunching domain like a pro</b></p>
-
-<p>W codziennej pracy koncentrujemy się na kodzie. Ale co począć, gdy przychodzi nam rozmawiać z biznesem i rozgryzać nieznaną nam domenę i procesy? Na tej prezentacji dowiesz się jak zmierzyć się z tym zadaniem jak profesjonalista.</p>
-
-<p><b>Dawid Maksylewicz</b> - ex-ZG-JUG co-lead, starszy inżynier oprogramowania. Od sześciu lat związany z firmą Avenga, gdzie na codzień implementuje złożone techniczne jak i domenowo systemy dla branży biotechnologicznej. Zainteresowany EDA, DDD, CRQS, EventSourcing.</p>
 ]]></content>
   </entry>
   
