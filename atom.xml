@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-03-22T17:40:05+01:00</updated>
+  <updated>2023-03-26T16:41:26+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,73 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie marcowe odwołane!]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/03/26/spotkanie-marcowe-odwolane/"/>
+    <updated>2023-03-26T16:40:19+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/03/26/spotkanie-marcowe-odwolane</id>
+    <content type="html"><![CDATA[<p>Niestety, z przyczyn od nas niezależnych, musimy <b>odwołać</b> środowe spotkanie. Kolejne spotkanie odbędzie się w kwietniu. Zapraszamy za miesiąc!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DeveloperWeek Europe 2023]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/03/26/developerweek-europe-2023/"/>
+    <updated>2023-03-26T16:35:17+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/03/26/developerweek-europe-2023</id>
+    <content type="html"><![CDATA[<p>Jesteśmy partnerem DeveloperWeek Europe 2023. To dwudniowa, wirtualna konferencja o wytwarzaniu oprogramowania z ponad 3000 uczestników. Dla nas dostępne są darmowe oraz tańsze wejściówki. Kto pierwszy, ten lepszy.</p>
+
+<p>Rejestracja: <a href="https://tinyurl.com/vd7msjnd">https://tinyurl.com/vd7msjnd</a></p>
+
+<p>Poniżej szczegółowy komunikat organizatorów.</p>
+
+<p><a href="https://www.developerweek.com/europe/conference/"><img class="center" src="http://zielona-gora-jug.github.io/images/developerweek.jpg" width="600" height="450" title="Segfault" ></a></p>
+
+<p><i>
+DeveloperWeek Europe 2023 (26–27 April, Virtually online) is Europe’s largest developer &amp; engineering conference where 3,000+ engineering professionals and technical practitioners &amp; leaders converge to discover the latest developer &amp; engineering innovations. Learn from leaders at Google, Microsoft, Meta, Cisco, VMware, JP Morgan &amp; Chase, Hazelcast, Software AG and dozens more!</p>
+
+<p>The DeveloperWeek Europe team has offered ZG JUG group 25 free OPEN Passes and discounted PRO Passes, so our members can attend for free.</p>
+
+<p>Register now to get your free OPEN Pass or to SAVE €100 on your PRO Pass.</p>
+
+<p>To register, go to: <a href="https://tinyurl.com/vd7msjnd">https://tinyurl.com/vd7msjnd</a></i></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Segfault Unconference 2023]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/03/26/segfault-unconference-2023/"/>
+    <updated>2023-03-26T16:23:37+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/03/26/segfault-unconference-2023</id>
+    <content type="html"><![CDATA[<p>Ponownie jesteśmy partnerem <a href="https://segfault.events/unconference2023wiosna/">Segfault Unconference 2023</a>. W 2023 roku odbędzie się ona dwukrotnie ➜ w marcu oraz we wrześniu.</p>
+
+<p><i>
+Wiosną spotykamy się 29 i 30 marca (środa - czwartek), w Q Hotel Plus, w Krakowie.</p>
+
+<p>Segfault Unconference to dwa dni inspiracji, których szukasz!</p>
+
+<p>Pierwszy dzień Segfault Unconference to prelekcje - odpowiedzi na nurtujące pytania. Optymalizowanie API, ksqlDB w produkcji, testy wydajnościowe, RCA i wiele więcej… A może miękkie tematy? Także będą! Wszystko w nieformalnej atmosferze Segfault. Bez zbędnego nadęcia, tylko szczere odpowiedzi na trudne pytania.</p>
+
+<p>Drugi dzień to czas na “open space unconference”. Masz pytania, których boisz się zadać, bo wydają się zbyt banalne? Problem, który wydaje się nie do rozwiązania? Na “unconference” ktoś będzie znał odpowiedź. Ty także wybierasz tematy. </i></p>
+
+<p>Rejestracja ➜ <a href="https://segfault.events/unconference2023wiosna/">https://segfault.events/unconference2023wiosna/</a></p>
+
+<p>Kod zniżki 10%: SEGFAULT_JUG_ZG_10X</p>
+
+<p><a href="https://segfault.events/unconference2023wiosna/"><img class="center" src="http://zielona-gora-jug.github.io/images/Segfault23.png" width="600" height="450" title="Segfault" ></a></p>
+
+<!-- more -->
+
+
+<p>Więcej informacji: <a href="https://segfault.events/unconference2022">https://segfault.events/unconference2022</a>
+Facebook: <a href="https://www.facebook.com/SegFaultConf/">https://www.facebook.com/SegFaultConf/</a>
+Twitter: <a href="https://twitter.com/segfaultevents">https://twitter.com/segfaultevents</a>
+YouTube: <a href="https://www.youtube.com/c/KonferencjeSegFault">https://www.youtube.com/c/KonferencjeSegFault</a>
+Instagram: <a href="https://www.instagram.com/segfaultevents">https://www.instagram.com/segfaultevents</a>
+Dołącz do Segfault: <a href="https://www.facebook.com/groups/programistycznagruparozwoju">https://www.facebook.com/groups/programistycznagruparozwoju</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie marcowe - JIT]]></title>
@@ -527,74 +594,6 @@ Już na jesieni 🍂 spotykamy się podczas lokalnych edycji Największego Inter
 
 <p>Więcej informacji: <a href="https://4developers.org.pl">https://4developers.org.pl</a>
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ya!vaConf]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/08/08/yavaconf/"/>
-    <updated>2022-08-08T19:18:30+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/08/08/yavaconf</id>
-    <content type="html"><![CDATA[<p>W imieniu ogranizatorów konferencji, zapraszamy an drugą edycję <a href="https://yavaconf.com/" target="_blank">Ya!VaConf</a>. Wydarzenie wpełni poświęcone technologii Java i obszarom z nią związanym.
-Gdzie: 27.09 online &amp; 28.09 offline - Warszawa, bilety od 99 PLN.</p>
-
-<p style="background-color: black">
-[<img class="center" src="http://zielona-gora-jug.github.io/images/yavaconf.svg" title="Ya!VaConf" >](https://yavaconf.com/)
-</p>
-
-
-<p>Na Ya!vaConf posłuchasz ponad pięćdziesięciu prezentacji m.in. z zakresu:</p>
-
-<ul>
-<li>Java &amp; JVM languages;</li>
-<li>Software Architecture;</li>
-<li>IT Security;</li>
-<li>DevOps &amp; Cloud;</li>
-<li>Mobile;</li>
-<li>Testing.</li>
-</ul>
-
-
-<p>Agenda zostanie ogłoszona wkrótce, szczegóły są dostępne na stronie: <a href="https://yavaconf.com">https://yavaconf.com</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CloudBuilders]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/07/22/cloudbuilders/"/>
-    <updated>2022-07-22T19:42:37+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/07/22/cloudbuilders</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem konfrencji organizowanej przez Cloud Builders. 23 sierpnia organizują konferencję, z której wszelki dochód będzie przekazany na wsparcie Ukrainy. Zapraszamy do wzięcia udziału! Poniżej wiadomość od organizatorów.</p>
-
-<p><a href="https://www.cloud-builders.tech"><img class="center" src="http://zielona-gora-jug.github.io/images/CloudBuilders.png" width="350" height="350"></a></p>
-
-<p><i>
-👋 Hey! Let me invite you to Java Conf from Cloud Builders with 18 deep-dive Java talks!</p>
-
-<p>Featured global speakers will be talking about Kube-native development practices with Quarkus, Deploying to the cloud with GitHub Actions, Java after Eleven, Superfast JVM startup, Java Optimisation, testcontainers, Project Loom, Apache Pulsar to name a few.</p>
-
-<p>Where and when? Online on August 23.</p>
-
-<p>👉Join the conference for free OR get a charity ticket: <a href="https://www.cloud-builders.tech">https://www.cloud-builders.tech</a></p>
-
-<p>💙💛All profits from ticket sales will go to Ukrainian charity funds “Voices of Children”, “Razom”, “Nova Ukraine” and “Sirius”.</p>
-
-<p>Join us and let’s build together!
-</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[JDD 2022]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/07/09/jdd-2022/"/>
-    <updated>2022-07-09T21:04:52+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/07/09/jdd-2022</id>
-    <content type="html"><![CDATA[<p>Konferencja JDD powraca do Krakowa! Jak zawsze możecie spodziewać się luźnej atmosfery,
-networkingu i technicznych prezentacji, ale tym razem nareszcie na żywo. Setki pasjonatów Java,
-przedstawiciele JUGów i światowej sławy eksperci spotkają się, by dzielić się wiedzą i
-doświadczeniem - nie może Was zabraknąć! Jako Community Partner zapraszamy do rejestracji na <a href="http://jdd.org.pl/">http://jdd.org.pl/</a></p>
-
-<p><a href="http://jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2022.png" width="350" height="350"></a></p>
 ]]></content>
   </entry>
   

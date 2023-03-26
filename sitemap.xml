@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2023/03/26/spotkanie-marcowe-odwolane/</loc>
+    <lastmod>2023-03-26T16:40:19+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2023/03/26/developerweek-europe-2023/</loc>
+    <lastmod>2023-03-26T16:35:17+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://zielona-gora-jug.github.io/blog/2023/03/26/segfault-unconference-2023/</loc>
+    <lastmod>2023-03-26T16:23:37+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://zielona-gora-jug.github.io/blog/2023/03/22/spotkanie-marcowe-jit/</loc>
     <lastmod>2023-03-22T17:34:54+01:00</lastmod>
   </url>
