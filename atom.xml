@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-03-26T16:41:26+02:00</updated>
+  <updated>2023-04-07T17:05:07+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JCON EUROPE 2023]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/04/07/jcon-europe-2023/"/>
+    <updated>2023-04-07T16:57:45+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/04/07/jcon-europe-2023</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem <a href="https://2023.europe.jcon.one/" target="_blank">JCON EUROPE 2023</a>. To siódma edycja konferencji poświęconej wyłącznie Javie. W poprzedniej edycji (2019) udział wzięło ponad 1000 osób. W tym roku konferencja potrwa 4 dni i odbędzie się w Niemczech, w Kolonii, pod koniec czerwca. Szczegóły na <a href="https://2023.europe.jcon.one/.">https://2023.europe.jcon.one/.</a></p>
+
+<p>JCON EUROPE 2023 to:</p>
+
+<ul>
+<li>3 dni</li>
+<li>1 dzień warsztatów</li>
+<li>5 ścieżek, codziennie od 9:00 do 18:00</li>
+<li>120+ prezentacji</li>
+<li>1000+ uczestników</li>
+</ul>
+
+
+<p>Posiadamy pewną pulę darmowych biletów. Do uzyskania poprzez wiadomość prywatną. Bilety nie obejmują warsztatów.</p>
+
+<p><a href="https://2023.europe.jcon.one/"><img class="center" src="http://zielona-gora-jug.github.io/images/JCON-2023.png" width="600" height="450" title="JCON" ></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie marcowe odwołane!]]></title>
@@ -560,40 +584,6 @@ Tym razem skupimy się na następujących tematach:</p>
 
 
 <p></i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[4Developers 2022]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/09/04/4developers-2022/"/>
-    <updated>2022-09-04T16:12:36+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/09/04/4developers-2022</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem lokalnych edycji <a href="https://4developers.org.pl" target="_blank">Interdyscyplinarnego Festiwalu IT @4Developers</a>. Jest ich cztery, odbywają się w różnych terminach, a w poniższej wiadomości od organizatorów znajdziecie kod na zniżkę ;)</p>
-
-<p><a href="https://4developers.org.pl" target="_blank"><img src="http://zielona-gora-jug.github.io/images/4developers_2022.jpg" width="500px" height="500px" alt="4Developers" class="center"></a></p>
-
-<p><i>
-Już na jesieni 🍂 spotykamy się podczas lokalnych edycji Największego Interdyscyplinarnego Festiwalu IT @4Developers:</p>
-
-<ul>
-    <li>w Katowicach 11.10.22 <a href="https://4developers.org.pl" target="_blank">https://tiny.pl/9sz3x</a>
-    <li>w Poznaniu 27.10.22 <a href="https://4developers.org.pl" target="_blank">https://tiny.pl/9sz37</a>
-    <li>we Wrocławiu 08.11.22 <a href="https://4developers.org.pl" target="_blank">https://tiny.pl/9sz3r</a> oraz
-    <li>w Łodzi 29.11.22 <a href="https://4developers.org.pl" target="_blank">https://tiny.pl/9396k</a>
-</ul>
-
-
-<p>Organizator przygotował dla Was 10% zniżkę na hasło: ZG_4DEV10. Lokalne edycje #4Developers, to:</p>
-
-<ul style="list-style-type: none; padding: 0;">
-    <li>➡ różnorodność tematów
-    <li>➡ odpowiedni do regionu dobór ścieżek tematycznych
-    <li>➡ kameralny charakter, który sprzyja budowaniu sieci kontaktów
-</ul>
-
-
-<p>Więcej informacji: <a href="https://4developers.org.pl">https://4developers.org.pl</a>
-</i></p>
 ]]></content>
   </entry>
   
