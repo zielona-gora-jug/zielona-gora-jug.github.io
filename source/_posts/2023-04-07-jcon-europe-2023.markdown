@@ -1,0 +1,21 @@
+---
+layout: post
+title: "JCON EUROPE 2023"
+date: 2023-04-07 16:57:45 +0200
+comments: true
+categories: 
+---
+
+Zostaliśmy partnerem <a href="https://2023.europe.jcon.one/" target="_blank">JCON EUROPE 2023</a>. To siódma edycja konferencji poświęconej wyłącznie Javie. W poprzedniej edycji (2019) udział wzięło ponad 1000 osób. W tym roku konferencja potrwa 4 dni i odbędzie się w Niemczech, w Kolonii, pod koniec czerwca. Szczegóły na https://2023.europe.jcon.one/.
+
+JCON EUROPE 2023 to:
+
+ * 3 dni
+ * 1 dzień warsztatów
+ * 5 ścieżek, codziennie od 9:00 do 18:00
+ * 120+ prezentacji
+ * 1000+ uczestników
+
+Posiadamy pewną pulę darmowych biletów. Do uzyskania poprzez wiadomość prywatną. Bilety nie obejmują warsztatów.
+
+[{% img center /images/JCON-2023.png 600 450 JCON %}](https://2023.europe.jcon.one/)
