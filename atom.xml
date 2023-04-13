@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-04-07T17:05:07+02:00</updated>
+  <updated>2023-04-13T17:29:33+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie kwietniowe - JIT]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/04/13/spotkanie-kwietniowe-jit/"/>
+    <updated>2023-04-13T17:09:50+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/04/13/spotkanie-kwietniowe-jit</id>
+    <content type="html"><![CDATA[<p>Zapraszamy na marcowe spotkanie - tym razem tematem będzie JIT i jego wpływ na wydajność, a opowie o tym <b>Mateusz Grużewski</b> z <a href="https://www.facebook.com/szjug/">Szczecin JUG</a>.
+Początek o godz. 19:00, 26 kwietnia, w klubie WySPa przy ul. Wojska Polskiego 69. Jak zwykle, zapisy na <a href="https://www.meetup.com/zielona-gora-jug/events/292871747/">Meetup</a>.</p>
+
+<p>Wśród sponsorów naszych spotkań witamy firmę <a href="https://sinersio.com/" target="_blank">Sinersio</a> z Nowej Soli! To jedno z dwóch najnowocześniejszych i najbezpieczniejszych DC w Polsce. Potwierdza to m.in. certyfikat EN 50600. Dostarczane usługi:</p>
+
+<ul>
+<li>SinersioCloud – chmura obliczeniowa,
+<li>kolokacja - bezpieczne miejsce na serwery Klienta,
+<li>TotalBackup – miejsce na kopię zapasową wraz z własną, intuicyjną aplikacją, która pilnuje robienia backupów. Wersja testowa dostępna <a href="https://totalbackup.me/freetrial/" target="_blank">tutaj!</a>
+</ul>
+
+
+<p><a href="https://sinersio.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/sinersio.jpg" width="450" height="140"></a></p>
+
+<p><b>JIT - co każdy developer powinien o nim wiedzieć.</b></p>
+
+<p>Prezentacja będzie dotyczyć dobrodziejstw, jakie przynosi Just-In-Time (JIT), a także wpływu tej technologii na wydajność aplikacji. W trakcie prezentacji omówione zostaną zagadnienia takie jak działanie JIT, sposób w jaki przyspiesza wykonywanie kodu oraz jakie korzyści może przynieść dla Twojej aplikacji. Poruszona zostanie również kwestia aktywności JIT, w tym sposobów monitorowania czasu kompilacji kodu i wykrywania potencjalnych problemów związanych z wydajnością aplikacji. Prezentacja ta będzie przydatna zarówno dla programistów, jak i specjalistów IT, którzy poprzez zrozumienie działania JIT chcą poprawić wydajność swoich aplikacji.</p>
+
+<p>Mateusz jest Architektem w Asseco Data Systems. Programowaniem zajmuje się od 8 lat głównie w technologiach opartych o JVM. Po pracy prowadzi bloga oraz zajmuje się szkoleniami.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JCON EUROPE 2023]]></title>
@@ -555,35 +582,6 @@ Tym razem skupimy się na następujących tematach:</p>
 <p>Change Data Capture to podejście, które pozwala na rozwiązanie przynajmniej części z powyższych problemów. Podczas prezentacji wyjaśnimy sobie czym jest  i jak działa CDC. Poruszymy tematy takie jak Java, Spring, bazy danych, Kafka, Kafka Streams oraz Debezium.</i></p>
 
 <p>Zapraszamy i przypominamy o rejestracji na <a href="https://www.meetup.com/zielona-gora-jug/events/288460188" target="_blank">Meetup!</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Javeloper 2022]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/09/04/javeloper-2022/"/>
-    <updated>2022-09-04T16:32:02+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/09/04/javeloper-2022</id>
-    <content type="html"><![CDATA[<p>Zapraszamy na kolejną edycję <a href="https://javeloper.pl/" target="_blank">Javeloper 2022</a>. Przypominamy, że konferencja jest bezpłatna i oferuje aż cztery ścieżki tematyczne, więc każdy znajdzie coś dla siebie. Poniżej notka od organizatorów.</p>
-
-<p><a href="https://javeloper.pl/" target="_blank"><img src="http://zielona-gora-jug.github.io/images/javeloper22.jpg" width="500px" height="500px" alt="Javeloper" class="center"></a></p>
-
-<p><i>
-    👉 Bilety bezpłatne: <a href="https://javeloper.pl/">https://javeloper.pl/</a></p>
-
-<p>Już 29.09.2022 📆 odbędzie się największa konferencja poświęcona Java ,☁ czyli Javeloper 2022 (online) Autumn Edition🔥⏱ Nie zwlekajcie ⏳ i zarejestrujcie się już dziś.</p>
-
-<p>🎖 Podczas konferencji wystąpią na największe polskie gwiazdy ze świata Java.
-👊 4 ścieżki tematyczne</p>
-
-<ul style="list-style-type: none; padding: 0;">
-<li>✅ Architekt,
-<li>✅ DevOps,
-<li>✅ Developer, 
-<li>✅ Cloud / Big Data.
-</ul>
-
-
-<p></i></p>
 ]]></content>
   </entry>
   
