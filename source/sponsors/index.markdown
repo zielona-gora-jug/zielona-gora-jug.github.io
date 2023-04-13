@@ -5,12 +5,12 @@ footer: true
 ---
 <table>
 <tr>
-<td style="text-align:center">[{% img left /images/astec.png 242 85 Astec %}](http://www.astec.net/pl/)</td>
+<td style="text-align:center">[{% img left /images/astec.png 100 100 Astec %}](http://www.astec.net/pl/)</td>
 <td style="text-align:center">[{% img left /images/fluid.png Fluid %}](http://fluidagency.pl/)</td>
 <td style="text-align:center">[{% img left /images/global_logic.jpg 260 83 GlobalLogic%}](https://www.globallogic.com/)</td>
 </tr>
 <tr>
-<td style="text-align:center">[{% img left /images/softwaremill.png SoftwareMill %}](http://softwaremill.com/)</td>
+<td style="text-align:center">[{% img left /images/softwaremill.png 100 100 SoftwareMill %}](http://softwaremill.com/)</td>
 <td style="text-align:center">[{% img left /images/streamsoft2019.png Streamsoft %}](http://streamsoft.pl/)</td>
 <td style="text-align:center">[{% img left /images/oreilly.gif O'Reilly %}](http://oreilly.com)</td>
 </tr>
@@ -38,5 +38,10 @@ footer: true
 <td style="text-align:center">[{% img left /images/Avenga.jpg 310 110 Avenga %}](https://avenga.com)</td>
 <td style="text-align:center">[{% img left /images/ee.png 350 180 Ekoenergetyka %}](https://ekoenergetyka.com.pl/)</td>
 <td style="text-align:center">[{% img left /images/atomicjar.png 400 200 AtomicJar %}](https://www.atomicjar.com/)</td>	
+</tr>
+<tr>
+<td style="text-align:center">[{% img left /images/sinersio.jpg 100 75 Sinersio %}](https://sinersio.com)</td>
+<td style="text-align:center">&nbsp;</td>
+<td style="text-align:center">&nbsp;</td>	
 </tr>
 <table>
