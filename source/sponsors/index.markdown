@@ -3,45 +3,30 @@ layout: page
 title: "Sponsorzy"
 footer: true
 ---
-<table>
-<tr>
-<td style="text-align:center">[{% img left /images/astec.png?v=2 150 150 Astec %}](http://www.astec.net/pl/)</td>
-<td style="text-align:center">[{% img left /images/fluid.png Fluid 300 150 %}](http://fluidagency.pl/)</td>
-<td style="text-align:center">[{% img left /images/global_logic.jpg 300 150 GlobalLogic%}](https://www.globallogic.com/)</td>
-</tr>
-<tr>
-<td style="text-align:center">[{% img left /images/softwaremill.png 100 100 SoftwareMill %}](http://softwaremill.com/)</td>
-<td style="text-align:center">[{% img left /images/streamsoft2019.png Streamsoft %}](http://streamsoft.pl/)</td>
-<td style="text-align:center">[{% img left /images/oreilly.gif O'Reilly %}](http://oreilly.com)</td>
-</tr>
-<tr>
-<td style="text-align:center">[{% img left /images/jetbrains.png JetBrains %}](http://jetbrains.com)</td>
-<td style="text-align:center">[{% img left /images/cinkciarz.png Cinkciarz.pl - Kantor Internetowy %}](http://cinkciarz.pl)</td>
-<td style="text-align:center">[{% img left /images/manning.jpg Manning Publications %}](http://manning.com/)</td>
-</tr>
-<tr>
-<td style="text-align:center">[{% img left /images/nofluffjobs.jpg 468 102 'nofluffjobs - oferty pracy dla specjalistów IT' 'nofluffjobs - oferty pracy dla informatyków' %}](http://nofluffjobs.com/)</td>
-<td style="text-align:center">[{% img left /images/adb.jpg 350 100 Advanced Digital Broadcast %}](http://adbglobal.com/)</td>
-<td style="text-align:center">[{% img left /images/fibaro.jpg 350 100 Fibaro %}](http://fibaro.com/)</td>
-</tr>
-<tr>
-<td style="text-align:center">[{% img left /images/ocado.png 350 150 Ocado Technology %}](http://ocadotechnology.com/)</td>
-<td style="text-align:center">[{% img left /images/wiea.png 310 110 Wydział Informatyki, Elektrotechniki i Automatyki UZ %}](http://weit.uz.zgora.pl/)</td>
-<td style="text-align:center">[{% img left /images/metapack.jpg 310 110 MetaPack %}](http://metapack.com/)</td>
-</tr>
-<tr>
-<td style="text-align:center">[{% img left /images/sygnity.jpg 150 110 Sygnity Business Solutions S.A. %}](http://www.sygnitysbs.pl/)</td>
-<td style="text-align:center">[{% img left /images/dtp.png 200 150 DTP %}](https://dtpoland.com)</td>
-<td style="text-align:center">[{% img left /images/sportano.jpg 150 110 Sportano %}](https://sportano.pl)</td>
-</tr>
-<tr>
-<td style="text-align:center">[{% img left /images/Avenga.jpg 310 110 Avenga %}](https://avenga.com)</td>
-<td style="text-align:center">[{% img left /images/ee.png 350 150 Ekoenergetyka %}](https://ekoenergetyka.com.pl/)</td>
-<td style="text-align:center">[{% img left /images/atomicjar.png 400 150 AtomicJar %}](https://www.atomicjar.com/)</td>	
-</tr>
-<tr>
-<td style="text-align:center">[{% img left /images/sinersio.jpg 100 75 Sinersio %}](https://sinersio.com)</td>
-<td style="text-align:center">&nbsp;</td>
-<td style="text-align:center">&nbsp;</td>	
-</tr>
-<table>
+
+<div class="logogrid" style="display: grid;grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));grid-gap: 1rem;">
+<div><a href="http://www.astec.net/pl/" target="_blank">{% img /images/astec.png?v=2 Astec %}</a></div>
+<div><a href="http://fluidagency.pl/" target="_blank">{% img /images/fluid.png Fluid %}</a></div>
+<div><a href="https://www.globallogic.com/" target="_blank">{% img /images/global_logic.jpg GlobalLogic%}</a></div>
+<div><a href="http://softwaremill.com/" target="_blank">{% img /images/softwaremill.png SoftwareMill %}</a></div>
+<div><a href="http://streamsoft.pl/" target="_blank">{% img /images/streamsoft2019.png Streamsoft %}</a></div>
+<div><a href="http://oreilly.com" target="_blank">{% img /images/oreilly.gif O'Reilly %}</a></div>
+<div><a href="http://jetbrains.com" target="_blank">{% img /images/jetbrains.png JetBrains %}</a></div>
+<div><a href="http://cinkciarz.pl" target="_blank">{% img /images/cinkciarz.png Cinkciarz.pl - Kantor Internetowy %}</a></div>
+<div><a href="http://manning.com/" target="_blank">{% img /images/manning.jpg Manning Publications %}</a></div>
+<div><a href="http://nofluffjobs.com/" target="_blank">{% img /images/nofluffjobs.jpg 'nofluffjobs - oferty pracy dla specjalistów IT' 'nofluffjobs - oferty pracy dla informatyków' %}</a></div>
+<div><a href="http://adbglobal.com/" target="_blank">{% img /images/adb.jpg Advanced Digital Broadcast %}</a></div>
+<div><a href="http://fibaro.com/" target="_blank">{% img /images/fibaro.jpg Fibaro %}</a></div>
+<div><a href="http://ocadotechnology.com/" target="_blank">{% img /images/ocado.png Ocado Technology %}</a></div>
+<div><a href="http://weit.uz.zgora.pl/" target="_blank">{% img /images/wiea.png Wydział Informatyki, Elektrotechniki i Automatyki UZ %}</a></div>
+<div><a href="http://metapack.com/" target="_blank">{% img /images/metapack.jpg  MetaPack %}</a></div>
+<div><a href="http://www.sygnitysbs.pl/" target="_blank">{% img /images/sygnity.jpg Sygnity Business Solutions S.A. %}</a></div>
+<div><a href="https://dtpoland.com" target="_blank">{% img /images/dtp.png DTP %}</a></div>
+<div><a href="https://sportano.pl" target="_blank">{% img /images/sportano.jpg Sportano %}</a></div>
+<div><a href="https://avenga.com" target="_blank">{% img /images/Avenga.jpg Avenga %}</a></div>
+<div><a href="https://ekoenergetyka.com.pl/" target="_blank">{% img /images/ee.png Ekoenergetyka %}</a></div>
+<div><a href="https://www.atomicjar.com/" target="_blank">{% img /images/atomicjar.png AtomicJar %}</a></div>	
+<div><a href="https://sinersio.com" target="_blank">{% img /images/sinersio.jpg Sinersio %}</a></div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>	
+</div>
