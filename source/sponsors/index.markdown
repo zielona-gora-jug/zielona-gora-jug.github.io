@@ -27,6 +27,7 @@ footer: true
 <div><a href="https://ekoenergetyka.com.pl/" target="_blank">{% img /images/ee.png Ekoenergetyka %}</a></div>
 <div><a href="https://www.atomicjar.com/" target="_blank">{% img /images/atomicjar.png AtomicJar %}</a></div>	
 <div><a href="https://sinersio.com" target="_blank">{% img /images/sinersio.jpg Sinersio %}</a></div>
+<div><a href="https://allegro.pl" target="_blank">{% img /images/allegro.png Allegro %}</a></div>
 <div>&nbsp;</div>
 <div>&nbsp;</div>	
 </div>
