@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-04-19T18:12:36+02:00</updated>
+  <updated>2023-05-15T19:38:48+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie majowe - Project Valhalla]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/05/15/spotkanie-majowe-project-valhalla/"/>
+    <updated>2023-05-15T19:24:50+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/05/15/spotkanie-majowe-project-valhalla</id>
+    <content type="html"><![CDATA[<p>Zapraszamy na spotkanie majowe! Wyjątkowo odbędzie się ono w przedostatnią środę miesiąca.
+Startujemy o godz. 19:00, 24 maja, w klubie WySPa przy ul. Wojska Polskiego 69. Zapisujcie się na <a href="https://www.meetup.com/zielona-gora-jug/events/293494261/" target="_blank">Meetup</a>!.</p>
+
+<p>Zapraszamy na spotkanie majowe! Wyjątkowo odbędzie się ono w przedostatnią środę miesiąca.</p>
+
+<p>Tym razem nasz prelegent, <b>Arkadiusz Sokołowski</b>, przyjedzie aż z Krakowa. Tematem prezentacji będzie Project Valhalla. Sponsorem dnia jest <a href="https://allegro.pl/" target="_blank"><b>Allegro</b></a>, czyli najpopularniejsza platforma zakupowa w Polsce i jedna z największych firm e-commerce w Europie. Serdecznie zapraszamy!</p>
+
+<p><a href="https://allegro.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/allegro.png" width="450" height="300"></a></p>
+
+<p><b>Project Valhalla - Codes like a class, behaves like an int</b></p>
+
+<p>Java jest z nami już od ponad 25 lat. Niektórzy twierdzą, że jest już nieco przestarzała. Tymczasem Java znacząco zmieniła się przez te lata, a w niedalekiej przyszłości pojawi się jeszcze więcej modyfikacji i unowocześnień! W trakcie prezentacji porozmawiamy o jednej z największych i najważniejszych nadchodzących funkcjonalności.
+Jednym z najbardziej istotnych problemów Javy jest zarządzanie pamięcią. Mamy “lekkie” typy proste, oraz “ciężkie” klasy i obiekty. Programiści mogą używać typów prostych, ale nie mogą tworzyć swoich. Z drugiej strony, programowanie generyczne jest możliwe w świecie klas, ale już nie typów prostych. Projekt Valhalla próbuje rozwiązać ten problem.</p>
+
+<p>W jaki sposób? Co to właściwie znaczy dla programistów? Co to może znaczyć dla frameworków, takich jak Spring czy Junit? Co się zmieni “pod maską”? W trakcie prezentacji poruszymy wszystkie te zagadnienia!</p>
+
+<p><b>O prelegencie:</b> Ponad 20 lat praktycznego doświadczenia z Javą i innymi językami JMV-owymi. Lubię rozwiązywać problemy, nie kodować. Aktualnie pracuję jako Senior Engineering Manager w Allegro oraz wykładam Javę na Uniwersytecie Jagiellońskim.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie kwietniowe - JIT]]></title>
@@ -561,27 +586,6 @@ Tym razem skupimy się na następujących tematach:</p>
     <li><a href="https://www.linkedin.com/company/bytemycode/" target="_blank">https://www.linkedin.com/company/bytemycode/</a>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Otwarcie sezonu 2022/23]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/09/13/otwarcie-sezonu-2022-slash-23/"/>
-    <updated>2022-09-13T19:54:26+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/09/13/otwarcie-sezonu-2022-slash-23</id>
-    <content type="html"><![CDATA[<p>Rozpoczynamy kolejny sezon naszych spotkań! Dalej kontynuujemy współpracę z klubem WySPa przy ul. Wojska Polskiego. Spotkania tradycyjnie będą odbywać się o 19:00 w środy. Postaramy się powrócić do cyklu miesięcznego. Zwykle będą to ostatnie środy miesiąca. Przypominamy, że nadal czekamy na chętnych do dzielenia się swoim doświadczeniem oraz ewentualnych sponsorów miesiąca.</p>
-
-<p>Pierwsze spotkanie w sezonie sponsoruje <a href="https://www.avenga.com/pl/o-avenga/o-nas/" target="_blank"><b>Avenga</b></a>! Prelegentem będzie pracownik Avengii - <b>Paweł Żalejko</b>. Pochylimy się nad problemem budowania sprawnej komunikacji w luźno powiązanym świecie. Początek 28 września o 19:00.</p>
-
-<p><a href="https://www.avenga.com/pl/o-avenga/o-nas/"><img class="center" src="http://zielona-gora-jug.github.io/images/Avenga.jpg" width="330" height="130" title="Avenga" ></a></p>
-
-<p><b>In a loosely coupled world let&rsquo;s build reliable communication with Change Data Capture</b></p>
-
-<p><i>Komunikacja pomiędzy (micro)serwisami jest trudna. Wiele rzeczy może pójść nie tak. Czasami samo wysłanie eventów na kafkę nie wystarczy. Zwłaszcza, gdy przed wysłaniem wiadomości należy coś zmienić we własnej bazie danych. A co, gdy pracujemy z systemem legacy, w którym nic nie możemy zmodyfikować a chcielibyśmy dostawać eventy, kiedy zmieni się coś w bazie danych?</p>
-
-<p>Change Data Capture to podejście, które pozwala na rozwiązanie przynajmniej części z powyższych problemów. Podczas prezentacji wyjaśnimy sobie czym jest  i jak działa CDC. Poruszymy tematy takie jak Java, Spring, bazy danych, Kafka, Kafka Streams oraz Debezium.</i></p>
-
-<p>Zapraszamy i przypominamy o rejestracji na <a href="https://www.meetup.com/zielona-gora-jug/events/288460188" target="_blank">Meetup!</a></p>
 ]]></content>
   </entry>
   
