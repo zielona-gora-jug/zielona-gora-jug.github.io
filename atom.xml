@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-05-15T19:38:48+02:00</updated>
+  <updated>2023-06-15T19:27:05+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zamknięcie sezonu - bazy grafowe]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/06/15/zamkniecie-sezonu-bazy-grafowe/"/>
+    <updated>2023-06-15T19:20:21+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/06/15/zamkniecie-sezonu-bazy-grafowe</id>
+    <content type="html"><![CDATA[<p>Ostatnie spotkanie sezonu 2022/23 zaczynamy w wakacyjnej atmosferze 28 czerwca o godz. 19:00 w klubie WySPa. W programie pogaduchy, networking oraz - przede wszystkim - prezentacja. Sponsorem naszego spotkania jest po raz drugi w tym roku <a href="https://dtpoland.com/" target="_blank">DTP</a>.</p>
+
+<p>Temat prezentacji to <b>&ldquo;Bazy grafowe. Wiedza skondensowana&rdquo;</b>. Wystąpią dwaj pracownicy sponsora - <b>Tomasz Łączkowski</b> i <b>Paweł Nowak</b>. Dowiecie się po co w ogóle brnąć w kolejny rodzaj baz danych po relacyjnych i dokumentowych. Poznacie podstawowe terminy oraz uzasadnione przypadki użycia. Przyjrzymy się też dostępnym na rynku opcjom: od samych systemów po języki zapytań. Otrzemy się nawet o tak ostatnio modne sprawy związane z pisaniem tekstów przez AI. Serdecznie zapraszamy. Warto zarejestrować się na <a href ="https://www.meetup.com/zielona-gora-jug/events/294186127/" target="_blank">Meetup</a>!</p>
+
+<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtp.png" width="450" height="450" title="DTPoland" ></a></p>
+
+<p><b>O sponsorze</b>: DTP, Digital Technology Poland tworzy innowacyjny software i hardware w obszarze Industry 4.0. Firma rozwija aplikacje chmurowe wspomagające projektowanie, montaż i eksploatację infrastruktury produkcyjnej dla przemysłu. Dostarcza także rozwiązania IoT wykorzystując AI oraz Big Data. Dodatkowo, w ramach zespołu R&amp;D realizuje projekty od pomysłu do finalnego produktu przy użyciu know-how z obszarów takich jak robotyka, automatyka i elektronika.</p>
+
+<!-- more -->
+
+
+<p>Spółka jest częścią niemieckiej Friedhelm Loh Group mającej na pokładzie niemal 12 tysięcy pracowników w 100 oddziałach na całym świecie. DTP ściśle współpracuje ze spółkami w macierzystej grupie (m.in. Rittal, EPLAN i German Edge Cloud) oraz z jej wieloletnimi klientami.</p>
+
+<p>Samo DTP zatrudnia w Zielonej Górze, Cieszynie i Poznaniu już niemal 300 ekspertów. W tym roku świętuje 10 lat na rynku nowoczesnych technologii.</p>
+
+<p>Więcej o firmie znajdziecie na: <a href ="https://dtpoland.com" target="_blank">dtpoland.com<a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie majowe - Project Valhalla]]></title>
@@ -537,55 +561,6 @@ Tym razem skupimy się na następujących tematach:</p>
 <p>Dowiedz się więcej o datach i możliwościach:
 <a href="https://www.aws-hub.pl/pl">https://www.aws-hub.pl/pl</a>
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ByteMyCode 2022]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/09/18/byte-my-code-2022/"/>
-    <updated>2022-09-18T18:52:15+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/09/18/byte-my-code-2022</id>
-    <content type="html"><![CDATA[<p>Waszej uwadze polecamy tegoroczną edycję ByteMyCode. Wydarzenie odbędzie się 27 października w Krakowie. Poniżej wiadomość od organizatorów.</p>
-
-<p><a href="https://bit.ly/3xjYmzQ"><img class="center" src="http://zielona-gora-jug.github.io/images/BMC_logo_1.png" width="330" height="130" title="ByteMyCode" ></a></p>
-
-<p>Konferencja ByteMyCode powraca na żywo! Najlepsi specjaliści świata IT w jednym miejscu – Kraków, 27 października 2022</p>
-
-<p><b>Tegoroczna, szósta już edycja konferencji ByteMyCode powered by UBS, odbędzie się w formie stacjonarnej. Uczestnicy ponownie będą mieli szansę zdobyć wiedzę bezpośrednio od międzynarodowych ekspertów podczas technicznych wykładów i sesji Q&amp;A.</b></p>
-
-<p><b>ByteMyCode</b> to wydarzenie gromadzące programistów, architektów, testerów, inżynierów DevOps i wszystkich entuzjastów nowych technologii. <b>27 października 2022</b> masz szansę dołączyć do kilkuset specjalistów, którzy zgromadzą się w Muzeum Sztuki i Techniki Japońskiej <b>Manggha w Krakowie</b>.</p>
-
-<!-- more -->
-
-
-<p><b>Poznaj tematykę tegorocznej edycji</b></p>
-
-<p>Od zawsze najważniejsze w konferencji ByteMyCode są wartościowe wykłady. Każdego roku skrupulatnie dobieramy ich tematykę, by odzwierciedlała ona bieżące trendy i kluczowe zagadnienia ze świata IT. W tym roku już po raz szósty zbudowaliśmy agendę konferencji przepełnioną najważniejszymi tematami przygotowanymi przez prelegentów o międzynarodowej renomie.</p>
-
-<p>Na scenie <b>BMC 6.0</b> wystąpią między innymi:</p>
-
-<ul>
-<li><b>Mary Grygleski</b> - Java Champion! Aktywnie wspiera społeczność technologiczną w USA, obecnie pełniąc funkcję prezeski Chicago Java Users Group (CJUG) i współorganizatorki kilku meetupów. Podczas ByteMyCode przedstawi temat <b>&#8220;Cloud Native Event Streaming using Apache Pulsar&#8221;</b>.
-<li><b>Sławomir Sobótka</b> - właściciel firmy szkoleniowo-doradczej Bottega IT Minds, a także inwestor i CTO w kilku startupach. W ciągu 17 lat pracy w branży IT pełnił rolę programisty, architekta, lidera zespołu, mentora i trenera. W codziennej pracy integruje: Domain Driven Design, wzorce, style architektoniczne, zwinne procesy wytwórcze i zdrowy rozsądek. Podczas ByteMyCode poruszy temat <b>“Tajniki destylacji kontekstów dla modeli domenowych - jak analiza przekłada się na dobre granice modułów”</b>.
-<li><b>Jakub Pilimon</b> - Spring Developer Advocate, bloger, zapalony programista i trener. Uwielbia zajmować się złożonymi projektami za pomocą Domain Driven Design, Test Driven Development i Spring. Prawdziwy maniak mikroserwisów, dla którego architektura również jest bardzo ważna. Podczas BMC 6.0 opowie o <b>&#8220;Clean Code: Eternal Principles&#8221;</b>.
-</ul>
-
-
-<p><b>Rozwiń swoją wiedzę i wesprzyj szczytny cel. Wspólnie pomagamy Fundacji Hearty!</b></p>
-
-<p>BMC 6.0 to konferencja pełna burzliwych dyskusji i innowacyjnych pomysłów, z ogromem zabawy i networkingu, perspektyw rekrutacyjnych oraz szans na nowe projekty. Biorąc udział w konferencji wiele zyskujesz, ale jednocześnie możesz dać coś innym - cały dochód ze sprzedaży biletów ByteMyCode jest przeznaczony na wsparcie działań Fundacji Hearty, która zapewnia edukację przyszłości dzieciom i młodzieży z niepełnosprawnościami, podopiecznym domów dziecka oraz uczniom z małych miejscowości.</p>
-
-<p><b>Nie czekaj – zarejestruj się już dziś!</b></p>
-
-<p>Więcej informacji o konferencji i rejestracja: <a href="https://bit.ly/3qysYtv">https://bit.ly/3qysYtv</a></p>
-
-<p>Aby być na bieżąco, koniecznie obserwuj wydarzenie w mediach społecznościowych:</p>
-
-<ul>
-    <li><a href="https://www.facebook.com/ByteMyCodeConf" target="_blank">https://www.facebook.com/ByteMyCodeConf</a>
-    <li><a href="https://www.linkedin.com/company/bytemycode/" target="_blank">https://www.linkedin.com/company/bytemycode/</a>
-</ul>
-
 ]]></content>
   </entry>
   
