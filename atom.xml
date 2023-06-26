@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-06-15T19:27:05+02:00</updated>
+  <updated>2023-06-26T18:31:03+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JDD]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/06/26/jdd/"/>
+    <updated>2023-06-26T18:27:17+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/06/26/jdd</id>
+    <content type="html"><![CDATA[<p>Jak co roku, konferencja JDD odbędzie się w październiku w Krakowie, a my już teraz dołączamy do niej w roli Community Partnera. 🙌 Chcecie się tam z nami spotkać?</p>
+
+<p>Zarejestrujcie się z naszym kodem: <b>JDD23xZGJUG</b> i odbierzcie 10% rabatu na bilety
+(zniżka nie dotyczy biletów grupowych i studenckich).</p>
+
+<p>Do sierpnia możecie również wysyłać propozycje wystąpień w ramach Call for Papers. Jak zawsze na scenie znajdzie się miejsce zarówno dla doświadczonych, jak i debiutujących prelegentów - ci ostatni będą rywalizować w ramach konkursu JUGmajster.</p>
+
+<p>Więcej informacji znajdziecie na 👉 <a href="https://jdd.org.pl">https://jdd.org.pl</a> 🚀</p>
+
+<p><a href="http://jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2023.jpg"></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Zamknięcie sezonu - bazy grafowe]]></title>
@@ -531,36 +549,6 @@ Bilety 👉<a href="https://eventory.cc/event/hackyeah-2022/tickets">https://eve
 <p><b>Modularny monolit (ze Spring Boot) - Tomasz Kleszczyński</b></p>
 
 <p>Spring Boot to dobrze znane narzędzie do tworzenia aplikacji Java, niezależnie od tego, czy są to duże monolity, czy mikrousługi. Wyzwanie związane z aplikacjami monolitycznymi polega na tym, że architektura często z czasem ulega degradacji, a czasami staje się wielką kulą błota. Podczas spotkania przyjrzymy się aspektom rozwijania monolitów w sposób modułowy może pomóc w utrzymaniu architektury pod kontrolą.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[AWS Pop-up Hub]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/10/04/aws-pop-up-hub/"/>
-    <updated>2022-10-04T21:30:49+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/10/04/aws-pop-up-hub</id>
-    <content type="html"><![CDATA[<p>Zostaliśmy partnerem medialnym wydarzenia AWS Pop-up Hub. Zapraszamy tym bardziej, że bezpłatnie możecie zapoznać się z wieloma nowymi technologiami! Poniżej słowo od organizatorów:</p>
-
-<p><a href="https://www.aws-hub.pl/pl"><img class="center" src="http://zielona-gora-jug.github.io/images/aws.jpg" width="400" height="400" title="AWS" ></a></p>
-
-<p><i>
-AWS ma przyjemność zaprosić Cię na 5-dniowy Hub, który odbędzie się w Warszawie 10-14 października.</p>
-
-<p>Otrzymasz szansę uczestniczenia w ponad 20 sesjach, ponad 6 warsztatach projektowych, Szkoleniach i Laboratoriach Certyfikacyjnych oraz w indywidualnych spotkaniach z naszymi ekspertami.
-Tym razem skupimy się na następujących tematach:</p>
-
-<ul>
-<li>Innowacje z Cloud: Data, Ml, Al;</li>
-<li>Modern Cloud Operations;</li>
-<li>Modern Cloud Application Development.</li>
-</ul>
-
-
-<p>Udział w wydarzeniu jest bezpłatny!</p>
-
-<p>Dowiedz się więcej o datach i możliwościach:
-<a href="https://www.aws-hub.pl/pl">https://www.aws-hub.pl/pl</a>
-</i></p>
 ]]></content>
   </entry>
   
