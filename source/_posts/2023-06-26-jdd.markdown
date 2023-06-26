@@ -1,0 +1,18 @@
+---
+layout: post
+title: "JDD"
+date: 2023-06-26 18:27:17 +0200
+comments: true
+categories: 
+---
+
+Jak co roku, konferencja JDD odbędzie się w październiku w Krakowie, a my już teraz dołączamy do niej w roli Community Partnera. 🙌 Chcecie się tam z nami spotkać? 
+
+Zarejestrujcie się z naszym kodem: <b>JDD23xZGJUG</b> i odbierzcie 10% rabatu na bilety
+(zniżka nie dotyczy biletów grupowych i studenckich).
+
+Do sierpnia możecie również wysyłać propozycje wystąpień w ramach Call for Papers. Jak zawsze na scenie znajdzie się miejsce zarówno dla doświadczonych, jak i debiutujących prelegentów - ci ostatni będą rywalizować w ramach konkursu JUGmajster. 
+
+Więcej informacji znajdziecie na 👉 https://jdd.org.pl 🚀
+
+[{% img center /images/jdd2023.jpg %}](http://jdd.org.pl/)
