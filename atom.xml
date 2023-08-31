@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-06-26T18:31:03+02:00</updated>
+  <updated>2023-08-31T19:14:15+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JDD - przypomnienie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/08/31/jdd-przypomnienie/"/>
+    <updated>2023-08-31T19:09:40+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/08/31/jdd-przypomnienie</id>
+    <content type="html"><![CDATA[<p>Poznajecie? 🚀 Tak, to konferencja JDD w nowej odsłonie, której nasz JUG niezmiennie towarzyszy jako partner społecznościowy. 😉</p>
+
+<p><b>Nasz kod -10%: “JDD23xZGJUG” jest cały czas aktywny. </b></p>
+
+<p>Podczas JDD 2023 wystąpią między innymi: Adam Bien, Edwin Derks, Jarek Pałka i Sławomir Sobótka. 🌟 Na scenie pojawi się też mocna reprezentacja JUGów z całej Polski - prelegenci debiutujący na JDD zawalczą o tytuł JUGmajstra. 🏆 Liczymy na Waszą obecność, bo to uczestnicy typują zwycięzcę!</p>
+
+<p>🗓 24-25.10.2023 <br>
+📌 Hotel Metropolo, Kraków<br>
+💡 <a href="https://jdd.org.pl/">https://jdd.org.pl/</a> 🚀<br></p>
+
+<p><a href="http://jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/jdd2023-2.jpg"></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JDD]]></title>
@@ -530,25 +549,6 @@ Nie może Was zabraknąć! <br>
 🗺 Gdzie? Kraków, Tauron Arena<br>
 ❗ Dochód z biletów zostanie przekazany na cele charytatywne. <br><br>
 Bilety 👉<a href="https://eventory.cc/event/hackyeah-2022/tickets">https://eventory.cc/event/hackyeah-2022/tickets</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie październik '22 - Architektura z MQTT i modularny monolit]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2022/10/05/spotkanie-pazdziernik-22-architektura-z-mqtt-i-modularny-monolit/"/>
-    <updated>2022-10-05T19:57:50+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2022/10/05/spotkanie-pazdziernik-22-architektura-z-mqtt-i-modularny-monolit</id>
-    <content type="html"><![CDATA[<p>Drugie spotkanie sezonu planujemy na 26-ego października o godz. 19:00 w klubie WySPa. Sponsorem dnia jest <a href="https://ekoenergetyka.com.pl/" target="_blank">Ekoenergetyka</a> - pionier elektromobilności oraz jeden z liderów wśród producentów infrastruktury ładowania wysokiej mocy w Europie. Dwie prelekcje poprowadzą przedstawiciele sponsora - Tomasz Kleszczyński (którego już dobrze znacie) i Karol Nowacki (który zadebiutuje na naszej scenie). Zapisy na <a href="https://www.meetup.com/zielona-gora-jug/events/288927864/" target="_blank">Meetup</a>.</p>
-
-<p><a href="https://ekoenergetyka.com.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/ee.png" width="520" height="212" title="Ekoenergetyka" ></a></p>
-
-<p><b>Architektura sterowania zdarzeniami i żądaniami MQTTv5 - Karol Nowacki</b></p>
-
-<p>Wszystkie style architektury mają swoje zalety, kompromisy i przydatność, która zależy od użycia. Często korzystne i wydajne jest wykorzystanie w systemie zarówno architektury sterowanej zdarzeniami, jak i sterowanej żądaniami. W tej prezentacji zademonstruję, jak zbudować system rozproszony z mieszaną architekturą sterowaną zdarzeniami i żądaniami za pomocą MQTTv5. Co więcej, zobaczycie, jak udokumentować swoje asynchroniczne i synchroniczne API za pomocą AsyncAPI. Na koniec pokażę współczesnego asynchronicznego klienta MQTT w C++ zbudowanego przy pomocy boost::asio i Mosquitto</p>
-
-<p><b>Modularny monolit (ze Spring Boot) - Tomasz Kleszczyński</b></p>
-
-<p>Spring Boot to dobrze znane narzędzie do tworzenia aplikacji Java, niezależnie od tego, czy są to duże monolity, czy mikrousługi. Wyzwanie związane z aplikacjami monolitycznymi polega na tym, że architektura często z czasem ulega degradacji, a czasami staje się wielką kulą błota. Podczas spotkania przyjrzymy się aspektom rozwijania monolitów w sposób modułowy może pomóc w utrzymaniu architektury pod kontrolą.</p>
 ]]></content>
   </entry>
   
