@@ -10,7 +10,7 @@ Zapraszamy na spotkanie otwierające nowy sezon 2023/24. Nowy sezon to czas zmia
 
 Miejsce jest nowe, ale za to prelegentem bardzo dobrze znany: <b>Paweł Żalejko</b>. Tym razem przywoła <b>cichego bohatera, czyli język SQL.</b>
 
-Jak wszyscy bardzo dobrze wiemy, Java to jedyny i słuszny język programowania. Nie ma rzeczy, której nie jesteśmy w stanie zrobić przy użyciu Javy i tony różnych narzędzi i frameworków, które istnieją w naszym ekosystemie. Jest jednak inny język, który każdy z nas zna, ale nie zawsze zdajemy sobie sprawę z jego możliwości. SQL jest z nami prawie 50 lat, sprawdźmy więc co ma do zaoferowania w połączeniu ze współczesnymi bazami danych. Przyjrzymy się temu jak działa, co możemy za jego pomocą zrobić i czy jest coś co moglibyśmy "zdelegować" z Javy do SQLa.
+<i>Jak wszyscy bardzo dobrze wiemy, Java to jedyny i słuszny język programowania. Nie ma rzeczy, której nie jesteśmy w stanie zrobić przy użyciu Javy i tony różnych narzędzi i frameworków, które istnieją w naszym ekosystemie. Jest jednak inny język, który każdy z nas zna, ale nie zawsze zdajemy sobie sprawę z jego możliwości. SQL jest z nami prawie 50 lat, sprawdźmy więc co ma do zaoferowania w połączeniu ze współczesnymi bazami danych. Przyjrzymy się temu jak działa, co możemy za jego pomocą zrobić i czy jest coś co moglibyśmy "zdelegować" z Javy do SQLa.</i>
 
 [{% img center /images/sinersio.jpg 450 140 %}](https://sinersio.com/)
 
