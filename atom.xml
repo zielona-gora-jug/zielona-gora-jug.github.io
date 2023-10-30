@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-10-16T20:28:22+02:00</updated>
+  <updated>2023-10-30T19:25:30+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -24,7 +24,7 @@
 
 <p><i>Jak wszyscy bardzo dobrze wiemy, Java to jedyny i słuszny język programowania. Nie ma rzeczy, której nie jesteśmy w stanie zrobić przy użyciu Javy i tony różnych narzędzi i frameworków, które istnieją w naszym ekosystemie. Jest jednak inny język, który każdy z nas zna, ale nie zawsze zdajemy sobie sprawę z jego możliwości. SQL jest z nami prawie 50 lat, sprawdźmy więc co ma do zaoferowania w połączeniu ze współczesnymi bazami danych. Przyjrzymy się temu jak działa, co możemy za jego pomocą zrobić i czy jest coś co moglibyśmy &ldquo;zdelegować&rdquo; z Javy do SQLa.</i></p>
 
-<p><a href="https://sinersio.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/sinersio.jpg" width="450" height="140"></a></p>
+<p><a href="https://sinersio.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/sinersio.jpg?v=2" width="450" height="140"></a></p>
 
 <p>Sponsor również nie jest nam obcy. To firma <a href="https://sinersio.com/" target="_blank">Sinersio</a> z Nowej Soli, czyli jedno z dwóch najnowocześniejszych i najbezpieczniejszych DC w Polsce. Potwierdza to m.in. certyfikat EN 50600. Dostarczane usługi:</p>
 
