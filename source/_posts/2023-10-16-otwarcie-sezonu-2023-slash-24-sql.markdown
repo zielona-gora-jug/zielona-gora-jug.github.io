@@ -12,7 +12,7 @@ Miejsce jest nowe, ale za to prelegentem bardzo dobrze znany: <b>Paweł Żalejko
 
 <i>Jak wszyscy bardzo dobrze wiemy, Java to jedyny i słuszny język programowania. Nie ma rzeczy, której nie jesteśmy w stanie zrobić przy użyciu Javy i tony różnych narzędzi i frameworków, które istnieją w naszym ekosystemie. Jest jednak inny język, który każdy z nas zna, ale nie zawsze zdajemy sobie sprawę z jego możliwości. SQL jest z nami prawie 50 lat, sprawdźmy więc co ma do zaoferowania w połączeniu ze współczesnymi bazami danych. Przyjrzymy się temu jak działa, co możemy za jego pomocą zrobić i czy jest coś co moglibyśmy "zdelegować" z Javy do SQLa.</i>
 
-[{% img center /images/sinersio.jpg 450 140 %}](https://sinersio.com/)
+[{% img center /images/sinersio.jpg?v=2 450 140 %}](https://sinersio.com/)
 
 Sponsor również nie jest nam obcy. To firma <a href="https://sinersio.com/" target="_blank">Sinersio</a> z Nowej Soli, czyli jedno z dwóch najnowocześniejszych i najbezpieczniejszych DC w Polsce. Potwierdza to m.in. certyfikat EN 50600. Dostarczane usługi:
 <ul>
