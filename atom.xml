@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-11-08T17:51:47+01:00</updated>
+  <updated>2023-11-09T19:02:52+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie listopadowe - AI: hit czy kit?]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2023/11/09/spotkanie-listopadowe-ai-hit-czy-kit/"/>
+    <updated>2023-11-09T18:57:41+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2023/11/09/spotkanie-listopadowe-ai-hit-czy-kit</id>
+    <content type="html"><![CDATA[<p>Już dokładnie za dwa tygodnie (22 listopada, 19:00) wracamy do Grot Areny, żeby wziąć udział w kolejnym spotkaniu JUG! Tym razem zahaczymy o tematykę, która powoduje ostatni dużo szumu - również w kontekście przyszłości nas jako programistów. Tematem dnia będzie &ldquo;<b>AI - hit czy kit, a może zwykła matematyka?</b>&rdquo;. Na to pytanie postarają się odpowiedzieć <b>Tomasz Łączkowski</b> i <b>Magdalena Wojciech</b>. Gorąco polecamy i zapraszamy! Sponsorem naszego spotkania jest <a href="https://dtpoland.com/" target="_blank">DTP</a>. Warto zarejestrować się na <a href ="https://www.meetup.com/zielona-gora-jug/events/297237106/" target="_blank">Meetup</a>!</p>
+
+<p><b>O wystąpieniu:</b></p>
+
+<p>Sztuczna Inteligencja wdarła się w nasze życie niczym lawa do Pompejów. Czy jednak jest to faktyczna rewolucja oparta o jakieś super nowoczesne technologie ukradzione kosmitom przez Facetów w Czerni? Czy to dziecko niespodzianka, które potrafiłoby zaskoczyć nawet znanego wiedźmina z serialu Netflixa? A może to po prostu wynik żmudnej wieloletniej pracy tysięcy informatyków, matematyków i statystyków, którym dostępna moc obliczeniowa pozwoliła osiągnąć w końcu jakieś rezultaty? Na filozoficzne rozważania o sztucznej inteligencji wsparte przez praktyczne omówienie zagadnienia sieci neuronowych zaprasza Magda Wojciech (ta od praktyki i matematyki) oraz Tomasz Łączkowski (ten od filozofowania).</p>
+
+<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtp.png" width="450" height="450" title="DTPoland" ></a></p>
+
+<p><b>O prelegentach:</b></p>
+
+<p><b>Magdalena Wojciech</b> - ścisłowiec od urodzenia, statystyk z zamiłowania, data scientist z pasji.</p>
+
+<p><b>Tomasz Łączkowski</b> - pasjonat nowoczesnych technologii z ponad 20-letnim doświadczeniem w IT. Wielbiciel fantastyki naukowej, w której AI przejmuje władzę na świecie i wypowiada wojnę ludzkości.</p>
+
+<p><b>O sponsorze</b>: DTP, Digital Technology Poland tworzy innowacyjny software i hardware w obszarze Industry 4.0. Firma rozwija aplikacje chmurowe wspomagające projektowanie, montaż i eksploatację infrastruktury produkcyjnej dla przemysłu. Dostarcza także rozwiązania IoT wykorzystując AI oraz Big Data. Dodatkowo, w ramach zespołu R&amp;D realizuje projekty od pomysłu do finalnego produktu przy użyciu know-how z obszarów takich jak robotyka, automatyka i elektronika.</p>
+
+<!-- more -->
+
+
+<p>Spółka jest częścią niemieckiej Friedhelm Loh Group mającej na pokładzie niemal 12 tysięcy pracowników w 100 oddziałach na całym świecie. DTP ściśle współpracuje ze spółkami w macierzystej grupie (m.in. Rittal, EPLAN i German Edge Cloud) oraz z jej wieloletnimi klientami.</p>
+
+<p>Samo DTP zatrudnia w Zielonej Górze, Cieszynie i Poznaniu już niemal 300 ekspertów. W tym roku świętuje 10 lat na rynku nowoczesnych technologii.</p>
+
+<p>Więcej o firmie znajdziecie na: <a href ="https://dtpoland.com" target="_blank">dtpoland.com<a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Cloud Builders: Java Conf]]></title>
@@ -536,27 +568,6 @@ Rada Programowa czeka na zgłoszenia w ramach 13 ścieżek tematycznych:
 
 
 <p>Po więcej informacji i rejestrację zapraszamy na stronę <a href="https://www.cuvalley.com" target="_blank">www.cuvalley.com</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie styczniowe '23 - GitOps]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/01/04/spotkanie-styczniowe-23-gitops/"/>
-    <updated>2023-01-04T19:50:36+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/01/04/spotkanie-styczniowe-23-gitops</id>
-    <content type="html"><![CDATA[<p>nowy rok zaczynamy <b>18 stycznia</b> (tak, środa, ale nie ostatnia środa miesiąca) w klubie WySPa o 19:00. Tematem dnia jest GitOps, a prelegent przyjedzie do nas z Gliwic.</p>
-
-<p><b>Grzegorz Kocur</b>, bo o nim mowa, jest liderem DevOps w SoftwareMill. Przez ostatnie dwadzieścia lat stworzył dużo wspaniałego softu dla różnych organizacji. Zawzięcie używa Kubernetesa i promuje kulturę DevOps, po czym biega i uprawia ogródek.</p>
-
-<p>Sponsorami spotkania są konferencja <a href="https://www.scalar-conf.com/" target="_blank">Scalar</a> - konferencja dla profesjonalistów programujących w Scali - oraz <a href="https://softwaremill.com/" target="_blank">SoftwareMill</a> - dostawca nowoczesnych i skalowalnych aplikacji.</p>
-
-<p><a href="https://www.scalar-conf.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/scalar.png" width="700" height="250" title="Scalar" ></a></p>
-
-<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" width="700" height="250" title="SoftwareMill" ></a></p>
-
-<p>18-ego stycznia odpowie na pytanie <b>Czym jest GitOps?</b> Według niego samego: &ldquo;Brzmi jak połączenie wody z ogniem, przecież git jest dla programistów. Co prawda teraz wszystko jest <i>as a code</i>, ale żeby zaraz nowe słowo wymyślać? Jednak GitOps to coś więcej, szczególnie w połączeniu z Kubernetes. Pozwala na posiadanie jednego Źródła Prawdy. Miejsca, które dokumentuje bieżący stan systemu, ale również jego historię! I to wszystko przy pomocy narzędzi, które każdy developer zna na wylot. Jednym z narzędzi, które realizują podejście GitOps jest Flux - wspaniałe narzędzie, dzięki któremu ostatnią rzeczą którą musimy zrobić żeby wykonać deployment jest <i>git push</i>. Ba, czasem nawet Flux może to zrobić za nas! Podczas prezentacji postaram się opowiedzieć czym właściwie jest GitOps, o jego najważniejszych cechach i o tym jak może nam ułatwić życie. Opowiem też czym jest Flux, jak działa i go użyć praktycznie.&rdquo;</p>
-
-<p>Zapraszamy! <a href="https://www.meetup.com/zielona-gora-jug/events/290719274/" target="_blank">Zapisy na Meetup.</a></p>
 ]]></content>
   </entry>
   
