@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2023-11-09T19:02:52+01:00</updated>
+  <updated>2024-01-17T19:39:05+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CodeFrenzy]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2024/01/17/codefrenzy/"/>
+    <updated>2024-01-17T19:30:34+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2024/01/17/codefrenzy</id>
+    <content type="html"><![CDATA[<p>Zostaliśmy partnerem kolejnej edycji konferencji <a href="https://codefrenzy.pl/" target="_blank">CodeFrenzy.pl</a>. Zapraszamy! Poniżej dokładne informacje o tej darmowej imprezie, która zacznie się już za kilkanaście dni.</p>
+
+<p><a href="https://codefrenzy.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/CF2.png" width="450" height="450" title="Logo" ></a></p>
+
+<p><i>
+W dniach 5-8 lutego 2024 roku odbędzie się kolejna edycja konferencji CodeFrenzy, poświęconej najnowszym trendom i innowacjom w świecie programowania. Wydarzenie zrzesza pasjonatów technologii, oferując im wyjątkową okazję do zdobycia aktualnej wiedzy, dzielenia się doświadczeniem oraz spojrzenia na branżę IT z nowej perspektywy.</p>
+
+<p>W trakcie czterech dni uczestnicy zapoznają się z szerokim spektrum tematów związanych z programowaniem, cyberbezpieczeństwem, rozwiązaniami sieciowymi, uczeniem maszynowym czy sztuczną inteligencją. Konferencja odbędzie się w elastycznej formule online, co umożliwia uczestnictwo z dowolnego miejsca na świecie. Oprócz udziału w streamingu, rejestracja na CodeFrenzy gwarantuje również dostęp do nagrań po zakończeniu konferencji.</p>
+
+<p>Co w programie?</p>
+
+<ul>
+<li>Inspirujące prezentacje: na wirtualnej scenie wystąpią prelegenci znani z konferencji: PLNOG, Oh My H@ck, CONFidence, 4Developers oraz JDD.</li>
+<li>Panele dyskusyjne: eksperci z Rad Programowych wspomnianych wydarzeń poruszą najgorętsze tematy i odpowiedzą na pytania uczestników.
+<li>Networking: mimo formuły online, uczestnicy mają możliwość interakcji za pośrednictwem platformy Eventory. 
+<li>Konkursy: możliwość wygrania biletów na stacjonarne konferencje organizowane przez PROIDEA.
+</ul>
+
+
+<p></i></p>
+
+<p>Więcej informacji o agendzie oraz darmowe bilety można znaleźć na oficjalnej stronie wydarzenia: <a href="https://codefrenzy.pl/" target="_blank"><a href="https://codefrenzy.pl/">https://codefrenzy.pl/</a></a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie listopadowe - AI: hit czy kit?]]></title>
@@ -538,36 +568,6 @@ Rada Programowa czeka na zgłoszenia w ramach 13 ścieżek tematycznych:
 
 <p>Więcej informacji 👉 <a href="https://4developers.org.pl/4developers-2023/">https://4developers.org.pl/4developers-2023/</a>  <br/>
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hackathon CuValley]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/01/20/hackathon-cuvalley/"/>
-    <updated>2023-01-20T19:12:25+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/01/20/hackathon-cuvalley</id>
-    <content type="html"><![CDATA[<p>To już ostatni moment na rejestrację Waszego udziału w największym hackathonie przemysłowym w Polsce CuValleyHack! Jako CommunityPartner tego wydarzenia gorąco zachęcamy Was do udziału.</p>
-
-<p><a href="https://www.cuvalley.com"><img class="center" src="http://zielona-gora-jug.github.io/images/cuvalley.jpg"></a></p>
-
-<p>Aby dołączyć do wydarzenia i zmierzyć się z wybranym zadaniem należy wypełnić formularz rejestracyjny na stronie <a href="https://www.cuvalley.com" target="_blank">CuValleyHack</a>. Pierwszych 160 potwierdzonych uczestników, którzy zapiszą się na wydarzenie do 20 stycznia otrzyma atrakcyjny GiftPack.</p>
-
-<p>Uczestnicy CuValley Hack mogą pracować nad pomysłami w pojedynkę lub z zespołem (max. 5 osób). Osoby/drużyny z najlepszymi projektami w danej kategorii wystąpią na wirtualnej scenie i wezmą udział w sesji Q&amp;A na żywo.</p>
-
-<p>Czeka na Was:</p>
-
-<ul>
-<li>&#9200; 40 godzin kodowania
-<li>&#128202; Praca na realnych danych przemysłowych
-<li>&#128170; Wsparcie ponad 20 osobowego grona Mentorów
-<li>&#9874; Szansa na współpracę z #KGHM przy wdrożeniu Waszego projektu
-<li>&#128483; Ciekawe prelekcje
-<li>&#127873; Konkursy z nagrodami
-<li>&#128176; Łączna pula nagród to 127 500PLN
-</ul>
-
-
-<p>Po więcej informacji i rejestrację zapraszamy na stronę <a href="https://www.cuvalley.com" target="_blank">www.cuvalley.com</a></p>
 ]]></content>
   </entry>
   
