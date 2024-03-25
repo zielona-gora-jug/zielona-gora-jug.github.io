@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2024-02-21T19:45:58+01:00</updated>
+  <updated>2024-03-25T16:47:53+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[JCON Europe 2024]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2024/03/25/jcon-europe-2024/"/>
+    <updated>2024-03-25T16:36:29+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2024/03/25/jcon-europe-2024</id>
+    <content type="html"><![CDATA[<p><a href="https://2024.europe.jcon.one/" target="_blank">JCON Europe</a> startuje w niemieckiej Kolonii 13 maja i kończy się trzy dni później. Wszyscy zainteresowani mogą skorzystać z darmowych biletów <a href=" https://bit.ly/jcon24-eu-jug-p-m" target="_blank">na tej stronie</a>. To ponad 100 sesji i 4 ścieżki. Serdecznie zapraszamy!</p>
+
+<p><a href="https://2024.europe.jcon.one/"><img class="center" src="http://zielona-gora-jug.github.io/images/JCON_EUROPE_2024_16-9.png" width="450" height="450" title="Logo" ></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[4Developers - CFP]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2024/02/21/jdd-2024/"/>
+    <updated>2024-02-21T19:35:46+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2024/02/21/jdd-2024</id>
+    <content type="html"><![CDATA[<p>22 i 23 października w Krakowie odbędzie się kolejna edycja <a href="https://jdd.org.pl/" target="_blank">JDD</a>, konferencji łączącej społeczność programistów. Nas również nie mogło tam zabraknąć w roli Community Partnera!</p>
+
+<p><a href="https://jdd.org.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/JDD1080x1080CFP.png" width="450" height="450" title="Logo" ></a></p>
+
+<p>Program JDD obejmuje najciekawsze tematy z zakresu JVM, architektury oprogramowania, frameworków i rozwiązań w chmurze, bezpieczeństwa, AI, DevOps czy umiejętności miękkich.</p>
+
+<p>Wy również możecie mieć wpływ na jego kształt - właśnie wystartowało Call For Papers. 💡 Jeśli chcecie wystąpić na jednej z największych konferencji poświęconych Javie w Polsce, zgłoście propozycje za pośrednictwem formularza na stronie: <a href="https://jdd.org.pl/">https://jdd.org.pl/</a></p>
+
+<p>Możecie podzielić się konkretnymi przykładami z codziennej pracy, ciekawymi case study lub przygotować live coding. 👾 Zgłoszenia można wysyłać do 31 maja 2024.</p>
+
+<p>🎙️ Uwaga: rusza również konkurs JUGmajster dla specjalistów z JUGów, którzy nigdy nie występowali na JDD (inne konferencje są dozwolone 😉). Najlepszy debiut na scenie JDD jest wybierany na podstawie głosów publiczności.</p>
+
+<p>A jeśli chcecie po prostu dołączyć do nas na konferencji, to są jeszcze dostępne limitowane bilety Early Bird. Szczegóły na <a href="https://jdd.org.pl/" target="_blank">stronie</a>! ☕</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[4Developers - CFP]]></title>
@@ -466,103 +498,6 @@ Mode: 1 day, 12+ speakers<br></p>
 
 <p>Click here to find out more and register 👉 <a href="https://www.cloud-builders.tech/" target="_blank">Cloud Builders</a>
 </i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[HackCodeX 2023]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/02/24/hackcodex-2023/"/>
-    <updated>2023-02-24T19:12:37+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/02/24/hackcodex-2023</id>
-    <content type="html"><![CDATA[<p>Po raz kolejny zostaliśmy partnerami medialnymi łotewskiego <a href="https://www.hackcodex.eu/" target="_blank">HackCodeX</a>. Gdyby ktoś z Was chciałby wybrać się do Rygi, może już planować wyjazd w czerwcu.</p>
-
-<p><a href="https://www.hackcodex.eu/"><img class="center" src="http://zielona-gora-jug.github.io/images/hackcodex23.jpg" width="600" height="300" title="HackCodeX" ></a></p>
-
-<p><i>
-HackCodeX is an on-site weekend-long hackathon where programmers, designers, and tech enthusiasts collaborate on exciting challenges and compete for the main prize. It&rsquo;s partly a laid-back party, partly race-the-clock intense competition to find the most talented coding team of them all! It has something for every skill set and will provide a unique opportunity to work and interact with hundreds of developers from Europe.
-</i></p>
-
-<!-- more -->
-
-
-<p>  🤔<strong> How to apply?</strong></p>
-
-<p><i>  <br/>
-The only acceptance criteria set in stone is that you have to be a techie in one way or another – whether a coding wizard, a designer with an itch for techy stuff, or a business mind looking for new tech-related experiences. You can apply with a team or individually; then, we will find you the best teammates on the spot! Apply here till May 22: <a href="https://www.hackcodex.eu/">https://www.hackcodex.eu/</a>.
-</i></p>
-
-<p> 💾<strong> Sign me up, but what is the challenge?</strong></p>
-
-<p><i>
-The challenges will be given by HackCodeX partners – leading companies of the region. The challenges may vary from crypto currencies to optimization of mail systems or creating a virtual reality guide to space. The final challenges will be revealed shortly before the hackathon.
-</i></p>
-
-<p> 🏆<strong> Prizes</strong></p>
-
-<p><i>
-The main prize for the hackathon-winning team is 10 000€, powered by HackCodeX partners Ubiquity! In addition to the main prize, the challenge partners give out individual awards to the best ideas in each challenge. Challenge prizes typically range from the company&rsquo;s products to monetary rewards.
-</i></p>
-
-<p> 💳<strong> Does it cost to attend?</strong></p>
-
-<p><i>
-The event is free of charge for all participants. Moreover, we will ensure best deals near the venue for accommodation, but food &amp; drinks will be available on site! That&rsquo;s what makes it so amazing! Anyone can apply, including programmers, designers, students, entrepreneurs, and everyone with interest in technology. Each participant will get a chance to show off their skills and play around with exciting new technologies.
-</i></p>
-
-<p>  🛏️<strong> Where does it take place?</strong></p>
-
-<p><i>
-The hacking, coding, networking and sleeping (if any) will happen in Hanzas Perons, Riga, Latvia from June 3 to June 5, 2023.</p>
-
-<p>More information can be found on the official HackCodeX website: <a href="https://www.hackcodex.eu/" target="_blank"><a href="https://www.hackcodex.eu/">https://www.hackcodex.eu/</a></a>
-</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Luty '23 - spotkanie i warsztat]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/02/17/luty-23-spotkanie-i-warsztat/"/>
-    <updated>2023-02-17T19:21:06+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/02/17/luty-23-spotkanie-i-warsztat</id>
-    <content type="html"><![CDATA[<p>Spotkanie lutowe będzie podwójnie nietypowe: odbędzie się&hellip; 1 marca, a poprzedzi je warsztat. Są to dwa osobne wydarzenia, na które zapisujecię się pod dwoma różnymi linkami:</p>
-
-<p><p>
-➜ Warsztat z Testcontainers o 15:00: <a href="https://www.meetup.com/zielona-gora-jug/events/291640570">https://www.meetup.com/zielona-gora-jug/events/291640570</a> - tu zwracamy uwagę, że &ldquo;biletem&rdquo; wejściowym na warsztaty jest niewielki przelew na dowolnie wybraną organizację charytatywną.</p>
-
-<p><p>
-➜ Spotkanie o Java 19 i 20: <a href="https://www.meetup.com/zielona-gora-jug/events/291640607">https://www.meetup.com/zielona-gora-jug/events/291640607</a> - tu wszystko jest po staremu. Wstęp wolny, godz. 19:00.</p>
-
-<p><p>
-Obydwa wydarzenia poprowadzi nasz Gość, Piotr Przybył, a partnerem dnia jest <a href="https://www.atomicjar.com/" target="_blank">AtomicJar</a>, producent narzędzi dla programistów. Miejsce tradycyjne, czyli klub WySPa przy ul. Wojska Polskiego 69.</p>
-
-<p>Serdecznie zapraszamy!</p>
-
-<p><a href="https://www.atomicjar.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/atomicjar.png" width="1000" height="500" title="AtomicJar" ></a></p>
-
-<p><!-- more --></p>
-
-<p><b>Abstrakt spotkania:</b>
-Hey, there are two major Java versions released every year! We don’t have to wait 3 years or so for new features anymore. Isn’t that cool?
-Java was supposed “to be slow”. However, Java turns out to evolve so fast, that next releases aren’t just version bumps, but might significantly change the rules of the game. That’s a good reason to check out what’s new in Java.To name a few changes:</p>
-
-<pre><code>Pattern Matching for switch,
-Record Patterns,
-Virtual Threads,
-Structured Concurrency and Scoped Values
-Calling native stuff,
-what’s gone and what will be gone,
-and other stuff.
-</code></pre>
-
-<p>If you find them interesting, let’s dive deep together into new interesting stuff</p>
-
-<p><b>Abstrakt warsztatów:</b>
-Before Docker, configuring the environment for integration testing was painful - people were using fake database implementations, mocking servers, usually it was not cross-platform as well. However, than to Docker, now we can quickly prepare the environment for our tests.
-In this lab, I would like to show how you can use Testcontainers - a popular testing library that harnesses Docker to easily, reliably, spin up test dependencies.
-You&rsquo;ll go through the process adding powerful integration tests to your codebase (we&rsquo;ll use a Spring Boot app) without the headache of managing external service dependencies manually. And get acquainted with all necessary Testcontainers concepts to write elegant, efficient, and reliable integration tests.</p>
-
-<p><b>Bio:</b>
-Notoryczny inżynier w pracy i poza nią, podążający za meandrami sztuki programowania. Zawodowo Remote Software Gardener, od kilkunastu lat wyrywający chwasty w ogródkach webowych. Zwykle przycinający Javę (od wersji 1.3) i Scalę do kształtów pożądanych przez klientów, ale i inne języki nie są mu obce. Miłośnik lekkości i zwinności, która powinna przejawiać się przede wszystkim w stosowaniu właściwych narzędzi. Programista, trener, prelegent. W swoich wystąpieniach mówi nie tylko o czystej Javie, ale także o architekturze oprogramowania, bezpieczeństwie komputerowym i umiejętnościach miękkich.</p>
 ]]></content>
   </entry>
   
