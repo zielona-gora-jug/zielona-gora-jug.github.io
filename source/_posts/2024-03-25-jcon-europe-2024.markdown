@@ -1,0 +1,12 @@
+---
+layout: post
+title: "JCON Europe 2024"
+date: 2024-03-25 16:36:29 +0100
+comments: true
+categories: 
+---
+
+<a href="https://2024.europe.jcon.one/" target="_blank">JCON Europe</a> startuje w niemieckiej Kolonii 13 maja i kończy się trzy dni później. Wszyscy zainteresowani mogą skorzystać z darmowych biletów <a href=" https://bit.ly/jcon24-eu-jug-p-m" target="_blank">na tej stronie</a>. To ponad 100 sesji i 4 ścieżki. Serdecznie zapraszamy!
+
+[{% img center /images/JCON_EUROPE_2024_16-9.png 450 450 Logo %}](https://2024.europe.jcon.one/)
+
