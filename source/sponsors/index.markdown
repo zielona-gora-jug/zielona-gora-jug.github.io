@@ -28,6 +28,6 @@ footer: true
 <div><a href="https://www.atomicjar.com/" target="_blank">{% img /images/atomicjar.png AtomicJar %}</a></div>	
 <div><a href="https://sinersio.com" target="_blank">{% img /images/sinersio.jpg?v=2 Sinersio %}</a></div>
 <div><a href="https://allegro.pl" target="_blank">{% img /images/allegro.png Allegro %}</a></div>
-<div>&nbsp;</div>
+<div><a href="https://www.elastic.co" target="_blank">{% img /images/elastic-logo.png Elastic %}</a></div>
 <div>&nbsp;</div>	
 </div>
