@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2024-03-25T16:47:53+01:00</updated>
+  <updated>2024-11-12T08:47:14+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #74 - Observability z Elasticsearch oraz prezentacje dla introwertyków]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2024/11/12/spotkanie-number-74-observability-z-elasticsearch-oraz-prezentacje-dla-introwertykow/"/>
+    <updated>2024-11-12T08:25:53+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2024/11/12/spotkanie-number-74-observability-z-elasticsearch-oraz-prezentacje-dla-introwertykow</id>
+    <content type="html"><![CDATA[<p>Zapraszamy na pierwsze spotkanie JUG po dłuższej przerwie. Zmieniamy lokal - tym razem jest to <a href="https://cichakobieta.pl/" target="_blank">Piekarnia Cichej Kobiety</a> (ul. Fabryczna 13) - oraz dzień na czwartek (<b>5 grudnia, godz. 19:00</b>). Niezmiennie na spotkanie rejestrujemy się na <a href ="https://www.meetup.com/zielona-gora-jug/events/304476112/" target="_blank">Meetup</a>!</p>
+
+<p>Zaczynamy od razu dwoma prezentacjami:</p>
+
+<ul>
+    <li><b>Andrzej Stencel</b> (z Elastic) - <i>Open source observability z OpenTelemetry i Elasticsearch</i>.
+    <li><b>Magda Stożek</b> - <i>Jak zacząć prezentowanie - perspektywa introwertyka</i>.
+</ul>
+
+
+<p>Abstrakty poniżej.</p>
+
+<p>Naszym sponsorem jest <a href="" target="_blank">Elastic</a>, firma Search AI, pomaga każdemu znaleźć potrzebne odpowiedzi w czasie rzeczywistym, wykorzystując wszystkie dane i na dużą skalę. Rozwiązania Elastic w zakresie wyszukiwania, obserwowalności, bezpieczeństwa i generatywnej sztucznej inteligencji są zbudowane na platformie Elastic Search AI, łącząc precyzję wyszukiwania ze sztuczną inteligencją.</p>
+
+<p><a href="6https://www.elastic.co/"><img class="center" src="http://zielona-gora-jug.github.io/images/elastic-logo.png" title="Elastic" ></a></p>
+
+<p><b>Prezentacja Andrzeja:</b>
+<i>Open source observability z OpenTelemetry i Elasticsearch Elasticsearch jest jednym z wiodących narzędzi do observability (potwierdzone przez Gartnera). Od początku istnienia kojarzone przede wszystkim z logami, dzisiaj oferuje także monitoring infrastruktury przy pomocy metryk i alertów, monitoring wydajności aplikacji (APM) przy pomocy śladów (traces), i jeszcze więcej. W połączeniu z OpenTelemetry otrzymujemy w pełni open source&#8217;owe rozwiązanie do zbierania, przechowywania i analizy logów, metryk i śladów. Podczas prezentacji Andrzej zaprezentuje, jak za pomocą OpenTelemetry przesłać logi, metryki i trace&#8217;y do Elasticsearch, jakie funkcje oferuje Kibana do analizy tych danych, oraz jakie wiążą się z tym wyzwania.</i></p>
+
+<p><b>Prezentacja Magdy:</b>
+<i>Czy myślisz czasem &ldquo;fajnie by było gdzieś z czym wystąpić&rdquo;, ale potem przychodzą myśli &ldquo;to nie dla mnie&rdquo;, &ldquo;nie mam o czym&rdquo;, &ldquo;to zbyt stresujące&rdquo;? Czy w ogóle da się, będąc introwertykiem, występować przed ludźmi? Od czego zacząć? Jak napisać abstrakt? Jak opanować stres? Nie znam uniwersalnej recepty, ale mam kilka wskazówek, co zadziałało, a co nie, na mojej drodze od paniki na samą myśl o scenie, do międzynarodowych wystąpień.</i></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JCON Europe 2024]]></title>
@@ -472,32 +501,6 @@ Tydzień z najlepszymi ekspertami z branży IT - za darmo i bez wychodzenia z do
 <p>W ramach bezpłatnego biletu uczestnicy otrzymają dostęp do live streamingu wykładów, a po zakończeniu konferencji również do nagrań. W połączeniu z formułą online jest to bardzo elastyczne rozwiązanie - można dostosować udział w konferencji do swojego planu dnia, a wszystkie prezentacje, do których nie udało się dołączyć na żywo, obejrzeć w dogodnym terminie.</p>
 
 <p>Kolejny atut? Możliwość wzięcia udziału nie tylko w wykładach z dziedzin, którymi zajmujemy się na co dzień, ale również spoza zakresu specjalizacji. Brak opłaty otwiera drogę do swobodnego przetestowania ciekawie brzmiących tematów i zagadnień. Być może to właśnie tutaj uczestnicy odkryją nowe ścieżki kariery lub wypróbują rozwiązania, które do tej pory wydawały im się tylko modnymi buzzwordami.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Cloud Builders 2023]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/02/25/cloud-builders-2023/"/>
-    <updated>2023-02-25T17:23:05+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/02/25/cloud-builders-2023</id>
-    <content type="html"><![CDATA[<p>Ponownie jesteśmy partnerem ukraińskiego wydarzenia <a href="https://www.cloud-builders.tech/" target="_blank">Cloud Builders</a>. Zachęcamy do wzięcia udziału w tym wydarzeniu! Wystarczy darmowa rejestracja. Poniżej wiadomość od partnera:</p>
-
-<p><a href="https://www.cloud-builders.tech/"><img class="center" src="http://zielona-gora-jug.github.io/images/cloudbuilders23.jpeg" width="600" height="300" title="CloudBuilders" ></a></p>
-
-<p><i>
-On March 30, we invite you to join Cloud Builders: Java Conf with top Java &amp; Cloud speakers from Microsoft, Nortal and DataStax</p>
-
-<p>Join us to delve into topical issues—Harnessing OpenAI to help millions.<br/>
-What else? The fast path to smart serverless with Spring Cloud Function &amp; Azure Functions. Let&rsquo;s get Functional!
-Furthermore, peers will share how they use Apache Pulsar to solve problems and analyze the Hidden Gems of Java 20.</p>
-
-<p>Cloud Builders: Java Conf 2023 brought together 12+ top Java &amp; Cloud speakers like Adam Bien, Mark Heckler, Mohamed Taman, Mary Grygleski, Rory Preddy, Monica Beckwith, and others. <br>
-📅 March 30, 2023, at 10:00 AM (GMT +3) <br>
-Format: free online conference<br>
-Mode: 1 day, 12+ speakers<br></p>
-
-<p>Click here to find out more and register 👉 <a href="https://www.cloud-builders.tech/" target="_blank">Cloud Builders</a>
-</i></p>
 ]]></content>
   </entry>
   
