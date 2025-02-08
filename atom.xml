@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2024-11-12T08:47:14+01:00</updated>
+  <updated>2025-02-08T16:05:10+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #75 - Złoczyńca TypeScript i UX dla developerów]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2025/02/08/spotkanie-number-75/"/>
+    <updated>2025-02-08T15:45:22+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2025/02/08/spotkanie-number-75</id>
+    <content type="html"><![CDATA[<p>Pierwsze spotkanie w 2025 organizujemy w czwartek 27 lutego o 19:00 w Piekarni Cichej Kobiety na ulicy Fabrycznej. Naszym partnerem jest <a href="https://dtpoland.com/" target="_blank">DTP</a>, a na scenie zobaczymy troje pracowników tej firmy w dwóch prezentacjach. JUż dziś zarejestruj się na <a href ="https://www.meetup.com/zielona-gora-jug/events/305957787/" target="_blank">Meetup</a>!</p>
+
+<p>Tematami i prelegentami dnia będą:</p>
+
+<ul>
+    
+<li> <b>Marta Olszańska</b> i <b>Krzysztof Żukowski</b>, którzy opowiedzą o <b>koncepcie UX w tworzeniu oprogramowania</b>: Abstrakt: <i>Chcemy przedstawić koncepcję ux osobom, które nie są w temacie lub mają styczność z procesami projektowymi, ale nie do końca wiedzą &#8220;z czym to się je&#8221;.
+Jednym z celów naszej prezentacji jest ułatwienie przyszłej lub obecnej współpracy pomiędzy devami i projektantami dzięki nakreśleniu podstawowych kwestii. Nasza prezentacja będzie składać się z czterech części merytorycznych oraz panelu Q&A.
+Części prezentacji: (1) Co to jest UX? (2) Jak wygląda UX praktyce? (3) Case study, czyli rozprawa na temat prawdziwych wydarzeń i ich konsekwencji w związku ze złym UX. (4) Porady i dobre praktyki.</i>
+    
+<li><b>Paweł Borecki</b>, który będzie zastanawiał się, czy <b>TypeScript stał się złoczyńcą, którego błędów miał nie powtarzać</b>. Abstrakt: <i>Dogłębne zanurzenie w ciekawe zakamarki TypeScriptu, ze szczególnym uwzględnieniem rozwiązywania nieistniejących błędów lintingu, zbyt skomplikowanych łańcuchów kompilacji i nowego frontu projektów takich jak Svelte i Turbo, które z różnych powodów porzucają TypeScript w całości lub częściowo ze swoich codebase&#8217;ów. Czy to powtórka historii Chrome&#8217;a, który powoli stawał się potworem, którego zabił? Czy to tylko czkawka i wszyscy powinniśmy nadal bezwarunkowo kochać naszego króla frontendowego developmentu, TypeScript?</i>
+    
+</ul>
+
+
+<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtp.png" width="450" height="450" title="DTPoland" ></a></p>
+
+<p><b>O prelegentach:</b></p>
+
+<p><b>Marta Olszańska</b> – Przygoda z designem towarzyszyła jej od najmłodszych lat. Ukończyła liceum plastyczne oraz studia z tytułem magistra sztuki. Po zdobyciu wykształcenia pracowała jako concept artysta i grafik. Obecnie jej pasją jest UX - to z nim wiąże swoją przyszłość. Na co dzień interesuje się zagadnieniami związanymi z heurystyką, psychologią i psychiatrią. W wolnym czasie czyta książki i spaceruje.</p>
+
+<p><b>Krzysztof Żukowski</b> – od lat pasjonuje się projektowaniem graficznym i dobrym designem. Swoją karierę rozpoczął jako grafik w agencji reklamowej, następnie rozwijał się w obszarze grafiki 3D, by ostatecznie znaleźć swoje miejsce w UX/UI. Obecnie specjalizuje się w projektowaniu interfejsów aplikacji przemysłowych, łącząc estetykę z funkcjonalnością. Prywatnie miłośnik zegarków, górskich wędrówek oraz odkrywania wyjątkowych miejsc w Polsce.</p>
+
+<p><b>Paweł Borecki</b> – Programuje profesjonalnie od prawie 20 lat, zaczynał od botów do gier online (C++, Python), prowadził własną firmę z oprogramowaniem webowym, obecnie specjalizuje się głównie w architekturze oprogramowania i rozwoju aplikacji fullstack w środowisku cloud, przez lata przez jego ręce przewinęło się tyle różnych języków i technologii, że już dawno stracił rachubę. Prywatnie lubi nurkować, kolekcjonuje broń palną, strzela, drukuje w technologii 3d i automatyzuje swój smart-dom.</p>
+
+<p><b>O sponsorze</b>: DTP, Digital Technology Poland tworzy innowacyjny software i hardware w obszarze Industry 4.0. Firma rozwija aplikacje chmurowe wspomagające projektowanie, montaż i eksploatację infrastruktury produkcyjnej dla przemysłu. Dostarcza także rozwiązania IoT wykorzystujące AI oraz Big Data. Dodatkowo, w ramach zespołu Future R&amp;D realizuje projekty od pomysłu do finalnego produktu przy użyciu know-how z obszarów takich jak robotyka, automatyka i elektronika.</p>
+
+<!-- more -->
+
+
+<p>Spółka jest częścią niemieckiej Friedhelm Loh Group mającej 12 tysięcy pracowników w 100 oddziałach na całym świecie. Firma ściśle współpracuje ze spółkami w grupie (m.in. Rittal, EPLAN, Cideon) oraz z jej wieloletnimi klientami. DTP zatrudnia w Zielonej Górze, Cieszynie i Poznaniu ponad 300 ekspertów realizując rozwojowe projekty technologiczne..</p>
+
+<p>Więcej o firmie znajdziecie na: <a href ="https://dtpoland.com" target="_blank">dtpoland.com<a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #74 - Observability z Elasticsearch oraz prezentacje dla introwertyków]]></title>
@@ -464,43 +505,6 @@ Początek o godz. 19:00, 29 marca, w klubie WySPa przy ul. Wojska Polskiego 69. 
 <p>Ze względu na sytuację panującą na świecie, konferencja odbędzie się w formie online. Spodziewamy się ponad <b>1000 uczestniczek i uczestników z całej Polski</b>!</p>
 
 <p>Serdecznie zapraszamy do udziału wszystkich chętnych!</i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[CodeFrenzy]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/02/26/codefrenzy/"/>
-    <updated>2023-02-26T16:00:31+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/02/26/codefrenzy</id>
-    <content type="html"><![CDATA[<p>W marcu startuje <a href="https://codefrenzy.pl/" target="_blank">CodeFrenzy</a>, darmowa konferencja online dla całej społeczności IT. 🙌</p>
-
-<p>W ramach wydarzenia możecie wziąć udział w kilkudziesięciu wykładach i panelach dyskusyjnych z różnych dziedzin IT. Jeden dzień będzie poświęcony w całości tematyce Java, a na wirtualnej scenie wystąpią między innymi Andrzej Grzesik i Roberto Cortez. Jako partner społecznościowy chcemy gorąco zachęcić Was do udziału.</p>
-
-<p>🗓 Konferencja odbywa się w dniach 27-31.03.2023 - rejestracja jest bezpłatna!</p>
-
-<p>Szczegóły i rejestracja 👉 <a href="http://bit.ly/3xInzn9">http://bit.ly/3xInzn9</a></p>
-
-<p><a href="https://codefrenzy.pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/CF.jpg" width="600" height="600" title="CodeFrenzy" ></a></p>
-
-<!-- more -->
-
-
-<p><b>
-Tydzień z najlepszymi ekspertami z branży IT - za darmo i bez wychodzenia z domu. Kilkadziesiąt wykładów i panele dyskusyjne pięciu obszarach: Network, Security, DevOps, Java i Developers. Odbierz darmowy bilet na CodeFrenzy i poczuj klimat interdyscyplinarnego kodowania!</b></p>
-
-<p>CodeFrenzy to wirtualna konferencja integrująca społeczność programistyczną. Od 27 do 31 marca 2023 programiści, sieciowcy, testerzy, devopsi, hakerzy i wszystkie inne osoby związane z IT będą mogły wziąć udział w prezentacjach i sesjach Q&amp;A na żywo z najlepszymi prelegentami polskiej oraz międzynarodowej sceny technologicznej.</p>
-
-<p><b>5 dni i bogate spektrum tematów</b></p>
-
-<p>Program wydarzenia obejmuje tematy z zakresu ICT, cyberbezpieczeństwa, kultury DevOps, języka Java oraz innych popularnych zagadnień programistycznych.  Na wirtualnej scenie pojawią się eksperci reprezentujący konferencje organizowane przez PROIDEA: PLNOG, Oh My H@ck, CONFidence, 4Developers, DevOpsDays oraz JDD.</p>
-
-<p>Udział w CodeFrenzy potwierdzili już między innymi: <b>Łukasz Bromirski (Cisco), Adam Haertle (Zaufana Trzecia Strona), Piotr Godowski (IBM), Damian Mazurek (Chmurowisko) i Dominika Zając (Qualtrics).</b></p>
-
-<p><b>Konferencja na miarę uczestnika</b></p>
-
-<p>W ramach bezpłatnego biletu uczestnicy otrzymają dostęp do live streamingu wykładów, a po zakończeniu konferencji również do nagrań. W połączeniu z formułą online jest to bardzo elastyczne rozwiązanie - można dostosować udział w konferencji do swojego planu dnia, a wszystkie prezentacje, do których nie udało się dołączyć na żywo, obejrzeć w dogodnym terminie.</p>
-
-<p>Kolejny atut? Możliwość wzięcia udziału nie tylko w wykładach z dziedzin, którymi zajmujemy się na co dzień, ale również spoza zakresu specjalizacji. Brak opłaty otwiera drogę do swobodnego przetestowania ciekawie brzmiących tematów i zagadnień. Być może to właśnie tutaj uczestnicy odkryją nowe ścieżki kariery lub wypróbują rozwiązania, które do tej pory wydawały im się tylko modnymi buzzwordami.</p>
 ]]></content>
   </entry>
   
