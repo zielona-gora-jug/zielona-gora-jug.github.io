@@ -47,7 +47,7 @@ footer: true
 			<a class="mail" href="mailto:jandrykowski@gmail.com"></a>
 		</div>
 		<p class="desc">
-		Programista w firmie Cinkciarz.pl. Związany głównie ze środowiskiem Java. Pasjonat kultury DevOps oraz szeroko pojętej automatyzacji czegokolwiek. Entuzjasta Domain-Driven Design. Od czasu do czasu występuje w roli prelegenta. W wolnym czasie gitarzysta i fan muzyki ekstremalnej.
+		Programista w Leroy Merlin. Związany głównie ze środowiskiem Java. Pasjonat kultury DevOps oraz szeroko pojętej automatyzacji czegokolwiek. Entuzjasta Domain-Driven Design. Od czasu do czasu występuje w roli prelegenta. W wolnym czasie gitarzysta i fan muzyki ekstremalnej.
 		</p>
 	</div>
 	<div class="leader">
