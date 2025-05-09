@@ -30,5 +30,6 @@ footer: true
 <div><a href="https://allegro.pl" target="_blank">{% img /images/allegro.png Allegro %}</a></div>
 <div><a href="https://www.elastic.co" target="_blank">{% img /images/elastic-logo.png Elastic %}</a></div>
 <div><a href="https://www.b2c2.com/" target="_blank">{% img /images/b2c2.jpg B2C2 %}</a></div>
+<div><a href="https://www.leroymerlin.pl/" target="_blank">{% img /images/LM_logo.jpg Leroy Merlin %}</a></div>	
 <div>&nbsp;</div>	
 </div>
