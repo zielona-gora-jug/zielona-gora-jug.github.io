@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2025-04-06T19:07:19+02:00</updated>
+  <updated>2025-05-09T21:16:03+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #77 - Blue/Green deployment w Kubernetes oraz programista-wolontariusz]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2025/05/09/spotkanie-number-77-blue-slash-green-deployment-w-kubernetes-oraz-programista-wolontariusz/"/>
+    <updated>2025-05-09T21:03:25+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2025/05/09/spotkanie-number-77-blue-slash-green-deployment-w-kubernetes-oraz-programista-wolontariusz</id>
+    <content type="html"><![CDATA[<p>Zaparaszamy na spotkanie kończące sezon 2024/2025 (22 maja, 19:00, Piekarnia Cichej Kobiety). W obsadzie - znani i lubiani prelegenci, czyli <b>Jędrzej Andrykowski</b> i <b>Marcin Stożek</b>, ze swoimi nowymi tematami. Sponsorem dnia jest znana zdecydowanej większości z Was firma - <b><a href="https://www.leroymerlin.pl" target="_blank">Leroy Merlin</a></b>. Zapisy na <a href="https://tinyurl.com/muphdhtk" target="_blank">Meetup</a>.</p>
+
+<p>Wieczór rozpocznie Jędrek, który opowie o tajnikach wdrożeń Blue/Green w Kubernetes: &ldquo;<b>Blue/Green Deployment w zarządzaniu klastrem Kubernetes – mniej ryzyka, mniej przestojów</b>&rdquo;. Po przerwie Marcin będzie wspominał swoje kilkanaście lat przy przy projekcie open source w ramach prezentacji &ldquo;<b>Z pamiętniczka programisty - wolontariusza</b>&rdquo;. Serdecznie zapraszamy!</p>
+
+<p><a href="https://www.leroymerlin.pl"><img class="center" src="http://zielona-gora-jug.github.io/images/LM_logo.jpg" title="Leroy Merlin" ></a></p>
+
+<p><b>Abstrakt 1</b>: <i>Aktualizacja klastra Kubernetes, wdrażanie nowych funkcji czy zmiany w konfiguracji zawsze wiążą się z ryzykiem. Testowanie zmian na niższych środowiskach może pomóc, ale produkcja rządzi się własnymi zasadami. Aby zwiększyć bezpieczeństwo i powtarzalność operacji, warto sięgnąć po podejścia takie jak Infrastructure as Code, Immutable Infrastructure oraz strategię blue/green deployment na poziomie klastra.Takie podejście pozwala uniknąć przestojów, umożliwia szybkie wycofywanie zmian w razie problemów i zapewnia lepszą kontrolę nad cyklem życia klastra. Jak skutecznie wdrożyć ten model w Kubernetes? O tym będzie mowa podczas prezentacji.</i></p>
+
+<p><b>Abstrakt 2</b>: <i>Darmowe tworzenie darmowego kodu - czy to się opłaca? Przemyślenia po 16 latach zarządzania projektem na licencji Open Source. Historia podejmowania technicznych (ale nie tylko) wyborów, gdy ogranicza cię najbardziej wymagający manager - twój własny wolny czas.</i></p>
+
+<p><b>O sponsorze</b>: <a href="https://www.leroymerlin.pl" target="_blank">Leroy Merlin</a> to francuska sieć hipermarketów branży budowlanej, należąca do Groupe Adeo (pierwsze miejsce w Europie i trzecie na świecie na rynku DIY). W Polsce funkcjonują 82 sklepy oraz sklep internetowy, gdzie łącznie obsługujemy 40 mln klientów rocznie. W naszych sklepach, magazynach i centrali pracuje 12 tyś pracowników. Na całym świecie Leroy Merlin ma 100 lat tradycji i 464 sklepy. Misją Leroy Merlin jest ułatwienie klientom realizacji domu ich marzeń. Groupe Adeo prowadzi biznes w 12 krajach na świecie, gdzie ponad 130.000 pracowników działa w sercu społeczności obejmującej 26 niezależnych powiązanych przedsiębiorstw, które obsługują ponad 500 milionów klientów rocznie. Do Groupe Adeo poza Leroy Merlin należą także sklepy takie jak: Bricoman, Obramat, Tecnomat, Bricocenter oraz Weldom. Groupe Adeo należy do AFM (Stowarzyszenia Rodziny Mulliez) – podobnie jak Auchan, Decathlon i kilka innych firm z sektora retail i dystrybucja.
+Serdecznie zapraszamy!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #76 - Od startupu do scale-upu]]></title>
@@ -488,24 +508,6 @@ Twitter: <a href="https://twitter.com/segfaultevents">https://twitter.com/segfau
 YouTube: <a href="https://www.youtube.com/c/KonferencjeSegFault">https://www.youtube.com/c/KonferencjeSegFault</a>
 Instagram: <a href="https://www.instagram.com/segfaultevents">https://www.instagram.com/segfaultevents</a>
 Dołącz do Segfault: <a href="https://www.facebook.com/groups/programistycznagruparozwoju">https://www.facebook.com/groups/programistycznagruparozwoju</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie marcowe - JIT]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/03/22/spotkanie-marcowe-jit/"/>
-    <updated>2023-03-22T17:34:54+01:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/03/22/spotkanie-marcowe-jit</id>
-    <content type="html"><![CDATA[<p>Zapraszamy na marcowe spotkanie - tym razem tematem będzie JIT, a opowie o nim gość z zaprzyjaźnionego <a href="https://www.facebook.com/szjug/">Szczecin JUG</a> - <b>Mateusz Grużewski</b>.
-Początek o godz. 19:00, 29 marca, w klubie WySPa przy ul. Wojska Polskiego 69. W związku z brakiem sponsora, prosimy o zaopatrywanie się w jedzenie i napoje we własnym zakresie w barze.</p>
-
-<p><b>JIT - co każdy developer powinien o nim wiedzieć.</b></p>
-
-<p>Co powinieneś wiedzieć o dobrodziejstwie jakim jest JIT? Jak to wpływa na Twoją aplikację? W jaki sposób monitorować aktywność JIT w Twojej aplikacji?</p>
-
-<p>Mateusz jest Architektem w Asseco Data Systems. Programowaniem zajmuje się od 8 lat głównie w technologiach opartych o JVM. Po pracy prowadzi bloga oraz zajmuje się szkoleniami.</p>
-
-<p>Zapisy na <a href="https://www.meetup.com/zielona-gora-jug/events/292387025/">Meetup</a>.</p>
 ]]></content>
   </entry>
   
