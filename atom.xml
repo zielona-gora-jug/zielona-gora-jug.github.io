@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2025-05-09T21:16:03+02:00</updated>
+  <updated>2025-08-31T16:36:05+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,47 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #78 - Multimodalne AI i NotebookLM]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2025/08/31/spotkanie-number-78-multimodalne-ai-i-notebooklm/"/>
+    <updated>2025-08-31T16:21:07+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2025/08/31/spotkanie-number-78-multimodalne-ai-i-notebooklm</id>
+    <content type="html"><![CDATA[<p>Nowy sezon otwieramy wyjątkowo po angielsku i w wyjątkowym miejscu - piwnicy winiarskiej pod <b>hotelem Ruben</b> (al. Konstytucji 3-ego Maja 1, do sali schodzi się schodami w dół, z dziedzińca - sala jest pod hotelową restauracją Srebrna Góra). Termin to <b>25 września 2025, godz. 19:00</b>.</p>
+
+<p>Sponsorem dnia jest <a href="https://www.rewe-digital.com/en/locations/zielona-gora" target="_blank"><b>REWE digital Poland</b></a> z Zielonej Góry - część grupy <a href="https://www.rewe-group.com/en/" target="_blank">REWE</a>, jednego z liderów europejskiego handlu i turystyki. Dzięki strategicznemu partnerstwu REWE digital Poland z Google Cloud Poland wśród prelegentów będziemy gościć także przedstawiciela Google.</p>
+
+<p><a href="https://www.rewe-digital.com/en/locations/zielona-gora"><img class="center" src="http://zielona-gora-jug.github.io/images/1756573313747.jpeg"></a></p>
+
+<p>W ten wieczór zajmiemy się dwoma tematami:</p>
+
+<ul>
+    <li><b>Remigiusz Samborski</b> (Google Cloud) - Gemini: Praktyczne zastosowania multimodalnego AI
+    <li><b>Karol Buler</b> (REWE digital Poland) - NotebookLM - AI, która trzyma się faktów
+</ul>
+
+
+<p>Rejestracja na <a href="https://www.meetup.com/zielona-gora-jug/events/310783107" target="_blank">Meetup!</a></p>
+
+<!--more-->
+
+
+<p><b>Abstrakt i sylwetka Remigiusza:</b></p>
+
+<p>Sztuczna inteligencja to już nie tylko ciekawostka, ale narzędzie, które fundamentalnie zmienia naszą codzienną pracę. Czas przestać o niej tylko czytać, a zacząć z niej korzystać. Poznaj Gemini - najbardziej zaawansowany model AI od Google, i zobacz, jak możesz go wykorzystać do budowania szybszych, mądrzejszych i bardziej interaktywnych aplikacji. Podczas tej praktycznej sesji, wypełnionej przykładami, przejdziemy od teorii do konkretów. Zobaczysz m.in., jak: Zapewnić wiarygodne odpowiedzi modelu: dowiesz się jak &ldquo;uziemić&rdquo; je w oparciu o Google Search i inne narzędzia Analizować obrazy i wideo za pomocą języka naturalnego Wykorzystać multimodalne możliwości Live API Usprawnić pracę w terminalu, czyli Gemini CLI i jego praktyczne zastosowania Po tej sesji nie tylko zrozumiesz, co potrafi Gemini, ale przede wszystkim będziesz wiedzieć, jak zacząć z nim pracować. Wyjdziesz z konkretnymi przykładami kodu i gotowością do implementacji Gemini w swoich projektach. Niezależnie od tego, czy chcesz zautomatyzować żmudne zadania, czy zbudować przełomową aplikację - ta sesja da Ci narzędzia, by zacząć.</p>
+
+<p>Remigiusz Samborski przygodę z projektami IT rozpoczął w firmie Nokia Siemens, następnie wiele lat rozwijał agencję interaktywną NetShock Creative, aby z biegiem czasu i wraz ze zdobywanym doświadczeniem stać się odpowiedzialnym za koordynację i kompleksowe zarządzanie portfolio projektów jako Delivery Director w międzynarodowej firmie SoftServe. Współzałożyciel marki Sambors.pl zrzeszającej pasjonatów zarządzania projektami. Posiada prawie 20 letnie doświadczenie w branży IT. Remigiusz posiada takie certyfikaty jak: Project Management Professional (PMP®), SAFe® Agilist, Professional Scrum Master, Cloud Digital Leader, Associate Cloud Engineer i Professional Machine Learning Engineer. Dodatkowo swoją wiedzę z zakresu nowoczesnych technologii i zarządzania projektami przekazuje jako wykładowca na Wrocławskiej Akademii Biznesu w Naukach Stosowanych. Obecnie pełni rolę Lead Developer Relations Engineer w najbardziej rozpoznawalnej firmie na świecie - Google.</p>
+
+<p><b>Abstrakt i sylwetka Karola:</b>
+Sztuczna inteligencja osiągnęła imponujący poziom - choć wciąż zdarza się, że dostarcza odpowiedzi, które wymagają doprecyzowania lub weryfikacji. Co by było, gdyby można było nad tym zapanować? NotebookLM to narzędzie, które opiera się na konkretnych danych i unika domysłów - dosłownie. W tej prezentacji pokażę, jak efektywnie wykorzystać jego potencjał w codziennej pracy. Tak, aby AI realnie wspierała nasze działania - zamiast je komplikować. Pojawi się nieco kodu, trochę śmiechu, praktyczne przykłady i sporo inspiracji do własnych eksperymentów.</p>
+
+<p>Karol Buler od ponad 11 lat związany jest ze światem JVM. Specjalizuje się w optymalizacji wydajności systemów, migracjach do chmury (AWS i GCP), architekturze mikroserwisowej oraz transformacjach systemów legacy do nowoczesnych rozwiązań. Posiada bogate doświadczenie w pracy w międzynarodowych zespołach, co pozwoliło mu nie tylko rozwijać projekty technologiczne, lecz także poznawać różne kultury i podejścia do pracy. Realizował projekty m.in. dla branż automotive, fintech, IoT, logistyki oraz payTV. Łączy kompetencje architekta rozwiązań, dewelopera i doradcy technologicznego. Od kilku lat rozwija także kompetencje frontendowe, głównie w React i TypeScript. W ostatnim czasie coraz mocniej angażuje się również w obszar sztucznej inteligencji, traktując AI jako narzędzie, które na stałe zagości w codziennej pracy programistów. Obecnie pełni rolę Tech Leada w REWE digital Poland, gdzie realizuje projekt dla branży fintech.</p>
+
+<p><b>O sponsorze:</b></p>
+
+<p>Grupa REWE to jedna z największych grup handlowych i turystycznych w Niemczech oraz Europie. W 2024 roku osiągnęła przychody przekraczające 96 miliardów euro i zatrudniała około 390 tysięcy pracowników w 21 krajach. W skład Grupy REWE wchodzą takie marki jak: REWE, REWE Center, BILLA, BILLA PLUS, ADEG, dyskonty PENNY, IKI, drogerie BIPA oraz sklepy typu DIY - toom Baumarkt. W obszarze turystyki Grupa REWE działa pod marką DERTOUR Group, prowadząc ponad 2 100 biur podróży, marek hotelowych, operatorów turystycznych i platform online - m.in. Exim Tours w Polsce. Kluczową rolę w cyfrowej transformacji Grupy odgrywa REWE digital, zatrudniająca ponad 2 200 specjalistów IT. Firma wykorzystuje nowoczesne technologie, by wspierać działalność handlową i turystyczną Grupy REWE na zmieniającym się rynku. Jej centra IT znajdują się m.in. w Kolonii, Berlinie, Frankfurcie, Ilmenau, Kilonii, Sofii, Warnie, Płowdiw, Graz, Maladze oraz w Zielonej Górze. REWE digital Poland to strategiczne przedsięwzięcie stworzone wspólnie przez REWE digital oraz amb software - polską firmę IT z siedzibą w Zielonej Górze, która od wielu lat wspiera Grupę REWE w zakresie rozwiązań technologicznych. Wspólnie tworzymy nowoczesne aplikacje i usługi cyfrowe, z których korzystają miliony użytkowników. Nasze rozwiązania obsługują ponad miliard rekordów danych dziennie, wspierają 6 milionów urządzeń mobilnych, 32 tysiące kas fiskalnych i 7 300 sklepów w całej Europie.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #77 - Blue/Green deployment w Kubernetes oraz programista-wolontariusz]]></title>
@@ -474,40 +515,6 @@ DeveloperWeek Europe 2023 (26–27 April, Virtually online) is Europe’s larges
 <p>Register now to get your free OPEN Pass or to SAVE €100 on your PRO Pass.</p>
 
 <p>To register, go to: <a href="https://tinyurl.com/vd7msjnd">https://tinyurl.com/vd7msjnd</a></i></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Segfault Unconference 2023]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/03/26/segfault-unconference-2023/"/>
-    <updated>2023-03-26T16:23:37+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/03/26/segfault-unconference-2023</id>
-    <content type="html"><![CDATA[<p>Ponownie jesteśmy partnerem <a href="https://segfault.events/unconference2023wiosna/">Segfault Unconference 2023</a>. W 2023 roku odbędzie się ona dwukrotnie ➜ w marcu oraz we wrześniu.</p>
-
-<p><i>
-Wiosną spotykamy się 29 i 30 marca (środa - czwartek), w Q Hotel Plus, w Krakowie.</p>
-
-<p>Segfault Unconference to dwa dni inspiracji, których szukasz!</p>
-
-<p>Pierwszy dzień Segfault Unconference to prelekcje - odpowiedzi na nurtujące pytania. Optymalizowanie API, ksqlDB w produkcji, testy wydajnościowe, RCA i wiele więcej… A może miękkie tematy? Także będą! Wszystko w nieformalnej atmosferze Segfault. Bez zbędnego nadęcia, tylko szczere odpowiedzi na trudne pytania.</p>
-
-<p>Drugi dzień to czas na “open space unconference”. Masz pytania, których boisz się zadać, bo wydają się zbyt banalne? Problem, który wydaje się nie do rozwiązania? Na “unconference” ktoś będzie znał odpowiedź. Ty także wybierasz tematy. </i></p>
-
-<p>Rejestracja ➜ <a href="https://segfault.events/unconference2023wiosna/">https://segfault.events/unconference2023wiosna/</a></p>
-
-<p>Kod zniżki 10%: SEGFAULT_JUG_ZG_10X</p>
-
-<p><a href="https://segfault.events/unconference2023wiosna/"><img class="center" src="http://zielona-gora-jug.github.io/images/Segfault23.png" width="600" height="450" title="Segfault" ></a></p>
-
-<!-- more -->
-
-
-<p>Więcej informacji: <a href="https://segfault.events/unconference2022">https://segfault.events/unconference2022</a>
-Facebook: <a href="https://www.facebook.com/SegFaultConf/">https://www.facebook.com/SegFaultConf/</a>
-Twitter: <a href="https://twitter.com/segfaultevents">https://twitter.com/segfaultevents</a>
-YouTube: <a href="https://www.youtube.com/c/KonferencjeSegFault">https://www.youtube.com/c/KonferencjeSegFault</a>
-Instagram: <a href="https://www.instagram.com/segfaultevents">https://www.instagram.com/segfaultevents</a>
-Dołącz do Segfault: <a href="https://www.facebook.com/groups/programistycznagruparozwoju">https://www.facebook.com/groups/programistycznagruparozwoju</a></p>
 ]]></content>
   </entry>
   
