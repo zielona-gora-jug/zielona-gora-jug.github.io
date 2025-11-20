@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2025-08-31T16:36:05+02:00</updated>
+  <updated>2025-11-20T21:10:06+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #79 - Programowanie zorientowane na dane w Javie]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2025/11/20/spotkanie-number-79-programowanie-zorientowane-na-dane-w-javie/"/>
+    <updated>2025-11-20T20:52:39+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2025/11/20/spotkanie-number-79-programowanie-zorientowane-na-dane-w-javie</id>
+    <content type="html"><![CDATA[<p>Na chwilę przed świąteczną gorączką zapraszamy was na chwilę oddechu z Zielona Góra JUG! Tym razem pochylimy się nad programowaniem zorientowanym na dane. Naszym prelegentem (po raz drugi) będzie <b>Arek Sokołowski</b>, a sponsorem spotkania - <a href="https://rublon.com/pl/" target="_blank"><b>Rublon</b></a>, którą to firmę serdecznie witamy w gronie sponsorów! Rejestracja na <a href="https://www.meetup.com/zielona-gora-jug/events/312098349" target="_blank">Meetup!</a></p>
+
+<p><a href="https://rublon.com/pl/"><img class="center" src="http://zielona-gora-jug.github.io/images/rublon-logo-jug.png"></a></p>
+
+<p>Arek to ponad 25 lat praktycznego doświadczenia w Javie i innych językach JVM-owych. Lubi rozwiązywać problemy, a nie pisać kod. Obecnie pracuje jako Engineering Manager w InPoście oraz prowadzi zajęcia z Javy na Uniwersytecie Jagiellońskim.</p>
+
+<p><b>Abstrakt:</b></p>
+
+<p>Java kojarzona jest przede wszystkim z programowaniem obiektowym (OOP), jednak w przypadku wielu „data-intensive” aplikacji (takich jak usługi webowe), paradygmat zorientowany na dane (DOP) może okazać się lepszym wyborem.
+To wystąpienie omawia przejście od tradycyjnego OOP do programowania zorientowanego na dane (DOP) w Javie, koncentrując się na tym, jak nowe i nadchodzące funkcje języka sprawiają, że praca z danymi staje się bardziej wydajna, deklaratywna i wręcz przyjemna.
+Omówimy rekordy, dopasowywanie wzorców (pattern matching) oraz inne elementy języka wspierające to podejście.
+Przyjrzymy się również, w jaki sposób biblioteki do obsługi persystencji, takie jak jOOQ, umożliwiają pracę ze strukturami danych w sposób inny niż tradycyjne podejście ORM/JPA.
+Prezentacji zawiera praktyczne wskazówki jak stosować zasady DOP, aby pisać czystsze, bardziej wydajne i łatwiejsze w utrzymaniu aplikacje w Javie.</p>
+
+<p><b>O sponsorze:</b></p>
+
+<p><a href="https://rublon.com/pl/" target="_blank">Rublon</a> jest producentem oprogramowania, założonym w 2001 r. w Zielonej Górze. Flagowym produktem spółki jest Rublon MFA, system uwierzytelniania wieloskładnikowego dla firm i instytucji, z którego korzysta ponad 500 podmiotów w ponad 50 państwach na całym świecie. Dzięki licznym <a href="https://rublon.com/docs/" target="_blank">integracjom</a>, Rublon MFA zabezpiecza dostęp do sieci, serwerów, punktów końcowych oraz aplikacji. Logując się do zabezpieczonej technologii, użytkownik jest proszony o uwierzytelnienie się co najmniej dwoma składnikami, takimi jak np. hasło oraz <a href="https://rublon.com/pl/produkt/klucz-bezpieczenstwa/" target="_blank">klucz sprzętowy</a>. Niepodatne na phishing metody uwierzytelniania oferowane przez Rublon MFA chronią klientów przed nowoczesnymi atakami. Centralnie zarządzany system Rublon MFA umożliwia w ten sposób ochronę przed nieuprawnionym dostępem do danych oraz infrastruktury IT, wspomagając uzyskanie zgodności z licznymi przepisami oraz regulacjami branżowymi, w tym RODO, DORA oraz <a href="https://rublon.com/pl/blog/mfa-i-dyrektywa-nis2-jak-spelnic-wymogi-ustawy-o-krajowym-systemie-cyberbezpieczenstwa/" target="_blank">NIS2</a>. Rublon posiada siedzibę w Zielonej Górze oraz biuro w Krakowie i aktywnie rekrutuje również w innych miastach w Polsce: <a href="https://kariera.rublon.pl/.">https://kariera.rublon.pl/.</a> Rublon jest częścią Grupy Astec.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_-HZGzuOw8?si=VYhygpt3sD-fRqs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #78 - Multimodalne AI i NotebookLM]]></title>
@@ -491,30 +519,6 @@ Początek o godz. 19:00, 26 kwietnia, w klubie WySPa przy ul. Wojska Polskiego 6
     <updated>2023-03-26T16:40:19+02:00</updated>
     <id>http://zielona-gora-jug.github.io/blog/2023/03/26/spotkanie-marcowe-odwolane</id>
     <content type="html"><![CDATA[<p>Niestety, z przyczyn od nas niezależnych, musimy <b>odwołać</b> środowe spotkanie. Kolejne spotkanie odbędzie się w kwietniu. Zapraszamy za miesiąc!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[DeveloperWeek Europe 2023]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/03/26/developerweek-europe-2023/"/>
-    <updated>2023-03-26T16:35:17+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/03/26/developerweek-europe-2023</id>
-    <content type="html"><![CDATA[<p>Jesteśmy partnerem DeveloperWeek Europe 2023. To dwudniowa, wirtualna konferencja o wytwarzaniu oprogramowania z ponad 3000 uczestników. Dla nas dostępne są darmowe oraz tańsze wejściówki. Kto pierwszy, ten lepszy.</p>
-
-<p>Rejestracja: <a href="https://tinyurl.com/vd7msjnd">https://tinyurl.com/vd7msjnd</a></p>
-
-<p>Poniżej szczegółowy komunikat organizatorów.</p>
-
-<p><a href="https://www.developerweek.com/europe/conference/"><img class="center" src="http://zielona-gora-jug.github.io/images/developerweek.jpg" width="600" height="450" title="Segfault" ></a></p>
-
-<p><i>
-DeveloperWeek Europe 2023 (26–27 April, Virtually online) is Europe’s largest developer &amp; engineering conference where 3,000+ engineering professionals and technical practitioners &amp; leaders converge to discover the latest developer &amp; engineering innovations. Learn from leaders at Google, Microsoft, Meta, Cisco, VMware, JP Morgan &amp; Chase, Hazelcast, Software AG and dozens more!</p>
-
-<p>The DeveloperWeek Europe team has offered ZG JUG group 25 free OPEN Passes and discounted PRO Passes, so our members can attend for free.</p>
-
-<p>Register now to get your free OPEN Pass or to SAVE €100 on your PRO Pass.</p>
-
-<p>To register, go to: <a href="https://tinyurl.com/vd7msjnd">https://tinyurl.com/vd7msjnd</a></i></p>
 ]]></content>
   </entry>
   
