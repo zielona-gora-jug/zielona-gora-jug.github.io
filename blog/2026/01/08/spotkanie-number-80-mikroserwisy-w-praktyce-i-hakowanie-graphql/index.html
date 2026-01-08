@@ -1,0 +1,248 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Spotkanie #80 - Mikroserwisy w praktyce i hakowanie GraphQL - Zielona Góra JUG</title>
+  <meta name="author" content="Zielona Góra JUG">
+
+  
+  <meta name="description" content="Tuż po wyjątkowo długiej świątecznej przerwie wracamy z zapowiedzią kolejnego spotkania naszego JUG-a! Już 29 stycznia będziemy gościć prelegentów &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://zielona-gora-jug.github.io/blog/2026/01/08/spotkanie-number-80-mikroserwisy-w-praktyce-i-hakowanie-graphql">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/atom.xml" rel="alternate" title="Zielona Góra JUG" type="application/atom+xml">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+
+<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-61988132-1']);
+    //_gaq.push(['_setDomainName','github.io']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+	<h1 class="header">
+  		<a class="logo" href="/"></a>
+  		<div class="title">Zielona Góra JUG</div>
+  	</h1>
+</hgroup>
+
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://www.google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:zielona-gora-jug.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Szukaj"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/">Blog</a></li>
+  <li><a href="/blog/archives">Archiwum</a></li>
+  <li><a href="http://jug.zgora.pl/forum" target="_blank">Grupa dyskusyjna</a></li>
+  <li><a href="http://jug.zgora.pl/meetup" target="_blank">Meetup</a></li>
+  <li><a href="https://github.com/zielona-gora-jug" target="_blank">GitHub</a></li>
+  <li><a href="/sponsors/">Sponsorzy</a></li>
+  <li><a href="/leaders/">Kontakt</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <h1 class="entry-title">Spotkanie #80 - Mikroserwisy w praktyce i hakowanie GraphQL</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2026-01-08T17:13:33+01:00" pubdate data-updated="true">Jan 8<sup>th</sup>, 2026</time>
+        
+           | <a href="#disqus_thread"
+             data-disqus-identifier="http://zielona-gora-jug.github.io">Komentarze</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Tuż po wyjątkowo długiej świątecznej przerwie wracamy z zapowiedzią kolejnego spotkania naszego JUG-a! Już <b>29 stycznia</b> będziemy gościć prelegentów spoza Zielonej Góry, a będą to: <b>Rafał Maciak</b> i <b>Sebastian Rabiej</b>. Oboje pracują dla sponsora naszego spotkania - firmy <a href="https://softwaremill.com/" target="_blank"><b>SoftwareMill</b></a>. Tego wieczoru posłuchamy o porażkach i sukcesach związanych z mikroserwisami oraz o niebezpieczeństwach związanych z GraphQL. Widzimy się w Piekarni Cichej Kobiety o 19:00! Rejestracja na <a href="https://www.meetup.com/pl-pl/zielona-gora-jug/events/312773545" target="_blank">Meetup</a></p>
+
+<p><a href="https://softwaremill.com/"><img class="center" src="/images/softwaremill.png" width="700" height="250" title="SoftwareMill" ></a></p>
+
+<!-- more -->
+
+
+<p><b>Rafał Maciak<br>
+Mikroserwisy w praktyce: sukcesy i porażki</b></p>
+
+<p>Pomimo upływu dobrych kilu lat od zakorzenienia się konceptu architektury mikrousługowej w naszej branży, nadal jest to temat bardzo gorący. Potwierdzają to zarówno statystyki Google Trends, czy zadawane pytania na StackOverflow, ale również ogłoszenia o pracę, dyskusje tematyczne czy prezentacje na konferencjach. Mikrousługi obiecują wiele korzyści, takich jak lepsza modularyzacja, izolacja awarii, elastyczność w skalowaniu, szybsze wdrażanie i niezależność zmian czy technologiczna agnostyczność. Ale jak to wygląda w praktyce? Czy te korzyści są łatwe do osiągnięcia i jakie wyzwania mogą się pojawić w drodze do ich realizacji? Jakie są koszty związane z wdrożeniem tej architektury i czy sama implementacja mikrousług wystarczy do osiągnięcia pożądanych rezultatów? Podczas prezentacji odpowiem powyższe pytania posiłkując się osobistymi doświadczeniami z pracy z architekturą mikrousługową. Opowiem o sukcesach i porażkach, które spotkałem na swojej drodze włączając w to zarówno dobrze przeprowadzone wdrożenia, jak i błędy, które popełniłem. Nie zabraknie przykładów pokazujących jak nie do końca poprawna implementacja mikrousług może zamiast poprawić jakość naszej pracy, skutecznie nam ją uprzykrzyć. Oraz przykładów na to jak kluczowa jest zmiana sposobu myślenia i procesów w organizacji, aby w pełni wykorzystać potencjał mikrousług. Przede wszystkim podzielę się ze Wami moją wiedzą i praktycznymi wskazówkami dotyczącymi pracy z tą architekturą - co robić, a czego unikać, aby osiągnąć sukces w świecie mikrousług.</p>
+
+<p><b>Bio</b>: Programista pasjonat i pragmatyk z doświadczeniem głównie w technologiach około JVMowych. Wierzy w koncepcje stojące za trzyliterowymi skrótami - TDD, DDD i tym podobnymi. Lubi od czasu do czasu wyjść z piwnicy i porozmawiać z ludźmi. Często możecie go spotkać przy ścianie przyklejającego karteczki.</p>
+
+<p><b>Sebastian Rabiej<br>
+Jak hakować GraphQL - praktyczne przykłady</b></p>
+
+<p>W tej prezentacji zagłębimy się w kwestie bezpieczeństwa związane z GraphQL i pokażemy, dlaczego Twoja aplikacja może być podatna na ataki. Biorąc pod uwagę różnorodność implementacji GraphQL, sprawdzimy, czy konkretne luki dotyczą bardziej popularnych wersji. Omówimy potencjalne zagrożenia – od problemów związanych ze złożonością zapytań po decyzje architektoniczne, które mogą wpłynąć na bezpieczeństwo Twojej aplikacji. Dowiesz się, jak skutecznie wykrywać luki w implementacjach GraphQL oraz jak je eliminować.</p>
+
+<p><b>Bio</b>: Odkąd pamiętam, fascynowały mnie języki programowania i wszystko, co było z nimi związane. Tworzenie czegoś z „niczego&#8221; jest ekscytujące na tyle, że postanowiłem iść tą ścieżką kariery. Pracuję jako dev od ponad 10 lat. Ciągle poszukuję odpowiedzi na pytanie „co to znaczy być profesjonalnym&#8221;. Swoich odpowiedzi szukam razem z firmą softwaremill, dla której aktualnie zdalnie pracuje. Jestem entuzjastą tematów związanych z czystym kodem, software craftsmanship i metodykami zwinnymi. Co-head of Java w SoftwareMill oraz były lider Wrocławskiego Juga.</p>
+
+<p><b>O sponsorze</b> SoftwareMill wspiera firmy w tworzeniu nowoczesnych produktów cyfrowych, łącząc wysokie standardy inżynierskie z partnerskim podejściem do współpracy. Firma specjalizuje się w technologiach Scala, Java, Kotlin, Rust, Python i Machine Learning, realizując ambitne projekty dla branż takich jak FinTech, ubezpieczenia czy ochrona zdrowia. Aktywnie rozwija i wspiera społeczność IT, organizując konferencje Scalar oraz Rustikon.</p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Autor: <span class="fn">Zielona Góra JUG</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2026-01-08T17:13:33+01:00" pubdate data-updated="true">Jan 8<sup>th</sup>, 2026</time>
+      
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://zielona-gora-jug.github.io/blog/2026/01/08/spotkanie-number-80-mikroserwisy-w-praktyce-i-hakowanie-graphql/" data-via="" data-counturl="http://zielona-gora-jug.github.io/blog/2026/01/08/spotkanie-number-80-mikroserwisy-w-praktyce-i-hakowanie-graphql/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2025/11/20/spotkanie-number-79-programowanie-zorientowane-na-dane-w-javie/" title="Previous Post: Spotkanie #79 - Programowanie zorientowane na dane w Javie">&laquo; Spotkanie #79 - Programowanie zorientowane na dane w Javie</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Komentarze</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2026 - Zielona Góra JUG -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'zgjug';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://zielona-gora-jug.github.io/blog/2026/01/08/spotkanie-number-80-mikroserwisy-w-praktyce-i-hakowanie-graphql/';
+        var disqus_url = 'http://zielona-gora-jug.github.io/blog/2026/01/08/spotkanie-number-80-mikroserwisy-w-praktyce-i-hakowanie-graphql/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>

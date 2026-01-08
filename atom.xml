@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2025-11-20T21:10:06+01:00</updated>
+  <updated>2026-01-08T17:19:58+01:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #80 - Mikroserwisy w praktyce i hakowanie GraphQL]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2026/01/08/spotkanie-number-80-mikroserwisy-w-praktyce-i-hakowanie-graphql/"/>
+    <updated>2026-01-08T17:13:33+01:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2026/01/08/spotkanie-number-80-mikroserwisy-w-praktyce-i-hakowanie-graphql</id>
+    <content type="html"><![CDATA[<p>Tuż po wyjątkowo długiej świątecznej przerwie wracamy z zapowiedzią kolejnego spotkania naszego JUG-a! Już <b>29 stycznia</b> będziemy gościć prelegentów spoza Zielonej Góry, a będą to: <b>Rafał Maciak</b> i <b>Sebastian Rabiej</b>. Oboje pracują dla sponsora naszego spotkania - firmy <a href="https://softwaremill.com/" target="_blank"><b>SoftwareMill</b></a>. Tego wieczoru posłuchamy o porażkach i sukcesach związanych z mikroserwisami oraz o niebezpieczeństwach związanych z GraphQL. Widzimy się w Piekarni Cichej Kobiety o 19:00! Rejestracja na <a href="https://www.meetup.com/pl-pl/zielona-gora-jug/events/312773545" target="_blank">Meetup</a></p>
+
+<p><a href="https://softwaremill.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/softwaremill.png" width="700" height="250" title="SoftwareMill" ></a></p>
+
+<!-- more -->
+
+
+<p><b>Rafał Maciak<br>
+Mikroserwisy w praktyce: sukcesy i porażki</b></p>
+
+<p>Pomimo upływu dobrych kilu lat od zakorzenienia się konceptu architektury mikrousługowej w naszej branży, nadal jest to temat bardzo gorący. Potwierdzają to zarówno statystyki Google Trends, czy zadawane pytania na StackOverflow, ale również ogłoszenia o pracę, dyskusje tematyczne czy prezentacje na konferencjach. Mikrousługi obiecują wiele korzyści, takich jak lepsza modularyzacja, izolacja awarii, elastyczność w skalowaniu, szybsze wdrażanie i niezależność zmian czy technologiczna agnostyczność. Ale jak to wygląda w praktyce? Czy te korzyści są łatwe do osiągnięcia i jakie wyzwania mogą się pojawić w drodze do ich realizacji? Jakie są koszty związane z wdrożeniem tej architektury i czy sama implementacja mikrousług wystarczy do osiągnięcia pożądanych rezultatów? Podczas prezentacji odpowiem powyższe pytania posiłkując się osobistymi doświadczeniami z pracy z architekturą mikrousługową. Opowiem o sukcesach i porażkach, które spotkałem na swojej drodze włączając w to zarówno dobrze przeprowadzone wdrożenia, jak i błędy, które popełniłem. Nie zabraknie przykładów pokazujących jak nie do końca poprawna implementacja mikrousług może zamiast poprawić jakość naszej pracy, skutecznie nam ją uprzykrzyć. Oraz przykładów na to jak kluczowa jest zmiana sposobu myślenia i procesów w organizacji, aby w pełni wykorzystać potencjał mikrousług. Przede wszystkim podzielę się ze Wami moją wiedzą i praktycznymi wskazówkami dotyczącymi pracy z tą architekturą - co robić, a czego unikać, aby osiągnąć sukces w świecie mikrousług.</p>
+
+<p><b>Bio</b>: Programista pasjonat i pragmatyk z doświadczeniem głównie w technologiach około JVMowych. Wierzy w koncepcje stojące za trzyliterowymi skrótami - TDD, DDD i tym podobnymi. Lubi od czasu do czasu wyjść z piwnicy i porozmawiać z ludźmi. Często możecie go spotkać przy ścianie przyklejającego karteczki.</p>
+
+<p><b>Sebastian Rabiej<br>
+Jak hakować GraphQL - praktyczne przykłady</b></p>
+
+<p>W tej prezentacji zagłębimy się w kwestie bezpieczeństwa związane z GraphQL i pokażemy, dlaczego Twoja aplikacja może być podatna na ataki. Biorąc pod uwagę różnorodność implementacji GraphQL, sprawdzimy, czy konkretne luki dotyczą bardziej popularnych wersji. Omówimy potencjalne zagrożenia – od problemów związanych ze złożonością zapytań po decyzje architektoniczne, które mogą wpłynąć na bezpieczeństwo Twojej aplikacji. Dowiesz się, jak skutecznie wykrywać luki w implementacjach GraphQL oraz jak je eliminować.</p>
+
+<p><b>Bio</b>: Odkąd pamiętam, fascynowały mnie języki programowania i wszystko, co było z nimi związane. Tworzenie czegoś z „niczego&#8221; jest ekscytujące na tyle, że postanowiłem iść tą ścieżką kariery. Pracuję jako dev od ponad 10 lat. Ciągle poszukuję odpowiedzi na pytanie „co to znaczy być profesjonalnym&#8221;. Swoich odpowiedzi szukam razem z firmą softwaremill, dla której aktualnie zdalnie pracuje. Jestem entuzjastą tematów związanych z czystym kodem, software craftsmanship i metodykami zwinnymi. Co-head of Java w SoftwareMill oraz były lider Wrocławskiego Juga.</p>
+
+<p><b>O sponsorze</b> SoftwareMill wspiera firmy w tworzeniu nowoczesnych produktów cyfrowych, łącząc wysokie standardy inżynierskie z partnerskim podejściem do współpracy. Firma specjalizuje się w technologiach Scala, Java, Kotlin, Rust, Python i Machine Learning, realizując ambitne projekty dla branż takich jak FinTech, ubezpieczenia czy ochrona zdrowia. Aktywnie rozwija i wspiera społeczność IT, organizując konferencje Scalar oraz Rustikon.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #79 - Programowanie zorientowane na dane w Javie]]></title>
@@ -510,15 +540,6 @@ Początek o godz. 19:00, 26 kwietnia, w klubie WySPa przy ul. Wojska Polskiego 6
 <p>Posiadamy pewną pulę darmowych biletów. Do uzyskania poprzez wiadomość prywatną. Bilety nie obejmują warsztatów.</p>
 
 <p><a href="https://2023.europe.jcon.one/"><img class="center" src="http://zielona-gora-jug.github.io/images/JCON-2023.png" width="600" height="450" title="JCON" ></a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie marcowe odwołane!]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/03/26/spotkanie-marcowe-odwolane/"/>
-    <updated>2023-03-26T16:40:19+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/03/26/spotkanie-marcowe-odwolane</id>
-    <content type="html"><![CDATA[<p>Niestety, z przyczyn od nas niezależnych, musimy <b>odwołać</b> środowe spotkanie. Kolejne spotkanie odbędzie się w kwietniu. Zapraszamy za miesiąc!</p>
 ]]></content>
   </entry>
   
