@@ -32,5 +32,6 @@ footer: true
 <div><a href="https://www.b2c2.com/" target="_blank">{% img /images/b2c2.jpg B2C2 %}</a></div>
 <div><a href="https://www.leroymerlin.pl/" target="_blank">{% img /images/LM_logo.jpg Leroy Merlin %}</a></div>
 <div><a href="https://www.rewe-digital.com/en/locations/zielona-gora" target="_blank">{% img /images/rewe-digital-logo.png REWE digital %}</a></div>	
-<div><a href="https://rublon.com/pl/" target="_blank">{% img /images/rublon-logo.png Rublon %}</a></div>		
+<div><a href="https://rublon.com/pl/" target="_blank">{% img /images/rublon-logo.png Rublon %}</a></div>
+<div><a href="https://www.xtb.com" target="_blank">{% img /images/xtb.png XTB %}</a></div>
 </div>
