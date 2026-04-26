@@ -4,7 +4,7 @@
   <title><![CDATA[Zielona Góra JUG]]></title>
   <link href="http://zielona-gora-jug.github.io/atom.xml" rel="self"/>
   <link href="http://zielona-gora-jug.github.io/"/>
-  <updated>2026-03-06T18:21:02+01:00</updated>
+  <updated>2026-04-26T09:47:19+02:00</updated>
   <id>http://zielona-gora-jug.github.io/</id>
   <author>
     <name><![CDATA[Zielona Góra JUG]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Spotkanie #82 - Agenty i Event Storming]]></title>
+    <link href="http://zielona-gora-jug.github.io/blog/2026/04/26/spotkanie-number-82-agenty-i-event-storming/"/>
+    <updated>2026-04-26T09:40:17+02:00</updated>
+    <id>http://zielona-gora-jug.github.io/blog/2026/04/26/spotkanie-number-82-agenty-i-event-storming</id>
+    <content type="html"><![CDATA[<p>Ten sezon ZG JUG zamkniemy 14 maja. spotkaniem sponsorowanym przez <a href="https://dtpoland.com/" target="_blank"><b>Digital Technology Poland</b></a>. W naszym menu dnia będą agenty - ostatnimi czasy gorący obszar AI - oraz wprowadzenie do Event Stormingu, czyli coś dla preferujących zagadnienia bardziej &ldquo;miękkie&rdquo;. Cieszymy się, że ostatnio na scenie pojawia się coraz więcej nowych twarzy! Tak będzie i tym razem: <b>Daniel Antkiewicz</b> oraz <b>Kamil Wojtasiński</b> - obaj pracownicy DTP - również wystąpią po raz pierwszy. Szczegóły i zapisy na <a href ="https://www.meetup.com/zielona-gora-jug/events/314486389/" target="_blank">Meetup</a>!</p>
+
+<p><a href="https://dtpoland.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/dtp.png" width="450" height="450" title="DTPoland" ></a></p>
+
+<p><b>Daniel Antkiewicz - Projektowanie i budowa agentów AI z wykorzystaniem LangGraph</b></p>
+
+<p>Abstrakt: Prelekcja wprowadza w temat budowy agentów AI z wykorzystaniem biblioteki LangGraph. Na początku omówione zostaną podstawowe pojęcia związane z dużymi modelami językowymi (LLM) oraz podejściem Retrieval-Augmented Generation (RAG), a także krótko przedstawiona zostanie rola biblioteki LangChain jako frameworka do budowy aplikacji opartych o LLM.
+Główna część prezentacji skupi się na bibliotece LangGraph, umożliwiającej budowę złożonych, stanowych systemów agentowych oraz kontrolę przepływu ich działania w oparciu o model grafowy. Przedstawione zostaną kluczowe koncepcje oraz przykłady zastosowań.
+Omówione zostaną również zagadnienia związane z observability agentów AI, w tym tracing ich działania oraz analiza przebiegu wykonania z wykorzystaniem narzędzia Opik.
+Celem prezentacji jest pokazanie, jak w praktyczny sposób budować, rozwijać i analizować agentów AI z wykorzystaniem nowoczesnych narzędzi i podejść.</p>
+
+<p>O sobie: Jestem Senior Technology Leadem z ponad 4-letnim doświadczeniem w tworzeniu systemów w Pythonie. Specjalizuję się w backendzie, projektowaniu architektury oraz budowie API. W ostatnim czasie skupiam się na rozwiązaniach związanych ze sztuczną inteligencją, w tym budowie agentów z wykorzystaniem LangGraph.</p>
+
+<p><b>Kamil Wojtasiński - Od zdarzeń do architektury: praktyczne wprowadzenie do Event Stormingu</b></p>
+
+<p>Abstrakt: Event Storming to technika modelowania domeny oparta na zdarzeniach — sposób, by zobaczyć realne procesy zamiast domysłów. Na praktycznym przykładzie systemu e-commerce pokażemy, jak zbieranie eventów na ścianie prowadzi do odkrycia rzeczywistej logiki biznesu i jej złożoności. Przejdziemy przez kluczowe etapy warsztatu, wyłapując momenty krytyczne, problemy i zależności czasowe, które zwykle są źródłem największych wyzwań. Celem prezentacji jest pokazanie, jak z faktów biznesowych wyłaniają się granice odpowiedzialności i sensowna struktura systemu. To praktyczne wprowadzenie dla osób, które chcą zrozumieć, jak Event Storming pomaga lepiej projektować systemy złożone.</p>
+
+<!-- more --> 
+
+
+<p>O sobie: Jestem Tech Lead pracujący nad systemami fullstack — od frontendu i backendu po infrastrukturę i CI/CD. Mam doświadczenie z projektami e-commerce, energetyki i IoT, a ostatnio skupiam się na architekturze, modelowaniu domeny oraz budowaniu środowisk AI do wspomagania developmentu. Szczególnie lubię Event Storming za to, jak pomaga lepiej zrozumieć procesy biznesowe i podejmować sensowne decyzje architektoniczne. Prowadzę też kursy na Udemy, gdzie dzielę się praktycznymi sposobami tworzenia oprogramowania.</p>
+
+<p><b>O sponsorze</b></p>
+
+<p><b>DTP, Digital Technology Poland</b> tworzy innowacyjne rozwiązania dla przemysłu. Wpisując się w nurt Industry 4.0, optymalizuje projektowanie, wytwarzanie, montaż i eksploatację infrastruktury w fabrykach, centrach danych oraz obiektach energetyki.</p>
+
+<p>Tworzone przez firmę rozwiązania są używane codziennie przez tysiące inżynierów na całym świecie, znajdując zastosowanie głównie w obszarach dystrybucji energii, elektrotechniki, oraz automatyki i sterowania. Posiadając własny dział R&amp;D, DTP realizuje także projekty od pomysłu aż po gotowy produkt – zarówno w obszarze oprogramowania, jak i nowoczesnych rozwiązań sprzętowych.
+Spółka jest częścią niemieckiej Friedhelm Loh Group zatrudniającej 12 tysięcy pracowników w niemal 100 oddziałach na 6 kontynentach. Ściśle współpracuje z partnerami z EPLAN i Rittal, będącymi liderami w swoich branżach. Zespół DTP tworzy ponad 300 specjalistów, pracujących w Zielonej Górze (HQ) oraz w Cieszynie, Poznaniu i Warszawie oraz w Ukrainie.
+W codziennej pracy, Digital Technology Poland dba o rozwiązywanie problemów klientów poprzez innowacyjność oraz wysoką jakość dostarczanych produktów.</p>
+
+<p>Więcej informacji: <a href="https://dtpoland.com/" target="_blank">dtpoland.com</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Spotkanie #81 - Feedback i latencja]]></title>
@@ -553,33 +592,6 @@ Jednym z najbardziej istotnych problemów Javy jest zarządzanie pamięcią. Mam
 <p>W jaki sposób? Co to właściwie znaczy dla programistów? Co to może znaczyć dla frameworków, takich jak Spring czy Junit? Co się zmieni “pod maską”? W trakcie prezentacji poruszymy wszystkie te zagadnienia!</p>
 
 <p><b>O prelegencie:</b> Ponad 20 lat praktycznego doświadczenia z Javą i innymi językami JMV-owymi. Lubię rozwiązywać problemy, nie kodować. Aktualnie pracuję jako Senior Engineering Manager w Allegro oraz wykładam Javę na Uniwersytecie Jagiellońskim.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Spotkanie kwietniowe - JIT]]></title>
-    <link href="http://zielona-gora-jug.github.io/blog/2023/04/13/spotkanie-kwietniowe-jit/"/>
-    <updated>2023-04-13T17:09:50+02:00</updated>
-    <id>http://zielona-gora-jug.github.io/blog/2023/04/13/spotkanie-kwietniowe-jit</id>
-    <content type="html"><![CDATA[<p>Zapraszamy na marcowe spotkanie - tym razem tematem będzie JIT i jego wpływ na wydajność, a opowie o tym <b>Mateusz Grużewski</b> z <a href="https://www.facebook.com/szjug/">Szczecin JUG</a>.
-Początek o godz. 19:00, 26 kwietnia, w klubie WySPa przy ul. Wojska Polskiego 69. Jak zwykle, zapisy na <a href="https://www.meetup.com/zielona-gora-jug/events/292871747/">Meetup</a>.</p>
-
-<p>Wśród sponsorów naszych spotkań witamy firmę <a href="https://sinersio.com/" target="_blank">Sinersio</a> z Nowej Soli! To jedno z dwóch najnowocześniejszych i najbezpieczniejszych DC w Polsce. Potwierdza to m.in. certyfikat EN 50600. Dostarczane usługi:</p>
-
-<ul>
-<li>SinersioCloud – chmura obliczeniowa,
-<li>kolokacja - bezpieczne miejsce na serwery Klienta,
-<li>TotalBackup – miejsce na kopię zapasową wraz z własną, intuicyjną aplikacją, która pilnuje robienia backupów. Wersja testowa dostępna <a href="https://totalbackup.me/freetrial/" target="_blank">tutaj!</a>
-</ul>
-
-
-<p><a href="https://sinersio.com/"><img class="center" src="http://zielona-gora-jug.github.io/images/sinersio.jpg" width="450" height="140"></a></p>
-
-<p><b>JIT - co każdy developer powinien o nim wiedzieć.</b></p>
-
-<p>Prezentacja będzie dotyczyć dobrodziejstw, jakie przynosi Just-In-Time (JIT), a także wpływu tej technologii na wydajność aplikacji. W trakcie prezentacji omówione zostaną zagadnienia takie jak działanie JIT, sposób w jaki przyspiesza wykonywanie kodu oraz jakie korzyści może przynieść dla Twojej aplikacji. Poruszona zostanie również kwestia aktywności JIT, w tym sposobów monitorowania czasu kompilacji kodu i wykrywania potencjalnych problemów związanych z wydajnością aplikacji. Prezentacja ta będzie przydatna zarówno dla programistów, jak i specjalistów IT, którzy poprzez zrozumienie działania JIT chcą poprawić wydajność swoich aplikacji.</p>
-
-<p>Mateusz jest Architektem w Asseco Data Systems. Programowaniem zajmuje się od 8 lat głównie w technologiach opartych o JVM. Po pracy prowadzi bloga oraz zajmuje się szkoleniami.</p>
 ]]></content>
   </entry>
   
